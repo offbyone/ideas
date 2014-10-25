@@ -58,6 +58,8 @@ ul.sub-menu, ul.children { margin:0px 10px 0px 0px; }
 .entry .gallery-icon img { margin:0px auto; }
 .entry .gallery-caption { margin:5px 10px 0px 0px; padding:0px; }
 .entry p.attachment img { margin:0px auto; }
+.entry .gravatar { float:left; padding: 10px 10px 0 0; }
+.entry .gravatar img { -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
 .sticky { border-bottom:3px dotted #C8C8C8; }
 
 

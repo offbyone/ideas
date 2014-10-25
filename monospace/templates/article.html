@@ -1,9 +1,14 @@
 {% extends "base.html" %}
 {% block title %}{{ super() }} : {{ article.title }}{% endblock %}
-{% block content %}        
+{% block content %}
 <header>
-<h1><a href="{{ SITEURL }}" id="site-title"> {#{{ SITENAME }}#} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a> {#:#}
-        <a href="{{ SITEURL }}/{{ article.url }}" id="page-title">{{ article.title }}</a></h1>
+  <h1>
+    {% if article.author_gravatar %}
+    <div class="gravatar">
+      <a href="{{article.author}}"><img src="{{article.author_gravatar}}" width="48" height="48"/></a>
+    </div>
+    {% endif %}
+    <a href="{{ SITEURL }}/{{ article.url }}" id="page-title">{{ article.title }}</a></h1>
     {% if not HIDE_DATE %}<time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>{% endif %}
 </header>
 <article>
