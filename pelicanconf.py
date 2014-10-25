@@ -34,11 +34,14 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['assets']
+PLUGINS = ['assets', 'pelican_gist']
 
 ARTICLE_URL = 'posts/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
 
 THEME = 'monospace'
+
+FLICKR_API_KEY = 'b6948f5853252a6c1310523f2e3b1faa'
+FLICKR_USER = '11217428@N00'
 
 THEMES_I_LIKE = ['svtble', 'simple-bootstrap', 'pelican-bootstrap3', 'monospace', 'irfan', 'blueidea', 'basic']
