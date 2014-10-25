@@ -5,6 +5,7 @@ Why I stand with the SJW crowd, even though they get it wrong sometimes.
 :category: sociology
 :tags: gamers, feminism
 :author: Chris Rose
+:email: offline@offby1.net
 :excerpt: Too late; you stand with rape apologists, literal nazis, threateners of murder. The burden of proof is on you.
 
 
