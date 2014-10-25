@@ -3,7 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Chris R'
+AUTHOR_EMAIL = 'offline@offby1.net'
 SITENAME = u'Ideas.Offby1'
+DESCRIPTION = u'Close Enough'
 SITEURL = '//ideas.offby1.net'
 
 PATH = 'content'
@@ -22,7 +24,9 @@ TRANSLATION_FEED_ATOM = None
 #          ('Python.org', 'http://python.org/'),
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
-LINKS = ()
+LINKS = (
+    ('Github', 'https://github.com/offbyone'),
+)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/offby1'),
@@ -34,7 +38,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['assets', 'pelican_gist']
+PLUGINS = ['assets', 'pelican_gist', 'gravatar']
 
 ARTICLE_URL = 'posts/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
