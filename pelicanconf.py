@@ -43,9 +43,14 @@ PLUGINS = ['assets', 'pelican_gist', 'gravatar']
 ARTICLE_URL = 'posts/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
 
-THEME = 'monospace'
+# THEME = 'monospace'
+# THEME = 'pelican-elegant-1.3'
+# THEME = 'pure-single'
+THEME = 'Just-Read'
 
 FLICKR_API_KEY = 'b6948f5853252a6c1310523f2e3b1faa'
 FLICKR_USER = '11217428@N00'
 
 THEMES_I_LIKE = ['svtble', 'simple-bootstrap', 'pelican-bootstrap3', 'monospace', 'irfan', 'blueidea', 'basic']
+
+IGNORE_FILES = [".#&", "flycheck_*", "flymake_*"]
