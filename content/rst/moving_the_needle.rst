@@ -3,7 +3,7 @@ Changing Horses Midstream
 :slug: changing-horses-midstream
 :date: 2014-10-25 09:52
 :category: work
-:tags: impostor syndrom
+:tags: impostor syndrome
 :author: Chris Rose
 :email: offline@offby1.net
 :excerpt: Taking a step into the unknown means giving up the certainty of my ability
