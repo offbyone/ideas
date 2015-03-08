@@ -1,10 +1,14 @@
+{% if TAG_FEED_ATOM %}
+   {% set FEED_ATOM = TAG_FEED_ATOM|format(tag.slug) %}
+{% endif %}
 {% extends "base.html" %}
 {% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
+
 {% block content %}
 <div role="main" class="content clearfix">
-<div class="wrapper main">		
+<div class="wrapper main">
 	<h2>Post tagged: {{ tag }}</h2>
-	
+
 	<ol class="archive">
 		{% for article in articles %}
 		<li class="clearfix"><a href="{{ SITEURL }}/{{ article.url }}"><time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time> {{ article.title }}</a></li>

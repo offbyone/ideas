@@ -1,3 +1,4 @@
+{% set FEED_ATOM = FEED_ALL_ATOM %}
 {% extends "base.html" %}
 {% block content_title %}{% endblock %}
 
@@ -12,7 +13,7 @@
 	</article>
 
 	{% if loop.length  > 1 %}
-	<div class="wrapper main">		
+	<div class="wrapper main">
 		<h3>More posts</h3>
 		<ol class="archive">
 	{% endif %}
@@ -21,7 +22,7 @@
 	{% endif %}
 	{% endfor %}
 		</ol>
-		
+
 		<p>More posts in the <a href="{{ SITEURL }}/archives.html">archive</a>.</p>
 	</div>
 </div>
