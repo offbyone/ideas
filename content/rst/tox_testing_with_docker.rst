@@ -37,10 +37,10 @@ Here's literally all it takes to run it:
 
 Some caveats apply if you are running docker by way of boot2docker,
 though; because of the nature of the boot2docker filesystem, hardlinks
-do not work, and distutils -- up until Python 2.7.8//3.4.2 -- fails if
-it can't hardlink files. Working around this requires a filthy hack in
-your setup.py, which depends on a flag in this Dockerfile to trigger
-it:
+do not work, and distutils -- `up until Python
+2.7.8/3.4.2`_ -- fails if it can't
+hardlink files. Working around this requires a filthy hack in your
+setup.py, which depends on a flag in this Dockerfile to trigger it:
 
 .. code:: python
 
@@ -119,3 +119,4 @@ frequently.
 
 .. _pyenv: https://github.com/yyuu/pyenv
 .. _tox: http://tox.readthedocs.org/
+.. _up until Python 2.7.8/3.4.2: http://bugs.python.org/issue8876
