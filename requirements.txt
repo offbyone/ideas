@@ -1,0 +1,5 @@
+pelican
+pelican-gist
+pelican-githubprojects
+webassets
+pelican_gravatar_plus
