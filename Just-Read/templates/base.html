@@ -32,12 +32,14 @@
 <body>
 	<header class="clearfix" role="banner">
 		<div class="wrapper">
-			<h1 class="huge"><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+      <h1 class="huge"><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
 		</div>
 	</header>
 
+  <!-- content block begins -->
 	{% block content %}
 	{% endblock %}
+  <!-- content block ends -->
 
 
 <footer class="clearfix">
@@ -51,13 +53,15 @@
 	</div>
 
 	<div class="copy wrapper">
-		<ul class="social">
+    <ul class="social">
+      <a href="https://twitter.com/offby1" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @offby1</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			{% for name, link in SOCIAL %}
 			<li><a href="{{ link }}">{{ name }}</a></li>
 			{% endfor %}
 		</ul>
 
-		<p role="contentinfo">© 2012 {{ AUTHOR }}<br>
+    <p role="contentinfo">© 2012 {{ AUTHOR }}<br>
+      <a href="https://keybase.io/offby1"><img src="https://keybase.onlineth.com/offby1.png?theme=clean" width="210" height="58" alt="keybase.io profile for offby1"></a><br>
 		Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">Pelican</a>.</p>
 	</div>
 </footer>

@@ -29,7 +29,7 @@ LINKS = (
 )
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/offby1'),
+SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 10
