@@ -43,6 +43,8 @@ PLUGINS = ['assets', 'pelican_gist', 'gravatar']
 ARTICLE_URL = 'posts/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
 
+DISPLAY_PAGES_ON_MENU = False
+
 # THEME = 'monospace'
 # THEME = 'pelican-elegant-1.3'
 # THEME = 'pure-single'
