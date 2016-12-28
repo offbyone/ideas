@@ -4,8 +4,8 @@ branches:
   - source
 install:
 - pip install -r requirements.txt
-before_script:
-- echo pelican-themes -i ./theme/Just-Read
+# before_script:
+# - pelican-themes -i ./theme/Just-Read
 script:
 - make publish s3_upload
 env:
