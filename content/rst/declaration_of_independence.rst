@@ -10,8 +10,6 @@ Twenty Years Later
 
 First, read this: `It's not Cyberspace anymore`_.
 
-(quick test)
-
 John Perry Barlow wrote the original Declaration of the Independence of
 Cyberspace twenty years ago. Like this author, who is apparently precisely my
 age, I was young and -- nosing around the edges of hacker culture, taking baby
