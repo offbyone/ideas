@@ -1,7 +1,7 @@
 language: python
 branches:
   only:
-  - source
+  - master
 install:
 - pip install -r requirements.txt
 # before_script:
