@@ -4,6 +4,3 @@ pelican-githubprojects
 webassets
 pelican_gravatar_plus
 
-# Importer requirements
-BeautifulSoup4
-lxml
