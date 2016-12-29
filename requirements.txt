@@ -1,6 +1,5 @@
 pelican>=3.0,<4.0
-pelican-gist
-pelican-githubprojects
-webassets
-pelican_gravatar_plus
-
+pelican-gist==0.3.3
+pelican-githubprojects==0.1.1
+pelican-gravatar-plus==0.0.1
+webassets==0.11.1
