@@ -2,3 +2,5 @@
 /pelican.pid
 /srv.pid
 /cache/
+aws_creds.tf
+*.tfstate
