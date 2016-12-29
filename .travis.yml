@@ -8,12 +8,12 @@ addons:
       - s3cmd
 
 install:
-- pip install -r requirements.txt
-- git clone https://github.com/getpelican/pelican-plugins
-# before_script:
-# - pelican-themes -i ./theme/Just-Read
+  - pip install -r requirements.txt
+  - git clone https://github.com/getpelican/pelican-plugins
+before_script:
+  - ./setup-s3-cmd
 script:
-- make publish s3_upload
+  - make publish s3_upload
 env:
   global:
   - secure: JKemPvMcIJ+8dzcC9a0m5e313y5rB+RimyYnUzJ3mEehveMYdo4ngIDyHbd+aormvRK0Z/Lmv+YsnO9gxw0kjgxXXuyMeLPI8Z5YIbJt77MklZlhNTpOseL2fTx3hVJwcR7ov48etaGWUuhV6yJu98oh59UiLTNuiijoQqgitGg/83QVBXuMxYM1C1MxyUezgeg4VjzS+Levr1yi+4av+MDp8NDHWgpJQZC22C0EgcHBqFa4g/ofvu9A/oKhvYaqqkwVK3VxkmGVAtM4K7AHDGtRXjm0w2yKxq3IdxIC/t4SZYdghXhM0rrPBZ0C9wHUZzRMSMxt6njbqHRZjvLoFnxu3NyOmke5gpNzDwi/VzbDS/caUMFBa56FT8h58pJS+TrMNHv+RnEUUYK5La8oak9M4+tTd9x2mCjb5+kQWrmmXjn55tagmZZoMkPpJXBDZ1lx4aphOyPtp7EqNcrg0DmkEBd+gVfegWdH0XEk6JwAUMj+/BjZkRjLICxaU77ZZ7DJEzvA/AlCYpOLGT0o0UXXCL/xGnvuaJmAL4o3qf3DyE2gU7BKarCALhwHFNUmC0s6RO4eJ0QGkxeFXlGM3JHHxg99oQTPT536/xIIquT6iUNqQGSGbu8Byg/uRCsBWcDtUTESDjDZyyTHWvxp4Yng/XuskrIr9Tzj7VQQJJE=
