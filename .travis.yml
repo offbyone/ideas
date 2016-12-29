@@ -2,6 +2,11 @@ language: python
 branches:
   only:
   - master
+addons:
+  apt:
+    packages:
+      - s3cmd
+
 install:
 - pip install -r requirements.txt
 - git clone https://github.com/getpelican/pelican-plugins
