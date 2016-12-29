@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['assets', 'pelican_gist', 'gravatar']
 
 ARTICLE_URL = 'posts/{slug}.html'

@@ -4,6 +4,7 @@ branches:
   - master
 install:
 - pip install -r requirements.txt
+- git clone https://github.com/getpelican/pelican-plugins
 # before_script:
 # - pelican-themes -i ./theme/Just-Read
 script:
