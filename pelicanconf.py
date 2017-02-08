@@ -30,6 +30,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
+    ('Encrypt a message to me', 'https://keybase.io/encrypt#offby1'),
 )
 
 DEFAULT_PAGINATION = 10
