@@ -15,6 +15,7 @@ before_script:
 script:
   - make publish
   - make s3_upload
+  - echo "To refresh: `aws cloudfront create-invalidation --distribution-id E3HG7SIR4ZZAS1 --paths '/*'`"
 env:
   global:
   - secure: H7MAEYWrJ86XI3cgxP1TWuAzWGgFBPx0iqThtFAIqHUhJy/RjivNE29n0ysVkltC7Li9z4yQWrmqShX5N8e8EMLbLFr85sw9eBKjzY/Gze49FvAR655SxUsr1qBgds3zZcwYG4Rj0a8aT3OIHXFMcXvuwMbuftQOHmitutC1LSZCsR1GqXwZUt/9bKCVWTqq3qq1wGEOGLLBoj/GcGoeaXLdNnHHzFgzWB7Ur11iPh7B4ccJbYfXm/vFyMtUGxvY5DF/gWuKZVfpJI6/75MGCq8qV/XLj1WbKeXo15qpNYXTtfcWM+qsujhmOXMyBDkE8YrN0QflwFLcLWA+G7IOXKvTSr2DohyyVtiu0t2uNlG0DJ1aPnSQn/a7qcTvS9S8LfSTCs/eXIJodY4IPzmIkd1SLC8EZYPGHjvO2k3PdXAXvkEiydxBvZT/1cMnkOUuvdoL5mJUWyR09mqEufmpvDCry+inNLphGPkcpz0dsxwtNQzEj338JB/0KgnTkX49cd33SyfS+tN0svAE5jBwz0iWKgRwX7FdphMsdS2615iU2yokRcRf9ZvesI7kEreJbDsg0d+dgKyioNGZQaE6ciX/GJbW49WBFJCC7JZkd4izWRdovI2OqWmrDsoJ8joqIb5pHz8N3bHNB10OCHixn+hDvUn8y4BiF8v3HowEHXo=
