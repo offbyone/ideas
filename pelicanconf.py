@@ -39,7 +39,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['assets', 'pelican_gist', 'gravatar']
+PLUGINS = ['pelican_gist', 'gravatar']
 
 ARTICLE_URL = 'posts/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
