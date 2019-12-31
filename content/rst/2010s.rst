@@ -1,0 +1,43 @@
+2010s
+########################################################################
+
+.. role:: raw-html(raw)
+    :format: html
+
+:slug: the-decade-that-was
+:date: 2019-12-31 10:40 PST
+:category: life
+:tags: 
+:author: Chris Rose
+:email: offline@offby1.net
+:excerpt: Looking back at the decade that was... it's been a ride. I got married. Emigrated to another country. Took a terrifying job that continues to excite me
+
+In 2010 I:
+@@@@@@@@@@
+
+* was a new father
+* had been in my new job for nearly a year
+* attended my first PyCon
+* owned my first home, and was learning to build and maintain it
+* was part of a fantastic D&D group
+* had a few couples who were phenomenally good friends
+* lived in Canada
+
+In 2019 I:
+@@@@@@@@@@
+
+* am a proud father of a ten year old whom I love and who is always finding new ways to brighten my life
+* have a son who lives 5 hours drive away from me most of the time
+* am in love with and loved by Helen, who's amazing in every way
+* am divorced
+* have a `fantastic job </posts/amazon-expedition/an-expedition-up-the-amazon.rst>`_ that I couldn't even have dreamed of back then
+* have watched some of my best friends drift away and it broke my heart
+* teetered on the edge of losing one of my great friends but somehow salvaged that
+* have made other friends who have supported me when I needed it most
+* own a gorgeous home in Seattle
+
+:raw-html:`<br />`
+
+In between those points are so many things that this blog barely touched on. Looking back at the decade that was... it's been a ride. I got married. Emigrated to another country. Took a terrifying job that continues to excite me. I learned what it feels like to recognize being abused. I became a feminist. I watched my son grow into from the baby I adored to the boy I love. I met my partner. I traveled to some of the most amazing places. I found career success. I rode more than 200 miles in a weekend on my bike. I got a tattoo. I found new music and old, and new friends and old.
+
+The world continues to spiral into ... fascism, I guess? It's hard to say. We are seeing the effects of ignoring global climate change comining home to roost. The USA is in a bad place, but it's hard to say if it's the leading edge of a political wave that might sweep 3/4 century of peace away in a spasm of nationalistic violence, or if it's a last gasp from an old order that is dying and knows it.
