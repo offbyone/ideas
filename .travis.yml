@@ -8,6 +8,7 @@ addons:
     packages:
       - s3cmd
 install:
+  - pip3 install --upgrade awscli
   - pip install -r requirements.txt
   - git clone https://github.com/getpelican/pelican-plugins
 before_script:
@@ -15,7 +16,7 @@ before_script:
 script:
   - make publish
   - make s3_upload
-  - "echo \"To refresh: `aws cloudfront create-invalidation --distribution-id E3HG7SIR4ZZAS1 --paths '/*'`\""
+  - aws cloudfront create-invalidation --distribution-id E3HG7SIR4ZZAS1 --paths '/*'
 
 env:
   global:
