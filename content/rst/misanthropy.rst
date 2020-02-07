@@ -30,6 +30,6 @@ The ICE agents who `set up a sting to lure foreign students to apply for a fake 
 
 The Men Going Their Own Way who `spew abuse at women who dare to have a public opinion on the internet <https://www.huffpost.com/entry/24-tweets-that-sum-up-being-a-woman-on-the-internet-with-an-opinion_n_57360bcfe4b077d4d6f2f26a>`_
 
-Trans-Exclusionary Radical Feminist who `embrase a chromosomally essentialist definition of "woman" <https://www.nytimes.com/2019/02/07/opinion/terf-trans-women-britain.html>`_
+Trans-Exclusionary Radical Feminist who `embrace a chromosomally essentialist definition of "woman" <https://www.nytimes.com/2019/02/07/opinion/terf-trans-women-britain.html>`_
 
 These groups all hate so much of humanity. Any part that doesn't correspond to their narrow view of it, in fact. *This is misanthropy*. Not the shallow anger of a teenager. It took me a long time to learn it, but I got there.
