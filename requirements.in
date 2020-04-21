@@ -1,0 +1,6 @@
+pelican>=3.0,<4.0
+pelican-gist
+pelican-githubprojects
+webassets
+pelican_advance_embed_tweet
+awscli
