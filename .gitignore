@@ -4,3 +4,8 @@
 /cache/
 aws_creds.tf
 *.tfstate
+/pelican-plugins
+plan
+/.mypy_cache
+.envrc
+.python-version
