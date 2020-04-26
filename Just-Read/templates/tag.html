@@ -1,5 +1,5 @@
 {% if TAG_FEED_ATOM %}
-   {% set FEED_ATOM = TAG_FEED_ATOM|format(tag.slug) %}
+   {% set FEED_ATOM = TAG_FEED_ATOM|format(slug=tag.slug) %}
 {% endif %}
 {% extends "base.html" %}
 {% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
