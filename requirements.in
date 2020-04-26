@@ -1,4 +1,4 @@
-pelican>=3.0,<4.0
+pelican>=4.2
 pelican-gist
 pelican-githubprojects
 webassets
