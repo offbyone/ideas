@@ -1,0 +1,29 @@
+repos:
+  - repo: meta
+    hooks:
+      - id: check-hooks-apply
+      - id: check-useless-excludes
+
+  - repo: https://github.com/psf/black
+    rev: 19.10b0
+    hooks:
+      - id: black
+        args: ["-l100"]
+
+  - repo: https://github.com/antonbabenko/pre-commit-terraform
+    rev: v1.30.0
+    hooks:
+      - id: terraform_fmt
+      - id: terraform_docs
+      - id: terraform_validate
+
+  - repo: https://github.com/pre-commit/pygrep-hooks
+    rev: v1.5.1
+    hooks:
+      - id: rst-backticks
+
+exclude: >-
+  (?x)^(
+      plugins/.*|
+      Just-Read/.*
+  )$
