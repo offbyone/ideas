@@ -11,8 +11,8 @@ import docutils.nodes
 import docutils.parsers.rst
 import docutils.utils
 
-class Visitor(docutils.nodes.NodeVisitor):
 
+class Visitor(docutils.nodes.NodeVisitor):
     def __init__(self, doc, debug):
         super().__init__(doc)
         self.debug = debug
@@ -49,19 +49,22 @@ class Visitor(docutils.nodes.NodeVisitor):
             except AttributeError:
                 print(node)
 
+
 def parse_rst(text: str) -> docutils.nodes.document:
     parser = docutils.parsers.rst.Parser()
     components = (docutils.parsers.rst.Parser,)
     settings = docutils.frontend.OptionParser(components=components).get_default_values()
-    document = docutils.utils.new_document('<rst-doc>', settings=settings)
+    document = docutils.utils.new_document("<rst-doc>", settings=settings)
     parser.parse(text, document)
     return document
+
 
 def fix_markup(path: pathlib.Path, debug: bool = False) -> None:
     print(path)
     doc = parse_rst(path.read_text(encoding="utf-8"))
     visitor = Visitor(doc, debug)
     doc.walk(visitor)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser("fixer")
@@ -78,8 +81,5 @@ if __name__ == "__main__":
             for name in filenames:
                 if not name.endswith(".rst"):
                     continue
-                
+
                 fix_markup(pathlib.Path(dirpath) / name, opts.debug)
-
-
-

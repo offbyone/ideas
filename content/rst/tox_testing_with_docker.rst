@@ -32,7 +32,7 @@ Here's literally all it takes to run it:
 .. code:: bash
 
    $ cd ~/projects/MyProject
-   $ docker run --rm -v `pwd`:/src chrisr/pybuilder:latest
+   $ docker run --rm -v ``pwd``:/src chrisr/pybuilder:latest
    # tox output happens for your whole tox file
 
 Some caveats apply if you are running docker by way of boot2docker,
