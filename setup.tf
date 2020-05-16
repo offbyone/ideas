@@ -1,17 +1,17 @@
 provider "aws" {
   profile = "me"
-  region = "us-west-2"
+  region  = "us-west-2"
 }
 
 provider "aws" {
-  alias = "useast1"
+  alias  = "useast1"
   region = "us-east-1"
 }
 
 module "log_storage" {
-  bucket = "logs.ideas.offby1.net"
+  bucket       = "logs.ideas.offby1.net"
   s3_logs_path = "s3-log-"
-  source = "github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs"
+  source       = "github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs"
 }
 
 variable "domain_name" {
@@ -28,10 +28,10 @@ variable "zone_id" {
 
 resource "aws_s3_bucket" "blog" {
   depends_on = [module.log_storage.bucket]
-  bucket = var.domain_name
-  region = "us-west-2"
-  acl = "public-read"
-  policy = <<EOF
+  bucket     = var.domain_name
+  region     = "us-west-2"
+  acl        = "public-read"
+  policy     = <<EOF
 {
   "Version": "2012-10-17",
   "Statement": [{
@@ -56,7 +56,7 @@ EOF
 
   tags = {
     "Project" = "ideas.blog"
-    "Domain" = "offby1.net"
+    "Domain"  = "offby1.net"
   }
 
 }
@@ -64,13 +64,13 @@ EOF
 resource "aws_s3_bucket" "wwwblog" {
   bucket = "www.${var.domain_name}"
   region = "us-west-2"
-  acl = "public-read"
+  acl    = "public-read"
   website {
     redirect_all_requests_to = var.domain_name
   }
   tags = {
     "Project" = "ideas.blog"
-    "Domain" = "offby1.net"
+    "Domain"  = "offby1.net"
   }
 }
 
@@ -90,7 +90,7 @@ resource "aws_cloudfront_distribution" "frontend" {
     domain_name = aws_s3_bucket.blog.bucket_domain_name
     // domain_name = "${var.bucket_name}.s3-website-${var.aws_region}.amazonaws.com"
 
-    origin_id   = var.s3_origin_id
+    origin_id = var.s3_origin_id
     # origin_path = var.origin_path
   }
 
@@ -104,9 +104,9 @@ resource "aws_cloudfront_distribution" "frontend" {
   ]
 
   logging_config {
-    bucket            = module.log_storage.bucket
-    include_cookies   = false
-    prefix            = "cf-log-"
+    bucket          = module.log_storage.bucket
+    include_cookies = false
+    prefix          = "cf-log-"
   }
 
   default_cache_behavior {
@@ -146,26 +146,26 @@ resource "aws_cloudfront_distribution" "frontend" {
 
   tags = {
     "Project" = "ideas.blog"
-    "Domain" = "offby1.net"
+    "Domain"  = "offby1.net"
   }
 }
 
 resource "aws_acm_certificate" "certificate" {
-  provider = aws.useast1
+  provider    = aws.useast1
   domain_name = var.domain_name
   tags = {
     "Project" = "ideas.blog"
-    "Domain" = "offby1.net"
-    "Name" = "ideas-offby1-net"
+    "Domain"  = "offby1.net"
+    "Name"    = "ideas-offby1-net"
   }
 }
 
 resource "aws_route53_record" "blog" {
   zone_id = var.zone_id
-  name = var.domain_name
-  type = "CNAME"
+  name    = var.domain_name
+  type    = "CNAME"
   records = ["${aws_cloudfront_distribution.frontend.domain_name}."]
-  ttl = 1799
+  ttl     = 1799
 }
 
 resource "aws_iam_user" "blog_deploy" {
@@ -173,7 +173,7 @@ resource "aws_iam_user" "blog_deploy" {
   path = "/s3/"
   tags = {
     "Project" = "ideas.blog"
-    "Domain" = "offby1.net"
+    "Domain"  = "offby1.net"
   }
 
 }
@@ -183,8 +183,8 @@ resource "aws_iam_access_key" "blog_deploy" {
 }
 
 resource "aws_iam_user_policy" "blog_deploy_rw" {
-  name = "${var.domain_name}_rw"
-  user = aws_iam_user.blog_deploy.name
+  name   = "${var.domain_name}_rw"
+  user   = aws_iam_user.blog_deploy.name
   policy = <<EOF
 {
   "Version": "2012-10-17",
