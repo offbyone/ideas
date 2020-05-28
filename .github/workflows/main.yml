@@ -35,14 +35,6 @@ jobs:
       - name: Build the page
         run: make publish
 
-      - name: Install the S3 client
-        run: sudo apt-get install s3cmd
-
-      - name: Configure the S3 client
-        run: |
-          echo "access_key = ${AWS_ACCESS_KEY_ID}" >> .s3cfg
-          echo "secret_key = ${AWS_SECRET_ACCESS_KEY}" >> .s3cfg
-
       - name: Publish the content
         run: make aws_s3_sync
 
