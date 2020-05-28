@@ -1,0 +1,50 @@
+---
+name: "Blog"
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-west-2
+
+      - uses: actions/checkout@2
+
+      - name: Set up Python 3.6
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.6
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip pip-tools
+          pip-sync requirements.txt
+
+      - name: Clone plugins
+        run: git clone https://github.com/getpelican/pelican-plugins
+
+      - name: Build the page
+        run: make publish
+
+      - name: Install the S3 client
+        run: sudo apt-get install s3cmd
+
+      - name: Configure the S3 client
+        run: |
+          echo "access_key = ${AWS_ACCESS_KEY_ID}" >> .s3cfg
+          echo "secret_key = ${AWS_SECRET_ACCESS_KEY}" >> .s3cfg
+
+      - name: Publish the content
+        run: make aws_s3_sync
+
+      - name: Invalidate the existing distribution
+        run: aws cloudfront create-invalidation --distribution-id E3HG7SIR4ZZAS1 --paths '/*'
