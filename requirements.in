@@ -5,4 +5,4 @@ webassets
 pelican_advance_embed_tweet
 awscli
 invoke
-slugify
+python-slugify>=4.0

@@ -24,13 +24,14 @@ pelican==4.2.0            # via -r requirements.in, pelican-advance-embed-tweet
 pyasn1==0.4.8             # via rsa
 pygments==2.6.1           # via pelican, pelican-gist
 python-dateutil==2.8.1    # via botocore, pelican
+python-slugify==4.0.0     # via -r requirements.in
 pytz==2020.1              # via feedgenerator, pelican
 pyyaml==5.3.1             # via awscli
 requests==2.23.0          # via pelican-gist
 rsa==3.4.2                # via awscli
 s3transfer==0.3.3         # via awscli
 six==1.15.0               # via feedgenerator, pelican, python-dateutil
-slugify==0.0.1            # via -r requirements.in
+text-unidecode==1.3       # via python-slugify
 unidecode==1.1.1          # via pelican
 urllib3==1.25.9           # via botocore, requests
 webassets==2.0            # via -r requirements.in

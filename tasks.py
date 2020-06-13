@@ -178,12 +178,14 @@ def new_post(c, title=None):
         filename_title_string = ""
         title_string = "Post Title"
     new_post_path = (
-        Path(SETTINGS["PATH"]) / "rst" / f"{datetime.date.today().isoformat()}{title_string}.rst"
+        Path(SETTINGS["PATH"])
+        / "rst"
+        / f"{datetime.date.today().isoformat()}{filename_title_string}.rst"
     )
 
     new_post_path.write_text(
         dedent(
-            """\
+            f"""\
     {title_string}
     ########################################################################
 
@@ -202,4 +204,4 @@ def new_post(c, title=None):
     """
         )
     )
-    c.run(f"git add {new_post_path}")
+    c.run(f"git add '{new_post_path}'")
