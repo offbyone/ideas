@@ -33,10 +33,10 @@ jobs:
         run: git clone https://github.com/getpelican/pelican-plugins
 
       - name: Build the page
-        run: make publish
+        run: inv site
 
       - name: Publish the content
-        run: make aws_s3_sync
+        run: inv upload
 
       - name: Invalidate the existing distribution
-        run: aws cloudfront create-invalidation --distribution-id E3HG7SIR4ZZAS1 --paths '/*'
+        run: inv invalidate

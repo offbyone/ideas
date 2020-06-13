@@ -4,3 +4,5 @@ pelican-githubprojects
 webassets
 pelican_advance_embed_tweet
 awscli
+invoke
+slugify
