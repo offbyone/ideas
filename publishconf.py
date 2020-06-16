@@ -26,3 +26,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 DISQUS_SITENAME = "ideasoffby1"
 GOOGLE_ANALYTICS = "UA-55657377-1"
+
+DEFAULT_METADATA = {
+    "status": "draft",
+}
