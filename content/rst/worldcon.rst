@@ -7,7 +7,8 @@ Worldcon
 :author: Chris Rose
 :email: offline@offby1.net
 :excerpt: Fandom turns out to be pretty nifty
-
+:status: published
+   
 My first Worldcon was quite the experience, given that it occurred in
 conjunction with the rise of the `barking-mad puppy brigade`_ trying
 to torpedo the Hugo awards. As a result, I was paying a bit more

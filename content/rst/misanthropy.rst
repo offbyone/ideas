@@ -11,7 +11,8 @@ I'm Not a Misanthrope
 :author: Chris Rose
 :email: offline@offby1.net
 :excerpt: I used to think I was a misanthrope, and then I met the real ones.
-
+:status: published
+   
 (from a conversation at work)
 
 I used to think I was a misanthrope. I was an angry teenager and an angry young adult. I looked around me at a world that seemed to reward people who didn't seem all that different from me, but all out of proportion with the value I perceived in them. The athletes at my school. The lucky people who got into industries earlier than me. I walked the walk of the tough young man, wearing my "FIST FUCK" NIN shirt, listening to angry music and projecting it into the world.

@@ -7,6 +7,7 @@ Using Docker to run tox without adding Pythons to your system
 :author: Chris Rose
 :email: offline@offby1.net
 :excerpt: Build a Docker image that can run tox for you
+:status: published
 
 If you would like to test python applications in a repeatable way,
 especially if for interpreters beyond the ones you keep on your
