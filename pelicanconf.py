@@ -40,12 +40,13 @@ PLUGINS = ["assets", "pelican_gist", "embed_tweet"]
 ARTICLE_URL = "posts/{slug}.html"
 ARTICLE_SAVE_AS = "posts/{slug}.html"
 
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 
 # THEME = 'monospace'
 # THEME = 'pelican-elegant-1.3'
 # THEME = 'pure-single'
-THEME = "theme"
+THEME = "themes/just-read"
+# THEME = "twenty"
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
 FLICKR_USER = "11217428@N00"

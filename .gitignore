@@ -9,3 +9,5 @@ plan
 /.mypy_cache
 .envrc
 .python-version
+themes/
+node_modules/
