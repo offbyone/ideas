@@ -25,7 +25,7 @@ So, I took advantage of a hidden, but valuable, feature in Doom's cli: Env pre-h
 
 .. code-block:: elisp
    
-  (add-hook! 'doom-env-pre-hook
+  (add-hook! 'doom-sync-pre-hook
     (or (not (getenv "DIRENV_DIR"))
         doom-auto-accept
         (y-or-n-p "doom env update: Direnv detected! Continue anyway?")
