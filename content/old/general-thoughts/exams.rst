@@ -5,7 +5,7 @@ Exams
 :category: General Thoughts
 :tags: school
 :slug: exams
-:status: published
+:status: draft
 
 Well, exa\ *m*, anyway.
 

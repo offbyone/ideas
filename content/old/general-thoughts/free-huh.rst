@@ -5,7 +5,7 @@ Free, huh?
 :category: General Thoughts, Internet, Media, Rants
 :tags: free speech, intellectual property, Internet, Media, politics, privacy, Rants, school
 :slug: free-huh
-:status: published
+:status: draft
 
 I'm still damned busy, but [some
 things](http://www.captainsquartersblog.com/mt/archives/004225.php) I

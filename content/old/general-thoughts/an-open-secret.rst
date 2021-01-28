@@ -5,7 +5,7 @@ An open secret
 :category: General Thoughts, Rants
 :tags: intellectual property, privacy, Rants
 :slug: an-open-secret
-:status: published
+:status: draft
 
 There's an interesting
 `article <http://www.salon.com/tech/feature/2003/03/31/knowledge/index.html>`__

@@ -5,7 +5,7 @@ Uncivil "Liberties"
 :category: Friends, General Thoughts, Internet, Rants
 :tags: freedom, Friends, Internet, Rants, school, security theatre
 :slug: uncivil-liberties
-:status: published
+:status: draft
 
 I was doing my morning perusal of
 `Metafilter <http://www.metafilter.com/comments.mefi/22481>`__, and i

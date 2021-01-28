@@ -5,7 +5,7 @@ The I/P debate...
 :category: General Thoughts, Rants
 :tags: Rants, school
 :slug: the-ip-debate
-:status: published
+:status: draft
 
 Yesterday, in Calculus I class no less, i got into an unexpected debate
 about the Israel/Palestine situation. One of my classmates is,

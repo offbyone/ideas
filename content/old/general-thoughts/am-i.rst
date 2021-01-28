@@ -5,7 +5,7 @@ Am i?
 :category: General Thoughts
 :tags: asshole, introspection
 :slug: am-i
-:status: published
+:status: draft
 
 So, i'm sitting on the couches in the bridge between buildings 5 and 6
 yesterday, and listening to some guy go on - loudly and at length -

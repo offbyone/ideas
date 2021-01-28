@@ -5,7 +5,7 @@ Losing things you never knew you had.
 :category: General Thoughts, Internet
 :tags: freedom, intellectual property, Internet, privacy
 :slug: losing-things-you-never-knew-you-had
-:status: published
+:status: draft
 
 Although the likelihood of any of my readers directly using the freedoms
 that they have at present with regards to circumventing digital content

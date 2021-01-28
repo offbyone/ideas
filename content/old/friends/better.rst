@@ -5,7 +5,7 @@ Better
 :category: Friends, General Thoughts
 :tags: Friends, school
 :slug: better
-:status: published
+:status: draft
 
 Having an attack *of* confidence is great.
 

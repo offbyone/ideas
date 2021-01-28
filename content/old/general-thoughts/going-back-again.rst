@@ -5,7 +5,7 @@ Going back again
 :category: General Thoughts
 :tags: memory lane, wedding
 :slug: going-back-again
-:status: published
+:status: draft
 
 I'm writing this entry from the house i pretty much grew up in, up in
 Grande Prairie. It still looks nearly 100% the same, cosmetic

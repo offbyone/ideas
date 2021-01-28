@@ -5,7 +5,7 @@ Feel The Power
 :category: General Thoughts
 :tags: computer, lamer
 :slug: feel-the-power
-:status: published
+:status: draft
 
 Purring underneath the sleek black exterior of my new toy is 3GHz of
 intellerific goodness, doing double dancer duty as a development device.

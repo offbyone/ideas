@@ -5,7 +5,7 @@ Planning ahead for spam problems
 :category: Internet, Meta
 :tags: Internet, Meta
 :slug: planning-ahead-for-spam-problems
-:status: published
+:status: draft
 
 Hey, all.
 

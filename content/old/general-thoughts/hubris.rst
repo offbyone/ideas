@@ -5,7 +5,7 @@ Hubris
 :category: General Thoughts
 :tags: AI, school
 :slug: hubris
-:status: published
+:status: draft
 
 I attended the first meeting of the school year for the U of A's Machine
 Learning Reading Group yesterday, and I was struck by how staggeringly

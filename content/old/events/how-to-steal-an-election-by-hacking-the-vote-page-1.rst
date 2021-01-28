@@ -5,7 +5,7 @@ How to steal an election by hacking the vote
 :category: Events, Internet, Rants
 :tags: Events, Internet, Rants
 :slug: how-to-steal-an-election-by-hacking-the-vote-page-1
-:status: published
+:status: draft
 
 `How to steal an election by hacking the
 vote <http://arstechnica.com/articles/culture/evoting.ars>`__, from Ars

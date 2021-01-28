@@ -5,7 +5,7 @@ Obscenity is Fun!
 :category: Asides, Humour
 :tags: Alan Moore, censorship, customs, gifts, Lost Girls, obscenity, pornography, undue risk
 :slug: obscenity-is-fun
-:status: published
+:status: draft
 
 | It's a good sign, if you ask me, when your christmas gift comes with a
   letter like this

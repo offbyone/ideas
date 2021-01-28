@@ -5,7 +5,7 @@ CSS unhappiness
 :category: Meta
 :tags: Meta
 :slug: css-unhappiness
-:status: published
+:status: draft
 
 I'm informed - and have at last noticed, myself, that my site is
 looking, um, like shit in IE. Weird. Ah...

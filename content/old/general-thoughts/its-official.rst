@@ -5,7 +5,7 @@ It's official.
 :category: General Thoughts
 :tags: work
 :slug: its-official
-:status: published
+:status: draft
 
 Shades of `Pepsi Blue <http://mssv.net/wiki.cgi?PepsiBlue>`__, but I'm
 taking the plunge: After years of pretty consistent Wintel dominance on

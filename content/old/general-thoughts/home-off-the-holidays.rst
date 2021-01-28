@@ -5,7 +5,7 @@ Home off the holidays
 :category: General Thoughts
 :tags: work
 :slug: home-off-the-holidays
-:status: published
+:status: draft
 
 I'm back in town for a bit of work now. For at least the next couple of
 days I'll be working locally, which means home at night and relatively

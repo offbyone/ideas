@@ -5,7 +5,7 @@ Breaking (even?)
 :category: General Thoughts
 :tags: computer, failure, savages, vandalism
 :slug: breaking-even
-:status: published
+:status: draft
 
 Well, there's a couple of less-than-pleasant "things-falling-apart"
 issues in my life at the moment. Nothing too serious, they're all

@@ -5,7 +5,7 @@ Science != Religion
 :category: General Thoughts, Rants
 :tags: Rants, school
 :slug: science-religion
-:status: published
+:status: draft
 
 Argh.
 

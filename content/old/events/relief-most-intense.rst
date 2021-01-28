@@ -5,7 +5,7 @@ Relief Most Intense
 :category: Events, General Thoughts, Projects
 :tags: Events, Projects, school
 :slug: relief-most-intense
-:status: published
+:status: draft
 
 I had the last of my final exams today, or more to the point the last
 two.

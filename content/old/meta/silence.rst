@@ -5,7 +5,7 @@ Silence
 :category: Meta
 :tags: Meta
 :slug: silence
-:status: published
+:status: draft
 
 Well, i haven't posted a lot this month. As i mentioned before, this is
 in part due to the workload that i've been under, and will be under for

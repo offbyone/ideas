@@ -5,7 +5,7 @@ Site death and shitty hardware
 :category: General Thoughts
 :tags: computer, failure
 :slug: site-death-and-shitty-hardware
-:status: published
+:status: draft
 
 Damn computers...
 

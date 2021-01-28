@@ -5,7 +5,7 @@ What a show
 :category: Events, Friends, General Thoughts
 :tags: Events, Friends
 :slug: what-a-show
-:status: published
+:status: draft
 
 `Beau <http://www.victoriafetishsociety.com/>`__\ (NSFW) and i went down
 to Calgary to see a show last night at the

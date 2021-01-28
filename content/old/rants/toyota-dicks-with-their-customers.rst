@@ -5,7 +5,7 @@ Toyota Dicks with their customers
 :category: Rants
 :tags: Rants
 :slug: toyota-dicks-with-their-customers
-:status: published
+:status: draft
 
 As discussed "here":http://www.livejournal.com/users/xraystar/16589.html
 and elsewhere on the same site, Toyota is messing with my Charling's

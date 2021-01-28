@@ -5,7 +5,7 @@ Traveling again
 :category: Asides, Friends
 :tags: Asides, Friends
 :slug: traveling-again
-:status: published
+:status: draft
 
 Simon and Char are roaming the world, and they (like M&M before them)
 are posting on `Morruz </morruz/>`__.

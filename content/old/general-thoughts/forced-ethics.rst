@@ -5,7 +5,7 @@ Forced ethics
 :category: General Thoughts, Internet, Media, Rants
 :tags: intellectual property, Internet, Media, privacy, Rants
 :slug: forced-ethics
-:status: published
+:status: draft
 
 So, I've been thinking.
 

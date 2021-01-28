@@ -5,7 +5,7 @@ Again, the words
 :category: Friends, General Thoughts, Projects
 :tags: Friends, Projects, school, work
 :slug: again-the-words
-:status: published
+:status: draft
 
 Hello again, after long absence.
 

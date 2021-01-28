@@ -5,7 +5,7 @@ Heisenbugs
 :category: General Thoughts
 :tags: bugs, gripe, work
 :slug: heisenbugs
-:status: published
+:status: draft
 
 \_Def\_: A bug that vanishes when you look at it.
 

@@ -5,7 +5,7 @@ Small change
 :category: Meta
 :tags: Meta
 :slug: small-change
-:status: published
+:status: draft
 
 I've made a tiny change to the site with regards to those damned random
 things over to your right -- assuming, of course, you're seeing this on

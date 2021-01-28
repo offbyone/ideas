@@ -5,7 +5,7 @@ More midterms
 :category: General Thoughts
 :tags: school
 :slug: more-midterms
-:status: published
+:status: draft
 
 This is getting out of hand, i think... I know i need to work on my
 study habits, but for some reason, i can't get off my ass and get at it

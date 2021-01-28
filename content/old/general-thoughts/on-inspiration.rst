@@ -5,7 +5,7 @@ On Inspiration
 :category: General Thoughts, Projects
 :tags: Projects
 :slug: on-inspiration
-:status: published
+:status: draft
 
 ... and its polar opposite, of course. Because, if I were inspired at
 the moment, I'd be out \_creating something\_, as opposed to sitting

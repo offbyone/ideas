@@ -5,7 +5,7 @@ On a different note
 :category: General Thoughts
 :tags: edmonton, Friends, memory lane, moving, school
 :slug: on-a-different-note
-:status: published
+:status: draft
 
 I was going to write about my evening last night with a few really good
 friends, involving mainly hockey, insanely hot wings, bowling, pool, and

@@ -5,7 +5,7 @@
 :category: General Thoughts
 :tags: school
 :slug: 38-done
-:status: published
+:status: draft
 
 It's a small thing, to some, and i forgot to even post on it, but i
 finished my last exam two days ago. Semester three of eight is finished,

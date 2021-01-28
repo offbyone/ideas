@@ -5,7 +5,7 @@ Percolating desire
 :category: General Thoughts
 :tags: apple, computer, geeky, linux
 :slug: percolating-desire
-:status: published
+:status: draft
 
 It's been trickling its way through my consciousness for a while now
 that I want an Apple computer.

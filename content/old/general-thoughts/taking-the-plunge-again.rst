@@ -5,7 +5,7 @@ Taking the plunge, again
 :category: General Thoughts
 :tags: skydiving
 :slug: taking-the-plunge-again
-:status: published
+:status: draft
 
 So, tomorrow I'm heading out, early in the morning, to get back in the
 saddle at `Eden North <http://www.edennorth.com/>`__.

@@ -5,7 +5,7 @@ Falling from really high up
 :category: Events, Friends, General Thoughts
 :tags: Events, Friends
 :slug: falling-from-really-high-up
-:status: published
+:status: draft
 
 Further news on the skydiving scenario:
 

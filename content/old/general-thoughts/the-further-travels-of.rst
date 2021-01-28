@@ -5,7 +5,7 @@ The further travels of...
 :category: General Thoughts
 :tags: travel, wedding, wi-fi
 :slug: the-further-travels-of
-:status: published
+:status: draft
 
 Wedding is now done...
 

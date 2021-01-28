@@ -5,7 +5,7 @@ Shhh!  Don't Tell Anyone!
 :category: Internet
 :tags: conspiracy, link
 :slug: shhh-dont-tell-anyone
-:status: published
+:status: draft
 
 Further adventures in the internet: [Conspiracy
 Theories](http://www.therazor.org/?p=855).

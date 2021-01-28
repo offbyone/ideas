@@ -5,7 +5,7 @@ Oh, one more thing...
 :category: Meta
 :tags: Meta
 :slug: oh-one-more-thing
-:status: published
+:status: draft
 
 I may have just fixed the problem some people were having with
 commenting/viewing the site.

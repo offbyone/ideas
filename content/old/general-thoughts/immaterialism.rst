@@ -5,7 +5,7 @@ Immaterialism
 :category: General Thoughts
 :tags: coffee, doodads, gifts, ipod, music
 :slug: immaterialism
-:status: published
+:status: draft
 
 It's a peculiar thing for me, given my generally materialistic bent, to
 be in a position where I simply don't want anything material -- not

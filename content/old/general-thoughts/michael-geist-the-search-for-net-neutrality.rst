@@ -5,7 +5,7 @@ Michael Geist - The Search for Net Neutrality
 :category: General Thoughts, Internet, Media, Rants
 :tags: intellectual property, Internet, Media, privacy, Rants
 :slug: michael-geist-the-search-for-net-neutrality
-:status: published
+:status: draft
 
 Found on the net: `The Search for Net
 Neutrality <http://www.michaelgeist.ca/index.php?option=com_content&task=view&id=1040>`__

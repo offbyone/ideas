@@ -5,7 +5,7 @@ The tide of change
 :category: Media
 :tags: Media
 :slug: the-tide-of-change
-:status: published
+:status: draft
 
 I just finished reading Stephen Baxter's
 `\_Evolution\_ <http://www.amazon.com/exec/obidos/dt/assoc/tg/aa/xml/assoc/-/034545782X/qid%3D1073925345/schoolblog-20/103-1057116-3560631>`__

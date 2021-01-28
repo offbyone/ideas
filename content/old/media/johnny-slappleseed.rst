@@ -5,7 +5,7 @@ Johnny Slappleseed
 :category: Media, Rants
 :tags: equivocation, immaturity, primitive superstition, sex
 :slug: johnny-slappleseed
-:status: published
+:status: draft
 
 Don't mind the name; it's kind of an inside joke.
 

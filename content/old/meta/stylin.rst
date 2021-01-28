@@ -5,7 +5,7 @@ Stylin'
 :category: Meta
 :tags: Meta
 :slug: stylin
-:status: published
+:status: draft
 
 I have new things to pretty up the site.
 

@@ -5,7 +5,7 @@ Duplication efforts
 :category: Events
 :tags: Events
 :slug: duplication-efforts
-:status: published
+:status: draft
 
 So
 `it's <http://www.canada.com/news/story.asp?id=76D83EFA-CCF7-4F50-921A-CFE4E8531FA8>`__

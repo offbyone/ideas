@@ -5,7 +5,7 @@ Echo...
 :category: Asides, Friends, General Thoughts, Meta
 :tags: Asides, Friends, Meta
 :slug: echo
-:status: published
+:status: draft
 
 Where is everyone?
 

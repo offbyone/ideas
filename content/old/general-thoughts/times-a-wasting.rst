@@ -5,7 +5,7 @@ Time's a-wasting
 :category: General Thoughts
 :tags: school
 :slug: times-a-wasting
-:status: published
+:status: draft
 
 I know that this is going to change over the course of the year, at
 least to some extent, but **damn** this course is pointless.

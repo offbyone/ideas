@@ -5,7 +5,7 @@ Crunch, and Success
 :category: Friends, General Thoughts
 :tags: exams, Friends, ldap, school, stress, work
 :slug: crunch-and-success
-:status: published
+:status: draft
 
 It's been, and will be, an interesting couple of weeks. I'm creating
 some genuinely nifty things at work these days, and I'm going to be

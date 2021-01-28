@@ -5,7 +5,7 @@ More importantly...
 :category: Rants
 :tags: Rants
 :slug: more-importantly
-:status: published
+:status: draft
 
 |image0|\ This is something that bugs me a lot. And it's getting worse,
 as i see it.

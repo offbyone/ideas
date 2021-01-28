@@ -5,7 +5,7 @@ Restricted News
 :category: Media
 :tags: Media
 :slug: restricted-news
-:status: published
+:status: draft
 
 In my search for news articles about yesterday's incident, I ran into a
 peculiarity of the news agencies in this city.

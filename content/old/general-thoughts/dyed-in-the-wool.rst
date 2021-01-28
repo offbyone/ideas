@@ -5,7 +5,7 @@ Dyed in the Wool?
 :category: General Thoughts, Rants
 :tags: Rants
 :slug: dyed-in-the-wool
-:status: published
+:status: draft
 
 Despite the fact that I am, as the title suggests, a dyed-in-the-wool
 conservative in a great may respects, I like to think that I'm not

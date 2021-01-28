@@ -5,7 +5,7 @@ Words to live by...
 :category: Humour
 :tags: Humour
 :slug: words-to-live-by
-:status: published
+:status: draft
 
 Okay, this one is a bit... uhh... racy. But funny as all hell. In the
 extended entry below is the entire text of a letter to Dan Savage, as

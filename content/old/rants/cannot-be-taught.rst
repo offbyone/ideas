@@ -5,7 +5,7 @@ Cannot Be Taught
 :category: Rants
 :tags: education, entitlement, parenting, society
 :slug: cannot-be-taught
-:status: published
+:status: draft
 
 Here's something that I will do my damnedest to teach my child: Just
 because you worked hard doesn't mean you worked *well*.

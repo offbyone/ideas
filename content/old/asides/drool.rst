@@ -5,7 +5,7 @@ Drool...
 :category: Asides, Internet
 :tags: Asides, Internet
 :slug: drool
-:status: published
+:status: draft
 
 Random materialistic spooge: I *so* want one of
 `these <http://www.thinkgeek.com/cubegoodies/toys/61da/>`__

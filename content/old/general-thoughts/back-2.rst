@@ -5,7 +5,7 @@ Back
 :category: General Thoughts
 :tags: school, travel, vacation, work
 :slug: back-2
-:status: published
+:status: draft
 
 Well, I've returned from my [Japanese
 Odyssey](http://www.offlineblog.com/morruz), and now I get to spend this

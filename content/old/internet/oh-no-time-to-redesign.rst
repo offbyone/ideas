@@ -5,7 +5,7 @@ Oh no!  Time to redesign!
 :category: Internet
 :tags: Internet
 :slug: oh-no-time-to-redesign
-:status: published
+:status: draft
 
 Or at least according to `Feng Shui for web
 designers <http://www.newmediastudies.com/fengshui.htm>`__, who seem to

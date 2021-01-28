@@ -5,7 +5,7 @@ Lasers!
 :category: General Thoughts
 :tags: family, Friends, laser tag, party
 :slug: lasers
-:status: published
+:status: draft
 
 Had a great time with Eric and company at his bachelor party last night.
 This one won't win any awards for hardcore crazy times, but that's more

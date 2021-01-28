@@ -5,7 +5,7 @@ Ferfuchsake
 :category: General Thoughts, Rants
 :tags: intellectual property, privacy, Rants
 :slug: ferfuchsake
-:status: published
+:status: draft
 
 There's a trend in several segments of society... Screw that, \_all\_
 segments of society that i've seen so far. And it pisses me right off.

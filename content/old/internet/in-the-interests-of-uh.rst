@@ -5,7 +5,7 @@ In the interests of, uh...
 :category: Internet
 :tags: Internet
 :slug: in-the-interests-of-uh
-:status: published
+:status: draft
 
 [This is NOT safe for
 work!](http://www.metalsludge.tv/home/index.php?option=com\_content&task=view&id=40&Itemid=54

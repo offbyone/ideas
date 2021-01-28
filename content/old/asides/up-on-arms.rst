@@ -5,7 +5,7 @@ Up On Arms
 :category: Asides, General Thoughts
 :tags: Asides, work
 :slug: up-on-arms
-:status: published
+:status: draft
 
 Wow. As `Simon <http://vernondalhart.livejournal.com/>`__ gets into
 climbing, it reminds me that I'm supposed to go out with a co-worker and

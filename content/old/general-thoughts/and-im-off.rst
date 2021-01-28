@@ -5,7 +5,7 @@ And I'm off.
 :category: General Thoughts
 :tags: work
 :slug: and-im-off
-:status: published
+:status: draft
 
 Well, not just yet, but I'm flying out this weekend, and I just wrapped
 up what (I hope) should be the last of the work I had to crunch to get

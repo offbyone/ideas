@@ -5,7 +5,7 @@ Big steps
 :category: General Thoughts
 :tags: accomodations, char, future, housing market, stress
 :slug: big-steps
-:status: published
+:status: draft
 
 So, Char and I are -- by virtue of the conditions of our current
 residence -- about to embark on a second... \_adventure\_. We're buying

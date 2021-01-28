@@ -5,7 +5,7 @@ My life, so far
 :category: Friends, General Thoughts, Media, Projects, Rants
 :tags: Friends, Media, Projects, Rants
 :slug: my-life-so-far
-:status: published
+:status: draft
 
 So where am I at?
 

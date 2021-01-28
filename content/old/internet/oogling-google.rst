@@ -5,7 +5,7 @@ Oogling Google
 :category: Internet
 :tags: Internet
 :slug: oogling-google
-:status: published
+:status: draft
 
 I'm sure we all know about "google":http://www.google.com/ since, well,
 we all have to find stuff sometimes. But do we all know about these

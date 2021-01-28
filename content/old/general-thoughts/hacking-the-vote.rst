@@ -5,7 +5,7 @@ Hacking the Vote
 :category: General Thoughts, Rants
 :tags: intellectual property, privacy, Rants
 :slug: hacking-the-vote
-:status: published
+:status: draft
 
 `This <http://www.metafilter.com/mefi/28604>`__ is a link-packed post on
 the subject of the US voting systems and their electronic replacements.

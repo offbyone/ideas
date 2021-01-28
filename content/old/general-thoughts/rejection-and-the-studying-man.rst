@@ -5,7 +5,7 @@ Rejection and the Studying man
 :category: General Thoughts, Rants
 :tags: fuck telus, Rants, school, work
 :slug: rejection-and-the-studying-man
-:status: published
+:status: draft
 
 Just finished my last shift at $(COMPANY) yesterday, and i've taken away
 some valuable lessons about work in the lower echelons of the big

@@ -5,7 +5,7 @@ Philosophizin'
 :category: Events, General Thoughts, Media, Meta
 :tags: Events, Media, Meta, school
 :slug: philosophizin
-:status: published
+:status: draft
 
 So, I spent the greater part of yesterday evening ploughing through, or
 more accurately, *slogging* through John Stuart Mill's *Utilitarianism*.

@@ -5,7 +5,7 @@ A Vignette
 :category: Asides, General Thoughts
 :tags: Asides
 :slug: a-vignette
-:status: published
+:status: draft
 
 Yesterday, on the way home from \_Lobster Telephone\_, a play starring
 Mark Meer as Salvador Dali (+ others), A lady on the bus spoke to me,

@@ -5,7 +5,7 @@ Talking about the weather
 :category: Friends, General Thoughts, Rants
 :tags: Friends, Rants, work
 :slug: talking-about-the-weather
-:status: published
+:status: draft
 
 There is something fundamentally fucked up about the idea of going out
 -- in *Edmonton* -- and playing disc golf on December 28th. This is not

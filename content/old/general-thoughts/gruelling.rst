@@ -5,7 +5,7 @@ Gruelling
 :category: General Thoughts
 :tags: school
 :slug: gruelling
-:status: published
+:status: draft
 
 Wow. That was a pain.
 

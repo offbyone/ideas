@@ -5,7 +5,7 @@ Airborne pigs!
 :category: Friends, General Thoughts
 :tags: Friends, school
 :slug: airborne-pigs
-:status: published
+:status: draft
 
 Amazingly enough, my mother - the perennial
 luddite/technophobe/what-have-you - is getting online! In as few as two

@@ -5,7 +5,7 @@ Slaving away from home
 :category: General Thoughts
 :tags: work
 :slug: slaving-away-from-home
-:status: published
+:status: draft
 
 As the post title (and categorization) suggest, I started work today.
 

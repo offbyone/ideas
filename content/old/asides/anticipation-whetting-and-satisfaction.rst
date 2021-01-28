@@ -5,7 +5,7 @@ Anticipation, Whetting, and Satisfaction
 :category: Asides, General Thoughts, Internet, Media
 :tags: Asides, Internet, Media
 :slug: anticipation-whetting-and-satisfaction
-:status: published
+:status: draft
 
 A: Looking forward to a good game of hockey tonight, good hamburgers,
 and good company.

@@ -5,7 +5,7 @@ Faith in the Environment
 :category: Media
 :tags: environmentalism, Media, smoking
 :slug: faith-in-the-environment
-:status: published
+:status: draft
 
 Michael Chrichton made a `Commonwealth Club
 Speech <http://www.crichton-official.com/speeches/speeches_quote05.html>`__

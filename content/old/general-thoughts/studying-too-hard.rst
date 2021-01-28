@@ -5,7 +5,7 @@ Studying too hard
 :category: General Thoughts
 :tags: geeky, Humour, school, sex
 :slug: studying-too-hard
-:status: published
+:status: draft
 
 Char informs me that i have an interesting habit. When, as often
 happens, i fall asleep before she does, apparently when she finally

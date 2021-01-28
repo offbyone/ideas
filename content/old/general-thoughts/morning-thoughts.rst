@@ -5,7 +5,7 @@ Morning thoughts
 :category: General Thoughts
 :tags: geeky, school, simon, work
 :slug: morning-thoughts
-:status: published
+:status: draft
 
 ... Mostly, how I want a cup of coffee. Trivialities, everywhere.
 

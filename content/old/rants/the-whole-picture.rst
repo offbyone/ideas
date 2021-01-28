@@ -5,7 +5,7 @@ The whole picture?
 :category: Rants
 :tags: Rants
 :slug: the-whole-picture
-:status: published
+:status: draft
 
 Something Char has had the dubious pleasure of experiencing with me has
 been my unceasing annoyance with DVDs being released in purported

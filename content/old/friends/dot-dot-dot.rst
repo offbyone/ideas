@@ -5,7 +5,7 @@
 :category: Friends, General Thoughts
 :tags: Friends
 :slug: dot-dot-dot
-:status: published
+:status: draft
 
 I... may well have lost a friend today.
 

@@ -5,7 +5,7 @@ Oh...
 :category: Meta
 :tags: Meta
 :slug: oh
-:status: published
+:status: draft
 
 And, how long have comments been offline? Damn redhat and its insistence
 on altering my damned file permissions...

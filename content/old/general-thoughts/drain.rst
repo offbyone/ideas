@@ -5,7 +5,7 @@ Drain
 :category: General Thoughts
 :tags: school, stress
 :slug: drain
-:status: published
+:status: draft
 
 My god, I'm tired.
 

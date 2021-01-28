@@ -5,7 +5,7 @@ Off the road again
 :category: General Thoughts
 :tags: work
 :slug: off-the-road-again
-:status: published
+:status: draft
 
 I'm back from my brief stint out working again, and this time it's for
 more than a week. Or sorta. My vacation is set in stone nearly from

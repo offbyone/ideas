@@ -5,7 +5,7 @@ Interstate Leaning
 :category: Rants
 :tags: Rants
 :slug: interstate-leaning
-:status: published
+:status: draft
 
 Assholes. Not all of them, nor in all ways, but it's pretty significant
 in one respect.

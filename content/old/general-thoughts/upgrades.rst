@@ -5,7 +5,7 @@ Upgrades!
 :category: General Thoughts
 :tags: work
 :slug: upgrades
-:status: published
+:status: draft
 
 Well, I just got handed a new... well, \_newer\_, system. It's
 equivalent to Char's laptop, which is more than 5 times faster than the

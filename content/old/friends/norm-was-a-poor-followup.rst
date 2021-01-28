@@ -5,7 +5,7 @@ Norm was a poor followup
 :category: Friends, General Thoughts
 :tags: Friends
 :slug: norm-was-a-poor-followup
-:status: published
+:status: draft
 
 Weekend update:
 

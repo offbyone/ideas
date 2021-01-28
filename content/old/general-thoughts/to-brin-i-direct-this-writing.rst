@@ -5,7 +5,7 @@ To Brin, I Direct this Writing
 :category: General Thoughts, Rants
 :tags: intellectual property, privacy, Rants
 :slug: to-brin-i-direct-this-writing
-:status: published
+:status: draft
 
 David Brin, author of (amongst other things) "Glory Season" and, more
 relevant, "Earth," is what one might call a *surveillance utopianist*,

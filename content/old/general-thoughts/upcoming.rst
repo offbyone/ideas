@@ -5,7 +5,7 @@ Upcoming
 :category: General Thoughts
 :tags: school
 :slug: upcoming
-:status: published
+:status: draft
 
 Well, final exams are coming at a rapid clip, and I'm more or less
 prepared for them. More, hopefully, rather than less. Which is a bit of

@@ -5,7 +5,7 @@ Hey hey hey, good bye
 :category: General Thoughts
 :tags: fuck telus
 :slug: hey-hey-hey-good-bye
-:status: published
+:status: draft
 
 As of today, sometime around noon, I finally got to bid Telus
 fare-thee-well from my finances forever. Or, so I hope.

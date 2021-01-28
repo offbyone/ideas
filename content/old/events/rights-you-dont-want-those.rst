@@ -5,7 +5,7 @@ Rights?  You don't want those.
 :category: Events, Internet, Media
 :tags: copyright, dmca, politics
 :slug: rights-you-dont-want-those
-:status: published
+:status: draft
 
 Buried under the avalanche of holiday-related product placements that
 hit once every year for about, oh, \_three months\_, a major change in

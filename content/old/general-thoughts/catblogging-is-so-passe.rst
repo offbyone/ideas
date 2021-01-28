@@ -5,7 +5,7 @@ Catblogging is so passe.
 :category: General Thoughts, Humour, Internet
 :tags: Humour, Internet
 :slug: catblogging-is-so-passe
-:status: published
+:status: draft
 
 The above is true, to be sure.
 `Catblogging <http://www.google.com/search?hl=en&lr=&ie=UTF-8&safe=off&q=catblogging&btnG=Search>`__,

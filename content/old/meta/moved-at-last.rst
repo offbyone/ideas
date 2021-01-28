@@ -5,7 +5,7 @@ Moved, at last
 :category: Meta
 :tags: Meta
 :slug: moved-at-last
-:status: published
+:status: draft
 
 Please, watch this space again for interesting commentary.
 

@@ -5,7 +5,7 @@ The Second Law
 :category: Rants
 :tags: Rants
 :slug: the-second-law
-:status: published
+:status: draft
 
 Basically, what the FSCK are people thinking when they pick up the
 goddamned phone?!

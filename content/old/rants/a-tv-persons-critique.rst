@@ -5,7 +5,7 @@ A TV person's critique
 :category: Rants
 :tags: Rants
 :slug: a-tv-persons-critique
-:status: published
+:status: draft
 
 I have, on the rare occasion that i've watched television, been fairly
 impressed with the show "Win Ben Stein's Money". It has struck me as

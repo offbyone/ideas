@@ -4,7 +4,7 @@ Urgh. Boxes Heavy. House full.
 :author: offby1
 :category: Amazon Expedition
 :slug: urgh-boxes-heavy-house-full
-:status: published
+:status: draft
 
 \*Takes a breath\*
 

@@ -5,7 +5,7 @@ Working long hours
 :category: General Thoughts
 :tags: work
 :slug: working-long-hours
-:status: published
+:status: draft
 
 Holy crap. I was in at 7:45 yesterday, and out at 11:30 (thereby
 *completely* missing Char, all day long). And today, well, I'm already

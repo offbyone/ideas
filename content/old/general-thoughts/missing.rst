@@ -5,7 +5,7 @@ Missing
 :category: General Thoughts
 :tags: work
 :slug: missing
-:status: published
+:status: draft
 
 Well, to anyone that wants to get hold of me in the near- to mid-term
 future, be aware that I'm going to be somewhat out of touch. Thanks to

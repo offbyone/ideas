@@ -5,7 +5,7 @@ Fanfare
 :category: General Thoughts
 :tags: lord of the rings
 :slug: fanfare
-:status: published
+:status: draft
 
 ### Wooo!!!
 

@@ -5,7 +5,7 @@ Back in the good old days
 :category: Events, General Thoughts, Media, Rants
 :tags: Events, Media, Rants
 :slug: back-in-the-good-old-days
-:status: published
+:status: draft
 
 This isn't really in reference to anything specific, but as a
 side-effect of following this "Rathergate" thing (on

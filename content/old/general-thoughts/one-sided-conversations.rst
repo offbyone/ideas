@@ -5,7 +5,7 @@ One-sided conversations
 :category: General Thoughts
 :tags: apology, asshole, Events, Friends
 :slug: one-sided-conversations
-:status: published
+:status: draft
 
 Current events have, as i'm sure all of you know, gotten very
 interesting on the political and world-issues front. From the scrap over

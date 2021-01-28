@@ -4,7 +4,7 @@ Cranky
 :author: offby1
 :category: General Thoughts
 :slug: cranky
-:status: published
+:status: draft
 
 My turn, I guess.
 

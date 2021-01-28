@@ -5,7 +5,7 @@ Crunch, Again
 :category: General Thoughts
 :tags: deadlines, school, stress, work
 :slug: crunch-again
-:status: published
+:status: draft
 
 This is starting to be a March theme, I think. I get swamped, I get a
 bit behind, and now all of a sudden, despite my best intentions, I am

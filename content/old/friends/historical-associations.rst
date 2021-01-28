@@ -5,7 +5,7 @@ Historical Associations
 :category: Friends, General Thoughts
 :tags: Friends, memory lane
 :slug: historical-associations
-:status: published
+:status: draft
 
 It's been a thought tickling around in the back of my brain, but a post
 about `finding a friend

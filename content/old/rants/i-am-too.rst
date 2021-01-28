@@ -5,7 +5,7 @@ I am too.
 :category: Rants
 :tags: Rants
 :slug: i-am-too
-:status: published
+:status: draft
 
 One of the posters over at "tacitus":http://www.tacitus.org/ has posted
 a touching little commentary on the recent bombings in Spain. Entitled

@@ -5,7 +5,7 @@
 :category: Events, Internet
 :tags: Events, Internet
 :slug: firefox-goes-1-0
-:status: published
+:status: draft
 
 |Get Firefox!|
 

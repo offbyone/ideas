@@ -5,7 +5,7 @@ Sometimes I worry
 :category: General Thoughts
 :tags: musings, temper
 :slug: sometimes-i-worry
-:status: published
+:status: draft
 
 Why am I so easy to anger, these days?
 

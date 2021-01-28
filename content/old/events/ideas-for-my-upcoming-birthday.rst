@@ -5,7 +5,7 @@ Ideas for my upcoming birthday
 :category: Events, Friends, General Thoughts, Media
 :tags: Events, Friends, Media
 :slug: ideas-for-my-upcoming-birthday
-:status: published
+:status: draft
 
 I *have* had a few people ask me for ideas, so I figured I'd just put
 them out here as a suggestion or three.

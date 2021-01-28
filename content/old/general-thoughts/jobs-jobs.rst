@@ -5,7 +5,7 @@ Jobs, jobs...
 :category: General Thoughts, Humour, Internet
 :tags: Humour, Internet, work
 :slug: jobs-jobs
-:status: published
+:status: draft
 
 I'm in a particularly bad mood, this evening. As a consequence of some
 poor planning, on my part and that of others, I'm at loose ends for the

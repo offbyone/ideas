@@ -5,7 +5,7 @@ Required Reading
 :category: General Thoughts
 :tags: book, solitude
 :slug: required-reading
-:status: published
+:status: draft
 
 I've known for a long time that, while I'm not a total hermit, I both
 need less human contact than other people, and tire of it sooner. The

@@ -5,7 +5,7 @@ Fit in much?
 :category: Internet
 :tags: Internet
 :slug: fit-in-much
-:status: published
+:status: draft
 
 Okay, random linkdom: `The compleat diagram of strange persons, 2003
 edition. <http://www.alanapost.com/weblog/archives/002425.html>`__

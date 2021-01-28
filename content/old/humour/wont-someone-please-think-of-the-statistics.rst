@@ -5,7 +5,7 @@ Won't someone please think of the statistics?
 :category: Humour, Internet, Media, Rants
 :tags: Humour, Internet, Media, Rants
 :slug: wont-someone-please-think-of-the-statistics
-:status: published
+:status: draft
 
 In a world of fearmongering media and government, it seems to me that
 life would be better if we could just *`fucking

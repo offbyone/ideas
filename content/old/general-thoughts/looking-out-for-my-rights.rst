@@ -5,7 +5,7 @@ Looking Out for my Rights
 :category: General Thoughts, Projects
 :tags: intellectual property, privacy, Projects
 :slug: looking-out-for-my-rights
-:status: published
+:status: draft
 
 After reading about some disturbing events in the US detailing the
 arrest and mistreatment of citizens whose only apparent crime was the

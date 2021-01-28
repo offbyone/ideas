@@ -5,7 +5,7 @@ Also:
 :category: Asides, Humour
 :tags: geeky, recursion
 :slug: also-3
-:status: published
+:status: draft
 
 Recursive Epigrams Can Unfortunately Result in Silly, Idly Vexatious
 Entertainment.

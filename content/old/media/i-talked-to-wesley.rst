@@ -5,7 +5,7 @@ I talked to Wesley!
 :category: Media
 :tags: Media
 :slug: i-talked-to-wesley
-:status: published
+:status: draft
 
 `Wesley
 Crusher <http://www.theonionavclub.com/avclub3843/avfeature_3843.html>`__

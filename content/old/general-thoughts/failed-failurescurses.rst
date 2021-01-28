@@ -5,7 +5,7 @@ Failed failures(curses!)
 :category: General Thoughts
 :tags: school
 :slug: failed-failurescurses
-:status: published
+:status: draft
 
 So, back to the classes. I've now attended each and every one of my
 classes for this semester, and one thing strikes me:

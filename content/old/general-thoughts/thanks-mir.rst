@@ -5,7 +5,7 @@ Thanks, Mir
 :category: General Thoughts
 :tags: family, hockey
 :slug: thanks-mir
-:status: published
+:status: draft
 
 I'd like to thank Miranda for a $200 dent in my finances. And for
 whatever the gap is between that $200 and what it really cost.

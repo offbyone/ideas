@@ -5,7 +5,7 @@ An atmosphere of witlessness
 :category: Humour
 :tags: Humour
 :slug: an-atmosphere-of-witlessness
-:status: published
+:status: draft
 
 Since we live in an age of opinions -- they're like assholes, we've all
 got one, and they all ... well, you get the idea -- it seems to me that

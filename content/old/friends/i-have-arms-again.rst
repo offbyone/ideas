@@ -5,7 +5,7 @@ I have arms again!
 :category: Friends, General Thoughts
 :tags: Appreciation, deadlines, dislocation, health, skydiving, work
 :slug: i-have-arms-again
-:status: published
+:status: draft
 
 It's sore, it's stiff, but I have two arms, and therefore I can...
 

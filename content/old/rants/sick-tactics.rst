@@ -5,7 +5,7 @@ Sick tactics
 :category: Rants
 :tags: asshole, idiocy, Rants
 :slug: sick-tactics
-:status: published
+:status: draft
 
 Wow, that's fscking nauseating...
 

@@ -5,7 +5,7 @@ Downtime
 :category: General Thoughts
 :tags: family, memory lane
 :slug: downtime
-:status: published
+:status: draft
 
 As has been posted to [char's
 weblog](http://www.livejournal.com/users/xraystar/) in the near past,

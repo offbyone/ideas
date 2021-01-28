@@ -5,7 +5,7 @@ Because i haven't posted in a while
 :category: Events
 :tags: Events, free speech, freedom, Internet
 :slug: because-i-havent-posted-in-a-while
-:status: published
+:status: draft
 
 ... and [this](http://www.tjcenter.org/past2004.html "The Thomas Jefferson Center for the Protection of Free Expression") is nifty.
 

@@ -5,7 +5,7 @@ One down...
 :category: General Thoughts
 :tags: school
 :slug: one-down
-:status: published
+:status: draft
 
 Well, much like
 [mel](http://www.livejournal.com/users/fossil\_human/1383.html) posted,

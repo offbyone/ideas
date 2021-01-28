@@ -5,7 +5,7 @@ Sporadic Connection
 :category: Events, General Thoughts
 :tags: Events, school, work
 :slug: sporadic-connection
-:status: published
+:status: draft
 
 Well, the move is happening either this weekend or over the coming week.
 This is going to result in some \_very\_ sporadic communications, as our

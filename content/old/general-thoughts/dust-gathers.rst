@@ -5,7 +5,7 @@ Dust gathers...
 :category: General Thoughts, Meta
 :tags: apology, dislocation
 :slug: dust-gathers
-:status: published
+:status: draft
 
 Expect a slowdown in posting until I can type again.
 

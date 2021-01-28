@@ -5,7 +5,7 @@ In other news
 :category: Meta
 :tags: Meta
 :slug: in-other-news
-:status: published
+:status: draft
 
 There's been a small change to the weblog, which I assume you have
 noticed.

@@ -5,7 +5,7 @@ Epiphany on Wheels
 :category: General Thoughts
 :tags: bike, traffic
 :slug: epiphany-on-wheels
-:status: published
+:status: draft
 
 I had an epiphany yesterday: I \_don't want to drive to work\_. Me. The
 lazy one.

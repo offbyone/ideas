@@ -5,7 +5,7 @@ WinXP
 :category: Rants
 :tags: Rants
 :slug: winxp
-:status: published
+:status: draft
 
 I want everyone out there to know, computers suck!
 

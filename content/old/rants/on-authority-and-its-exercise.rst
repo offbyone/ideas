@@ -5,7 +5,7 @@ On authority and its exercise
 :category: Rants
 :tags: Rants
 :slug: on-authority-and-its-exercise
-:status: published
+:status: draft
 
 In my workplace, there's an interesting dynamic between management and
 employee, and i guess i just gave it enough thought to comment on it.

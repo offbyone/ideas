@@ -5,7 +5,7 @@ Delta
 :category: General Thoughts
 :tags: baby, culture, distance, General Thoughts, travel
 :slug: delta
-:status: published
+:status: draft
 
 *Delta(n):* A change, eg the difference from one period to the next.
 

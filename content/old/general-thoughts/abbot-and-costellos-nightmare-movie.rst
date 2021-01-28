@@ -5,7 +5,7 @@ Abbot and Costello's Nightmare Movie
 :category: General Thoughts, Media, Rants
 :tags: Media, Rants
 :slug: abbot-and-costellos-nightmare-movie
-:status: published
+:status: draft
 
 Along with Mir,
 `Simon <http://www.livejournal.com/users/vernondalhart/>`__, Andrew, and

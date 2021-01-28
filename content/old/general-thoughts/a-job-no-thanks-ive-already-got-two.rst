@@ -5,7 +5,7 @@ A job?  No thanks, i've already got two!
 :category: General Thoughts
 :tags: fuck telus, work
 :slug: a-job-no-thanks-ive-already-got-two
-:status: published
+:status: draft
 
 That went remarkably well, i think. I had an interview this morning with
 ATS out at the International Airport, and basically got told that i can

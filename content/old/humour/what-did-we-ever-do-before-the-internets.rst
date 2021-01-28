@@ -5,7 +5,7 @@ What did we ever do, before the internets?
 :category: Humour, Internet
 :tags: Humour, Internet
 :slug: what-did-we-ever-do-before-the-internets
-:status: published
+:status: draft
 
 A friend of my co-worker, call him "A", is the subject of this post.
 

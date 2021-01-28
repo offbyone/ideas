@@ -5,7 +5,7 @@ Edging over
 :category: Events, General Thoughts, Media
 :tags: Events, Media
 :slug: edging-over
-:status: published
+:status: draft
 
 The world edges a bit closer to madness again, or -- more to the point
 -- reveals that it was closer all along, with the revelation that [North

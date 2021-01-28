@@ -5,7 +5,7 @@ Air Travel
 :category: Uncategorized
 :tags: culture, travel
 :slug: air-travel
-:status: published
+:status: draft
 
 How much can people be convinced to tolerate for the sake of traveling?
 I'm thinking of the frothy mixture of security theatre and customer

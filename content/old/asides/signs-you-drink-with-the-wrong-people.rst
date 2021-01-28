@@ -5,7 +5,7 @@ Signs you drink with the wrong people
 :category: Asides, Humour, Internet, Media
 :tags: Asides, Humour, Internet, Media
 :slug: signs-you-drink-with-the-wrong-people
-:status: published
+:status: draft
 
 Odds are, Beau should not be allowed to see this link: `We Are Your
 Friends </images/we_are_your_friends.mov>`__

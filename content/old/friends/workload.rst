@@ -5,7 +5,7 @@ Workload
 :category: Friends, General Thoughts
 :tags: Friends, school
 :slug: workload
-:status: published
+:status: draft
 
 To all of my friends who haven't been hearing from me lately...
 

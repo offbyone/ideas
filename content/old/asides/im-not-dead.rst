@@ -5,7 +5,7 @@ I'm not dead
 :category: Asides
 :tags: alive
 :slug: im-not-dead
-:status: published
+:status: draft
 
 Yeah, it's the periodic, final exams + projects swamped "I'm not dead"
 post.

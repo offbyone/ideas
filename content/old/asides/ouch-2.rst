@@ -4,6 +4,6 @@ Ouch
 :author: offby1
 :category: Asides
 :slug: ouch-2
-:status: published
+:status: draft
 
 Pepper oil hurts my sensitive bits.

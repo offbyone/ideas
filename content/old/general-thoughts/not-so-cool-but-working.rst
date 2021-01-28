@@ -5,7 +5,7 @@ Not so cool, but working.
 :category: General Thoughts
 :tags: work
 :slug: not-so-cool-but-working
-:status: published
+:status: draft
 
 So, [Char](http://xraystar.livejournal.com)'s and my refrigerator,
 purchased for the massive total of $50 when we moved into the current

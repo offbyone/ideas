@@ -5,7 +5,7 @@ Presenting
 :category: General Thoughts
 :tags: deadlines, exams, presentation, websphere
 :slug: presenting
-:status: published
+:status: draft
 
 Two times in the last week I've had to do class presentation, and
 although I can't speak for the actual \_skill\_ that I have, I do seem

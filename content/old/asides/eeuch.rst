@@ -5,7 +5,7 @@ Eeuch.
 :category: Asides
 :tags: disappointment, failure, mac
 :slug: eeuch
-:status: published
+:status: draft
 
 | Take a look at this:
 | |Noise, Noise|

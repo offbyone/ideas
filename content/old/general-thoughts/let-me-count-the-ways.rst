@@ -5,7 +5,7 @@ Let me count the ways
 :category: General Thoughts, Internet, Media, Rants
 :tags: intellectual property, Internet, Media, politics, Rants
 :slug: let-me-count-the-ways
-:status: published
+:status: draft
 
 I can't even \_start\_ to enumerate the ways that this program to `teach
 schoolchildren copyright <http://www.musicmanifesto.co.uk/>`__ offends

@@ -5,7 +5,7 @@ Rainy Days
 :category: General Thoughts
 :tags: work
 :slug: rainy-days
-:status: published
+:status: draft
 
 Thanks to the vagaries of this summer's seemingly super-humid weather, I
 have the day off today.

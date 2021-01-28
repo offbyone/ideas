@@ -5,7 +5,7 @@ And it's done!
 :category: General Thoughts
 :tags: school
 :slug: and-its-done
-:status: published
+:status: draft
 
 One year, finished. Now, granted, it hasn't been all that i expected it
 would, but on the whole, i feel good about it.

@@ -5,7 +5,7 @@ Trepidation
 :category: General Thoughts
 :tags: school
 :slug: trepidation
-:status: published
+:status: draft
 
 I'm looking at my performance in CS 313 and thinking that I might have
 to withdraw from the course, and plan something a bit more lightweight

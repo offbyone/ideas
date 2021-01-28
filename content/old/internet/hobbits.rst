@@ -5,7 +5,7 @@ Hobbits!
 :category: Internet
 :tags: Internet
 :slug: hobbits
-:status: published
+:status: draft
 
 `This <http://www.game-revolution.com/download/trickyl/goodies/Video/baggins.mov>`__
 (Quicktime required) has to be the most disturbing thing i've ever seen.

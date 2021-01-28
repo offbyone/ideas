@@ -5,7 +5,7 @@ Volunteerism
 :category: Rants
 :tags: development porn, isms, volunteering
 :slug: volunteerism
-:status: published
+:status: draft
 
 [Volunteerism](http://en.wikipedia.org/wiki/Volunteerism) is one of
 those interesting 'isms'.&nbsp; It's probably one of the most

@@ -5,7 +5,7 @@ What on earth have we wrought?
 :category: Rants
 :tags: Rants
 :slug: what-on-earth-have-we-wrought
-:status: published
+:status: draft
 
 In this `photo
 weblog <http://www.angelfire.com/extreme4/kiddofspeed/page2.html>`__

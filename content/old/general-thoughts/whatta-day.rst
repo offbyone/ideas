@@ -5,7 +5,7 @@ Whatta Day
 :category: General Thoughts
 :tags: work
 :slug: whatta-day
-:status: published
+:status: draft
 
 Wow. Today really could not have gone worse than it did -- all told, at
 any rate. The whole day wasn't shitty, but there were sufficient -- and

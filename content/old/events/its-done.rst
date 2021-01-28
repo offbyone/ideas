@@ -5,7 +5,7 @@ It's done.
 :category: Events, General Thoughts
 :tags: Events, space
 :slug: its-done
-:status: published
+:status: draft
 
 Today, at long last, the X-prize, for the first private, re-usable,
 passenger-capable space launch [was

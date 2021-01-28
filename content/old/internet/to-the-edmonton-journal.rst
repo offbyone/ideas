@@ -5,7 +5,7 @@ To the Edmonton Journal
 :category: Internet, Media, Rants
 :tags: fuck telus, Internet, Media, Rants
 :slug: to-the-edmonton-journal
-:status: published
+:status: draft
 
 | (I just sent in this letter to the editor)
 | Regarding "`Web superhighway likely to be toll

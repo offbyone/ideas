@@ -5,7 +5,7 @@ An aside to readers
 :category: Meta, Projects
 :tags: Meta, Projects
 :slug: an-aside-to-readers
-:status: published
+:status: draft
 
 If you happen to be a reader of either of this site's child blogs,
 Morruz or MildIllSon, they're sort of moved now.

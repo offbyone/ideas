@@ -4,7 +4,7 @@ July and August (And Beyond)
 :author: offby1
 :category: Amazon Expedition, Friends, General Thoughts
 :slug: july-and-august-and-beyond
-:status: published
+:status: draft
 
 New house, huh.
 

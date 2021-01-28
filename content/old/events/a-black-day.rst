@@ -5,7 +5,7 @@ A black day
 :category: Events, General Thoughts
 :tags: Events, space
 :slug: a-black-day
-:status: published
+:status: draft
 
 About two hours ago, as i write this, the NASA space shuttle Columbia
 lost contact with mission control while coming in for a landing. As of

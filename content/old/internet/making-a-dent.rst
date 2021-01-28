@@ -5,7 +5,7 @@ Making a dent
 :category: Internet
 :tags: Internet
 :slug: making-a-dent
-:status: published
+:status: draft
 
 Here's
 `something <http://deepimpact.jpl.nasa.gov/sendyourname/index.html>`__

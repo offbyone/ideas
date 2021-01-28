@@ -5,7 +5,7 @@ Politicos
 :category: General Thoughts
 :tags: school
 :slug: politicos
-:status: published
+:status: draft
 
 For those of you who don't know what it is, CMPT-272 is a course
 formally entitled \_Formal Systems and Logic for Computer Science\_.

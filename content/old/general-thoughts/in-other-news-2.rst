@@ -5,7 +5,7 @@ In other news...
 :category: General Thoughts
 :tags: school
 :slug: in-other-news-2
-:status: published
+:status: draft
 
 School is coming up on its end at a furious rate. Finals start tuesday,
 and after thursday, i don't have to ever deal w/ English again -

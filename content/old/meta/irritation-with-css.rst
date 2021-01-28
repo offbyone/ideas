@@ -5,7 +5,7 @@ Irritation with CSS
 :category: Meta
 :tags: Meta
 :slug: irritation-with-css
-:status: published
+:status: draft
 
 As per the previous entry, there are some Stylesheet glitches with the
 site. So, here's the deal. If you think the site looks like shit, get a

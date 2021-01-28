@@ -5,7 +5,7 @@ I'll be out of touch.
 :category: General Thoughts
 :tags: moving
 :slug: ill-be-out-of-touch
-:status: published
+:status: draft
 
 For the next couple of days, I'll be ... difficult to reach.
 

@@ -5,7 +5,7 @@ Nothing to say, but I can say it in three languages
 :category: Friends, General Thoughts, Internet, Meta
 :tags: Friends, Internet, Meta, school
 :slug: nothing-to-say-but-i-can-say-it-in-three-languages
-:status: published
+:status: draft
 
 Well, two. If you count speaking ones. About ten, if programming
 languages figure into it.

@@ -5,7 +5,7 @@ Postings not working?
 :category: Meta
 :tags: Meta
 :slug: postings-not-working
-:status: published
+:status: draft
 
 Just a note, if you're reading this and can't seem to comment (since
 that seems to be the case).

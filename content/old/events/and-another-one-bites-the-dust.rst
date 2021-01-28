@@ -5,7 +5,7 @@ And another one bites the dust
 :category: Events, Internet
 :tags: Events, Internet
 :slug: and-another-one-bites-the-dust
-:status: published
+:status: draft
 
 Although you might not really understand the impact of this, it was
 reported today on various

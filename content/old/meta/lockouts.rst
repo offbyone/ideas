@@ -5,7 +5,7 @@ Lockouts
 :category: Meta
 :tags: Meta
 :slug: lockouts
-:status: published
+:status: draft
 
 I've had cause to password-protect a post for the first time since I
 started this blog, and I thought I'd make a note so that you dedicated

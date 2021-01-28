@@ -5,7 +5,7 @@ Oh
 :category: Events
 :tags: Events
 :slug: oh-2
-:status: published
+:status: draft
 
 Can anyone reading this do me a big favour and post any events and links
 that I might want to keep my eyes on to this thread? I hope to keep up

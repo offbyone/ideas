@@ -5,7 +5,7 @@ Unpleasant Newses
 :category: General Thoughts
 :tags: family, health
 :slug: unpleasant-newses
-:status: published
+:status: draft
 
 I have a cousin. She's one of my favourite cousins. And, although we
 don't know for sure yet, her husband -- whom I also like quite a bit --

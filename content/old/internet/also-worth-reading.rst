@@ -5,7 +5,7 @@ Also worth reading
 :category: Internet
 :tags: Internet
 :slug: also-worth-reading
-:status: published
+:status: draft
 
 "An essay by a disillusioned disciple of Ayn
 Rand":http://www.nathanielbranden.net/ayn/ayn03.html

@@ -5,7 +5,7 @@ Slow Communication
 :category: Friends, General Thoughts
 :tags: Friends, school, work
 :slug: slow-communication
-:status: published
+:status: draft
 
 Kind of a scattershot update to my existence on a whole.
 

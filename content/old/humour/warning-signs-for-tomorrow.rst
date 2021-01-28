@@ -5,7 +5,7 @@ Warning Signs for Tomorrow
 :category: Humour
 :tags: future, Humour, Internet, meme, snark
 :slug: warning-signs-for-tomorrow
-:status: published
+:status: draft
 
 This might mark me as exceptionally nerdy, but I just love this set of
 `warning signs for

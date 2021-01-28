@@ -5,7 +5,7 @@ Ugly, ugly
 :category: General Thoughts
 :tags: school
 :slug: ugly-ugly
-:status: published
+:status: draft
 
 Well, that's coming back to bite me on the ass.
 

@@ -5,7 +5,7 @@ Dear lord...
 :category: General Thoughts
 :tags: geeky, lord of the rings
 :slug: dear-lord
-:status: published
+:status: draft
 
 My god... Apparently the powers that be at new line cinema have decided
 to grant my fondest wish about LOTR: `Theatrical, all-day

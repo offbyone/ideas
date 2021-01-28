@@ -5,7 +5,7 @@ Moods
 :category: General Thoughts
 :tags: asshole, char, introspection
 :slug: moods
-:status: published
+:status: draft
 
 This is directed mostly towards anyone that knows me personally, which
 is, last time i checked, anyone who reads this site - it's not like i

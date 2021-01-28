@@ -5,7 +5,7 @@ That damned wall
 :category: Projects
 :tags: Projects
 :slug: that-damned-wall
-:status: published
+:status: draft
 
 I've spent the better part of my day hacking away trying to figure out
 an efficient way of representing a Mahjongg hand in Java. There's more

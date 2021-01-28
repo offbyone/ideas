@@ -5,7 +5,7 @@ Your rights, offline
 :category: General Thoughts
 :tags: intellectual property, privacy, work
 :slug: your-rights-offline
-:status: published
+:status: draft
 
 Although we already pay a levy on our blank media under the assumption
 that we will illegally copy media, thereby -- under the law of the land

@@ -5,7 +5,7 @@ Redesign
 :category: Meta
 :tags: Meta
 :slug: redesign
-:status: published
+:status: draft
 
 You may have noticed something different. I hope so, at any rate.
 

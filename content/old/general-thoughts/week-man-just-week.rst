@@ -5,7 +5,7 @@ Week, man.  Just week.
 :category: General Thoughts, Internet, Projects
 :tags: Internet, Projects, school, work
 :slug: week-man-just-week
-:status: published
+:status: draft
 
 Kind of a sum-up, here.
 

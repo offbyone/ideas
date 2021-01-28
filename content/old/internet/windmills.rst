@@ -5,7 +5,7 @@ Windmills
 :category: Internet, Media
 :tags: atheism, climate change, heresy, iconoclasm, isms, musings, politics, pseudoscience, reason, religion
 :slug: windmills
-:status: published
+:status: draft
 
 You know, I feel sorry for the
 [iconoclasts](http://www.google.ca/search?hl=en&safe=off&q=define%3Aiconoclast)

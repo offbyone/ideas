@@ -5,7 +5,7 @@ Links on the sidebar
 :category: Meta
 :tags: Meta
 :slug: links-on-the-sidebar
-:status: published
+:status: draft
 
 I've mentioned these before, and someone who read the site indicated
 that they wished they could comment on the quotes... or the links, i

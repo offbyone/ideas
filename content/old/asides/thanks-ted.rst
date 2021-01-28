@@ -5,7 +5,7 @@ Thanks, TED
 :category: Asides, Media
 :tags: atheism, dawkins, entertainment, Media, meme, musings, politics, Science, technology
 :slug: thanks-ted
-:status: published
+:status: draft
 
 [Aaron](http://www.spaz.ca) mentioned [TED](http://www.ted.com/) to me
 some time ago as an interesting place to go for talks about the world;

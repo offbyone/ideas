@@ -5,7 +5,7 @@ From the past?
 :category: Events, Internet, Media
 :tags: Events, Internet, Media
 :slug: from-the-past
-:status: published
+:status: draft
 
 At the time that this all happened, I had not yet started writing my
 personal weblog, nor had I really considered it. It's probably a good

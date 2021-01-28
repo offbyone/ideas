@@ -5,7 +5,7 @@ The Factory is In
 :category: Amazon Expedition
 :tags: beer, seattle
 :slug: the-factory-is-in
-:status: published
+:status: draft
 
 C and I have landed in our new place. It's an older place in an older
 neighborhood, and holy shit do we have lots of stuff. It's especially

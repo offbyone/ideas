@@ -5,7 +5,7 @@ On Wheels
 :category: General Thoughts
 :tags: bike, birthday, commuting, work
 :slug: on-wheels
-:status: published
+:status: draft
 
 For my birthday I got me one of
 [these](http://www2.trekbikes.com/bikes/bike.php?bikeid=1034060&f=21),

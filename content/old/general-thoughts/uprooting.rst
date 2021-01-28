@@ -5,7 +5,7 @@ Uprooting
 :category: General Thoughts
 :tags: moving
 :slug: uprooting
-:status: published
+:status: draft
 
 Well, it seems that Char and I will be moving again, sooner than we'd
 hoped, but not really too surprised about it.

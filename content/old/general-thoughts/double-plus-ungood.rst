@@ -5,7 +5,7 @@ Double-plus ungood
 :category: General Thoughts, Internet, Rants
 :tags: intellectual property, Internet, privacy, Rants
 :slug: double-plus-ungood
-:status: published
+:status: draft
 
 As seen
 `here <http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1110150624459&call_pageid=970599119419>`__,

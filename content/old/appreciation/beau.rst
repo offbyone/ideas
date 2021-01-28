@@ -5,7 +5,7 @@ Beau
 :category: Appreciation
 :tags: Appreciation
 :slug: beau
-:status: published
+:status: draft
 
 | This is the first of (hopefully) many postings in a new vein here. I'm
   not going to promise anything special, but the people I'll write about

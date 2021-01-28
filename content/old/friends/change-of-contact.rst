@@ -5,7 +5,7 @@ Change of Contact
 :category: Friends, General Thoughts
 :tags: Friends
 :slug: change-of-contact
-:status: published
+:status: draft
 
 It suddenly occurs to me that this is the ideal place to make an
 announcement like this, just in case I missed someone with the mailout:

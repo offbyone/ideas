@@ -5,7 +5,7 @@ Over, Under, but never Just Right
 :category: General Thoughts
 :tags: idiocy, risk, security
 :slug: over-under-but-never-just-right
-:status: published
+:status: draft
 
 Here's something interesting... Bruce Schneier writing about [people's
 overreactions to

@@ -5,7 +5,7 @@ Vacation time and overruling
 :category: General Thoughts
 :tags: work
 :slug: vacation-time-and-overruling
-:status: published
+:status: draft
 
 Well, the vacation thing I mentioned is this:
 

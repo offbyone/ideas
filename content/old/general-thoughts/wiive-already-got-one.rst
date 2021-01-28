@@ -5,7 +5,7 @@ Wii've Already Got One
 :category: General Thoughts
 :tags: browncoat, firefly, gadgets, serenity, wii
 :slug: wiive-already-got-one
-:status: published
+:status: draft
 
 Heh.
 

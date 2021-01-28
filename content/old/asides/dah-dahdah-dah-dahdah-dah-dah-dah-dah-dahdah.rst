@@ -5,7 +5,7 @@ Dah. Dahdah-dah. Dahdah-dah dah dah-dah-dahdah!
 :category: Asides, General Thoughts, Media
 :tags: Asides, Media
 :slug: dah-dahdah-dah-dahdah-dah-dah-dah-dah-dahdah
-:status: published
+:status: draft
 
 As the strains of John Williams' score waft from the speakers, and the
 1977 edition of the opening text scrolls by...

@@ -5,7 +5,7 @@ Lest their sacrifices be forgotten.
 :category: Events
 :tags: Events
 :slug: lest-their-sacrifices-be-forgotten
-:status: published
+:status: draft
 
 |Poppy and barbed wire|\ Because too many people choose to forget.
 

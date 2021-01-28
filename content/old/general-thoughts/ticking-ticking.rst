@@ -5,7 +5,7 @@ Ticking, ticking...
 :category: General Thoughts
 :tags: Friends, moving
 :slug: ticking-ticking
-:status: published
+:status: draft
 
 I've been getting prepped for the move. Only a few days left, then we're
 in!

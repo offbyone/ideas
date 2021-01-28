@@ -5,7 +5,7 @@ Tired
 :category: General Thoughts
 :tags: char, lord of the rings
 :slug: tired
-:status: published
+:status: draft
 
 I'm tired...
 

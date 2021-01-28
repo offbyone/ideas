@@ -5,7 +5,7 @@ Ah-What?
 :category: Asides
 :tags: apple, good news, warranty
 :slug: ah-what
-:status: published
+:status: draft
 
 We all know how painful warranty work can be; it's never in the
 company's immediate economic interest to give a good goddamn about sales

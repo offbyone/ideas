@@ -5,7 +5,7 @@ The weird, wild world of funeral auctions
 :category: Internet
 :tags: Internet
 :slug: the-weird-wild-world-of-funeral-auctions
-:status: published
+:status: draft
 
 `Dan Savage <http://www.thestranger.com/current/savage.html>`__, easily
 one of the best sex advice columnists out there, just went out and

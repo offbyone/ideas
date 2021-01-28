@@ -5,7 +5,7 @@ Carefully-chosen Title
 :category: Internet
 :tags: Internet
 :slug: carefully-chosen-title
-:status: published
+:status: draft
 
 Found on Salon.com (you have to view a short ad to check it out, but
 it's worth it) is a `confession of a semi-successful

@@ -5,7 +5,7 @@ Crap
 :category: Asides
 :tags: Look at you hacker a pathetic creature of meat and bone
 :slug: crap
-:status: published
+:status: draft
 
 Well, [there](http://www.2kgames.com/bioshock/) went any hope of
 productive evenings...

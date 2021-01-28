@@ -5,7 +5,7 @@ Surprise, Surprise...
 :category: General Thoughts
 :tags: book, doodads, gift-giving, gifts, Projects
 :slug: surprise-surprise
-:status: published
+:status: draft
 
 Although it will no doubt come as a surprise to some (all?) of my
 readers, I haven't been giving too much thought to my upcoming birthday,

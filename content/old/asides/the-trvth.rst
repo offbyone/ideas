@@ -5,7 +5,7 @@ The Trvth
 :category: Asides, General Thoughts
 :tags: quote
 :slug: the-trvth
-:status: published
+:status: draft
 
 | > The third-rate mind is only happy when it is thinking with the
   majority.

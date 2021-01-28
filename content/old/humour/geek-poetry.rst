@@ -5,7 +5,7 @@ Geek Poetry
 :category: Humour
 :tags: Humour
 :slug: geek-poetry
-:status: published
+:status: draft
 
 If you can read these without help, may the gods of geekdom have mercy
 on your soul. If you can't, read the extended entry for help :)

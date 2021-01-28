@@ -5,7 +5,7 @@ Due to Due Dates
 :category: General Thoughts
 :tags: school
 :slug: due-to-due-dates
-:status: published
+:status: draft
 
 School is hitting me hard today. Lots due, lots of work.
 

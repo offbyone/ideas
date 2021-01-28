@@ -5,7 +5,7 @@ Mo' money!
 :category: Internet
 :tags: Internet
 :slug: mo-money
-:status: published
+:status: draft
 
 `The Misanthropic
 Bitch <http://www.misanthropic-bitch.com/mymoney.html>`__ has pretty

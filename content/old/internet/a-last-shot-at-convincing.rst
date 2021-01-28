@@ -5,7 +5,7 @@ A last shot at convincing
 :category: Internet, Rants
 :tags: Internet, Rants
 :slug: a-last-shot-at-convincing
-:status: published
+:status: draft
 
 I know I harp on this one a lot, but perhaps
 "this":http://isc.incidents.org/diary.php?date=2004-06-29 will scare the

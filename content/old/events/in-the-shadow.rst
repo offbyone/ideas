@@ -5,7 +5,7 @@ In the shadow
 :category: Events
 :tags: space
 :slug: in-the-shadow
-:status: published
+:status: draft
 
 [They](http://en.wikipedia.org/wiki/Harrison\_Schmitt)
 [look](http://en.wikipedia.org/wiki/Eugene\_Andrew\_Cernan)

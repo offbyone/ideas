@@ -5,7 +5,7 @@ How Will You React?
 :category: General Thoughts
 :tags: blame, finger-pointing, Media, Rants, society, voyeurism
 :slug: how-will-you-react
-:status: published
+:status: draft
 
 What's next?
 

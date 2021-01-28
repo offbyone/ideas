@@ -5,7 +5,7 @@ Arrr!
 :category: Events
 :tags: Events
 :slug: arrr
-:status: published
+:status: draft
 
 It be `Talk like a pirate day <http://www.thomasscott.net/yarr/>`__ so i
 hope ye scurvy scallywags have got the manly bits to go out into the

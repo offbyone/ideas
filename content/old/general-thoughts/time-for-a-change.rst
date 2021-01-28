@@ -5,7 +5,7 @@ Time for a change
 :category: General Thoughts
 :tags: cats, moving, school
 :slug: time-for-a-change
-:status: published
+:status: draft
 
 Well, it's official.
 

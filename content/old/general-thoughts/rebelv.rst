@@ -5,7 +5,7 @@ Rebel(v)
 :category: General Thoughts, Internet, Media, Rants
 :tags: Internet, Media, Rants
 :slug: rebelv
-:status: published
+:status: draft
 
 **a** **:** to act in or show opposition or disobedience <*rebelled*
 against the conventions of polite society> **b** **:** to feel or

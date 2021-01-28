@@ -5,7 +5,7 @@ This stinks!
 :category: General Thoughts
 :tags: cleaning, smell
 :slug: this-stinks
-:status: published
+:status: draft
 
 As all you reader-like folks recall, we've had some nasty weather of
 late, culminating in the flooding of our lovely home's basement.

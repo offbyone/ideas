@@ -5,7 +5,7 @@ To Know Me
 :category: Asides, Friends, General Thoughts
 :tags: Asides, Friends
 :slug: to-know-me
-:status: published
+:status: draft
 
 Yeah, or something like that, anyway.
 

@@ -5,7 +5,7 @@ I Don't Want to Get My Hopes Up, but...
 :category: Events, General Thoughts
 :tags: Events, space
 :slug: i-dont-want-to-get-my-hopes-up-but
-:status: published
+:status: draft
 
 `President Bush Announces New Vision for Space Exploration
 Program <http://www.whitehouse.gov/news/releases/2004/01/20040114-1.html>`__

@@ -4,7 +4,7 @@ Enterprise
 :author: offby1
 :category: Uncategorized
 :slug: enterprise
-:status: published
+:status: draft
 
 .. raw:: html
 

@@ -5,7 +5,7 @@ So much for walking
 :category: Events, Internet, Media
 :tags: Events, Internet, Media
 :slug: so-much-for-walking
-:status: published
+:status: draft
 
 |The Death of Superman|
 

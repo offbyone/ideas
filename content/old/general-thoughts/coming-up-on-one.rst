@@ -5,7 +5,7 @@ Coming up on one!
 :category: General Thoughts
 :tags: school
 :slug: coming-up-on-one
-:status: published
+:status: draft
 
 | The end of my first semester is fast approaching, and i have to say, i
   couldn't be happier. And by that i don't mean happy that the semester

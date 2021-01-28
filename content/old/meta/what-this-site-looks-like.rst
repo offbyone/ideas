@@ -5,7 +5,7 @@ What this site looks like
 :category: Meta
 :tags: Meta
 :slug: what-this-site-looks-like
-:status: published
+:status: draft
 
 God DAMN, differing CSS implementations piss me off. To those of you
 using a standards-compliant browser (ie: not IE), this site should look

@@ -5,7 +5,7 @@ About confidence
 :category: Events, Media, Rants
 :tags: Events, Media, Rants
 :slug: about-confidence
-:status: published
+:status: draft
 
 As a few of you already know, a reasonably serious non-confidence motion
 was brought forward \_and passed\_ in our parliament yesterday.

@@ -5,7 +5,7 @@ East
 :category: General Thoughts
 :tags: char, weather
 :slug: east
-:status: published
+:status: draft
 
 Having arrived easterly now in grand ole Winnipeg, I now settle into the
 serious business of relaxing for a few days.

@@ -5,7 +5,7 @@ Planning on a night out
 :category: General Thoughts
 :tags: bar, beer
 :slug: planning-on-a-night-out
-:status: published
+:status: draft
 
 Beau is over (and cooking) and we're planning on a night of, well... I'm
 not reallly sure. But, it'll be out of the house, and it'll involve a

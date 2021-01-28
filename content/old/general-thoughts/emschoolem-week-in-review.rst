@@ -5,7 +5,7 @@ School week in review
 :category: General Thoughts
 :tags: school
 :slug: emschoolem-week-in-review
-:status: published
+:status: draft
 
 Things i learned this week:
 

@@ -5,7 +5,7 @@ Hey, guess what!
 :category: Friends, General Thoughts, Projects
 :tags: Friends, Projects, work
 :slug: hey-guess-what
-:status: published
+:status: draft
 
 I'm not dead, after all.
 

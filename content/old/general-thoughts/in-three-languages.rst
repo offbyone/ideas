@@ -5,7 +5,7 @@ In three languages?
 :category: General Thoughts
 :tags: Friends, Media, philosophy, school, work
 :slug: in-three-languages
-:status: published
+:status: draft
 
 Well, not so much. But I really do have nothing to say.
 

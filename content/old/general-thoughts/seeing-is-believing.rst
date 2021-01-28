@@ -5,7 +5,7 @@ Seeing is Believing
 :category: General Thoughts, Rants
 :tags: intellectual property, privacy, Rants
 :slug: seeing-is-believing
-:status: published
+:status: draft
 
 Spurred by a random comment from a co-worker of mine last night during a
 post-work wings & beer gathering, I decided today to look into the

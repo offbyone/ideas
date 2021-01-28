@@ -5,7 +5,7 @@ Proof that capitalism is the greatest
 :category: General Thoughts
 :tags: food, Humour, nietzsche, will-to-power
 :slug: proof-that-capitalism-is-the-greatest
-:status: published
+:status: draft
 
 I have here incontrovertible proof that our economic system, which
 allows a nearly-infinite variety of consumer goods, many of which are

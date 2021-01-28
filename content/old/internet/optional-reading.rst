@@ -5,7 +5,7 @@ Optional Reading
 :category: Internet
 :tags: askmetafilter, book, consume
 :slug: optional-reading
-:status: published
+:status: draft
 
 On a significantly lighter note, here's a place you can go when you run
 out of books to read:

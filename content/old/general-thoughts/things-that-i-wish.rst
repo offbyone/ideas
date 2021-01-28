@@ -5,7 +5,7 @@ Things that I wish
 :category: General Thoughts, Rants
 :tags: Rants
 :slug: things-that-i-wish
-:status: published
+:status: draft
 
 Okay, \_thing\_ that I wish.
 

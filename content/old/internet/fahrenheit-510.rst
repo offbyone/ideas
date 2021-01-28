@@ -5,7 +5,7 @@ Fahrenheit 5/10
 :category: Internet, Media
 :tags: Internet, Media
 :slug: fahrenheit-510
-:status: published
+:status: draft
 
 For an actually \_balanced\_ view of the Fahrenheit 9/11 hype and bull,
 I recommend that you see `this

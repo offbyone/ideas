@@ -5,7 +5,7 @@ Dangerous Terms
 :category: General Thoughts, Internet
 :tags: intellectual property, Internet, privacy
 :slug: dangerous-terms
-:status: published
+:status: draft
 
 I just had my attention brought to the EFF(Electronic Freedoms
 Foundation)'s `User's Guide to EULA(End-User License

@@ -5,7 +5,7 @@ Double-wides and Late Night Shopping
 :category: General Thoughts
 :tags: bah-humbug, crowds, walmart
 :slug: double-wides-and-late-night-shopping
-:status: published
+:status: draft
 
 Jebus.
 

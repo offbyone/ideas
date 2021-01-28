@@ -5,7 +5,7 @@ I'm Done
 :category: Events
 :tags: completion, good news, school, work
 :slug: im-done
-:status: published
+:status: draft
 
 Sweet zombie Jebus, I'm \_done\_!
 

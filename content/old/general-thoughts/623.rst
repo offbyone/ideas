@@ -5,7 +5,7 @@ You're a threat, too.
 :category: General Thoughts
 :tags: music, paranoia, privacy, sick, surveillance
 :slug: 623
-:status: published
+:status: draft
 
 | > If you've done nothing wrong, you've got nothing to fear
 | > If you've something to hide, you shouldn't even be here

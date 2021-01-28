@@ -5,7 +5,7 @@ if (hockey.localTeam().wins()) { horn.honk(State.LIKE_MAD); }
 :category: Events, General Thoughts
 :tags: Events
 :slug: if-hockeylocalteamwins-hornhonkstatelike_mad
-:status: published
+:status: draft
 
 Jesus, this can be a loud town. Every time I think that the noise level
 is going to die down, my stereo *in the house* is drowned out by the

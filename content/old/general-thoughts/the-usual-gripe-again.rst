@@ -5,7 +5,7 @@ The usual gripe again...
 :category: General Thoughts
 :tags: school
 :slug: the-usual-gripe-again
-:status: published
+:status: draft
 
 Well, five days to go on my essay... Bah.
 

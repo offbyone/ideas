@@ -5,7 +5,7 @@ Week (so far) in review
 :category: General Thoughts
 :tags: failure, health
 :slug: week-so-far-in-review
-:status: published
+:status: draft
 
 Well, it's been a hell of a week so far. Let's see what the tally is at:
 

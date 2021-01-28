@@ -5,7 +5,7 @@ Belated, I Update.
 :category: Events, Friends, General Thoughts
 :tags: Events, Friends, school, work
 :slug: belated-i-update
-:status: published
+:status: draft
 
 Whoops. I really, really meant to do some writing before this, but I
 guess it just kind of slipped my mind. I \_have\_ been pretty busy this

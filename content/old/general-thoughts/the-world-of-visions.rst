@@ -5,7 +5,7 @@ The world of visions
 :category: General Thoughts, Media
 :tags: Media
 :slug: the-world-of-visions
-:status: published
+:status: draft
 
 So I saw \_Sky Captain and the World of Tomorrow\_ yesterday evening
 with [Char](http://xraystar.livejournal.com) out in a suburb of the city

@@ -5,7 +5,7 @@ A step past
 :category: General Thoughts
 :tags: school
 :slug: a-step-past
-:status: published
+:status: draft
 
 It was around seven years ago this time, at least in terms of course
 outlines, that i essentially gave up on making any progress in school.

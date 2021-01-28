@@ -5,7 +5,7 @@ A question of freedom.
 :category: Asides, General Thoughts
 :tags: debate, freedom, philosophy
 :slug: a-question-of-freedom
-:status: published
+:status: draft
 
 Seen on a forum today:
 

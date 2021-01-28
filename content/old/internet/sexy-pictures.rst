@@ -5,7 +5,7 @@ Sexy Pictures
 :category: Internet
 :tags: erotica, pornography, sex
 :slug: sexy-pictures
-:status: published
+:status: draft
 
 Although this link is NSFW, and also NSFPrudes, I kind of like it.
 

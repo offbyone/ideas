@@ -5,7 +5,7 @@ A long week.
 :category: Friends, General Thoughts
 :tags: Friends
 :slug: a-long-week
-:status: published
+:status: draft
 
 This week has been pretty stressful all around, but in the last few
 days, thanks in no small part to Char, I've been feeling more relaxed.

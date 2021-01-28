@@ -5,7 +5,7 @@ Highs, Lows
 :category: Rants
 :tags: liberty, privacy, racism, security theatre, terrorism
 :slug: highs-lows
-:status: published
+:status: draft
 
 In contrast to my [last post](/backlog/2008/02/05/unbridled-optimism/),
 this one is a bit less perky.

@@ -5,7 +5,7 @@ The Weekender
 :category: General Thoughts
 :tags: family, health, memory lane
 :slug: the-weekender
-:status: published
+:status: draft
 
 Schlepped up to see the parental units this weekend, bringing Char and
 Simon along with me, with every intention of adding several pounds to my

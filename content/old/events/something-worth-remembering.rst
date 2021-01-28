@@ -5,7 +5,7 @@ Something worth remembering
 :category: Events
 :tags: Events
 :slug: something-worth-remembering
-:status: published
+:status: draft
 
 I only learned of this incident maybe three months ago, but it really
 struck me: `Ignoring the orders of the

@@ -5,7 +5,7 @@
 :category: Events
 :tags: obituary, science fiction
 :slug: when-all-other-lights-go-out
-:status: published
+:status: draft
 
 In the later hours of this day, Arthur C. Clarke -- creator and muse --
 ended 90 years of looking past the stars in order to share with us the

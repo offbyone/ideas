@@ -5,7 +5,7 @@ Gmail Goodness
 :category: Internet
 :tags: Internet
 :slug: gmail-goodness
-:status: published
+:status: draft
 
 Well, I was pretty leery at first -- I'm not a big fan of web-based
 e-mail, and I really didn't expect "Gmail":http://www.gmail.com/ to be

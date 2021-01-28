@@ -5,7 +5,7 @@ Round one done
 :category: General Thoughts
 :tags: school
 :slug: round-one-done
-:status: published
+:status: draft
 
 Midterms - the first pass of them, at any rate - are done. Woo!
 

@@ -5,7 +5,7 @@ We've set them free...
 :category: General Thoughts, Meta
 :tags: Meta
 :slug: weve-set-them-free
-:status: published
+:status: draft
 
 Does that mean we *want* them to come back?
 

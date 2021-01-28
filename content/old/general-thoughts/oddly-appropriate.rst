@@ -5,7 +5,7 @@ Oddly Appropriate
 :category: General Thoughts, Internet, Meta
 :tags: autism
 :slug: oddly-appropriate
-:status: published
+:status: draft
 
 /me blows the dust off
 

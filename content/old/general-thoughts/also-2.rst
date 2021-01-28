@@ -5,7 +5,7 @@ Also
 :category: General Thoughts
 :tags: fuck telus, moving
 :slug: also-2
-:status: published
+:status: draft
 
 At last, our phone was hooked up today. Net cost to
 [Char](http://xraystar.livejournal.com) and I? $0.

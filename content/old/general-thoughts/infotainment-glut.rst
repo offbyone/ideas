@@ -5,7 +5,7 @@ Infotainment Glut
 :category: General Thoughts, Internet, Media, Rants
 :tags: Internet, Media, Rants
 :slug: infotainment-glut
-:status: published
+:status: draft
 
 A story on Wired News entitled "`Stop Trying to Persuade
 Us <http://www.wired.com/news/culture/0,1284,65640,00.html>`__" should

@@ -5,7 +5,7 @@ Chitty Chitty Bye Bye
 :category: General Thoughts
 :tags: cats, goodbye
 :slug: chitty-chitty-bye-bye
-:status: published
+:status: draft
 
 She was the first cat I'd ever held that actually went for my eyes; by
 \_god\_ did she hate me.

@@ -5,7 +5,7 @@ This man is a cancer
 :category: Events, Internet, Media, Rants
 :tags: Events, free speech, freedom, Internet, Media, Rants
 :slug: this-man-is-a-cancer
-:status: published
+:status: draft
 
 I'm getting a bit fed up with all of the people who don't understand the
 concept of freedom of speech.

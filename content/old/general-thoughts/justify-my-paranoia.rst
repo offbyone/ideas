@@ -5,7 +5,7 @@ Justify my paranoia?
 :category: General Thoughts, Internet
 :tags: intellectual property, Internet, privacy
 :slug: justify-my-paranoia
-:status: published
+:status: draft
 
 This "just
 in":http://www.apcmag.com/apc/v3.nsf/0/07A1C8CA269E79B5CA256FA1000F9763:

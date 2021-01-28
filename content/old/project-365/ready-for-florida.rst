@@ -5,7 +5,7 @@ Ready for Florida
 :category: Project 365
 :tags: char, project 365, vacation
 :slug: ready-for-florida
-:status: published
+:status: draft
 
 .. raw:: html
 

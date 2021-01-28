@@ -5,7 +5,7 @@ Close to my (predatory?) heart
 :category: Internet, Media, Rants
 :tags: family, fear, paranoia, society
 :slug: close-to-my-predatory-heart
-:status: published
+:status: draft
 
 Two articles in the Wall Street Journal, one titled [Are We Teaching Our
 Kids To Be Fearful of

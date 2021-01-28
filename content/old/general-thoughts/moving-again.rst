@@ -5,7 +5,7 @@ Moving again.
 :category: General Thoughts
 :tags: moving
 :slug: moving-again
-:status: published
+:status: draft
 
 As seen over on [Char](http://xraystar.livejournal.com)'s weblog, we're
 moving again.

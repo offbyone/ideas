@@ -5,7 +5,7 @@ Alive
 :category: General Thoughts
 :tags: games, work
 :slug: alive
-:status: published
+:status: draft
 
 Well, my computer is fixed, although I'm a bit nonplussed; the
 performance on it seems poorer, and the fan is running faster. I'm not

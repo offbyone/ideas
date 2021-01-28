@@ -5,7 +5,7 @@ And... ashes
 :category: Asides, General Thoughts, Media
 :tags: Asides, Media
 :slug: and-ashes
-:status: published
+:status: draft
 
 [Char](http://xraystar.livejournal.com) and I are, more or less,
 settling in. We've still got a state of total chaos in the kitchen, but

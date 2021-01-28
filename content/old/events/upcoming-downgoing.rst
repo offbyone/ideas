@@ -5,7 +5,7 @@ Upcoming, Downgoing
 :category: Events, Friends, General Thoughts, Meta
 :tags: Events, Friends, Meta
 :slug: upcoming-downgoing
-:status: published
+:status: draft
 
 So, I dropped off the deposits for the three people who have confirmed
 that they're coming jumping with me next weekend:

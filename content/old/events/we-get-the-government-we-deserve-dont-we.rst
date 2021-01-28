@@ -5,7 +5,7 @@ We get the government we deserve, don't we?
 :category: Events, Media, Rants
 :tags: Events, Media, Rants
 :slug: we-get-the-government-we-deserve-dont-we
-:status: published
+:status: draft
 
 As should be
 `known <http://www.cbc.ca/stories/2004/06/29/canada/elxn_wrap040629>`__

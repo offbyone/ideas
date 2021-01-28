@@ -5,7 +5,7 @@ Time of Day
 :category: General Thoughts
 :tags: art, beauty
 :slug: time-of-day
-:status: published
+:status: draft
 
 Much has been written and painted of the awe-inspiring beauty of sunsets
 over the years, mostly by people with greater ability than I.

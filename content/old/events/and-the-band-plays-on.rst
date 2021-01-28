@@ -5,7 +5,7 @@
 :category: Events, Meta
 :tags: future, Meta, pregnancy
 :slug: and-the-band-plays-on
-:status: published
+:status: draft
 
 Well, it looks like I've got more reason to write than ever before. And
 I thought that \_going back to school\_ was going to be a big deal and

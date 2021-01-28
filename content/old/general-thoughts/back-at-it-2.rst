@@ -5,7 +5,7 @@ Back at it
 :category: General Thoughts
 :tags: work
 :slug: back-at-it-2
-:status: published
+:status: draft
 
 It should come as no surprise to anyone that I'm going to enjoy being
 back at work. It's not to say that I've not been enjoying being off,

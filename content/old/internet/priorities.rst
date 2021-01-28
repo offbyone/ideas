@@ -5,7 +5,7 @@ Priorities
 :category: Internet
 :tags: Internet
 :slug: priorities
-:status: published
+:status: draft
 
 Amongst others, `Wil
 Wheaton <http://www.wilwheaton.net/mt/archives/001479.php#001479>`__ has

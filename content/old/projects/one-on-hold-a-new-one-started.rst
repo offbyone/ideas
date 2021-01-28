@@ -5,7 +5,7 @@ One on hold, a new one started
 :category: Projects
 :tags: Projects
 :slug: one-on-hold-a-new-one-started
-:status: published
+:status: draft
 
 Well, that IDE project that has been languishing untouched on the
 sidebar for ages is about to get, well, turfed. Toast.

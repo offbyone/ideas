@@ -5,7 +5,7 @@ Grumble...
 :category: Friends, General Thoughts, Projects
 :tags: Friends, Projects, school, work
 :slug: grumble
-:status: published
+:status: draft
 
 Well, no news on the legal rights front -- my queries to Ask.Metafilter
 went well-answered, but the message I sent to the CCLA didn't get me any

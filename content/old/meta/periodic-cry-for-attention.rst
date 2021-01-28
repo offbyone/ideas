@@ -5,6 +5,6 @@ Periodic cry for attention...
 :category: Meta
 :tags: Meta
 :slug: periodic-cry-for-attention
-:status: published
+:status: draft
 
 I have to ask -- it's been a few posts, is comment posting broken?

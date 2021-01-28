@@ -5,7 +5,7 @@ Stylings
 :category: Meta
 :tags: Meta
 :slug: stylings
-:status: published
+:status: draft
 
 This is a bit of an informal poll to see what style for the site you
 readers like best. Please, check them all out (in the drop box to the

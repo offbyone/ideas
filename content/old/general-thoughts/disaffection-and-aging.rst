@@ -5,7 +5,7 @@ Disaffection and Aging
 :category: General Thoughts
 :tags: char, introspection, Media, memory lane
 :slug: disaffection-and-aging
-:status: published
+:status: draft
 
 I'm getting old.
 

@@ -5,7 +5,7 @@ On Incompleteness
 :category: Internet, Media
 :tags: Internet, Media, Science
 :slug: on-incompleteness
-:status: published
+:status: draft
 
 Stumbled upon this
 `interview <http://www.butterfliesandwheels.com/articleprint.php?num=116>`__

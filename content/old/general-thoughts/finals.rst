@@ -5,7 +5,7 @@ Finals
 :category: General Thoughts
 :tags: school
 :slug: finals
-:status: published
+:status: draft
 
 Although it's obviously no longer the focus of this little piece of the
 web, I \_do\_ have my final grades in for my courses for this semester:

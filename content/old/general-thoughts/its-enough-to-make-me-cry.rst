@@ -5,7 +5,7 @@ It's enough to make me cry
 :category: General Thoughts, Rants
 :tags: Rants
 :slug: its-enough-to-make-me-cry
-:status: published
+:status: draft
 
 Just half an hour ago, the server upon which I have stored all my e-mail
 for years back, all my source code for the same, and in which I have

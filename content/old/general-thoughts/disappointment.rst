@@ -5,7 +5,7 @@ Disappointment
 :category: General Thoughts
 :tags: disappointment, memory lane, primitive superstition, religion
 :slug: disappointment
-:status: published
+:status: draft
 
 I had a peculiarly disappointing day yesterday. Not the whole day, but a
 part of it really shook my faith in the ability of people to grow in a

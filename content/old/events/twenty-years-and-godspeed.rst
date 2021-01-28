@@ -5,7 +5,7 @@ Twenty Years, and Godspeed
 :category: Events
 :tags: Events, history, mourning, space
 :slug: twenty-years-and-godspeed
-:status: published
+:status: draft
 
 On this day, twenty years ago, seven of the best and brightest vanished
 from the world in a flash of light.

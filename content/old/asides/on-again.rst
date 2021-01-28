@@ -5,7 +5,7 @@ On again,
 :category: Asides, General Thoughts
 :tags: Asides, work
 :slug: on-again
-:status: published
+:status: draft
 
 Finally, a working primary PC.
 

@@ -5,7 +5,7 @@ Eternal Truths
 :category: Internet
 :tags: Internet
 :slug: eternal-truths
-:status: published
+:status: draft
 
 .. raw:: html
 

@@ -5,7 +5,7 @@ Irk
 :category: General Thoughts
 :tags: school
 :slug: irk
-:status: published
+:status: draft
 
 I spent almost 8 hours yesterday fighting with what \_should\_ have been
 a ridiculously simple algorithm for [heuristic

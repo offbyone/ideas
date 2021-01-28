@@ -5,7 +5,7 @@ Lining Them Up...
 :category: Asides, General Thoughts
 :tags: Asides, school, work
 :slug: lining-them-up
-:status: published
+:status: draft
 
 Getting the last few courses out of the way is, strangely, shaping up to
 be somewhat unsatisfying. I can't seem to shake the desire to phone in

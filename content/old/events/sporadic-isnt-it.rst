@@ -5,7 +5,7 @@ Sporadic, isn't it?
 :category: Events, General Thoughts, Internet, Meta, Projects
 :tags: Events, Internet, Meta, Projects
 :slug: sporadic-isnt-it
-:status: published
+:status: draft
 
 Yeah, I'm a bit poor at the posting, lately.
 

@@ -5,7 +5,7 @@ Spam in the comments
 :category: Meta
 :tags: Meta
 :slug: spam-in-the-comments
-:status: published
+:status: draft
 
 Although the offenses in question have more or less confined themselves
 to entries farther down the homepage, I've been getting spammed a few

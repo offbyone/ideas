@@ -5,7 +5,7 @@ Musings on the Modern Modus Operandi
 :category: General Thoughts, Internet, Media
 :tags: censorship, culture, gaming, Internet, islam, parenting, religion
 :slug: musings-on-the-modern-modus-operandi
-:status: published
+:status: draft
 
 This is a bit of a catch-all posting; I've been entertained by a few of
 the things I've seen recently, enraged by others, and figured I would

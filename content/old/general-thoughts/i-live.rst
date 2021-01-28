@@ -5,7 +5,7 @@ I live!
 :category: General Thoughts
 :tags: work
 :slug: i-live
-:status: published
+:status: draft
 
 Sorta.
 

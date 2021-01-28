@@ -5,7 +5,7 @@ A most peculiar kind of art
 :category: Internet
 :tags: Internet
 :slug: a-most-peculiar-kind-of-art
-:status: published
+:status: draft
 
 `Inversions <http://www.scottkim.com/inversions/index.html>`__ are a
 kind of art that involves a visual play on words - Scott Kim, the artist

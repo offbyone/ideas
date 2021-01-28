@@ -5,7 +5,7 @@ Sexual Politics in the age of Girls Gone Wild
 :category: Rants
 :tags: Rants
 :slug: sexual-politics-in-the-age-of-girls-gone-wild
-:status: published
+:status: draft
 
 There's an "article (What part of no do ya still not
 understand?)":http://www.laweekly.com/ink/03/53/features-lewis.php on

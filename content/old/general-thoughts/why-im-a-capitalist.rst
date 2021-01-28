@@ -5,7 +5,7 @@ Why I'm a Capitalist
 :category: General Thoughts
 :tags: capitalism, dependency, isms, musings, strike
 :slug: why-im-a-capitalist
-:status: published
+:status: draft
 
 Dependency.
 

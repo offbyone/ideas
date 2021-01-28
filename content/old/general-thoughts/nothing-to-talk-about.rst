@@ -5,7 +5,7 @@ Nothing to talk about
 :category: General Thoughts
 :tags: school
 :slug: nothing-to-talk-about
-:status: published
+:status: draft
 
 Faugh.
 

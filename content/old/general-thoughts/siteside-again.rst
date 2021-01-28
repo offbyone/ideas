@@ -5,7 +5,7 @@ Siteside again
 :category: General Thoughts, Meta
 :tags: Meta, school
 :slug: siteside-again
-:status: published
+:status: draft
 
 First, apologies for the lack of real updates. Tomorrow I finish exams,
 and then I'll be back to posting.

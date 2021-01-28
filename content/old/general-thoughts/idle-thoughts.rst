@@ -5,7 +5,7 @@ Idle thoughts
 :category: General Thoughts
 :tags: art, edmonton, graffitti
 :slug: idle-thoughts
-:status: published
+:status: draft
 
 While my hands have not been overly idle -- I've been worked like a dog,
 really -- I've had a bit of time walking to and from the office to do

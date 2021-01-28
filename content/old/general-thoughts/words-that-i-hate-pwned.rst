@@ -5,7 +5,7 @@ Words that I hate:  Pwned
 :category: General Thoughts
 :tags: words that I hate
 :slug: words-that-i-hate-pwned
-:status: published
+:status: draft
 
 Oh, *god* how I hate the verbal abortion that is gamer-speak. All
 aspects, facets, wrinkles, and sides. Every form and nuance -- to the

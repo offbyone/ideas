@@ -5,7 +5,7 @@ Permanent Damage
 :category: General Thoughts
 :tags: bad news, dislocation, health, skydiving
 :slug: permanent-damage
-:status: published
+:status: draft
 
 I got a phone call from my physician on Wednesday in which he told me
 that the MRI I had indicated cartilage damage in the shoulder, and that

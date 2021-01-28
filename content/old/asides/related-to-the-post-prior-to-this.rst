@@ -5,7 +5,7 @@ Related to the post prior to this
 :category: Asides, Internet, Media
 :tags: Asides, Internet, Media
 :slug: related-to-the-post-prior-to-this
-:status: published
+:status: draft
 
 The annual [Jefferson Muzzle](http://www.tjcenter.org/past2005.html)
 awards for 2005 came out a short time ago.

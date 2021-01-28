@@ -5,7 +5,7 @@ Post Slug
 :category: Asides, Friends, General Thoughts
 :tags: Asides, Friends, school
 :slug: post-slug
-:status: published
+:status: draft
 
 Ye heavenly hosts, I am undermotivated today.
 

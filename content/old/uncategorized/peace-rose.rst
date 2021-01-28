@@ -4,7 +4,7 @@ Peace Rose
 :author: offby1
 :category: Uncategorized
 :slug: peace-rose
-:status: published
+:status: draft
 
 .. raw:: html
 

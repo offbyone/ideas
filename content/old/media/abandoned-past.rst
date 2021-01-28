@@ -5,7 +5,7 @@ Abandoned Past
 :category: Media
 :tags: Comics, dystopia, melancholy, science fiction, Transmetropolitan, Warren Ellis
 :slug: abandoned-past
-:status: published
+:status: draft
 
 There's a comic book called \_Transmetropolitan\_... a book for which
 the words "comic book" are insufficient to convey the quality of the

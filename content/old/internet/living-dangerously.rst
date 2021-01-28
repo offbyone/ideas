@@ -5,7 +5,7 @@ Living Dangerously
 :category: Internet
 :tags: Internet
 :slug: living-dangerously
-:status: published
+:status: draft
 
 If only the north american ads would be like
 `this <http://www.playingsafely.co.uk/12stisofchristmas/12-STIs.html>`__.

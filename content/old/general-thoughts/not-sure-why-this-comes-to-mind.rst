@@ -5,7 +5,7 @@ Not sure why this comes to mind
 :category: General Thoughts, Internet, Rants
 :tags: Internet, Rants
 :slug: not-sure-why-this-comes-to-mind
-:status: published
+:status: draft
 
 In a posting on slashdot about "tired.com":http://www.tired.com (via
 `Slate <http://slate.msn.com/id/2103823/>`__) and the confessional

@@ -5,7 +5,7 @@ If I were a praying man...
 :category: Humour, Internet
 :tags: Humour, Internet
 :slug: if-i-were-a-praying-man
-:status: published
+:status: draft
 
 From the net.humour namespace:
 

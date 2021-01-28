@@ -5,7 +5,7 @@ Summarize
 :category: Friends, General Thoughts
 :tags: Friends, school, work
 :slug: summarize
-:status: published
+:status: draft
 
 Well...
 

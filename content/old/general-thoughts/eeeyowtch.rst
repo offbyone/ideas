@@ -5,7 +5,7 @@ Eeeyowtch!
 :category: General Thoughts
 :tags: dislocation, skydiving
 :slug: eeeyowtch
-:status: published
+:status: draft
 
 Christ, dislocating my shoulder **hurt**.
 

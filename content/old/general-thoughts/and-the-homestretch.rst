@@ -5,7 +5,7 @@ And the homestretch
 :category: General Thoughts
 :tags: school
 :slug: and-the-homestretch
-:status: published
+:status: draft
 
 Finals start today - with the (un)notable exception of a pair of lab
 finals. Just got back from my Math114 final - Calculus I. It's not

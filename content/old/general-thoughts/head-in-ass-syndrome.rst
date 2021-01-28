@@ -5,7 +5,7 @@ Head in ass syndrome
 :category: General Thoughts
 :tags: school
 :slug: head-in-ass-syndrome
-:status: published
+:status: draft
 
 So, got my midterm for Math 115 back today. Uh, shit. Yeah, it was that
 bad. I think i just got used to coasting, and did so with this exam too.

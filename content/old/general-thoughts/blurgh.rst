@@ -5,7 +5,7 @@ Blurgh
 :category: General Thoughts
 :tags: apathy, computer, ennui
 :slug: blurgh
-:status: published
+:status: draft
 
 As I write this, I am so ridiculously unmotivated...
 

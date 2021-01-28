@@ -5,7 +5,7 @@ Freaky
 :category: General Thoughts
 :tags: accident, asshole, driving
 :slug: freaky
-:status: published
+:status: draft
 
 So, I just had a close call, driving home from Beau's place.
 

@@ -5,7 +5,7 @@ What's this?
 :category: General Thoughts
 :tags: work
 :slug: whats-this
-:status: published
+:status: draft
 
 Yesterday, just as [Char](http://xraystar.livejournal.com) (who recently
 updated her site -- go read!) was getting set to go to work, I realized

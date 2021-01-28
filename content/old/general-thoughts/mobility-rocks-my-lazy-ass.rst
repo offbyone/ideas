@@ -5,7 +5,7 @@ Mobility rocks my lazy ass!
 :category: General Thoughts
 :tags: char, computer, geeky, wi-fi
 :slug: mobility-rocks-my-lazy-ass
-:status: published
+:status: draft
 
 I gots a laptop! ;)
 

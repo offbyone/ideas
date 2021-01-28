@@ -5,7 +5,7 @@ On the line again
 :category: General Thoughts
 :tags: Internet
 :slug: on-the-line-again
-:status: published
+:status: draft
 
 Well, as this might attest, to those who keep track of my comings and
 goings, i have acheived a state of connectedness here in Mayerthorpe.

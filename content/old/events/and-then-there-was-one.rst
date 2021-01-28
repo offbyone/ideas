@@ -5,7 +5,7 @@ And then there was one...
 :category: Events
 :tags: Events
 :slug: and-then-there-was-one
-:status: published
+:status: draft
 
 Sixteen years. Edmonton last saw the playoff finals in 1990. They won,
 then, in five games. Buffalo, as it happens.

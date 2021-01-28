@@ -5,7 +5,7 @@ First Day
 :category: General Thoughts
 :tags: school
 :slug: first-day
-:status: published
+:status: draft
 
 ... and butterflies like fscking \_elephants\_.
 

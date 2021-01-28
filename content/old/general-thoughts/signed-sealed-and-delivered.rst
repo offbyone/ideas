@@ -5,7 +5,7 @@ Signed, Sealed and Delivered
 :category: General Thoughts
 :tags: school, work
 :slug: signed-sealed-and-delivered
-:status: published
+:status: draft
 
 As of today, I have signed my soul away to the corporate machine. It
 feels \_good\_. I put together the paperwork today, along with such

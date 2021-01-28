@@ -5,7 +5,7 @@
 :category: Meta
 :tags: Meta, school
 :slug: and-good-luck
-:status: published
+:status: draft
 
 Good morning.
 

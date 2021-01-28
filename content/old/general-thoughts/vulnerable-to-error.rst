@@ -5,7 +5,7 @@ Vulnerable to Error
 :category: General Thoughts
 :tags: school
 :slug: vulnerable-to-error
-:status: published
+:status: draft
 
 It's pretty galling to see the simple mistakes that can creep up on one
 in otherwise basic maths. It's not that i don't know how to do things,

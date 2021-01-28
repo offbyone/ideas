@@ -5,7 +5,7 @@ Blah.
 :category: General Thoughts
 :tags: ping
 :slug: blah
-:status: published
+:status: draft
 
 Live goes on. I have nothing to say, and i haven't been reading the
 news, so i have nothing to bitch about. Is there anything going on in

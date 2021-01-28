@@ -5,7 +5,7 @@ Never Again
 :category: General Thoughts
 :tags: history, Remembrance Day
 :slug: never-again
-:status: published
+:status: draft
 
 As is \*de-rigeur\* for this weblog, it's that time of year again, or it
 will be tomorrow.

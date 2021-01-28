@@ -5,7 +5,7 @@ At last, there's one for me!
 :category: General Thoughts, Internet
 :tags: Internet
 :slug: at-last-theres-one-for-me
-:status: published
+:status: draft
 
 Over at `Introvertster <http://www.airbag.ca/introvertster/>`__, i've
 found the social network site for people like me. At last, a group of

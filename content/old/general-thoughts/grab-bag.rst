@@ -5,7 +5,7 @@ Grab bag
 :category: General Thoughts
 :tags: academia, free speech, philosophy, school, truth
 :slug: grab-bag
-:status: published
+:status: draft
 
 I am obliged, upon actually tasting it in a quiet setting, to reverse my
 long-held distaste for Big Rock Traditional Ale. It is, in fact, quite

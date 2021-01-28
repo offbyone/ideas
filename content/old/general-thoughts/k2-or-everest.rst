@@ -5,7 +5,7 @@ K2, or Everest?
 :category: General Thoughts
 :tags: school
 :slug: k2-or-everest
-:status: published
+:status: draft
 
 I've gone and set myself a monumental task, by any standard, i think.
 

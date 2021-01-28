@@ -5,7 +5,7 @@ Civil discourse
 :category: Friends
 :tags: Friends
 :slug: civil-discourse
-:status: published
+:status: draft
 
 Had a great time chatting w/ Matt D. last night, for those of you that
 know him, you'll understand why - he's one of the few people with whom i

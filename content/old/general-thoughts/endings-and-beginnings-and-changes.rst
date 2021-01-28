@@ -5,7 +5,7 @@ Endings and Beginnings and Changes
 :category: General Thoughts
 :tags: Friends, love, memory lane, wedding
 :slug: endings-and-beginnings-and-changes
-:status: published
+:status: draft
 
 I attended the wedding of one of my best friends this weekend... I
 hadn't posted on it sooner, simply because i wasn't quite sure what i

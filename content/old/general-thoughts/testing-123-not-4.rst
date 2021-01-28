@@ -5,7 +5,7 @@ Testing 1,2,3... (not 4)
 :category: General Thoughts
 :tags: school
 :slug: testing-123-not-4
-:status: published
+:status: draft
 
 Three down, one to go. Plus lab exams, of course. Progress, progress.
 

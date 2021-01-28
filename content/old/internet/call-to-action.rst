@@ -5,7 +5,7 @@ Call to action
 :category: Internet, Media
 :tags: Internet, Media
 :slug: call-to-action
-:status: published
+:status: draft
 
 I realize that this is two posts today (a habit that wouldn't kill me to
 keep up with, all told) but here's something you all should see: the

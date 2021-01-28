@@ -5,7 +5,7 @@ Getting Closer
 :category: Events, Friends
 :tags: japan, Projects, school, time, vacation, websphere, work
 :slug: getting-closer
-:status: published
+:status: draft
 
 I've got only three days before Ms. Charlotte and I take off into the
 blue yonder, across the pacific (a first, at least as far as reaching

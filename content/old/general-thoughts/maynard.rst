@@ -5,7 +5,7 @@ Maynard
 :category: General Thoughts, Internet, Media, Rants
 :tags: intellectual property, Internet, Media, obscenity, pornography, privacy, quote, Rants
 :slug: maynard
-:status: published
+:status: draft
 
 Nothing on internet censorship (note: If you're on a Canadian ISP and
 reading this, there are now sites blocked for all Canadians. Right now

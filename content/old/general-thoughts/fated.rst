@@ -5,7 +5,7 @@ Fated
 :category: General Thoughts
 :tags: work
 :slug: fated
-:status: published
+:status: draft
 
 Well, i'm doomed.
 

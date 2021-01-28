@@ -5,7 +5,7 @@ Too long to wait
 :category: Events, General Thoughts
 :tags: Events, space
 :slug: too-long-to-wait
-:status: published
+:status: draft
 
 It's been `thirty
 years <http://home.attbi.com/~danglover/apollo17.htm>`__ since Eugene

@@ -5,7 +5,7 @@ Generosity
 :category: General Thoughts
 :tags: computer, generosity, idiocy
 :slug: generosity
-:status: published
+:status: draft
 
 Well, since my foolishness caused our laptop keyboard to acheive
 b0rkedness (spill dole juice on your keyboard. Observe follies) I've

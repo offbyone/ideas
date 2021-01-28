@@ -5,7 +5,7 @@ Seen today in the news
 :category: Humour, Media
 :tags: batshitinsane, government, ufo
 :slug: seen-today-in-the-news
-:status: published
+:status: draft
 
 I wish I had the memory required to make this a regular feature: I've
 been wanting to do periodic highlights of things I've seen in the

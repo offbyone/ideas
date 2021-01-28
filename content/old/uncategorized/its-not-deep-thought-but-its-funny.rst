@@ -4,7 +4,7 @@ It's not deep thought, but it's funny.
 :author: offby1
 :category: Uncategorized
 :slug: its-not-deep-thought-but-its-funny
-:status: published
+:status: draft
 
 [caption id="attachment\_791" align="alignleft" width="400" caption="O
 hai been scratchin ur records like a dj"]\ |O hai been scratchin ur

@@ -5,7 +5,7 @@ Why not?
 :category: General Thoughts, Internet, Rants
 :tags: intellectual property, Internet, privacy, Rants
 :slug: why-not
-:status: published
+:status: draft
 
 There's a small, nearly invisible war going on down south of us, with
 implications that touch on the cornerstone of any working democracy -

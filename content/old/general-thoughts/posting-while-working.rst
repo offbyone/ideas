@@ -5,7 +5,7 @@ Posting while working
 :category: General Thoughts, Meta
 :tags: Meta, work
 :slug: posting-while-working
-:status: published
+:status: draft
 
 So, i'm working as i type, here. Talking to a paranoid, but
 linguistically-skilled gal, who seems to be able to identify people

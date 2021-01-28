@@ -5,7 +5,7 @@ Flowers for Algernon
 :category: Media
 :tags: Media
 :slug: flowers-for-algernon
-:status: published
+:status: draft
 
 At the suggestion of my subconsious, and in response to a
 recently-unburied memory of having read the story - prodded by Simon's

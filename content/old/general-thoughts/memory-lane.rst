@@ -5,7 +5,7 @@ Memory Lane
 :category: General Thoughts
 :tags: memory lane, piranhas, school, stress, vitriol
 :slug: memory-lane
-:status: published
+:status: draft
 
 It's funny how subtle things can bring memories... or at least fuzzy,
 vague recollections, trickling back into the foreground.

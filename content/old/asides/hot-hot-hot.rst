@@ -5,7 +5,7 @@ Hot, hot, hot.
 :category: Asides
 :tags: random
 :slug: hot-hot-hot
-:status: published
+:status: draft
 
 But, of course, you know that.
 

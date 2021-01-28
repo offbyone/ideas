@@ -5,7 +5,7 @@ Cobwebs Abound
 :category: General Thoughts
 :tags: char, health, school, time, trivia, work
 :slug: cobwebs-abound
-:status: published
+:status: draft
 
 Although it might appear to the casual observer that I am dead, or
 perhaps comatose, I assure you that neither is the case. Rather, I have

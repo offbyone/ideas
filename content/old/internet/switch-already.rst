@@ -5,7 +5,7 @@ Switch, already!
 :category: Internet, Rants
 :tags: Internet, Rants
 :slug: switch-already
-:status: published
+:status: draft
 
 Here's more help for anyone suffering growing pains using the new range
 of browsers:

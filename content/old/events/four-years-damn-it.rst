@@ -5,7 +5,7 @@ Four years, damn it!
 :category: Events, General Thoughts, Internet
 :tags: Events, Internet
 :slug: four-years-damn-it
-:status: published
+:status: draft
 
 After four years of lurking, [MetaFilter](http://www.metafilter.com)
 finally okayed new users again just today. At long last, I'm a

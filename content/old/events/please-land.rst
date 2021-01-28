@@ -5,7 +5,7 @@ Please land...
 :category: Events, General Thoughts
 :tags: Events, space
 :slug: please-land
-:status: published
+:status: draft
 
 Today, a third nation `joined the US and
 USSR <http://story.news.yahoo.com/news?tmpl=story&cid=514&e=4&u=/ap/20031015/ap_on_sc/china_space>`__

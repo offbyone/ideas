@@ -5,7 +5,7 @@ Busy Times
 :category: General Thoughts
 :tags: apple, computer, Look at you hacker a pathetic creature of meat and bone, mac, skydiving, work
 :slug: busy-times
-:status: published
+:status: draft
 
 Well, it's been a busy few weeks here, as evinced by... well, nought, as
 far as you all can tell. I've been lazy with regards to all \_kinds\_ of

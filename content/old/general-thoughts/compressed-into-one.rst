@@ -5,7 +5,7 @@ Compressed into one...
 :category: General Thoughts
 :tags: art, Humour, plays, shakespeare
 :slug: compressed-into-one
-:status: published
+:status: draft
 
 act, the complete works of (the \_non-evil\_) Sir Willy Shakespeare can
 be... energetic. Three Fools Company put on an amusing show consisting

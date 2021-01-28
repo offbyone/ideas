@@ -5,7 +5,7 @@ Classified: Funny
 :category: Humour, Internet
 :tags: aggro, craigslist
 :slug: classified-funny
-:status: published
+:status: draft
 
 Apropos of nothing, here's a few funny Craigslist postings, culled from
 Metafilter:

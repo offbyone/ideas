@@ -5,7 +5,7 @@ This is funny
 :category: Humour, Internet, Media
 :tags: Humour, Internet, Media
 :slug: this-is-funny
-:status: published
+:status: draft
 
 | Just something that caught my eye:
 | |Petard, meet hoist|

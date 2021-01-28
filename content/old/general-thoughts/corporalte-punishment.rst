@@ -5,7 +5,7 @@ Corpora(l|te) punishment.
 :category: General Thoughts, Rants
 :tags: freedom, intellectual property, privacy, Rants
 :slug: corporalte-punishment
-:status: published
+:status: draft
 
 "I believe in the rights of the individual."
 

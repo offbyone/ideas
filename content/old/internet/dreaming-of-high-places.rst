@@ -5,7 +5,7 @@ Dreaming of high places
 :category: Internet
 :tags: Internet
 :slug: dreaming-of-high-places
-:status: published
+:status: draft
 
 I want to direct any of my readers with even a passing interest in space
 to the `Highlift Systems <http://www.highliftsystems.com/>`__ website.

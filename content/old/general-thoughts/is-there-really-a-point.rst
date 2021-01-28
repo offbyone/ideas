@@ -5,7 +5,7 @@ Is there really a point?
 :category: General Thoughts, Internet, Rants
 :tags: intellectual property, Internet, privacy, Rants
 :slug: is-there-really-a-point
-:status: published
+:status: draft
 
 Well, it's more noise, more erosion...
 

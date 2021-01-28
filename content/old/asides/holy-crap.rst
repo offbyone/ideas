@@ -5,7 +5,7 @@ Holy crap
 :category: Asides, General Thoughts, Projects
 :tags: Asides, Projects, work
 :slug: holy-crap
-:status: published
+:status: draft
 
 I forgot I even had this site.
 

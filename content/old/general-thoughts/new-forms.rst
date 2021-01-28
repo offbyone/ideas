@@ -5,7 +5,7 @@ New forms
 :category: General Thoughts
 :tags: school
 :slug: new-forms
-:status: published
+:status: draft
 
 I just stumbled on an interesting `essay on
 cheating <http://www.jnd.org/dn.mss/InDefenseOfCheating.html>`__ by the

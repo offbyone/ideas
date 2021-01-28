@@ -5,7 +5,7 @@ Sad, and Waiting
 :category: Asides, General Thoughts
 :tags: Asides
 :slug: sad-and-waiting
-:status: published
+:status: draft
 
 I just checked my order status page at Apple, and the ship date for my
 laptop was bumped to Feb 28 as of, oh, about an hour ago.

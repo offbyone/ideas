@@ -5,7 +5,7 @@ Conned Out
 :category: General Thoughts
 :tags: eclipse, sick
 :slug: conned-out
-:status: published
+:status: draft
 
 Wow. I'd never have believed it, given the fairly-sedentary nature of a
 software Con, but this is bloody tiring.

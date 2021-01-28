@@ -5,7 +5,7 @@ A review of OmniWeb 5.5, and commentary on polish.
 :category: Internet, Rants
 :tags: Internet, Rants
 :slug: a-review-of-omniweb-55-and-commentary-on-polish
-:status: published
+:status: draft
 
 A few weeks ago, I purchased a license for `OmniWeb
 5.5 <http://www.omnigroup.com/applications/omniweb/>`__ during its beta

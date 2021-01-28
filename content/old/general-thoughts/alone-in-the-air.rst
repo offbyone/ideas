@@ -5,7 +5,7 @@ Alone in the air
 :category: General Thoughts
 :tags: skydiving
 :slug: alone-in-the-air
-:status: published
+:status: draft
 
 With a flutter or two of butterflies in my stomach to keep me company on
 the way up, it is \*done\*! I am now certified to jump solo at the club

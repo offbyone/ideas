@@ -5,7 +5,7 @@ Choice of Words
 :category: General Thoughts, Internet, Rants
 :tags: Internet, Rants, words that I hate
 :slug: choice-of-words
-:status: published
+:status: draft
 
 A `posting <http://www.metafilter.com/mefi/36037>`__ on
 [Metafilter](http://www.metafilter.com/) about words used to describe

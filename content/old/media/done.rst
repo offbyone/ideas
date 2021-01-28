@@ -5,7 +5,7 @@ Done
 :category: Media
 :tags: Media
 :slug: done
-:status: published
+:status: draft
 
 There is no higher praise than this: `They got it
 right <http://www.lordoftherings.net/>`__

@@ -5,7 +5,7 @@ Hell is ... Moving
 :category: General Thoughts
 :tags: moving
 :slug: hell-is-moving-2
-:status: published
+:status: draft
 
 [Char](http://xraystar.livejournal.com),
 [Matt](http://www.offlineblog.com/mildillson/),

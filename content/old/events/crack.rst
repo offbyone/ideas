@@ -5,7 +5,7 @@ Crack
 :category: Events, General Thoughts, Internet
 :tags: Events, intellectual property, Internet, privacy
 :slug: crack
-:status: published
+:status: draft
 
 Esoterica? Pah!
 

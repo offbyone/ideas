@@ -5,7 +5,7 @@ New pony!
 :category: Meta
 :tags: Meta
 :slug: new-pony
-:status: published
+:status: draft
 
 At the bottom (ed: or \_right\_) of each and every single-post page,
 you'll find a new set of links to related posts.

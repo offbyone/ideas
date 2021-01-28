@@ -5,7 +5,7 @@ Wallpaper For The Slow
 :category: Meta
 :tags: Meta
 :slug: wallpaper-for-the-slow
-:status: published
+:status: draft
 
 Sorry, Dad, I looked at the sizes and decided that it wasn't TOO bad to
 use this theme.

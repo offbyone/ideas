@@ -5,7 +5,7 @@ Dystopia
 :category: Rants
 :tags: Rants
 :slug: dystopia
-:status: published
+:status: draft
 
 I've just finished reading a whole whackpile of Buffy comics. Both the
 regular series, which essentially fills in gaps in the `main

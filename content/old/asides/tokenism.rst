@@ -5,7 +5,7 @@ Tokenism
 :category: Asides
 :tags: Asides
 :slug: tokenism
-:status: published
+:status: draft
 
 Just to beat [Simon](http://www.simontimms.com/) to the punch, it is *I*
 that coined the quote "omnidirectional hate engine," at least according

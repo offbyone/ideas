@@ -5,7 +5,7 @@ Up, up
 :category: General Thoughts, Internet, Rants
 :tags: Internet, Rants, space
 :slug: up-up
-:status: published
+:status: draft
 
 Every once in a while it strikes me (harder) that more needs to be put
 into realistic alternatives to the dependence that we've fostered on

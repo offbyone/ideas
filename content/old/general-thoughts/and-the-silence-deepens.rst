@@ -5,7 +5,7 @@ And the silence deepens...
 :category: General Thoughts
 :tags: ping
 :slug: and-the-silence-deepens
-:status: published
+:status: draft
 
 I have no opinion at this time.
 

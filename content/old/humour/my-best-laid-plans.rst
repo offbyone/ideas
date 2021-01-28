@@ -5,7 +5,7 @@ My best-laid plans
 :category: Humour, Internet, Media
 :tags: fun, Internet, Phil Foglio, pointless waste of time, pop culture, wiki
 :slug: my-best-laid-plans
-:status: published
+:status: draft
 
 Well, to the mildly obsessive-compulsive amongst you, or to the
 pop-culture archaeologists, I am so, so sorry to do this:

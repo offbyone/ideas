@@ -5,7 +5,7 @@ Tetherless in Mexico
 :category: General Thoughts
 :tags: school, security, travel, wi-fi
 :slug: tetherless-in-mexico
-:status: published
+:status: draft
 
 Well, it so happens that if I sit out on our balcony in the resort, I
 actually piggyback the wireless connection (poorly-secured) of someone

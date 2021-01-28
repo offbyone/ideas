@@ -5,7 +5,7 @@ Honestly Academic
 :category: General Thoughts
 :tags: school
 :slug: honestly-academic
-:status: published
+:status: draft
 
 There comes a time, i think, in everyone's experience where one has to
 make a choice between confilicting ethical judgements. For example, try

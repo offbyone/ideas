@@ -5,7 +5,7 @@ Oooh, pinups!
 :category: Friends, General Thoughts, Meta
 :tags: Friends, Meta, work
 :slug: oooh-pinups
-:status: published
+:status: draft
 
 Well, I can't resist this one, at least for a while. Pinups!
 

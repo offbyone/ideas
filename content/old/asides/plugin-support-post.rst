@@ -5,7 +5,7 @@ Place your support requests here.
 :category: Asides, Projects
 :tags: Asides, Projects
 :slug: plugin-support-post
-:status: published
+:status: draft
 
 | ## Update
 | Support requests can now be filed at [my support

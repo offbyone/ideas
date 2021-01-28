@@ -5,7 +5,7 @@ Trains, Planes, and...
 :category: General Thoughts
 :tags: planes, trains, wedding
 :slug: trains-planes-and
-:status: published
+:status: draft
 
 Char and i have now arrived in Victoria, and are getting settled
 preparatory to the wedding on saturday. Plans seem, fortunately, to be

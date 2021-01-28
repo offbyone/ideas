@@ -5,7 +5,7 @@ Ach.  Whatta Weekend
 :category: Friends
 :tags: family, stupidity, travel, wedding
 :slug: ach-whatta-weekend
-:status: published
+:status: draft
 
 Well, I can't say that this past weekend was a terrific one.
 

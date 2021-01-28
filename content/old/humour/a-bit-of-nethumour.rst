@@ -5,7 +5,7 @@ A bit of net.humour
 :category: Humour, Internet
 :tags: Humour, Internet
 :slug: a-bit-of-nethumour
-:status: published
+:status: draft
 
 Found on the interweb a short time ago, and brought again to my
 attention today by the good folks at MetaFilter:

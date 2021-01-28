@@ -5,7 +5,7 @@ Oh, wow.
 :category: Humour, Internet
 :tags: batshitinsane, forums, lamer, nerds
 :slug: oh-wow
-:status: published
+:status: draft
 
 [ICBM](http://www.collegehumor.com/video:1771556).
 

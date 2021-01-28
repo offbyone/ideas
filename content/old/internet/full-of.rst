@@ -5,7 +5,7 @@ Full of.
 :category: Internet
 :tags: Internet
 :slug: full-of
-:status: published
+:status: draft
 
 Walk through `caverns of
 concrete <http://www.g-cans.jp/intro/07photo/index.html>`__.

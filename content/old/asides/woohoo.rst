@@ -5,6 +5,6 @@ Woohoo!
 :category: Asides
 :tags: Asides
 :slug: woohoo
-:status: published
+:status: draft
 
 It shipped!

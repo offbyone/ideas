@@ -5,7 +5,7 @@ Yes, i'm still alive
 :category: General Thoughts
 :tags: ping, school, space, tragedy
 :slug: yes-im-still-alive
-:status: published
+:status: draft
 
 It's just that i haven't had anything to say.
 

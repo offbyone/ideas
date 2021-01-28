@@ -5,7 +5,7 @@ Expletives and Imprecations
 :category: Friends, General Thoughts
 :tags: Friends
 :slug: expletives-and-imprecations
-:status: published
+:status: draft
 
 After many, many hours of work, the move is finished.
 

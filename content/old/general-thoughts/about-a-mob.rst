@@ -5,7 +5,7 @@ About a mob
 :category: General Thoughts
 :tags: hockey
 :slug: about-a-mob
-:status: published
+:status: draft
 
 There's just something kind of special about the adrenaline rush of a
 sports event.

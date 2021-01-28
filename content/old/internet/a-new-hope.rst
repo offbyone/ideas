@@ -5,7 +5,7 @@ A new hope?
 :category: Internet, Media
 :tags: Internet, Media
 :slug: a-new-hope
-:status: published
+:status: draft
 
 I just took the time -- thanks to the wonders of this Interweb thingie
 -- to watch the official theatrical trailer for Star Wars episode III.

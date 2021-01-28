@@ -5,7 +5,7 @@ Hey, nonny...
 :category: General Thoughts, Meta
 :tags: Meta
 :slug: hey-nonny
-:status: published
+:status: draft
 
 Life is pretty good, these days.
 

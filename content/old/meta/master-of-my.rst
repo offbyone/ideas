@@ -5,7 +5,7 @@ Master of my...
 :category: Meta
 :tags: Meta
 :slug: master-of-my
-:status: published
+:status: draft
 
 Woohoo!
 

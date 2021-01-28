@@ -5,7 +5,7 @@ More Rights
 :category: Rants
 :tags: Rants
 :slug: more-rights
-:status: published
+:status: draft
 
 So, as is usual around this time of day, i'm reading up on
 [Metafilter](http://www.metafilter.com/comments.mefi/22664 "Can

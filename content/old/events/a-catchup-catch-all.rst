@@ -5,7 +5,7 @@ A Catchup, Catch-all,
 :category: Events, Friends, General Thoughts, Meta
 :tags: book, char, dislocation, travel, work
 :slug: a-catchup-catch-all
-:status: published
+:status: draft
 
 and I wanted to work Catch-22 into that title, but couldn't.
 

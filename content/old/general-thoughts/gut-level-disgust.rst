@@ -5,7 +5,7 @@ Gut-level disgust
 :category: General Thoughts, Rants
 :tags: asshole, free speech, hypocrisy, idiocy, privacy, Rants
 :slug: gut-level-disgust
-:status: published
+:status: draft
 
 From [The Crimson](http://www.thecrimson.com "The Harvard Crimson
 Online"), with selected quotes and commentary from [this

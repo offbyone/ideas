@@ -5,7 +5,7 @@ Off
 :category: General Thoughts
 :tags: school
 :slug: off
-:status: published
+:status: draft
 
 Well, the [lady](http://www.livejournal.com/users/xraystar) and I are
 off to Mexico for a week of sunning, eating, drinking, and the making of

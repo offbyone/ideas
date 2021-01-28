@@ -5,7 +5,7 @@ Chiseling away
 :category: General Thoughts, Internet, Media, Rants
 :tags: intellectual property, Internet, Media, privacy, Rants
 :slug: chiseling-away
-:status: published
+:status: draft
 
 Just because I figure it's been a while, a friend of mine passed me
 "this":http://www.hackcanada.com/canadian/freedom/barwatch/barwatch.html

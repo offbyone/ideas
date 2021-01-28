@@ -5,7 +5,7 @@ Back to the front
 :category: Media
 :tags: Media
 :slug: back-to-the-front
-:status: published
+:status: draft
 
 Although i read it a bit less regularly than some, what with not getting
 the paper on a daily basis, one of the only strips that has kept my

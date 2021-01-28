@@ -5,7 +5,7 @@ Plotted out
 :category: Appreciation, Friends
 :tags: birthday, family, Friends, gifts, giving, hot-30s, party
 :slug: plotted-out
-:status: published
+:status: draft
 
 I think the conspiracy yesterday was to make me actually \_feel\_ old,
 by working me over body and mind, so that today I wake up tired, with a

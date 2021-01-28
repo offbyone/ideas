@@ -5,7 +5,7 @@ Who comes up with these things?
 :category: Humour, Internet, Media
 :tags: Humour, Internet, Media
 :slug: worst-trailer-ever
-:status: published
+:status: draft
 
 Alright, it's not Nimoy doing [Bilbo
 Baggins](/backlog/2002/11/26/hobbits/), but this

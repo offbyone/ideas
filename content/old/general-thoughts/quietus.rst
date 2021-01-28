@@ -5,7 +5,7 @@ Quietus
 :category: General Thoughts
 :tags: ping
 :slug: quietus
-:status: published
+:status: draft
 
 I haven't posted because i haven't felt like saying anything. Still
 don't, in fact, but i figured i should output something or someone might

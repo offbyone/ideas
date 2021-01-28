@@ -5,7 +5,7 @@ Airborne
 :category: Events, General Thoughts, Media
 :tags: Events, Media, space
 :slug: breaking-news-spaceshipone-is-airborne
-:status: published
+:status: draft
 
 As of 10:11 AM Eastern Time, `SpaceShipOne is
 airborne <http://www.space.com/missionlaunches/SS1_airborne_040621.html>`__

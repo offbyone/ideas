@@ -5,7 +5,7 @@ Cold Comfort
 :category: Asides, Events, Friends, General Thoughts
 :tags: new year, questions
 :slug: cold-comfort
-:status: published
+:status: draft
 
 It's the end of 2007, and last night I was asked by our waitress if I
 was "ready for 2008."

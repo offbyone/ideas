@@ -5,7 +5,7 @@ Ouch
 :category: General Thoughts
 :tags: bike, pain, undue risk
 :slug: ouch
-:status: published
+:status: draft
 
 | First blood: Bike.
 | Second blood: Me.

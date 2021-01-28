@@ -5,7 +5,7 @@ Found on the Internets
 :category: Humour, Internet
 :tags: Humour, Internet, interview, Sylvester Stallone
 :slug: found-on-the-internets
-:status: published
+:status: draft
 
 Amazingly enough, despite the fact that he talks like he's got a
 mouthful of marbles, Sylvester Stallone makes an excellent

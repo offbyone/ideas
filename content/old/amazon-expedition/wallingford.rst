@@ -5,7 +5,7 @@ Wallingford
 :category: Amazon Expedition
 :tags: home, seattle
 :slug: wallingford
-:status: published
+:status: draft
 
 I think -- and I'll know by the time many of you read this -- that we
 may have found a home, at least for now. It's a compromise (we'll have

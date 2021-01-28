@@ -5,7 +5,7 @@ Grak Sputter Phpath Blat!
 :category: Internet, Rants
 :tags: Internet, Rants
 :slug: grak-sputter-phpath-blat
-:status: published
+:status: draft
 
 My god, are people twits.
 

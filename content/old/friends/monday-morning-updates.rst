@@ -5,7 +5,7 @@ Monday morning updates
 :category: Friends, General Thoughts, Projects
 :tags: Friends, Projects
 :slug: monday-morning-updates
-:status: published
+:status: draft
 
 I had a basic-model weekend. I even slept in, yesterday, which doesn't
 really happen too often.

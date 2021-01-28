@@ -5,7 +5,7 @@ Augh!
 :category: General Thoughts
 :tags: school
 :slug: augh
-:status: published
+:status: draft
 
 Well, that was the hardest exam i have ever had the... \_privilege\_ ...
 of taking.

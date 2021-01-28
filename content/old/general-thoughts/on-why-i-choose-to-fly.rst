@@ -5,7 +5,7 @@ On why I choose to fly
 :category: General Thoughts
 :tags: dislocation, health, risk, skydiving
 :slug: on-why-i-choose-to-fly
-:status: published
+:status: draft
 
 Anyone that partakes in a sport that is outside the norm will have some
 reason or other for doing what they do. Mostly, their reasons boil down

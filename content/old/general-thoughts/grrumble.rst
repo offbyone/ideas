@@ -5,7 +5,7 @@ Grr(umble)...
 :category: General Thoughts
 :tags: sick
 :slug: grrumble
-:status: published
+:status: draft
 
 Which is the sound my currently-tortured stomach is making. I feel like
 utter ass today, which means no skydiving for me, unless I feel notably

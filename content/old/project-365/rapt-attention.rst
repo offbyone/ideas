@@ -5,7 +5,7 @@ Rapt Attention
 :category: Project 365
 :tags: 365
 :slug: rapt-attention
-:status: published
+:status: draft
 
 Taken with the implict permission of the subject. Not that I asked.
 

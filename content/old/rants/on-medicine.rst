@@ -5,7 +5,7 @@ On medicine
 :category: Rants
 :tags: Rants
 :slug: on-medicine
-:status: published
+:status: draft
 
 From the links of Metafilter comes
 "this":http://www.usatoday.com/news/nation/2004-06-13-med-malpractice\_x.htm

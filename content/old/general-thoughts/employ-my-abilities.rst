@@ -5,7 +5,7 @@ Employ MY Abilities
 :category: General Thoughts
 :tags: school, work
 :slug: employ-my-abilities
-:status: published
+:status: draft
 
 Well, given that there were only two interviews for
 [IIP](http://www.cs.ualberta.ca/iip) positions located in Edmonton, at

@@ -5,7 +5,7 @@ Yep, I'm to be Certified
 :category: General Thoughts
 :tags: skydiving
 :slug: yep-im-to-be-certified
-:status: published
+:status: draft
 
 For those of you that weren't actually *at* the drop zone yesterday, I
 just completed all of my requirements for solo CSPA certification, which

@@ -5,7 +5,7 @@ A Rant on Coding and Quality
 :category: Rants
 :tags: good design, incompetence, model-view-controller, Rants, school, Software Engineering, vitriol
 :slug: a-rant-on-coding-and-quality
-:status: published
+:status: draft
 
 I am, as Char will no doubt agree, occasionally a bit on the negative
 side. This isn't always a good thing; I need to learn to tone down my

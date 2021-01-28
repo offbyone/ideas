@@ -5,7 +5,7 @@
 :category: Events, General Thoughts, Rants
 :tags: Events, Rants
 :slug: to-end-all-wars
-:status: published
+:status: draft
 
 It wasn't, although the hope was there. Given the fact that in Canada we
 have `only six WWI veterans left

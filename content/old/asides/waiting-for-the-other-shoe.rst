@@ -5,7 +5,7 @@ Waiting for the other shoe
 :category: Asides, General Thoughts
 :tags: impending doom
 :slug: waiting-for-the-other-shoe
-:status: published
+:status: draft
 
 Ever have that feeling?
 

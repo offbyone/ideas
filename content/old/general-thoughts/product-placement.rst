@@ -5,7 +5,7 @@ Product placement
 :category: General Thoughts
 :tags: book, gift-giving
 :slug: product-placement
-:status: published
+:status: draft
 
 Since this is a personal weblog, i suppose i'm allowed to do this
 blatant gift-whoring :)

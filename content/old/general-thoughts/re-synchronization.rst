@@ -5,7 +5,7 @@ Re-synchronization
 :category: General Thoughts, Media
 :tags: Media
 :slug: re-synchronization
-:status: published
+:status: draft
 
 What am I up to?
 

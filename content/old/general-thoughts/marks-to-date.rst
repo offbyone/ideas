@@ -5,7 +5,7 @@ Marks to date
 :category: General Thoughts
 :tags: school
 :slug: marks-to-date
-:status: published
+:status: draft
 
 So, i can't really quote my math mark, cos it doesn't count, and i don't
 get the midterm for it back until later today, but my Chem101 marks are

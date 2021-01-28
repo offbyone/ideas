@@ -5,7 +5,7 @@
 :category: General Thoughts
 :tags: planes, trains, travel
 :slug: and-home-at-last
-:status: published
+:status: draft
 
 Planes are so damned cramped :)
 

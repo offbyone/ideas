@@ -5,7 +5,7 @@ On unions
 :category: Internet, Media, Rants
 :tags: Internet, Media, Rants
 :slug: on-unions
-:status: published
+:status: draft
 
 As is no secret to those that know me well, I generally hold no truck
 with unionization. My reasons are many, and as far as I'm concerned at

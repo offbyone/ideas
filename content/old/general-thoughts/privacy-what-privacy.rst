@@ -5,7 +5,7 @@ Privacy?  What privacy?
 :category: General Thoughts, Internet, Media, Rants
 :tags: asshole, craigslist, entrapment, Internet, privacy
 :slug: privacy-what-privacy
-:status: published
+:status: draft
 
 One might be led to wonder whether there is any real expectation of
 privacy, out in the wilds of the internet. Certainly, it's clear that

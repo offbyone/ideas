@@ -5,7 +5,7 @@ Travels
 :category: General Thoughts
 :tags: morruz, travel
 :slug: travels
-:status: published
+:status: draft
 
 My father and sister are traveling to Chile and Peru for a good, long
 time. Because I think this is kind of cool, I've set up a blog for them

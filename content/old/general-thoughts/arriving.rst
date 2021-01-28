@@ -5,7 +5,7 @@ Arriving
 :category: General Thoughts
 :tags: musings, space, travel
 :slug: arriving
-:status: published
+:status: draft
 
 The view from the plane on the way into San Jose airport is one that
 made me wish I had a camera. There's something ... amazing about the

@@ -5,7 +5,7 @@ EclipseCon 2006
 :category: General Thoughts
 :tags: eclipse, work
 :slug: eclipsecon-2006
-:status: published
+:status: draft
 
 So...
 

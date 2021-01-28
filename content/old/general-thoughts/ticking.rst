@@ -5,7 +5,7 @@ Ticking...
 :category: General Thoughts
 :tags: news
 :slug: ticking
-:status: published
+:status: draft
 
 It's been a long week, so I apologize for the lack of content.
 

@@ -5,7 +5,7 @@ Non-techs
 :category: Rants
 :tags: Rants
 :slug: non-techs
-:status: published
+:status: draft
 
 There's a
 "discussion":http://slashdot.org/article.pl?sid=04/03/09/2134215 going

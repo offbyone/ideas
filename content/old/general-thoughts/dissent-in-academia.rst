@@ -5,7 +5,7 @@ Dissent in Academia
 :category: General Thoughts, Internet, Rants
 :tags: academia, free speech, Internet, Rants
 :slug: dissent-in-academia
-:status: published
+:status: draft
 
 As seen on "Instapundit":http://www.instapundit.com/ today, a `New York
 Post

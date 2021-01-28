@@ -5,7 +5,7 @@ I Think It's Different
 :category: Asides, General Thoughts
 :tags: Asides
 :slug: i-think-its-different
-:status: published
+:status: draft
 
 This is the first day with my new toy, and I think I'm going to like it.
 It's *different*, for sure, but mostly in minor, key layout, ways. It's

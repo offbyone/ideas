@@ -5,7 +5,7 @@ Unbridled Optimism
 :category: General Thoughts
 :tags: cybernetics, good design, good news, medicine, technology
 :slug: unbridled-optimism
-:status: published
+:status: draft
 
 It's rare that I see something that makes me feel like we technonerds
 are doing unqualifiedly good things for the world.

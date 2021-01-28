@@ -5,7 +5,7 @@ Power for the upcoming generation
 :category: Rants
 :tags: Rants
 :slug: power-for-the-upcoming-generation
-:status: published
+:status: draft
 
 In the news recently, a `leading Green
 thinker <http://www.ecolo.org/lovelock/>`__ wrote a call to action

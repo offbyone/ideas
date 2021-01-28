@@ -5,7 +5,7 @@ Amurrican Politics
 :category: General Thoughts
 :tags: Events, fear, government, hypocrisy, politics
 :slug: amurrican-politics
-:status: published
+:status: draft
 
 As has been noticed here before, I occasionally find time to watch
 politics down south with a cynical interest that I'd usually reserve for

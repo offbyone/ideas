@@ -5,7 +5,7 @@ Santa Clara, here I come!
 :category: General Thoughts
 :tags: school, work
 :slug: santa-clara-here-i-come
-:status: published
+:status: draft
 
 Well, the other thing is official now -- I just got approval today for
 the expense of sending my ass down to California for my education in

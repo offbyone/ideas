@@ -5,7 +5,7 @@ Debt of Horror
 :category: General Thoughts
 :tags: school
 :slug: debt-of-horror
-:status: published
+:status: draft
 
 There's an
 `article <http://story.news.yahoo.com/news?tmpl=story2&cid=127&e=7&u=/030211/7/38rtp.html>`__

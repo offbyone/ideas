@@ -5,7 +5,7 @@ History, redux
 :category: Events, Rants
 :tags: Events, Rants
 :slug: history-redux
-:status: published
+:status: draft
 
 Also worthy of note: Sixty years ago this day, thousands of oft-sung
 heroes gave their lives on `five

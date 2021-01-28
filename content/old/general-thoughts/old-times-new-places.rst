@@ -5,7 +5,7 @@ Old times, new places
 :category: General Thoughts
 :tags: bar, music, work
 :slug: old-times-new-places
-:status: published
+:status: draft
 
 Went out to the bar last night, for the first time in ages. Okay, that's
 a bit misleading - i was working at the bar. Jenny(i?), who i suspect

@@ -5,7 +5,7 @@ And then there was...
 :category: Asides
 :tags: apology
 :slug: and-then-there-was
-:status: published
+:status: draft
 
 Well, I had a couple of post ideas over the last couple of days, but
 with the workload and all, they all kind of fell by the wayside.

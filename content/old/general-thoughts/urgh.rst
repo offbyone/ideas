@@ -5,7 +5,7 @@ Urgh.
 :category: General Thoughts, Internet
 :tags: Internet
 :slug: urgh
-:status: published
+:status: draft
 
 For the last couple of weeks, this whole "internet" thing has been an
 unending series of disconnections and hassles.

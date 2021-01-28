@@ -5,7 +5,7 @@ Twins?
 :category: Events, Internet, Rants
 :tags: Events, Internet, Rants
 :slug: twins
-:status: published
+:status: draft
 
 |cat_twins.jpg| Bearing out something i've been harping on for ages
 with respect to the cloning debate is this `news article on

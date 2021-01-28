@@ -5,7 +5,7 @@
 :category: Asides, Friends
 :tags: apology, Friends, school, stress, time, work
 :slug: 5-minute-quickie
-:status: published
+:status: draft
 
 Oh, man, it's been a while.
 

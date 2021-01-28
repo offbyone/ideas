@@ -5,7 +5,7 @@ Wow.  That took WAY longer than I thought it would
 :category: Asides, General Thoughts, Media
 :tags: Asides, Media
 :slug: wow-that-took-way-longer-than-i-thought-it-would
-:status: published
+:status: draft
 
 After only five years (or so) of searching for the missing element of my
 Tad Williams "`Otherland <http://www.tadwilliams.com/volume1.html>`__"

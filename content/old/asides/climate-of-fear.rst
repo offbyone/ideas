@@ -5,7 +5,7 @@ Climate of fear
 :category: Asides
 :tags: common sense, fear, protectiveness
 :slug: climate-of-fear
-:status: published
+:status: draft
 
 On an unrelated note, [this pleased
 me](http://www.nysun.com/editorials/why-i-let-my-9-year-old-ride-subway-alone)

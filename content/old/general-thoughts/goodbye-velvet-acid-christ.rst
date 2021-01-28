@@ -5,7 +5,7 @@ Goodbye, Velvet Acid Christ
 :category: General Thoughts, Internet, Media, Rants
 :tags: intellectual property, Internet, Media, privacy, Rants
 :slug: goodbye-velvet-acid-christ
-:status: published
+:status: draft
 
 According to a few news soruces
 ("here":http://australianit.news.com.au/articles/0,7204,10704524%5E15306%5E%5Enbv%5E,00.html

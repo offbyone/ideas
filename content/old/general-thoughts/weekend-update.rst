@@ -5,7 +5,7 @@ Weekend Update
 :category: General Thoughts
 :tags: work
 :slug: weekend-update
-:status: published
+:status: draft
 
 Another week, another few dollars in the bank.
 

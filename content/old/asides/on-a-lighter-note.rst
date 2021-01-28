@@ -5,7 +5,7 @@ On a lighter note
 :category: Asides, Meta
 :tags: Asides, Meta
 :slug: on-a-lighter-note
-:status: published
+:status: draft
 
 It seems that I've hit the 10,000-spam mark, sometime last week.
 

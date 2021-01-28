@@ -5,7 +5,7 @@ On the bandwagon with me
 :category: General Thoughts
 :tags: family
 :slug: on-the-bandwagon-with-me
-:status: published
+:status: draft
 
 For further info, and better writing about my dad, see
 [here](http://www.livejournal.com/users/vernondalhart/108232.html)

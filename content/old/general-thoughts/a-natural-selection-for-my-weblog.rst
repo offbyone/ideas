@@ -5,7 +5,7 @@ A natural selection for my weblog
 :category: General Thoughts
 :tags: counterintuitive, evolution, statistics
 :slug: a-natural-selection-for-my-weblog
-:status: published
+:status: draft
 
 Here's an article on [evolution and the wisdom of
 crowds](http://karmatics.com/docs/evolution-and-wisdom-of-crowds.html)

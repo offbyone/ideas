@@ -5,7 +5,7 @@ Math labs
 :category: General Thoughts
 :tags: school
 :slug: math-labs
-:status: published
+:status: draft
 
 Why on earth would there be such a thing as a math lab? I'm not, as you
 all know, averse to the use of technological tools, but this is a

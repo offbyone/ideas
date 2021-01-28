@@ -5,7 +5,7 @@ G'morning.  I'm bored, already!
 :category: General Thoughts, Projects
 :tags: Projects, work
 :slug: gmorning-im-bored-already
-:status: published
+:status: draft
 
 Oddly enough, I've found that having eight days off over the last two
 weeks is too much.

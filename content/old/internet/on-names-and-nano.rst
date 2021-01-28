@@ -5,7 +5,7 @@ On Names, and Nano
 :category: Internet, Meta, Rants
 :tags: ludditism, Science, snark, stupidity
 :slug: on-names-and-nano
-:status: published
+:status: draft
 
 This is a two-pronged posting:
 

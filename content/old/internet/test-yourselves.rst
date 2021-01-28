@@ -5,7 +5,7 @@ Test yourselves
 :category: Internet
 :tags: Internet
 :slug: test-yourselves
-:status: published
+:status: draft
 
 `Test yourselves, readers <http://www.innergeek.us/geek.html>`__. I did,
 and i score in the "Major geek" range (44.78%)

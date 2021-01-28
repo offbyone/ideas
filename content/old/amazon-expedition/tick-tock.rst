@@ -5,7 +5,7 @@ Tick, Tock
 :category: Amazon Expedition, General Thoughts
 :tags: home, nightlife, socializing
 :slug: tick-tock
-:status: published
+:status: draft
 
 So, what's new?
 

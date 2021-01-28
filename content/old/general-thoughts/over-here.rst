@@ -5,7 +5,7 @@ Over here!
 :category: General Thoughts
 :tags: morruz, travel
 :slug: over-here
-:status: published
+:status: draft
 
 Check out [Morruz](http://www.offlineblog.com/morruz) for the next few
 weeks; I'll be posting there in preference to here, whilst traveling.

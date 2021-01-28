@@ -5,7 +5,7 @@ More U foolery
 :category: General Thoughts
 :tags: school
 :slug: more-u-foolery
-:status: published
+:status: draft
 
 Word back from the U of A has been slow in coming, and now that I've
 finally \_gotten\_ some kind of word, that word has turned out to be

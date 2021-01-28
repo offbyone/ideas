@@ -5,7 +5,7 @@ Southward
 :category: General Thoughts, Media
 :tags: election, ethics, free speech, politics
 :slug: southward
-:status: published
+:status: draft
 
 I've been keeping an eye on the southern neighbor these days; the
 election coming up down there will have regrettably far-reaching

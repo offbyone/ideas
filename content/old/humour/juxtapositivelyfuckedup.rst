@@ -5,7 +5,7 @@ Juxtapositivelyfuckedup
 :category: Humour, Internet, Media
 :tags: juxtaposition, random, Telus, video
 :slug: juxtapositivelyfuckedup
-:status: published
+:status: draft
 
 | Just a brief aside... having seen this twice now (Both with the same
   company) I

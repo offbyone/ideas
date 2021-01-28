@@ -5,7 +5,7 @@ Wasted Neurons
 :category: Events, General Thoughts, Internet, Media, Rants
 :tags: Events, intellectual property, Internet, Media, privacy, Rants
 :slug: wasted-neurons
-:status: published
+:status: draft
 
 In the spirit of a gigantic [fuck you](http://www.athens2004.com/) to
 the [monkeys](http://www.athens2004.com/) that came up with this

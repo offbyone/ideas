@@ -4,7 +4,7 @@ Chibi-Cthulhu
 :author: offby1
 :category: Uncategorized
 :slug: chibi-cthulhu
-:status: published
+:status: draft
 
 .. raw:: html
 

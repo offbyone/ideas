@@ -5,7 +5,7 @@ Hola, all
 :category: General Thoughts
 :tags: integration, Projects, travel, unicode, utf-8, work
 :slug: hola-all
-:status: published
+:status: draft
 
 Well, shit. Another week, another dry spell on the blog.
 

@@ -5,7 +5,7 @@ The working man's blues
 :category: General Thoughts
 :tags: work
 :slug: the-working-mans-blues
-:status: published
+:status: draft
 
 Thanks again to the inexorable crunch of school and life expenses, i
 find myself once more employed. [company name deleted because i'm

@@ -5,7 +5,7 @@ If you're all very lucky
 :category: Events
 :tags: Events
 :slug: if-youre-all-very-lucky
-:status: published
+:status: draft
 
 `This <http://www.thestranger.com/2003-02-20/feature.html>`__ will be
 the last thing i have to say on the subject of the upcoming war.

@@ -5,7 +5,7 @@ Changes site-side
 :category: Meta
 :tags: Meta
 :slug: changes-site-side
-:status: published
+:status: draft
 
 Just so that all of my (three) loyal readers know, i've changed the tool
 that i'm using for this journal to something that *i hope* i'll be

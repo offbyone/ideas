@@ -5,7 +5,7 @@ Moving day
 :category: General Thoughts
 :tags: computer, geeky, moving
 :slug: moving-day
-:status: published
+:status: draft
 
 Not out of the house, but from one room to another. Ever moved three
 computers, two desks, a table, a shelving unit, and about 300lbs of

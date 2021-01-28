@@ -5,7 +5,7 @@ Reach for the sky
 :category: General Thoughts, Media
 :tags: Media, space
 :slug: reach-for-the-sky
-:status: published
+:status: draft
 
 CBC News is running `a
 piece <http://www.cbc.ca/news/background/space/spaceelevator.html>`__ on

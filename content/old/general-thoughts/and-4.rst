@@ -5,7 +5,7 @@
 :category: General Thoughts, Internet
 :tags: Internet, school
 :slug: and-4
-:status: published
+:status: draft
 
 Done at last! My first four months are completed. Semester one of eight
 is out of the way.

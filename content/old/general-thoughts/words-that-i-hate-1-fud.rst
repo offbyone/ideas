@@ -5,7 +5,7 @@ Words that I hate 1: FUD
 :category: General Thoughts
 :tags: words that I hate
 :slug: words-that-i-hate-1-fud
-:status: published
+:status: draft
 
 `FUD(Fear, Uncertainty,
 Doubt) <http://www.google.com/search?q=define%3Afud&sourceid=firefox&start=0&start=0&ie=utf-8&oe=utf-8>`__

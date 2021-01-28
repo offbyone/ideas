@@ -5,7 +5,7 @@ Air(side|head)
 :category: General Thoughts
 :tags: work
 :slug: airsidehead
-:status: published
+:status: draft
 
 Today was my second day of training at the International Airport. It's
 certainly an interesting environment to work it, make no mistake.

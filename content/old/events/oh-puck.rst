@@ -5,7 +5,7 @@ Oh, puck.
 :category: Events, General Thoughts
 :tags: Events
 :slug: oh-puck
-:status: published
+:status: draft
 
 So, no tickets for me.
 

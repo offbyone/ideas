@@ -5,7 +5,7 @@ The eyes have it...
 :category: Media
 :tags: Media
 :slug: the-eyes-have-it
-:status: published
+:status: draft
 
 Here's one following up on my concerns about `digital image
 manipulation <http://homepage.mac.com/gapodaca/digital/digital.html>`__.

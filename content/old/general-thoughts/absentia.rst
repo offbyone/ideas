@@ -5,7 +5,7 @@ Absentia
 :category: General Thoughts
 :tags: school
 :slug: absentia
-:status: published
+:status: draft
 
 I apologize in advance for the fact that I will be ridiculously out of
 touch for the next three weeks.

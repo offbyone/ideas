@@ -5,7 +5,7 @@ Sportsmanlike Conduct
 :category: Rants
 :tags: Rants
 :slug: sportsmanlike-conduct
-:status: published
+:status: draft
 
 And then some words about my final lab - hell, those words now... It was
 EASY!

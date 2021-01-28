@@ -5,7 +5,7 @@ Two...
 :category: General Thoughts
 :tags: lifestyle, navelgazing, school
 :slug: two
-:status: published
+:status: draft
 
 ... days left in my degree.
 

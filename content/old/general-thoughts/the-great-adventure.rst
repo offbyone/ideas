@@ -5,7 +5,7 @@ The great adventure...
 :category: General Thoughts
 :tags: computer, linux
 :slug: the-great-adventure
-:status: published
+:status: draft
 
 begins today.
 

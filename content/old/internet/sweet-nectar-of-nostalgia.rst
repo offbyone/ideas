@@ -5,7 +5,7 @@ Sweet nectar of nostalgia!
 :category: Internet, Media
 :tags: Internet, Media
 :slug: sweet-nectar-of-nostalgia
-:status: published
+:status: draft
 
 `Oh my f'n
 god! <http://games.slashdot.org/article.pl?sid=05/03/07/1154252&tid=202&tid=156&tid=10>`__

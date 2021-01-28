@@ -5,7 +5,7 @@ Poke and Prod
 :category: General Thoughts, Media
 :tags: Media, school, work
 :slug: poke-and-prod
-:status: published
+:status: draft
 
 I read something the other day suggesting that I should post daily so
 that you, my loyal three readers, have something to do.

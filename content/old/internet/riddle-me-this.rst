@@ -5,7 +5,7 @@ Riddle me this...
 :category: Internet
 :tags: Internet
 :slug: riddle-me-this
-:status: published
+:status: draft
 
 Links after links of riddles: If
 `these <http://www.metafilter.com/mefi/28943>`__ don't keep you at least

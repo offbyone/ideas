@@ -5,7 +5,7 @@ Renovations
 :category: Asides, Friends, Meta
 :tags: Asides, Friends, Meta
 :slug: renovations
-:status: published
+:status: draft
 
 I just realized: For all that I bug
 `Char <http://www.livejournal.com/users/xraystar/>`__ about her

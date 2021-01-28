@@ -5,7 +5,7 @@ Vanishing point
 :category: Events, General Thoughts, Meta
 :tags: apology, Appreciation, moving, simon, skydiving
 :slug: vanishing-point
-:status: published
+:status: draft
 
 So sorry about having dropped from the face of the earth for a week,
 folks. I know my readership isn't huge, but i suspect at least one or

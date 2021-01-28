@@ -5,7 +5,7 @@ Just Chilling
 :category: General Thoughts
 :tags: book, cryptography, movie, steadicam
 :slug: just-chilling
-:status: published
+:status: draft
 
 It's a pretty nice evening here. I'm sitting on the couch in the living
 room, Char just beside me reading her Dark Tower book and Ivan on my

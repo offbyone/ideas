@@ -5,7 +5,7 @@ Silence on School
 :category: General Thoughts
 :tags: school
 :slug: silence-on-school
-:status: published
+:status: draft
 
 I was reminded yesterday that this blog was -- at least originally --
 about school. And I haven't been keeping up with that all that well. So,

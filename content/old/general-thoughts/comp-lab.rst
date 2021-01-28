@@ -5,7 +5,7 @@ Comp Lab
 :category: General Thoughts
 :tags: school
 :slug: comp-lab
-:status: published
+:status: draft
 
 So, i guess i wasn't all that clear - the easy lab yesterday was the
 Chem 101 last lab - i expect that the lab exam in Chem will be quite a

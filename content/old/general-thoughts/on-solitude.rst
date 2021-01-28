@@ -5,7 +5,7 @@ On Solitude
 :category: General Thoughts
 :tags: char, love, monogamy
 :slug: on-solitude
-:status: published
+:status: draft
 
 Having made a fairly big deal out of my [loner
 tendencies](http://offlineblog.com/backlog/2004/07/30/required-reading/)

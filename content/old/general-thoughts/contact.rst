@@ -5,7 +5,7 @@ Contact
 :category: General Thoughts
 :tags: Friends, moving, party
 :slug: contact
-:status: published
+:status: draft
 
 Hey, all you craaaazy...
 

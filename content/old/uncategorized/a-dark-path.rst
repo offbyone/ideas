@@ -4,7 +4,7 @@ A dark path
 :author: offby1
 :category: Uncategorized
 :slug: a-dark-path
-:status: published
+:status: draft
 
 .. raw:: html
 

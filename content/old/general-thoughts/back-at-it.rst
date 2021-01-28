@@ -5,7 +5,7 @@ Back At It
 :category: General Thoughts
 :tags: school
 :slug: back-at-it
-:status: published
+:status: draft
 
 Yay! Semester two began today, and i'm really looking forward to this
 set of courses. It's going to be a busy year, for sure, and i'm hoping

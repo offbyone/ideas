@@ -5,7 +5,7 @@ Absentmindless
 :category: General Thoughts
 :tags: fuck telus, ping, school, work
 :slug: absentmindless
-:status: published
+:status: draft
 
 Sorry, i know i haven't been posting anything. I'm busily working at
 school and with Telus, and it's really damned draining. Between the long

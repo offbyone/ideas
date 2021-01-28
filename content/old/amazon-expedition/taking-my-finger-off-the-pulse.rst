@@ -5,7 +5,7 @@ Taking my finger off the pulse
 :category: Amazon Expedition, General Thoughts
 :tags: lifestyle, reading
 :slug: taking-my-finger-off-the-pulse
-:status: published
+:status: draft
 
 I'm an inveterate blog reader, which must come as a surprise to
 precisely nobody. I read blogs by authors, programmers, and random joes

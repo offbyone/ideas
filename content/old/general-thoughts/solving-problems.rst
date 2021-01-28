@@ -5,7 +5,7 @@ Solving Problems
 :category: General Thoughts
 :tags: work
 :slug: solving-problems
-:status: published
+:status: draft
 
 This won't mean much to any of you, but with a bit of finagling I've
 managed to come up with a reasonably well thought out solution to a

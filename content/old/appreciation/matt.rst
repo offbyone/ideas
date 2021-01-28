@@ -5,7 +5,7 @@ Matt
 :category: Appreciation
 :tags: Appreciation
 :slug: matt
-:status: published
+:status: draft
 
 I think it's time that I resurrect this feature of the site. I'm not
 spending enough time writing nice things about nice people, and that's a

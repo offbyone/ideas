@@ -5,7 +5,7 @@ Politicause
 :category: Events, General Thoughts, Internet, Media, Rants
 :tags: Events, fairness, Green Party, Internet, Media, politics, Rants
 :slug: politicause
-:status: published
+:status: draft
 
 I want to second
 `Char's <http://www.livejournal.com/users/xraystar/41465.html>`__

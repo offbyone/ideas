@@ -5,7 +5,7 @@ Time to start a holy war...
 :category: Internet, Rants
 :tags: debate, religion
 :slug: time-to-start-a-holy-war
-:status: published
+:status: draft
 
 "`Why Religion Doesn't
 Matter <http://www.kuro5hin.org/story/2002/11/18/05434/162>`__", an

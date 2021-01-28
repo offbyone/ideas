@@ -5,7 +5,7 @@ On truth and the ways it's seen
 :category: Media
 :tags: Media
 :slug: on-truth-and-the-ways-its-seen
-:status: published
+:status: draft
 
 As a longtime opponent of video surveillance, i tend to keep my eyes on
 the proliferation of the technologies that ease its intrusion into our

@@ -5,7 +5,7 @@ Dodging the Headsman
 :category: Events, Friends, General Thoughts
 :tags: Events, Friends, work
 :slug: dodging-the-headsman
-:status: published
+:status: draft
 
 Well, today was an interesting one at work. I arrived at noon to a quiet
 office with at least one strange face in it, and a lunch room that

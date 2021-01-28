@@ -5,7 +5,7 @@ Growing pain
 :category: General Thoughts
 :tags: computer, health
 :slug: growing-pain
-:status: published
+:status: draft
 
 As some of you probably know, for the last couple of years my right
 wrist has been getting more and more sore and strained. This isn't

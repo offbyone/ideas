@@ -5,7 +5,7 @@ And more that doesn't blow.
 :category: General Thoughts
 :tags: school
 :slug: and-more-that-doesnt-blow
-:status: published
+:status: draft
 
 Found out that my PC will live. Happy.
 

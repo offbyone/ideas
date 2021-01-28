@@ -5,7 +5,7 @@ Next, I'll talk about Religion.  I promise!
 :category: Events, Rants
 :tags: Events, Rants
 :slug: next-ill-talk-about-religion-i-promise
-:status: published
+:status: draft
 
 First off, I guess I'll get the basics off my chest: \_Vote\_. I don't
 care what reasons or excuses you make to yourself to justify your apathy

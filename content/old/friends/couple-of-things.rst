@@ -5,7 +5,7 @@ Couple of things
 :category: Friends, General Thoughts, Internet
 :tags: Friends, Internet, school
 :slug: couple-of-things
-:status: published
+:status: draft
 
 Well, it's been a few days, and persuant to my resolution to post more,
 here's one.

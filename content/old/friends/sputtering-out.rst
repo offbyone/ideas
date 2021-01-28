@@ -5,7 +5,7 @@ Sputtering out
 :category: Friends, General Thoughts
 :tags: Friends
 :slug: sputtering-out
-:status: published
+:status: draft
 
 It's been a very sociable week, and while I've enjoyed each and every
 *single* one of the visits I've had (Yep,

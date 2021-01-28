@@ -5,7 +5,7 @@ Am I a bad person?
 :category: Friends, General Thoughts
 :tags: Friends, school, work
 :slug: am-i-a-bad-person
-:status: published
+:status: draft
 
 I'm posting this, slacking, from my ethics class. Frankly, regardless of
 the degree of interest I have in the content in itself, the presentation

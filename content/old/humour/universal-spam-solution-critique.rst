@@ -5,7 +5,7 @@ Universal Spam Solution Critique
 :category: Humour, Internet
 :tags: checklist, Humour, murder, spam
 :slug: universal-spam-solution-critique
-:status: published
+:status: draft
 
 Because I've recently read the \_tragic\_ news that a Russian spam baron
 was found dead under suspicious circumstances, and because that's

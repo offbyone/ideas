@@ -5,7 +5,7 @@ Weather; You like it or not.
 :category: Events, Friends, General Thoughts
 :tags: Events, Friends
 :slug: weather-you-like-it-or-not
-:status: published
+:status: draft
 
 Well, interesting news from back home yesterday: As reported
 "in":http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20040709/NATS09-2/TPNational/Canada

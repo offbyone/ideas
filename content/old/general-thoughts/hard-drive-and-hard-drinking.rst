@@ -5,7 +5,7 @@ Hard drive and hard drinking
 :category: General Thoughts
 :tags: computer, failure, party
 :slug: hard-drive-and-hard-drinking
-:status: published
+:status: draft
 
 Woke up this morning having recovered nearly 100% from the partying last
 night. Sure, it was out of character for me, but every once in a while

@@ -5,7 +5,7 @@ Updatey Things
 :category: Events, General Thoughts, Media, Meta
 :tags: Events, Media, Meta, school, work
 :slug: updatey-things
-:status: published
+:status: draft
 
 It's been a bit since my last update, much to my chagrin. Sorry, folks,
 I'll try to keep on the ball.

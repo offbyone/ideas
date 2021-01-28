@@ -5,7 +5,7 @@ More ENGL101 follies
 :category: General Thoughts
 :tags: school
 :slug: more-engl101-follies
-:status: published
+:status: draft
 
 Just finished going over a short story in ENGL-101 today called "The
 Lame Shall Enter First" and - whoah - did this story ever leave me

@@ -5,7 +5,7 @@ Windows XP is getting the shaft
 :category: General Thoughts, Rants
 :tags: intellectual property, privacy, Rants
 :slug: windows-xp-is-getting-the-shaft
-:status: published
+:status: draft
 
 There's currently some
 `discussion <http://help.lockergnome.com/index.php?act=ST&f=4&t=1646&s=8b2486d31144b724a342c19e167b3db4>`__

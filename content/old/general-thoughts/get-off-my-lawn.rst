@@ -5,7 +5,7 @@ Get off my lawn!
 :category: General Thoughts
 :tags: dislocation, news, old
 :slug: get-off-my-lawn
-:status: published
+:status: draft
 
 Christ, do I feel like an old man this morning.
 

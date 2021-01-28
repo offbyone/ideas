@@ -5,7 +5,7 @@ Holiday Roundup
 :category: Friends, General Thoughts, Projects, Rants
 :tags: Friends, Projects, Rants, school
 :slug: holiday-roundup
-:status: published
+:status: draft
 
 I noticed yesterday (as [Char](http://xraystar.livejournal.com) finally
 got around to posting on her blog) that I have been remarkably lax in

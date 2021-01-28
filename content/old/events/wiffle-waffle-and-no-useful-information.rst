@@ -5,7 +5,7 @@ Wiffle, Waffle, and no useful information
 :category: Events
 :tags: batshitinsane, dislocation, fear, skydiving
 :slug: wiffle-waffle-and-no-useful-information
-:status: published
+:status: draft
 
 So, given that it's -- unfortunately -- entirely up to me, I have
 decided.

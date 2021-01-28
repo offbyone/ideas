@@ -5,7 +5,7 @@ Goodbye...
 :category: Events, General Thoughts, Internet
 :tags: Events, Internet, space
 :slug: goodbye
-:status: published
+:status: draft
 
 There's this piece of metal, see, and it was sent out thirteen years ago
 with the intent of learning more about the hunks of rock that share the

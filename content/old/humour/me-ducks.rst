@@ -5,7 +5,7 @@
 :category: Humour
 :tags: Humour
 :slug: me-ducks
-:status: published
+:status: draft
 
 Well, this might be fun. A bit of link-hopping late last night has left
 me thinking...

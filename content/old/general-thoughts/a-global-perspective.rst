@@ -5,7 +5,7 @@ A global perspective
 :category: General Thoughts
 :tags: doodads, perspective, software, space
 :slug: a-global-perspective
-:status: published
+:status: draft
 
 Nothing political, just something that any mac users reading this might
 like: [EarthDesk](http://www.xericdesign.com/earthdesk.php).

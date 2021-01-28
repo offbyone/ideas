@@ -5,7 +5,7 @@ I Must Really Like My Co-workers
 :category: Friends, General Thoughts
 :tags: Friends, work
 :slug: i-must-really-like-my-co-workers
-:status: published
+:status: draft
 
 I say this, because in a couple of weeks I'm going to assist in throwing
 five of them (at least, and one non-co-worker) out of an aeroplane.

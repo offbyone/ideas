@@ -5,7 +5,7 @@ Relief at the end
 :category: General Thoughts
 :tags: school
 :slug: relief-at-the-end
-:status: published
+:status: draft
 
 Got my last few marks (unofficially, as it happens) today, and i was
 VERY pleasantly surprised. Despite some lackluster performance on the

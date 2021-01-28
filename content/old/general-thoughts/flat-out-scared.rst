@@ -5,7 +5,7 @@ Flat-out scared
 :category: General Thoughts
 :tags: school
 :slug: flat-out-scared
-:status: published
+:status: draft
 
 I talked to the [U of A Registrar](http://www.registrar.ualberta.ca/)
 today about my application for admission -- the one that has been

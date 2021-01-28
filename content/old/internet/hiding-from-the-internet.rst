@@ -5,7 +5,7 @@ Hiding from the internet
 :category: Internet, Rants
 :tags: Internet, Rants
 :slug: hiding-from-the-internet
-:status: published
+:status: draft
 
 I think that tomorrow I'll just ... avoid .. the internet. The place
 turns into a pile of utter shit once per year, on 1 April, as every

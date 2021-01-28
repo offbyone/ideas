@@ -5,7 +5,7 @@ Raw
 :category: General Thoughts
 :tags: fear, impending doom, primitive superstition
 :slug: raw
-:status: published
+:status: draft
 
 I don't know why, but for the last few days -- say, a week or so -- i've
 been feeling just... raw. Scraped thin. I don't think it's tired, per

@@ -5,7 +5,7 @@ Ah, man...
 :category: General Thoughts
 :tags: apathy, Friends, hangover, skydiving
 :slug: ah-man
-:status: published
+:status: draft
 
 Wow, am I lazy.
 

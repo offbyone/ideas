@@ -5,7 +5,7 @@ Link: Confessions of an Engineering Washout
 :category: General Thoughts, Internet, Media
 :tags: Internet, Media, school
 :slug: link-confessions-of-an-engineering-washout
-:status: published
+:status: draft
 
 `This article <http://www.techcentralstation.com/092105B.html>`__ (Found
 on

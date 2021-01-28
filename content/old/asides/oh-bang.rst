@@ -5,7 +5,7 @@ Oh, Bang
 :category: Asides, General Thoughts
 :tags: oracle, skydiving, work
 :slug: oh-bang
-:status: published
+:status: draft
 
 There was some fantastic lightning last night, for those who were either
 asleep or not in my area.

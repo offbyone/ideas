@@ -5,7 +5,7 @@ Brand New
 :category: Internet, Media
 :tags: new, old, philosophy, politics, questions, Science
 :slug: brand-new
-:status: published
+:status: draft
 
 Well, thank \_you\_, Stewart Brand, for doing a fine job of saying
 something that I've held to be true for a good long time: [Good old

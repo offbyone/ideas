@@ -5,7 +5,7 @@ I've been thinking
 :category: Rants
 :tags: Rants
 :slug: ive-been-thinking
-:status: published
+:status: draft
 
 And it's not anyone specific, so don't start worrying and/or asking.
 

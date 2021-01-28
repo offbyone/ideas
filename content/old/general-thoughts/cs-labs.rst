@@ -5,7 +5,7 @@ CS labs
 :category: General Thoughts
 :tags: school
 :slug: cs-labs
-:status: published
+:status: draft
 
 Churning through my CS labs, as usual. I think i'm annoying the prof,
 but that's okay. At least in the labs my questions are relevant, which

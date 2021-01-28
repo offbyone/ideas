@@ -5,7 +5,7 @@ More and further...
 :category: General Thoughts, Rants
 :tags: intellectual property, privacy, Rants
 :slug: more-and-further
-:status: published
+:status: draft
 
 Adam Gessaman has `some more to
 say <http://idly.org/2004/01/07/locke-property-and-software-piracy>`__

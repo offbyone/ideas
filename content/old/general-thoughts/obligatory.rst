@@ -5,7 +5,7 @@ Obligatory
 :category: General Thoughts
 :tags: beer, family, food
 :slug: obligatory
-:status: published
+:status: draft
 
 The Christmas season is past, now begins the age of \_Boxing Week\_.
 

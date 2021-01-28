@@ -5,7 +5,7 @@ Approaching Health in a New Way
 :category: Internet, Rants
 :tags: Internet, Rants
 :slug: health-care-and-a-new-approach
-:status: published
+:status: draft
 
 Metafilter has linked an article about the rising costs of healthcare in
 the USA, one that -- like several things I've read recently -- raises

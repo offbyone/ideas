@@ -5,7 +5,7 @@ Sitrep
 :category: General Thoughts
 :tags: alive, bike, char, commuting, dislocation, fear, health, Meta, politics, primitive superstition, skydiving, undue risk, work
 :slug: sitrep
-:status: published
+:status: draft
 
 Well, it's been a bit; I'm not sure why, but I've been undermotivated to
 blog lately, which has resulted in an ominous quiet from the site.

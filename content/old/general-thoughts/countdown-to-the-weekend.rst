@@ -5,7 +5,7 @@ Countdown to the weekend
 :category: General Thoughts
 :tags: work
 :slug: countdown-to-the-weekend
-:status: published
+:status: draft
 
 From when I sit now, it's only 22 hours before I can get my sorry ass
 back to town and into the welcoming arms of my lovely ladyfriend.

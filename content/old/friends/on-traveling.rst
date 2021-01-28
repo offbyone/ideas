@@ -5,7 +5,7 @@ On traveling
 :category: Friends, General Thoughts, Rants
 :tags: Friends, Rants
 :slug: on-traveling
-:status: published
+:status: draft
 
 I'd think that it would have become easier, with time. I just bloody
 *hate* travelling. Every minute I have to spend in a car between the

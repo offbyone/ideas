@@ -5,7 +5,7 @@ Projects in the pipe
 :category: Projects
 :tags: Projects
 :slug: projects-in-the-pipe
-:status: published
+:status: draft
 
 It looks like there's going to be some serious work starting on one of
 my projects, the vcard editor. A few of my classmates and i are planning

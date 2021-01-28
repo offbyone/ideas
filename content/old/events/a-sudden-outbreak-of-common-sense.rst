@@ -5,7 +5,7 @@ A Sudden Outbreak of Common Sense
 :category: Events
 :tags: copyright, dmca, freedom, law, politics
 :slug: a-sudden-outbreak-of-common-sense
-:status: published
+:status: draft
 
 Well, well.
 

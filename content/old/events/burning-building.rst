@@ -5,7 +5,7 @@ Burning Building
 :category: Events, General Thoughts
 :tags: Events
 :slug: burning-building
-:status: published
+:status: draft
 
 Interesting...
 

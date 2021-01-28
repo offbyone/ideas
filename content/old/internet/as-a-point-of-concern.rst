@@ -5,7 +5,7 @@ As a point of concern
 :category: Internet
 :tags: Internet
 :slug: as-a-point-of-concern
-:status: published
+:status: draft
 
 Since most of you that read this blog are using Windows (but not all, of
 course), this is of interest to you: There is an

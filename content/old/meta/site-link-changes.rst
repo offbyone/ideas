@@ -5,7 +5,7 @@ Site link changes
 :category: Meta
 :tags: Meta
 :slug: site-link-changes
-:status: published
+:status: draft
 
 I'm making what I hope will be a small change to the way that the site
 handles post links, instead of working with index.php and queries it'll

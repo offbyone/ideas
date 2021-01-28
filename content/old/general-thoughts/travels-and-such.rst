@@ -5,7 +5,7 @@ Travels and such
 :category: General Thoughts
 :tags: concert, disc golf, road trip, speeding
 :slug: travels-and-such
-:status: published
+:status: draft
 
 So, I've returned, both to the province and to writing things on this
 much-ignored online scratchpad. All for you, I swear! If only people

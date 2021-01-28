@@ -5,7 +5,7 @@ Signatures Galore
 :category: General Thoughts
 :tags: work
 :slug: signatures-galore
-:status: published
+:status: draft
 
 I'm beginning a complete re-write of the e-mail signature plugin that i
 was working on around a year ago. For those of you who haven't noticed,

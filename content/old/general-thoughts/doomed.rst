@@ -5,7 +5,7 @@ Doomed
 :category: General Thoughts
 :tags: doom, games, Look at you hacker a pathetic creature of meat and bone
 :slug: doomed
-:status: published
+:status: draft
 
 As can also be gleaned over
 `here <http://www.offlineblog.com/mildillson/index.php?p=260>`__, "Doom

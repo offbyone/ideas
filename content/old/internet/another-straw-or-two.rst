@@ -5,7 +5,7 @@ Another straw (or two)
 :category: Internet, Media
 :tags: culture, depressing, society
 :slug: another-straw-or-two
-:status: published
+:status: draft
 
 Following up on my previous musings:
 

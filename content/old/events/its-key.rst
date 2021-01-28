@@ -5,7 +5,7 @@ It's key.
 :category: Events, General Thoughts
 :tags: Events, intellectual property, privacy, words that I hate, work
 :slug: its-key
-:status: published
+:status: draft
 
 So, I just attended my first-ever keynote presentations, yesterday and
 this morning.  I can already see that there's a lot of variation in

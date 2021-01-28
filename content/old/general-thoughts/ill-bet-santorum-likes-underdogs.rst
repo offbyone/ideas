@@ -5,7 +5,7 @@ I'll bet Santorum likes underdogs
 :category: General Thoughts, Media
 :tags: underdog
 :slug: ill-bet-santorum-likes-underdogs
-:status: published
+:status: draft
 
 Okay, that title bears little, if any, relation to the content of this
 post. This post consists mainly of a pointer to this wonderful `critique

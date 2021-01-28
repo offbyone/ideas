@@ -5,7 +5,7 @@
 :category: General Thoughts
 :tags: bad news, dislocation, health, skydiving
 :slug: and-it-did
-:status: published
+:status: draft
 
 So, the other shoe to which I referred has, in fact, dropped.
 

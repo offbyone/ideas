@@ -5,7 +5,7 @@ CSPA # 12206
 :category: General Thoughts
 :tags: skydiving
 :slug: cspa-12206
-:status: published
+:status: draft
 
 That's my membership number.
 

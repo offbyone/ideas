@@ -5,7 +5,7 @@ Whoa.  Creepy.
 :category: Media
 :tags: Media
 :slug: whoa-creepy
-:status: published
+:status: draft
 
 Courtesy of the ever-loving
 "Metafilter":http://www.metafilter.com/mefi/31501 comes a bunch of

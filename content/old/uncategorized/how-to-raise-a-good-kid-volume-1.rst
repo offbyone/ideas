@@ -4,7 +4,7 @@ How to raise a good kid, volume 1
 :author: offby1
 :category: Uncategorized
 :slug: how-to-raise-a-good-kid-volume-1
-:status: published
+:status: draft
 
 .. raw:: html
 

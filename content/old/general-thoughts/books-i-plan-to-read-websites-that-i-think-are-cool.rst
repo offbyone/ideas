@@ -5,7 +5,7 @@ Books I plan to read, websites that I think are cool.
 :category: General Thoughts, Internet, Media
 :tags: Internet, Media
 :slug: books-i-plan-to-read-websites-that-i-think-are-cool
-:status: published
+:status: draft
 
 I was thinking, today; I have a lot of books on my plate in the
 immediate future. I mean, just stupid quantities of readings that I mean

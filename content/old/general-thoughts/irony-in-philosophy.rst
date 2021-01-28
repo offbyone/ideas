@@ -5,7 +5,7 @@ Irony in Philosophy
 :category: General Thoughts, Internet, Rants
 :tags: intellectual property, Internet, privacy, Rants, school
 :slug: irony-in-philosophy
-:status: published
+:status: draft
 
 I'm looking at the front matter of one of my professors'
 [weblog](http://www.arts.ualberta.ca/~wcooper/graymatter/index.html),

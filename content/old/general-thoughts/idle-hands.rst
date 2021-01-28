@@ -5,7 +5,7 @@ Idle hands
 :category: General Thoughts, Projects
 :tags: Projects, school
 :slug: idle-hands
-:status: published
+:status: draft
 
 Sitting here, alternating between idle web browsing, reading Amber
 novels, and dozing on the couch...

@@ -5,7 +5,7 @@ On parsing
 :category: Projects
 :tags: Projects
 :slug: on-parsing
-:status: published
+:status: draft
 
 I generally avoid posting on this sort of thing, because people's eyes
 tend to glaze over when i start talking about it, but i'm just getting

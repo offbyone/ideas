@@ -5,7 +5,7 @@ Pain and Suffering
 :category: General Thoughts, Meta
 :tags: Meta
 :slug: pain-and-suffering
-:status: published
+:status: draft
 
 What's new in my life?
 

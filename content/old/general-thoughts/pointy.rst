@@ -4,7 +4,7 @@ Pointy
 :author: offby1
 :category: General Thoughts
 :slug: pointy
-:status: published
+:status: draft
 
 Convocation is coming up in a very short time, and I'm pretty pumped
 about it. It marks the end of a long, long road, one that should have

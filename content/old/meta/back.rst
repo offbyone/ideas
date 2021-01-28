@@ -5,7 +5,7 @@ Back!!!
 :category: Meta
 :tags: Meta
 :slug: back
-:status: published
+:status: draft
 
 After much pain, and other sundry crap, i have the blog up. old posts
 will be uploaded in hours, and the templates should be up and fixed

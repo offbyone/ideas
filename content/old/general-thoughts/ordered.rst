@@ -5,7 +5,7 @@ Ordered
 :category: General Thoughts
 :tags: arrogance, assholes, blinders, geeky, ideology, programming
 :slug: ordered
-:status: published
+:status: draft
 
 It's fitting that the quote on my homepage's title bar, as I started to
 post this, was "Against stupidity the very gods themselves contend in

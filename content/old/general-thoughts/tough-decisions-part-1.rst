@@ -5,7 +5,7 @@ Tough decisions (Part 1)
 :category: General Thoughts
 :tags: cats, health
 :slug: tough-decisions-part-1
-:status: published
+:status: draft
 
 Something I have never looked forward to is knowing that inevitably I
 will be looking for `advice <http://ask.metafilter.com/mefi/14654>`__ on
