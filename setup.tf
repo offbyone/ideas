@@ -8,10 +8,18 @@ provider "aws" {
   region = "us-east-1"
 }
 
+data "aws_caller_identity" "current" {}
+
 module "log_storage" {
-  bucket       = "logs.ideas.offby1.net"
-  s3_logs_path = "s3-log-"
-  source       = "github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs"
+  bucket        = "logs.ideas.offby1.net"
+  s3_logs_path  = "s3-log-"
+  cdn_logs_path = "cf-log-"
+  readers       = [data.aws_caller_identity.current.account_id]
+  source        = "github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs?ref=v0.4.1"
+  tags = {
+    "Project" = "ideas.blog"
+    "Domain"  = "offby1.net"
+  }
 }
 
 variable "domain_name" {
@@ -22,14 +30,13 @@ variable "s3_origin_id" {
   default = "S3-ideas.offby1.net"
 }
 
-variable "zone_id" {
-  default = "ZKLLVJ5PA0AR4"
+data "aws_route53_zone" "zone" {
+  name = "offby1.net"
 }
 
 resource "aws_s3_bucket" "blog" {
-  depends_on = [module.log_storage.bucket]
+  depends_on = [module.log_storage.s3_logs_bucket]
   bucket     = var.domain_name
-  region     = "us-west-2"
   acl        = "public-read"
   policy     = <<EOF
 {
@@ -50,8 +57,8 @@ EOF
   }
 
   logging {
-    target_bucket = module.log_storage.bucket_id
-    target_prefix = "s3-log-"
+    target_bucket = module.log_storage.s3_logs_bucket
+    target_prefix = module.log_storage.s3_logs_path
   }
 
   tags = {
@@ -63,7 +70,6 @@ EOF
 
 resource "aws_s3_bucket" "wwwblog" {
   bucket = "www.${var.domain_name}"
-  region = "us-west-2"
   acl    = "public-read"
   website {
     redirect_all_requests_to = var.domain_name
@@ -104,9 +110,9 @@ resource "aws_cloudfront_distribution" "frontend" {
   ]
 
   logging_config {
-    bucket          = module.log_storage.bucket
+    bucket          = module.log_storage.cdn_logs_bucket
     include_cookies = false
-    prefix          = "cf-log-"
+    prefix          = module.log_storage.cdn_logs_path
   }
 
   default_cache_behavior {
@@ -158,10 +164,42 @@ resource "aws_acm_certificate" "certificate" {
     "Domain"  = "offby1.net"
     "Name"    = "ideas-offby1-net"
   }
+
+  validation_method = "DNS"
+
+  lifecycle {
+    create_before_destroy = true
+  }
+
+
+}
+
+resource "aws_route53_record" "cert_validation" {
+  for_each = {
+    for dvo in aws_acm_certificate.certificate.domain_validation_options : dvo.domain_name => {
+      name   = dvo.resource_record_name
+      record = dvo.resource_record_value
+      type   = dvo.resource_record_type
+    }
+  }
+
+  allow_overwrite = true
+  name            = each.value.name
+  type            = each.value.type
+  zone_id         = data.aws_route53_zone.zone.zone_id
+  records         = [each.value.record]
+  ttl             = 60
+
+}
+
+resource "aws_acm_certificate_validation" "certificate" {
+  provider                = aws.useast1
+  certificate_arn         = aws_acm_certificate.certificate.arn
+  validation_record_fqdns = [for record in aws_route53_record.cert_validation : record.fqdn]
 }
 
 resource "aws_route53_record" "blog" {
-  zone_id = var.zone_id
+  zone_id = data.aws_route53_zone.zone.zone_id
   name    = var.domain_name
   type    = "CNAME"
   records = ["${aws_cloudfront_distribution.frontend.domain_name}."]
