@@ -3,7 +3,6 @@ pelican-gist
 pelican-githubprojects
 webassets
 pelican_advance_embed_tweet
-awscli
 invoke
 python-slugify>=4.0
 wheel
