@@ -24,7 +24,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "ideasoffby1"
 GOOGLE_ANALYTICS = "UA-55657377-1"
 
 DEFAULT_METADATA = {
