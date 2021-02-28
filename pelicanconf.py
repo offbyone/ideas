@@ -45,7 +45,7 @@ DISPLAY_PAGES_ON_MENU = True
 # THEME = 'monospace'
 # THEME = 'pelican-elegant-1.3'
 # THEME = 'pure-single'
-THEME = "themes/just-read"
+THEME = "themes/offby1"
 # THEME = "twenty"
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
