@@ -1,0 +1,35 @@
+// Override CSS rules with that file
+.markdown-body {
+  .highlight {
+    // stylelint-disable-next-line primer/spacing
+    padding: 0.2em 0.4em;
+    margin: 0;
+    // stylelint-disable-next-line primer/typography
+    font-size: 85%;
+    // stylelint-disable-next-line primer/colors
+    background-color: rgba($black, 0.05);
+    border-radius: $border-radius;
+
+    br {
+      display: none;
+    }
+
+    margin-bottom: $spacer-3;
+
+    pre {
+      margin-bottom: 0;
+      word-break: normal;
+    }
+
+    > pre {
+      padding: 0;
+      margin: 0;
+      // stylelint-disable-next-line primer/typography
+      font-size: 100%;
+      word-break: normal;
+      white-space: pre;
+      background: transparent;
+      border: 0;
+    }
+  }
+}

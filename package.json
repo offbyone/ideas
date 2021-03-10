@@ -4,7 +4,7 @@
   "description": "blog",
   "license": "CC-BY-SA",
   "repository": "https://github.com/offbyone/ideas",
-  "devDependencies": {
+  "dependencies": {
     "autoprefixer": "^10.0.2",
     "postcss": "^8.1.8",
     "postcss-cli": "^8.3.0",

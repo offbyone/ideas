@@ -3,27 +3,37 @@
 {% block content_title %}{% endblock %}
 
 {% block content %}
-<div role="main" class="content clearfix">
-{% for article in articles %}
+<div class="col-12 col-md-9 float-left content">
+	{% for article in articles %}
 
 	{% if loop.index == 1 %}
-	<article class="wrapper main">
-		<h1><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
-		{{ article.summary }} <a class="btn" href="{{ SITEURL }}/{{ article.url }}">read more →</a>
-	</article>
+	<div class="post">
+		<h2 class="post-item post-title">
+			<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+		</h2>
+		<div class="post-item post-meta"></div>
+		<div class="post-item post-content markdown-body">
+			{{ article.content }}
+		</div>
+	</div>
 
-	{% if loop.length  > 1 %}
-	<div class="wrapper main">
-		<h3>More posts</h3>
-		<ol class="archive">
+	{% if loop.length > 1 %}
+	<h2>More Ideas</h2>
 	{% endif %}
+
 	{% elif loop.index < 7 %}
-			<li class="clearfix"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags}}"><time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time> {{ article.title }}</a></li>
+	<div class="post">
+		{% with class_suffix="-archive" %}
+		{% include 'metadata.html' %}
+		{% endwith %}
+	</div>
 	{% endif %}
 	{% endfor %}
-		</ol>
 
-		<p>More posts in the <a href="{{ SITEURL }}/archives.html">archive</a>.</p>
+	<div class="page-info">
+		<span>More posts in the <a href="{{ SITEURL }}/archives.html">archive</a></span>
 	</div>
+
+
 </div>
 {% endblock content %}

@@ -2,16 +2,21 @@
 {% block title %}{{ category }} - {{ SITENAME }}{% endblock %}
 
 {% block content %}
-<div role="main" class="content clearfix">
-<div class="wrapper main">		
-	<h2>Posts categorized under: {{ category }}</h2>
-	
-	<ol class="archive">
-		{% for article in articles %}
-		<li class="clearfix"><a href="{{ SITEURL }}/{{ article.url }}"><time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time> {{ article.title }}</a></li>
-		{% endfor %}
-	</ol>
+<div class="col-12 col-md-9 float-left content">
 
+
+<div class="page-info">
+	<span>Posts categorized under: {{ category }}</span>
 </div>
+
+{% for article in articles %}
+<div class="post">
+	{% include 'metadata.html' %}
+	<div class="post-item post-summary">
+		{{ article.summary }}
+		<a href="{{ SITEURL }}/{{ article.url }}">read more →</a>
+	</div>
+</div>
+{% endfor %}
 </div>
 {% endblock %}

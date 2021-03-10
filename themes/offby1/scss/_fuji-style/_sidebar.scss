@@ -1,0 +1,89 @@
+.sidebar {
+  padding: 1.5rem 1.5rem 1.5rem 0; // no left padding on big screen
+}
+
+.sidebar-item {
+  &:not(:last-child) {
+    margin-bottom: 1rem; // space between sidebar items
+  }
+
+  h3 {
+    margin-bottom: 0.25rem; // space between head3 & lists
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0 0.1rem; // little space
+  }
+
+  & > div,
+  & > nav {
+    margin: 0 0.1rem; // little space
+  }
+
+  & > img {
+    margin: 0.5rem 0.25rem 0 0.25rem;
+    width: 100%;
+    border-radius: 2px;
+  }
+}
+
+@media screen and (max-width: $width-md) {
+  .sidebar {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: $width-md) {
+  .sidebar-mobile {
+    width: 70%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0%;
+    background-color: var(--color-codebg);
+    z-index: 50;
+    overflow: auto;
+    display: flex;
+    flex-direction: column-reverse;
+
+    .sidebar-wrapper {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      justify-content: space-around;
+      margin: 1.5rem 4.25rem 1.5rem 1.5rem;
+    }
+
+    .sidebar-item {
+      width: 90%; // max 1 module per line
+      text-align: right;
+
+      // space only at not first modules
+      margin-top: 1rem;
+      &:last-child {
+        margin-top: 0;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $width-md) {
+  // single page part
+  .sidebar-toc {
+    ul ul {
+      font-size: 0.875rem;
+      padding-left: 0.5rem;
+      margin-bottom: 0.25rem;
+    }
+
+    position: sticky;
+    top: 1rem;
+
+    #TableOfContents {
+      max-height: 32rem;
+      overflow: auto;
+      scrollbar-width: thin;
+    }
+  }
+}

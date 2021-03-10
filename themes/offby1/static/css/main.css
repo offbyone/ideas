@@ -26,7 +26,8 @@ body {
   color: #000;
   text-shadow: none;
 }
-a:hover, a:active {
+a:hover,
+a:active {
   outline: 0;
 }
 pre {
@@ -34,7 +35,8 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
-ol, ul {
+ol,
+ul {
   margin: 0;
   padding: 0;
 }
@@ -43,7 +45,8 @@ img {
   -ms-interpolation-mode: bicubic;
   vertical-align: middle;
 }
-.clearfix:before, .clearfix:after {
+.clearfix:before,
+.clearfix:after {
   content: "";
   display: table;
 }
@@ -77,7 +80,9 @@ figcaption {
   position: relative;
   overflow: hidden;
 }
-.video-container iframe, .video-container object, .video-container embed {
+.video-container iframe,
+.video-container object,
+.video-container embed {
   height: 100%;
   left: 0;
   position: absolute;
@@ -90,11 +95,12 @@ figcaption {
   -o-box-sizing: border-box;
   box-sizing: border-box;
 }
-.sans, .fancy-font {
-  font-family: 'Droid Sans', sans-serif;
+.sans,
+.fancy-font {
+  font-family: "Droid Sans", sans-serif;
 }
 .mono {
-  font-family: 'Droid Sans Mono', monospace;
+  font-family: "Droid Sans Mono", monospace;
 }
 .small {
   font-size: 12px;
@@ -116,7 +122,7 @@ figcaption {
 }
 .title {
   line-height: 1;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Droid Sans", sans-serif;
   font-weight: 700;
 }
 body {
@@ -124,7 +130,7 @@ body {
   color: #404040;
   line-height: 24px;
   font-size: 14px;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Droid Sans", sans-serif;
 }
 a {
   color: #1d73bb;
@@ -138,14 +144,14 @@ h1 {
   font-size: 24px;
   margin: 0 0 36px 0;
   line-height: 1;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Droid Sans", sans-serif;
   font-weight: 700;
 }
 h2 {
   font-size: 18px;
   margin: 48px 0 24px;
   line-height: 1;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Droid Sans", sans-serif;
   font-weight: 700;
 }
 h3 {
@@ -154,18 +160,21 @@ h3 {
   font-size: 14px;
   text-transform: uppercase;
   line-height: 1;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Droid Sans", sans-serif;
   font-weight: 700;
 }
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   font-weight: 400;
   margin: 24px 0;
   font-size: 14px;
   line-height: 1;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Droid Sans", sans-serif;
   font-weight: 700;
 }
-b, strong {
+b,
+strong {
   font-weight: 700;
 }
 blockquote {
@@ -180,7 +189,7 @@ pre {
   box-shadow: inset 0 0 10px #000000;
   color: #ffffff;
   margin-left: -24px;
-  font-family: 'Droid Sans Mono', monospace;
+  font-family: "Droid Sans Mono", monospace;
   padding: 24px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -194,7 +203,7 @@ time {
   text-transform: uppercase;
 }
 .post ul li {
-  list-style-image: url('../images/bullet.png');
+  list-style-image: url("../images/bullet.png");
 }
 .archive li {
   list-style: none;
@@ -241,16 +250,21 @@ time {
 .ui-tabs-hide {
   display: none;
 }
-.tabmenu li a:hover, .ui-tabs-selected a, .ui-tabs-selected a {
+.tabmenu li a:hover,
+.ui-tabs-selected a,
+.ui-tabs-selected a {
   background-color: #f2f2f2;
 }
 .btn {
   color: #ffffff;
   background-color: #556270;
   border: none;
-  -webkit-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
-  box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45),
+    0px 2px 2px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45),
+    0px 2px 2px rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45),
+    0px 2px 2px rgba(0, 0, 0, 0.25);
   padding: 8px 14px 10px;
   position: relative;
   -webkit-border-radius: 3px;
@@ -267,8 +281,10 @@ time {
   text-decoration: none;
 }
 .btn:active {
-  -webkit-box-shadow: inset 0px -3px 1px #ffffff, inset 0 0px 3px rgba(0, 0, 0, 0.9);
-  -moz-box-shadow: inset 0px -3px 1px #ffffff, inset 0 0px 3px rgba(0, 0, 0, 0.9);
+  -webkit-box-shadow: inset 0px -3px 1px #ffffff,
+    inset 0 0px 3px rgba(0, 0, 0, 0.9);
+  -moz-box-shadow: inset 0px -3px 1px #ffffff,
+    inset 0 0px 3px rgba(0, 0, 0, 0.9);
   box-shadow: inset 0px -3px 1px #ffffff, inset 0 0px 3px rgba(0, 0, 0, 0.9);
   position: relative;
   top: 3px;
@@ -369,16 +385,28 @@ time {
 }
 header {
   border-width: 0 0 2px;
-  -moz-border-image: url('../images/2px.png') 0 0 2 repeat;
-  -webkit-border-image: url('../images/2px.png') 0 0 2 repeat;
-  -o-border-image: url('../images/2px.png') 0 0 2 repeat;
-  border-image: url('../images/2px.png') 0 0 2 repeat;
+  -moz-border-image: url("../images/2px.png") 0 0 2 repeat;
+  -webkit-border-image: url("../images/2px.png") 0 0 2 repeat;
+  -o-border-image: url("../images/2px.png") 0 0 2 repeat;
+  border-image: url("../images/2px.png") 0 0 2 repeat;
   background-color: #48535f;
   background-repeat: repeat-x;
-  background-image: -khtml-gradient(linear, left top, left bottom, from(#556270), to(#48535f));
+  background-image: -khtml-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#556270),
+    to(#48535f)
+  );
   background-image: -moz-linear-gradient(top, #556270, #48535f);
   background-image: -ms-linear-gradient(top, #556270, #48535f);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #556270), color-stop(100%, #48535f));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0%, #556270),
+    color-stop(100%, #48535f)
+  );
   background-image: -webkit-linear-gradient(top, #556270, #48535f);
   background-image: -o-linear-gradient(top, #556270, #48535f);
   background-image: linear-gradient(top, #556270, #48535f);
@@ -392,7 +420,9 @@ header h1 {
 header a {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
-  text-shadow: 0 1px 0 #b3b3b3, 0 2px 0 #999999, 0 3px 0 #808080, 0 4px 0 #666666, 0 5px 0 #4d4d4d, 0 6px 0 #333333, 0px 7px 0 #1a1a1a, 0 8px 7px #0d0d0d;
+  text-shadow: 0 1px 0 #b3b3b3, 0 2px 0 #999999, 0 3px 0 #808080,
+    0 4px 0 #666666, 0 5px 0 #4d4d4d, 0 6px 0 #333333, 0px 7px 0 #1a1a1a,
+    0 8px 7px #0d0d0d;
 }
 header a:hover {
   color: #ffffff;
@@ -400,10 +430,10 @@ header a:hover {
 }
 footer {
   border-width: 20px 0 0;
-  -moz-border-image: url('../images/pages.png') 20 0 0 repeat;
-  -webkit-border-image: url('../images/pages.png') 20 0 0 repeat;
-  -o-border-image: url('../images/pages.png') 20 0 0 repeat;
-  border-image: url('../images/pages.png') 20 0 0 repeat;
+  -moz-border-image: url("../images/pages.png") 20 0 0 repeat;
+  -webkit-border-image: url("../images/pages.png") 20 0 0 repeat;
+  -o-border-image: url("../images/pages.png") 20 0 0 repeat;
+  border-image: url("../images/pages.png") 20 0 0 repeat;
   color: rgba(0, 0, 0, 0.6);
   margin-top: 96px;
   padding: 48px 5.555555555555555% 24px;
@@ -437,73 +467,73 @@ p[role="contentinfo"] {
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='behance.net']:before {
-  content: url('../images/icons/behance.png');
+.social a[href*="behance.net"]:before {
+  content: url("../images/icons/behance.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='delicious.com']:before {
-  content: url('../images/icons/delicious.png');
+.social a[href*="delicious.com"]:before {
+  content: url("../images/icons/delicious.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='facebook.com']:before {
-  content: url('../images/icons/facebook.png');
+.social a[href*="facebook.com"]:before {
+  content: url("../images/icons/facebook.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='flickr.com']:before {
-  content: url('../images/icons/flickr.png');
+.social a[href*="flickr.com"]:before {
+  content: url("../images/icons/flickr.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='forrst.com']:before {
-  content: url('../images/icons/forrst.png');
+.social a[href*="forrst.com"]:before {
+  content: url("../images/icons/forrst.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='github.com']:before {
-  content: url('../images/icons/github.png');
+.social a[href*="github.com"]:before {
+  content: url("../images/icons/github.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='plus.google.com']:before {
-  content: url('../images/icons/google_plus.png');
+.social a[href*="plus.google.com"]:before {
+  content: url("../images/icons/google_plus.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='last.fm']:before {
-  content: url('../images/icons/lastfm.png');
+.social a[href*="last.fm"]:before {
+  content: url("../images/icons/lastfm.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='linkedin.com']:before {
-  content: url('../images/icons/linkedin.png');
+.social a[href*="linkedin.com"]:before {
+  content: url("../images/icons/linkedin.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='quora.com']:before {
-  content: url('../images/icons/quora.png');
+.social a[href*="quora.com"]:before {
+  content: url("../images/icons/quora.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='rss.xml']:before {
-  content: url('../images/icons/rss.png');
+.social a[href*="rss.xml"]:before {
+  content: url("../images/icons/rss.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='stackoverflow.com']:before {
-  content: url('../images/icons/stackoverflow.png');
+.social a[href*="stackoverflow.com"]:before {
+  content: url("../images/icons/stackoverflow.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='twitter.com']:before {
-  content: url('../images/icons/twitter.png');
+.social a[href*="twitter.com"]:before {
+  content: url("../images/icons/twitter.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
-.social a[href*='youtube.com']:before {
-  content: url('../images/icons/youtube.png');
+.social a[href*="youtube.com"]:before {
+  content: url("../images/icons/youtube.png");
   margin-right: 2px;
   vertical-align: -3px;
 }
@@ -540,8 +570,7 @@ p[role="contentinfo"] {
   width: 50%;
 }
 blockquote,
-pre
-.post ul,
+pre .post ul,
 .post ol,
 p,
 .archive {
@@ -555,7 +584,8 @@ p,
     float: right;
     width: 75%;
   }
-  .meta, .pages {
+  .meta,
+  .pages {
     float: left;
     text-align: right;
     width: 25%;
@@ -570,7 +600,9 @@ p,
     margin-left: 0;
     font-weight: 400;
   }
-  .post, .copy, .main {
+  .post,
+  .copy,
+  .main {
     float: right;
     width: 75%;
   }
@@ -613,7 +645,8 @@ p,
   }
 }
 @media screen and (min-width: 61.5em) {
-  .meta, .pages {
+  .meta,
+  .pages {
     width: 12.5%;
   }
   .pages {
@@ -637,7 +670,8 @@ p,
     font-size: 48px;
     margin-bottom: 48px;
   }
-  h2, header .huge {
+  h2,
+  header .huge {
     font-size: 36px;
   }
   h2 {
@@ -647,18 +681,22 @@ p,
     font-size: 24px;
     margin-top: 72px;
   }
-  h4, h5, h6 {
+  h4,
+  h5,
+  h6 {
     font-size: 18px;
     margin-top: 48px;
   }
-  .meta, .pages {
+  .meta,
+  .pages {
     padding-left: 6.25%;
     width: 18.75%;
   }
   .meta {
     padding-top: 96px;
   }
-  .post, .copy {
+  .post,
+  .copy {
     width: 75%;
   }
   .post {
@@ -670,7 +708,8 @@ p,
   .post li {
     margin-bottom: 24px;
   }
-  code, .codehilite {
+  code,
+  .codehilite {
     font-size: 36px;
   }
   pre,
@@ -695,17 +734,20 @@ p,
     -ms-filter: none !important;
     text-shadow: none !important;
   }
-  @page  {
+  @page {
     margin: 0.5cm;
   }
-  a, a:visited {
+  a,
+  a:visited {
     color: #000000 !important;
     text-decoration: underline;
   }
   a[href]:after {
     content: " (" attr(href) ")";
   }
-  a[href^="javascript:"]:after, a[href^="#"]:after, .ir a:after {
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after,
+  .ir a:after {
     content: "";
   }
   abbr[title]:after {
@@ -714,32 +756,39 @@ p,
   body {
     font-size: 12pt;
   }
-  blockquote, pre {
+  blockquote,
+  pre {
     page-break-inside: avoid;
   }
-  blockquote, pre {
+  blockquote,
+  pre {
     margin-left: 0.5cm;
     border-left: 0.2cm solid #999;
     padding-left: 0.2cm;
   }
-  code, pre {
+  code,
+  pre {
     font: 10pt Courier, monospace;
   }
   h1 {
     font-size: 18pt;
   }
-  h2, h3 {
+  h2,
+  h3 {
     page-break-after: avoid;
     font-size: 16pt;
   }
-  h2, h3, p {
+  h2,
+  h3,
+  p {
     orphans: 3;
     widows: 3;
   }
   img {
     max-width: 100% !important;
   }
-  img, tr {
+  img,
+  tr {
     page-break-inside: avoid;
   }
   thead {

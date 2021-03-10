@@ -1,12 +1,17 @@
-<div class="meta wrapper">
-	<time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time>
-	<ul class="tag clearfix">
-		<li><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></li>
-{% if article.tags %}
-	{% for tag in article.tags %}
-		<li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
-	{% endfor %}
-{% endif %}
-	</ul>
-	{% if PDF_PROCESSOR %}<p><a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">Download the .pdf</a></p>{% endif %}
+<h2 class="post-item post-title{{ class_suffix | default('') }}">
+    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+</h2>
+<div class="post-item post-meta{{ class_suffix | default('') }}">
+	<span><i class="iconfont icon-today-sharp"></i>&nbsp;<time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time></span>
+	<!-- Disabled for now
+		 FIXME add https://github.com/pilosus/pilosus_pelican_word_count/ and re-implement
+		 <span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;WORDCOUNT words</span>
+	-->
+	{% if article.tags %}
+	<span><i class="iconfont icon-pricetags-sharp"></i>
+		{% for tag in article.tags %}
+		&nbsp;<a href="{{ SITEURL }}/{{ tag.url }}">{{tag}}</a>
+		{% endfor %}
+	</span>
+	{% endif %}
 </div>

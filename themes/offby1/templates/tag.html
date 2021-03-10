@@ -5,16 +5,22 @@
 {% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
 
 {% block content %}
-<div role="main" class="content clearfix">
-<div class="wrapper main">
-	<h2>Post tagged: {{ tag }}</h2>
+<div class="col-12 col-md-9 float-left content">
 
-	<ol class="archive">
-		{% for article in articles %}
-		<li class="clearfix"><a href="{{ SITEURL }}/{{ article.url }}"><time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time> {{ article.title }}</a></li>
-		{% endfor %}
-	</ol>
 
+<div class="page-info">
+	<span>Posts tagged: {{ tag }}</span>
 </div>
+
+{% for article in articles %}
+<div class="post">
+	{% include 'metadata.html' %}
+	<div class="post-item post-summary">
+		{{ article.summary }}
+		<a href="{{ SITEURL }}/{{ article.url }}">read more →</a>
+	</div>
+</div>
+{% endfor %}
+
 </div>
 {% endblock %}

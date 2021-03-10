@@ -11,7 +11,9 @@
         <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 
         <link href='//fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
+        {% assets filters="scss,cssmin", output="css/style.min.css", "fuji.scss" %}
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
+        {% endassets %}
 
         <!--[if lt IE 9]>
             <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -29,40 +31,87 @@
         {% endif %}
     </head>
 
-    <body>
-        <header class="clearfix" role="banner">
-            <div class="wrapper">
-                <h1 class="huge"><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+    <body data-theme="auto">
+        <header role="banner">
+            <div class="container-lg clearfix">
+                <div class="col-12 header">
+                    <a class="title-main" href="{{ SITEURL }}">{{ SITENAME }}</a>
+                </div>
             </div>
         </header>
 
-        <!-- content block begins -->
-        {% block content %}
-        {% endblock %}
-        <!-- content block ends -->
+        <main>
+	        <div class="container-lg clearfix">
+                <!-- content block begins -->
+                {% block content %}
+                {% endblock %}
+                <!-- content block ends -->
 
+                <!-- sidebar block begins -->
+                {% block sidebar %}
+                <aside class="col-12 col-md-3 float-left sidebar">
+                    {% if DISPLAY_PAGES_ON_MENU %}
+                    <div class="sidebar-item sidebar-pages">
+                        <h3>Pages</h3>
+                        {% for p in pages %}
+                        <li{% if p == page %} class="active"{% endif %}>
+                            <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+                        </li>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
 
-        <footer class="clearfix">
-            <div class="wrapper pages">
-                <ul class="nav">
-                    {% for p in PAGES %}
-                    <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
-                    {% endfor %}
-                    <li><a href="{{ SITEURL }}/archives.html">Archive</a></li>
-                </ul>
+                    {% if DISPLAY_CATEGORIES_ON_MENU %}
+                    <div class="sidebar-item sidebar-pages">
+                        <h3>Categories</h3>
+                        {% for cat, null in categories %}
+                        <li{% if cat == category %} class="active"{% endif %}>
+                            <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+                        </li>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+
+                    <div class="sidebar-item sidebar-links">
+                        <h3>{{ LINKS_WIDGET_NAME | default('links') }}</h3>
+                        <ul>
+                            <li>
+                                <a href="https://twitter.com/offby1" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @offby1</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                            </li>
+                            {% for name, link in LINKS %}
+                            <li><a href="{{ link }}">{{ name }}</a></li>
+                            {% endfor %}
+                            {% for name, link in SOCIAL %}
+                            <li><a href="{{ link }}">{{ name }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+
+                    <div class="sidebar-item sidebar-tags">
+                        <h3>Tags</h3>
+                        <div>
+                            {% for tag, articles in tags|sort %}
+                            <span>
+                                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }} ({{ articles|count }})</a>
+                            </span>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </aside>
+                {% endblock %}
+                <!-- sidebar block ends -->
             </div>
+        </main>
 
-            <div class="copy wrapper">
-                <ul class="social">
-                    <a href="https://twitter.com/offby1" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @offby1</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                    {% for name, link in SOCIAL %}
-                    <li><a href="{{ link }}">{{ name }}</a></li>
-                    {% endfor %}
-                </ul>
-
-                <p role="contentinfo">© {{ article.date|strftime("%Y") if article else "2016" }} {{ AUTHOR }}<br>
-                    <a href="https://keybase.io/offby1"><img src="https://keybase.onlineth.com/offby1.png?theme=clean" width="210" height="58" alt="keybase.io profile for offby1"></a><br>
-                    Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">Pelican</a>.</p>
+        <footer>
+            <div class="container-lg clearfix">
+                <div class="col-12 footer">
+                    <span>© {{ article.date|strftime("%Y") if article else "2021" }} {{ AUTHOR }}
+                        | <a href="https://github.com/offbyone/ideas">Source</a>
+                        | Built with <a href="https://getpelican.com">Pelican</a>
+                        | Decorated based on <a href="https://github.com/dsrkafuu/hugo-theme-fuji/">Fuji-V2</a>
+                    </span>
+                </div>
             </div>
         </footer>
 
