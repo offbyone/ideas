@@ -2,10 +2,10 @@ Cannot Be Taught
 ################
 :date: 2009-02-18 16:20
 :author: offby1
-:category: Rants
+:category: society
 :tags: education, entitlement, parenting, society
 :slug: cannot-be-taught
-:status: published
+:status: draft
 
 Here's something that I will do my damnedest to teach my child: Just
 because you worked hard doesn't mean you worked *well*.

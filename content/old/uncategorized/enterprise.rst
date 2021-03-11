@@ -2,7 +2,8 @@ Enterprise
 ##########
 :date: 2010-05-16 19:00
 :author: offby1
-:category: Space
+:category: pics
+:tags: space   
 :slug: enterprise
 :status: published
 

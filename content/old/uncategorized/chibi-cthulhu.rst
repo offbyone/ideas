@@ -2,7 +2,7 @@ Chibi-Cthulhu
 #############
 :date: 2010-05-02 23:04
 :author: offby1
-:category: Photography
+:category: pics
 :slug: chibi-cthulhu
 :status: published
 

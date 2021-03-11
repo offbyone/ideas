@@ -2,9 +2,9 @@ Hey, gimme that!
 ################
 :date: 2010-04-19 00:05
 :author: offby1
-:category: Project 365
+:category: pics
+:tags: Project 365, Matt
 :slug: hey-gimme-that
-:tags: Matt
 :status: published
 
 |Hey, gimme that!|

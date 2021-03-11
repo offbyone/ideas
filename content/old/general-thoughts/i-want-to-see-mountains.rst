@@ -2,7 +2,7 @@ I want to see mountains...
 ##########################
 :date: 2009-03-15 16:25
 :author: offby1
-:category: General Thoughts
+:category: life
 :tags: jasper, travel, vacation
 :slug: i-want-to-see-mountains
 :status: published

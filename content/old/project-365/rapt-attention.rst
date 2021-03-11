@@ -2,8 +2,8 @@ Rapt Attention
 ##############
 :date: 2010-04-16 16:38
 :author: offby1
-:category: Project 365
-:tags: 365, Matt
+:category: pics
+:tags: Project 365, Matt
 :slug: rapt-attention
 :status: published
 

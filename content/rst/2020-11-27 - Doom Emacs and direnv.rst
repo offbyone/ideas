@@ -6,7 +6,7 @@ Doom Emacs and direnv
 
 :slug: doom-emacs-and-direnv
 :date: 2020-11-27T10:24:22.509234
-:category: Tools
+:category: tools
 :tags: emacs, direnv
 :author: Chris Rose
 :email: offline@offby1.net

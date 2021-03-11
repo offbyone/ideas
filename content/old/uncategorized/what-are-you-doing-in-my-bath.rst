@@ -2,7 +2,7 @@ What are you doing in my bath?
 ##############################
 :date: 2010-05-27 05:12
 :author: offby1
-:category: Humour
+:category: pics
 :tags: Matt
 :slug: what-are-you-doing-in-my-bath
 :status: published

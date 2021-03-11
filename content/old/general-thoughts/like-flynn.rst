@@ -2,7 +2,7 @@ Like Flynn
 ##########
 :date: 2009-01-26 18:24
 :author: offby1
-:category: General Thoughts
+:category: life
 :tags: Friends, home, move, simon
 :slug: like-flynn
 :status: published

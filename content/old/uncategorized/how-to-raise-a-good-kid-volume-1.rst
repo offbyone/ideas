@@ -2,7 +2,8 @@ How to raise a good kid, volume 1
 #################################
 :date: 2010-05-01 20:49
 :author: offby1
-:category: Parenting
+:category: life
+:tags: parenting, Matt
 :slug: how-to-raise-a-good-kid-volume-1
 :status: published
 

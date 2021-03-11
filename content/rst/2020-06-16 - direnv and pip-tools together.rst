@@ -6,7 +6,7 @@ direnv and pip-tools together
 
 :slug: direnv-and-pip-tools-together
 :date: 2020-06-16T07:15:02.430301
-:category: Tools
+:category: tools
 :tags: programming, direnv, python, pip-tools, automation
 :author: Chris Rose
 :email: offline@offby1.net

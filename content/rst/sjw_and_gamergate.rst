@@ -2,7 +2,7 @@ Why I stand with the SJW crowd, even though they get it wrong sometimes.
 #########################################################################
 :slug: on-gamergate-and-sjw
 :date: 2014-10-11 08:30
-:category: sociology
+:category: society
 :tags: gamers, feminism
 :author: Chris Rose
 :email: offline@offby1.net

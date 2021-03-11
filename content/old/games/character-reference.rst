@@ -2,8 +2,8 @@ Character Reference
 ###################
 :date: 2011-02-14 00:05
 :author: offby1
-:category: Games
-:tags: character, pathfinder
+:category: life
+:tags: character, pathfinder, gaming
 :slug: character-reference
 :status: published
 
