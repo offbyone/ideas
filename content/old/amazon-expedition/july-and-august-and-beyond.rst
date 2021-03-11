@@ -2,9 +2,9 @@ July and August (And Beyond)
 ############################
 :date: 2011-08-24 10:20
 :author: offby1
-:category: Amazon Expedition, Friends, General Thoughts
+:category: Amazon Expedition
 :slug: july-and-august-and-beyond
-:status: draft
+:status: published
 
 New house, huh.
 

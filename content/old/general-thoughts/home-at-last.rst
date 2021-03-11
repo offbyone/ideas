@@ -5,7 +5,7 @@ Home at last
 :category: General Thoughts
 :tags: cats, char, General Thoughts, homeownership, moving, stress
 :slug: home-at-last
-:status: draft
+:status: published
 
 It's quite a sight, the spew of boxes collected into three large stacks
 and two small ones. An entire life... scratch that, \_two\_ entire lives

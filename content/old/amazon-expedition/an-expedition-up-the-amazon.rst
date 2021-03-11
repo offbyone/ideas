@@ -5,7 +5,7 @@ An Expedition up the Amazon
 :category: Amazon Expedition
 :tags: amazon, emigration, seattle
 :slug: an-expedition-up-the-amazon
-:status: draft
+:status: published
 
 About three months ago, I was contacted by a recruiter for Amazon. Yes,
 that Amazon. The big kahuna. One of the titans of the tech industry.

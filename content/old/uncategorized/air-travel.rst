@@ -2,10 +2,10 @@ Air Travel
 ##########
 :date: 2011-10-26 20:16
 :author: offby1
-:category: Uncategorized
+:category: Travel
 :tags: culture, travel
 :slug: air-travel
-:status: draft
+:status: published
 
 How much can people be convinced to tolerate for the sake of traveling?
 I'm thinking of the frothy mixture of security theatre and customer

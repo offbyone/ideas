@@ -4,31 +4,15 @@ Before and After
 :author: offby1
 :category: Project 365
 :slug: before-and-after
-:status: draft
+:status: published
 
 For the 23rd, here's the look of my office, carpet still mouldy and wet:
 
-.. raw:: html
-
-   <div style="float:right;margin-left:10px;margin-bottom:10px;">
-
 |Before|
-
-.. raw:: html
-
-   </div>
 
 For the 24th, here's the floor, stripped of carpet:
 
-.. raw:: html
-
-   <div style="float:right;margin-left:10px;margin-bottom:10px;">
-
 |... and after|
-
-.. raw:: html
-
-   </div>
 
 The soundtrack to this operation was:
 

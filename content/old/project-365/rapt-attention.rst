@@ -3,9 +3,9 @@ Rapt Attention
 :date: 2010-04-16 16:38
 :author: offby1
 :category: Project 365
-:tags: 365
+:tags: 365, Matt
 :slug: rapt-attention
-:status: draft
+:status: published
 
 Taken with the implict permission of the subject. Not that I asked.
 

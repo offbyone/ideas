@@ -2,9 +2,9 @@ It's not deep thought, but it's funny.
 ######################################
 :date: 2011-09-24 13:58
 :author: offby1
-:category: Uncategorized
+:category: Humour
 :slug: its-not-deep-thought-but-its-funny
-:status: draft
+:status: published
 
 [caption id="attachment\_791" align="alignleft" width="400" caption="O
 hai been scratchin ur records like a dj"]\ |O hai been scratchin ur

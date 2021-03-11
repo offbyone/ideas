@@ -5,7 +5,7 @@ I want to see mountains...
 :category: General Thoughts
 :tags: jasper, travel, vacation
 :slug: i-want-to-see-mountains
-:status: draft
+:status: published
 
 Char and I just spent the weekend in Jasper, one of the few vacations
 we've taken both in north america and on short notice.

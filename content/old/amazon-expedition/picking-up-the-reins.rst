@@ -5,7 +5,7 @@ Picking up the reins
 :category: Amazon Expedition
 :tags: details omitted to protect the innocent, workflow
 :slug: picking-up-the-reins
-:status: draft
+:status: published
 
 I'm increasing feeling comfortable with the nature of my job here, which
 is fantastic. We have such a complex problem domain, with so many teams

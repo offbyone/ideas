@@ -2,10 +2,10 @@ Taking my finger off the pulse
 ##############################
 :date: 2011-06-04 08:10
 :author: offby1
-:category: Amazon Expedition, General Thoughts
+:category: Amazon Expedition
 :tags: lifestyle, reading
 :slug: taking-my-finger-off-the-pulse
-:status: draft
+:status: published
 
 I'm an inveterate blog reader, which must come as a surprise to
 precisely nobody. I read blogs by authors, programmers, and random joes

@@ -2,10 +2,10 @@ Tick, Tock
 ##########
 :date: 2011-06-25 08:52
 :author: offby1
-:category: Amazon Expedition, General Thoughts
+:category: Amazon Expedition
 :tags: home, nightlife, socializing
 :slug: tick-tock
-:status: draft
+:status: published
 
 So, what's new?
 
@@ -29,8 +29,7 @@ Next Friday we are having all of our possessions dumped unceremoniously
 in our new home. I've written a bit about it but maybe it's easier if I
 provide some locational context:
 
-[googlemaps
-http://maps.google.com/maps?f=q&source=s\_q&hl=en&geocode=&q=3929+Woodland+Park+Avenue+North,+Seattle,+WA&aq=0&sll=47.65503,-122.345034&sspn=0.013774,0.019698&ie=UTF8&hq=&hnear=3929+Woodland+Park+Ave+N,+Seattle,+Washington+98103&z=14&ll=47.65503,-122.345034&output=embed&w=425&h=350]
+*lost to the sands of time*
 
 It's a lovely place; smaller than we're coming from, but we've learned
 to purge already, and I can't see any reason for us to stop doing so now

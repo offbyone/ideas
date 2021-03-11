@@ -5,7 +5,7 @@ Like Flynn
 :category: General Thoughts
 :tags: Friends, home, move, simon
 :slug: like-flynn
-:status: draft
+:status: published
 
 And we're in.
 

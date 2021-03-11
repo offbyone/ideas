@@ -7,7 +7,7 @@ Because i haven't posted in a while
 :slug: because-i-havent-posted-in-a-while
 :status: draft
 
-... and [this](http://www.tjcenter.org/past2004.html "The Thomas Jefferson Center for the Protection of Free Expression") is nifty.
+... and `this <http://www.tjcenter.org/past2004.html>`__ ("The Thomas Jefferson Center for the Protection of Free Expression") is nifty.
 
 A free speech advocacy group in the USA hands out these Jefferson Muzzle
 awards to organizations and individuals who have failed to grasp the

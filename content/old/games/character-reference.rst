@@ -5,7 +5,7 @@ Character Reference
 :category: Games
 :tags: character, pathfinder
 :slug: character-reference
-:status: draft
+:status: published
 
 I am about to start playing D&D again as a player for the first time in
 years. Well, not D&D specifically, so much as Pathfinder. It's a bit
