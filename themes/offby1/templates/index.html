@@ -7,15 +7,14 @@
 	{% for article in articles %}
 
 	{% if loop.index == 1 %}
-	<div class="post">
-		<h2 class="post-item post-title">
-			<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-		</h2>
-		<div class="post-item post-meta"></div>
-		<div class="post-item post-content markdown-body">
-			{{ article.content }}
+	<article>
+		<div class="post wrapper">
+			{% include "metadata.html" %}
+			<div class="post-item post-content markdown-body">
+				{{ article.content }}
+			</div>
 		</div>
-	</div>
+	</article>
 
 	{% if loop.length > 1 %}
 	<h2>More Ideas</h2>

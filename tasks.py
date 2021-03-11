@@ -84,7 +84,7 @@ def serve(c):
 
 @task
 def devserver(c):
-    c.run(f"./develop_server.sh restart {CONFIG['port']}")
+    c.run(f"pelican -D -l -r --port {CONFIG['port']}")
 
 
 @task(build)
