@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
+from pathlib import Path
 
 AUTHOR = "Chris R"
 AUTHOR_EMAIL = "offline@offby1.net"
@@ -48,11 +50,13 @@ DISPLAY_PAGES_ON_MENU = False
 THEME = "themes/offby1"
 # THEME = "twenty"
 
+# set the SASS load path
 ASSET_SOURCE_PATHS = [
     "static/css",
     "sass",
     "scss",
 ]
+ASSET_CONFIG = [("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")])]
 
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
