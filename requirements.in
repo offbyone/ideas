@@ -7,3 +7,5 @@ invoke
 python-slugify>=4.0
 wheel
 cssmin
+pelican-tag-cloud
+pelican-webassets

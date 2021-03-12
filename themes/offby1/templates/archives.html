@@ -2,20 +2,20 @@
 {% block title %}Archive - {{ SITENAME }}{% endblock %}
 
 {% block scripts %}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 {% endblock %}
 
 
 {% block content %}
 <div class="col-12 col-md-9 float-left content">
 	<div id="jquerytabs" class="wrapper main">
-		<ul class="tabmenu clearfix">
-			<li><a href="#fecha">By date</a></li>
-			<li><a href="#etiqueta">By topic</a></li>
+		<ul class="tabmenu clearfix tabnav">
+			<li><a href="#archive-by-date">By date</a></li>
+			<li><a href="#archive-by-tag">By topic</a></li>
 		</ul>
 
-		<div id="fecha">
+		<div id="archive-by-date">
 			{% for year, date_year in dates|groupby( 'date.year' )|sort(reverse=True) %}
 			<div class="page-info">
 				<h3>{{ year }}</h3>
@@ -29,11 +29,11 @@
 			{% endfor %}
 		</div>
 
-		<div id="etiqueta">
+		<div id="archive-by-tag">
 			<div class="page-info">
 				<h3>Tags</h3>
 			</div>
-			<ul class="tag">
+			<ul class="tagcloud">
 				{% for tag in tag_cloud|sort %}
 				<li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
 				{% endfor %}

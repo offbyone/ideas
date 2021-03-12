@@ -30,10 +30,16 @@ pelican-gist==0.3.4
     # via -r requirements.in
 pelican-githubprojects==0.1.1
     # via -r requirements.in
+pelican-tag-cloud==1.0.0
+    # via -r requirements.in
+pelican-webassets==2.0.0
+    # via -r requirements.in
 pelican==4.5.4
     # via
     #   -r requirements.in
     #   pelican-advance-embed-tweet
+    #   pelican-tag-cloud
+    #   pelican-webassets
 pygments==2.6.1
     # via
     #   pelican
@@ -59,6 +65,8 @@ unidecode==1.1.2
 urllib3==1.26.3
     # via requests
 webassets==2.0
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   pelican-webassets
 wheel==0.36.2
     # via -r requirements.in

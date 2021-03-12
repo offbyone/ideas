@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ["./plugins", "./pelican-plugins"]
-PLUGINS = ["assets", "pelican_gist", "embed_tweet"]
+PLUGINS = ["webassets", "pelican_gist", "embed_tweet", "tag_cloud"]
 
 ARTICLE_URL = "posts/{slug}.html"
 ARTICLE_SAVE_AS = "posts/{slug}.html"
@@ -51,12 +51,12 @@ THEME = "themes/offby1"
 # THEME = "twenty"
 
 # set the SASS load path
-ASSET_SOURCE_PATHS = [
+WEBASSETS_SOURCE_PATHS = [
     "static/css",
     "sass",
     "scss",
 ]
-ASSET_CONFIG = [("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")])]
+WEBASSETS_CONFIG = [("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")])]
 
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
