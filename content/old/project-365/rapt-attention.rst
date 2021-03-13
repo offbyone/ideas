@@ -5,7 +5,7 @@ Rapt Attention
 :category: pics
 :tags: Project 365, Matt
 :slug: rapt-attention
-:status: published
+:status: draft
 
 Taken with the implict permission of the subject. Not that I asked.
 

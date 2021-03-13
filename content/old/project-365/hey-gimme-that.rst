@@ -5,7 +5,7 @@ Hey, gimme that!
 :category: pics
 :tags: Project 365, Matt
 :slug: hey-gimme-that
-:status: published
+:status: draft
 
 |Hey, gimme that!|
 

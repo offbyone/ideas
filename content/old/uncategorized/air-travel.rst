@@ -2,7 +2,7 @@ Air Travel
 ##########
 :date: 2011-10-26 20:16
 :author: offby1
-:category: Travel
+:category: travel
 :tags: culture, travel
 :slug: air-travel
 :status: published

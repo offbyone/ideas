@@ -5,7 +5,7 @@ Before and After
 :category: pics
 :tags: Project 365
 :slug: before-and-after
-:status: published
+:status: draft
 
 For the 23rd, here's the look of my office, carpet still mouldy and wet:
 

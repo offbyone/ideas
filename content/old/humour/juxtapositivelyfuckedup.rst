@@ -2,7 +2,7 @@ Juxtapositivelyfuckedup
 #######################
 :date: 2009-02-12 16:19
 :author: offby1
-:category: Humour
+:category: humour
 :tags: juxtaposition, random, Telus, video
 :slug: juxtapositivelyfuckedup
 :status: published
