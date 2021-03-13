@@ -213,3 +213,20 @@ article {
     }
   }
 }
+
+$cloud-steps: 4;
+$cloud-max-size: 1.5;
+$cloud-min-size: 0.8;
+$cloud-step: ($cloud-max-size - $cloud-min-size) / $cloud-steps;
+
+.tagcloud {
+  li {
+    display: inline-block;
+  }
+  @for $i from 1 through $cloud-steps {
+    li.tag-#{$i} {
+      $this-size: $cloud-max-size - (($i - 1) * $cloud-step);
+      font-size: $this-size * 100%;
+    }
+  }
+}
