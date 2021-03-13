@@ -1,10 +1,45 @@
 <!doctype html>
-<html lang="{{ HTML_LANG }}">
+{% if USE_OPEN_GRAPH is not defined %}
+    {% set USE_OPEN_GRAPH = True %}
+{% endif %}
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}"{% if USE_OPEN_GRAPH %} prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml"{% endif %}>
     <head>
         <meta charset="utf-8"/>
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
-        <meta name="author" content="{{ AUTHOR }}">
+        {% block meta %}
+            <meta name="author" content="{{ AUTHOR }}" />
+        {% endblock %}
 
+        {# Favicons are a touchy subject. For reasoning for the following code, see: http://stackoverflow.com/a/23851464/872397 #}
+        {% if FAVICON %}
+            <link href="{{ SITEURL }}/{{ FAVICON }}" rel="icon">
+        {% endif %}
+        {% if FAVICON_IE %}
+            <!--[if IE]><link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON_IE }}"><![endif]-->
+        {% endif %}
+        {% if TOUCHICON %}
+            <link rel="apple-touch-icon" href="{{ SITEURL }}/{{ TOUCHICON }}">
+        {% endif %}
+
+        {# Open Graph tags #}
+        {% if USE_OPEN_GRAPH %}
+            {% block opengraph %}
+                <!-- Open Graph tags -->
+                {% if OPEN_GRAPH_FB_APP_ID %}
+                    <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
+                {% endif %}
+                <meta property="og:site_name" content="{{ SITENAME }}" />
+                <meta property="og:type" content="website"/>
+                <meta property="og:title" content="{{ SITENAME }}"/>
+                <meta property="og:url" content="{{ SITEURL }}"/>
+                <meta property="og:description" content="{{ SITENAME }}"/>
+                {% if OPEN_GRAPH_IMAGE %}
+                    <meta property="og:image"
+                          content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}"/>
+                {% endif %}
+            {% endblock %}
+        {% endif %}
+        
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
         <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
@@ -29,6 +64,24 @@
         {% if FEED_RSS %}
         <link href="{{ SITEURL }}/{{ FEED_RSS }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
         {% endif %}
+        {%- if tag and TAG_FEED_ATOM %}
+        {%- if '%s' not in TAG_FEED_ATOM %}
+            {%- set tag_feed_atom = TAG_FEED_ATOM.format(slug=tag.slug) %}
+        {%- else %}
+            {%- set tag_feed_atom = TAG_FEED_ATOM.format(tag.slug) %}
+        {%- endif %}
+        <link href="{{ SITEURL }}/{{ tag_feed_atom }}" type="application/atom+xml" rel="alternate"
+              title="{{ SITENAME }} {{ tag }} ATOM Feed"/>
+        {%- endif %}
+        {%- if category and CATEGORY_FEED_ATOM %}
+        {%- if '%s' not in CATEGORY_FEED_ATOM %}
+            {%- set category_feed_atom = CATEGORY_FEED_ATOM.format(slug=category.slug) %}
+        {%- else %}
+            {%- set category_feed_atom = CATEGORY_FEED_ATOM.format(category.slug) %}
+        {%- endif %}
+        <link href="{{ SITEURL }}/{{ category_feed_atom }}" type="application/atom+xml" rel="alternate"
+              title="{{ SITENAME }} {{ category }} ATOM Feed"/>
+        {%- endif %}
     </head>
 
     <body data-theme="auto">

@@ -3,6 +3,10 @@
 {% endif %}
 {% extends "base.html" %}
 {% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
+{% block meta %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="keywords" content="{{ tag }}" />
+{% endblock %}
 
 {% block content %}
 <div class="col-12 col-md-9 float-left content">
