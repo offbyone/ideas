@@ -143,6 +143,7 @@ def invalidate(c):
 
 @task(pre=[site, upload], post=[invalidate])
 def publish(c):
+    """Runs the `site` and `upload` tasks, and then invalidates the CF distribution so the site goes live."""
     ...
 
 
