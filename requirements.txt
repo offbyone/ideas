@@ -30,6 +30,8 @@ pelican-gist==0.3.4
     # via -r requirements.in
 pelican-githubprojects==0.1.1
     # via -r requirements.in
+pelican-social-cards==0.3.2
+    # via -r requirements.in
 pelican-tag-cloud==1.0.0
     # via -r requirements.in
 pelican-webassets==2.0.0
@@ -38,8 +40,11 @@ pelican==4.5.4
     # via
     #   -r requirements.in
     #   pelican-advance-embed-tweet
+    #   pelican-social-cards
     #   pelican-tag-cloud
     #   pelican-webassets
+pillow==8.1.2
+    # via pelican-social-cards
 pygments==2.6.1
     # via
     #   pelican
