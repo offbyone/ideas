@@ -142,13 +142,11 @@
 
                     <div class="sidebar-item sidebar-tags">
                         <h3>Tags</h3>
-                        <div>
-                            {% for tag, articles in tags|sort %}
-                            <span>
-                                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }} ({{ articles|count }})</a>
-                            </span>
+                        <ul class="tagcloud">
+                            {% for tag in tag_cloud %}
+                                <li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
                             {% endfor %}
-                        </div>
+                        </ul>
                     </div>
                 </aside>
                 {% endblock %}
