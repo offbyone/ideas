@@ -152,6 +152,54 @@
                 {% endblock %}
                 <!-- sidebar block ends -->
             </div>
+            <!-- button section -->
+            <div class="btn">
+                <div class="btn-menu" id="btn-menu">
+                    <i class="iconfont icon-grid-sharp"></i>
+                </div>
+                <div class="btn-toggle-mode">
+                    <i class="iconfont icon-contrast-sharp"></i>
+                </div>
+                <div class="btn-scroll-top">
+                    <i class="iconfont icon-chevron-up-circle-sharp"></i>
+                </div>
+            </div>
+            <aside class="sidebar-mobile" style="display: none;">
+                <div class="sidebar-wrapper">
+                    {% if DISPLAY_PAGES_ON_MENU %}
+                    <div class="sidebar-item sidebar-pages">
+                        <h3>Pages</h3>
+                        {% for p in pages %}
+                        <li{% if p == page %} class="active"{% endif %}>
+                            <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+                        </li>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+                
+                <div class="sidebar-item sidebar-links">
+                    <h3>{{ LINKS_WIDGET_NAME | default('links') }}</h3>
+                    <ul>
+                        <li>
+                            <a href="https://twitter.com/offby1" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @offby1</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                        </li>
+                        {% for name, link in LINKS %}
+                            <li><a href="{{ link }}">{{ name }}</a></li>
+                        {% endfor %}
+                        {% for name, link in SOCIAL %}
+                            <li><a href="{{ link }}">{{ name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="sidebar-item sidebar-tags">
+                    <h3>Tags</h3>
+                    <ul class="tagcloud">
+                        {% for tag in tag_cloud %}
+                            <li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </aside>
         </main>
 
         <footer>
@@ -172,5 +220,10 @@
              g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
              s.parentNode.insertBefore(g,s)}(document,'script'));
         </script>
+
+        {% assets filters="closure_js", output="js/fuji.min.js", "js/fuji.js" %}
+        <script defer src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
+        {% endassets %}
+        
     </body>
 </html>
