@@ -1,5 +1,5 @@
 {% set FEED_ATOM = FEED_ALL_ATOM %}
-{% extends "base.html" %}
+{% extends "base.html.j2" %}
 {% block content_title %}{% endblock %}
 
 {% block content %}
@@ -9,7 +9,7 @@
 	{% if loop.index == 1 %}
 	<article>
 		<div class="post wrapper">
-			{% include "metadata.html" %}
+			{% include "metadata.html.j2" %}
 			<div class="post-item post-content markdown-body">
 				{{ article.content }}
 			</div>
@@ -23,7 +23,7 @@
 	{% elif loop.index < 7 %}
 	<div class="post">
 		{% with class_suffix="-archive" %}
-		{% include 'metadata.html' %}
+		{% include 'metadata.html.j2' %}
 		{% endwith %}
 	</div>
 	{% endif %}

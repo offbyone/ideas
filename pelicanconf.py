@@ -44,6 +44,8 @@ ARTICLE_SAVE_AS = "posts/{slug}.html"
 
 DISPLAY_PAGES_ON_MENU = False
 
+TEMPLATE_EXTENSIONS = [".html.j2", ".html"]
+
 # THEME = 'monospace'
 # THEME = 'pelican-elegant-1.3'
 # THEME = 'pure-single'

@@ -1,8 +1,11 @@
-{% extends "base.html" %}
-{% block title %}{{ category }} - {{ SITENAME }}{% endblock %}
+{% if TAG_FEED_ATOM %}
+   {% set FEED_ATOM = TAG_FEED_ATOM|format(slug=tag.slug) %}
+{% endif %}
+{% extends "base.html.j2" %}
+{% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
 {% block meta %}
-<meta name="author" content="{{ AUTHOR }}" />
-<meta name="keywords" content="{{ category }}" />
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="keywords" content="{{ tag }}" />
 {% endblock %}
 
 {% block content %}
@@ -10,17 +13,18 @@
 
 
 <div class="page-info">
-	<span>Posts categorized under: {{ category }}</span>
+	<span>Posts tagged: {{ tag }}</span>
 </div>
 
 {% for article in articles %}
 <div class="post">
-	{% include 'metadata.html' %}
+	{% include 'metadata.html.j2' %}
 	<div class="post-item post-summary">
 		{{ article.summary }}
 		<a href="{{ SITEURL }}/{{ article.url }}">read more →</a>
 	</div>
 </div>
 {% endfor %}
+
 </div>
 {% endblock %}
