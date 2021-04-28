@@ -5,6 +5,7 @@
 <html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}"{% if USE_OPEN_GRAPH %} prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml"{% endif %} class="no-js">
     <head>
         <meta charset="utf-8"/>
+	<meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
 
         <script type="module">
