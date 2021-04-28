@@ -1,11 +1,17 @@
-<!doctype html>
+<!DOCTYPE html>
 {% if USE_OPEN_GRAPH is not defined %}
     {% set USE_OPEN_GRAPH = True %}
 {% endif %}
-<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}"{% if USE_OPEN_GRAPH %} prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml"{% endif %}>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}"{% if USE_OPEN_GRAPH %} prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml"{% endif %} class="no-js">
     <head>
         <meta charset="utf-8"/>
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+
+        <script type="module">
+            document.documentElement.classList.remove('no-js');
+            document.documentElement.classList.add('js');
+        </script>
+        
         {% block meta %}
             <meta name="author" content="{{ AUTHOR }}" />
         {% endblock %}
@@ -28,11 +34,12 @@
                 {% if OPEN_GRAPH_FB_APP_ID %}
                     <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
                 {% endif %}
+                <meta property="og:title" content="{{ SITENAME }}"/>
+                <meta property="og:description" content="{{ SITENAME }}"/>
                 <meta property="og:site_name" content="{{ SITENAME }}" />
                 <meta property="og:type" content="website"/>
-                <meta property="og:title" content="{{ SITENAME }}"/>
                 <meta property="og:url" content="{{ SITEURL }}"/>
-                <meta property="og:description" content="{{ SITENAME }}"/>
+                <meta property="og:locale" content="en_US" />
                 {% if OPEN_GRAPH_IMAGE %}
                     <meta property="og:image"
                           content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}"/>
