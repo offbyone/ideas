@@ -60,6 +60,9 @@ WEBASSETS_SOURCE_PATHS = [
 ]
 WEBASSETS_CONFIG = [("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")])]
 
+STATIC_PATHS = [
+    "images",
+]
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
 FLICKR_USER = "11217428@N00"
