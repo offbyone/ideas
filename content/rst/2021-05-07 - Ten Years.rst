@@ -11,6 +11,7 @@ Ten Years
 :author: Chris Rose
 :email: offline@offby1.net
 :excerpt: Ten years ago today I got on a plane in Edmonton with my bike, two suitcases, a huge pile of immigration paperwork, and a cat.
+:status: published
 
 
 .. image:: {static}/images/2021-05-07/badge.jpg
