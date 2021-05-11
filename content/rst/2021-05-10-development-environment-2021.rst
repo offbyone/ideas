@@ -123,9 +123,9 @@ asdf
 
 I had been using a mix of :literal:`rbenv` and :literal:`pyenv` to manage my runtimes for projects. I admit, though, I've gotten tired of trying to keep them all straight in my head. It turns out I'm not alone. `asdf`_ takes on the problem of managing all of the runtime managers in one simple tool. Instead of a :literal:`.python-versions` file, and a ruby one, and a node one... :literal:`asdf` uses a single :literal:`.tool-versions` to designate all of its pluggable runtimes. It doesn't have as wide-ranging tool support -- I only just got a PR to the emacs mspyls LSP server project merged that allows it to work -- but in most cases no special casing is needed. It's added some much needed simplicity to my devenv.
 
-.. _chezmoi: https://www.chezmoi.io/_
+.. _chezmoi: https://www.chezmoi.io/
 .. _Doom: https://github.com/hlissner/doom-emacs
 .. _direnv: https://direnv.net/
 .. _starship: https://starship.rs/
 .. _asdf: https://asdf-vm.com/
-.. _org-mode: https://orgmode.org/_
+.. _org-mode: https://orgmode.org/
