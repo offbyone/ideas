@@ -56,3 +56,11 @@ jobs:
 
       - name: Invalidate the existing distribution
         run: inv invalidate
+
+      - name: Tell me about it
+        if: ${{ always() }}
+        uses: desiderati/github-action-pushover@v1
+        with:
+          job-status: ${{ job.status }}
+          pushover-api-token: ${{ secrets.PUSHOVER_API_TOKEN }}
+          pushover-user-key: ${{ secrets.PUSHOVER_USER_KEY }}
