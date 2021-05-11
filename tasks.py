@@ -9,6 +9,20 @@ from invoke import task, call
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 from slugify import slugify
+import docutils.nodes
+import docutils.parsers.rst
+import docutils.utils
+import docutils.frontend
+
+
+def parse_rst(text: str) -> docutils.nodes.document:
+    parser = docutils.parsers.rst.Parser()
+    components = (docutils.parsers.rst.Parser,)
+    settings = docutils.frontend.OptionParser(components=components).get_default_values()
+    document = docutils.utils.new_document("<rst-doc>", settings=settings)
+    parser.parse(text, document)
+    return document
+
 
 SETTINGS_FILE_BASE = "pelicanconf.py"
 SETTINGS = {}
@@ -173,7 +187,7 @@ def upgrade(c):
 def new_post(c, title=None):
     """Create a blank new post in SETTINGS['PATH']"""
     if title is not None:
-        filename_title_string = f" - {title}"
+        filename_title_string = f"-{slugify(title)}"
         title_string = title
     else:
         filename_title_string = ""
@@ -184,11 +198,12 @@ def new_post(c, title=None):
         / f"{datetime.date.today().isoformat()}{filename_title_string}.rst"
     )
 
+    title_bar = "#" * len(title_string)
     new_post_path.write_text(
         dedent(
             f"""\
     {title_string}
-    ########################################################################
+    {title_bar}
 
     .. role:: raw-html(raw)
         :format: html
@@ -206,3 +221,46 @@ def new_post(c, title=None):
         )
     )
     c.run(f"git add '{new_post_path}'")
+
+
+class Visitor(docutils.nodes.NodeVisitor):
+    def __init__(self, doc):
+        super().__init__(doc)
+
+        self.fields = {}
+
+    def visit_field(self, field: docutils.nodes.Node) -> None:
+        self.fields[field.children[0].astext()] = field.children[1].astext()
+
+    def unknown_visit(self, node: docutils.nodes.Node) -> None:
+        # print(node.pformat())
+        ...
+
+
+def get_tags(doc: docutils.nodes.document) -> list[str]:
+    v = Visitor(doc)
+    doc.walk(v)
+    return [t.strip() for t in v.fields["tags"].split(",") if t.strip()]
+
+
+def get_category(doc: docutils.nodes.document) -> str:
+    v = Visitor(doc)
+    doc.walk(v)
+    return v.fields["category"].strip()
+
+
+@task
+def list_tags(c):
+    all_tags: dict[str : set[str]] = {}
+
+    for (root, dirs, files) in os.walk("content/rst"):
+        for f in files:
+            p = Path(root) / f
+            doc = parse_rst(p.read_text())
+            tags = get_tags(doc)
+            category = get_category(doc)
+            for t in tags:
+                all_tags.setdefault(t, set()).add(category)
+
+    for t, v in sorted(all_tags.items()):
+        print(f"{t}\t\t{','.join(v)}")
