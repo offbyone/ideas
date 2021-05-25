@@ -54,7 +54,7 @@
         <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 
         <link href='//fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
-        {% assets filters="scss,cssmin", output="css/style.min.css", "fuji.scss" %}
+        {% assets filters="scss,cssmin", output="css/style.min.css", "fuji.scss", "bigfoot-default.scss" %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
         {% endassets %}
 
@@ -229,7 +229,7 @@
              s.parentNode.insertBefore(g,s)}(document,'script'));
         </script>
 
-        {% assets filters="closure_js", output="js/fuji.min.js", "js/fuji.js" %}
+        {% assets filters="closure_js", output="js/fuji.min.js", "js/fuji.js", "js/bigfoot.js" %}
         <script defer src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
         {% endassets %}
         
