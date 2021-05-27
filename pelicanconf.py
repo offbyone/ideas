@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ["./plugins", "./pelican-plugins"]
-PLUGINS = ["webassets", "pelican_gist", "embed_tweet", "tag_cloud"]
+PLUGINS = ["webassets", "pelican_gist", "embed_tweet", "tag_cloud", "simple_footnotes"]
 
 ARTICLE_URL = "posts/{slug}.html"
 ARTICLE_SAVE_AS = "posts/{slug}.html"

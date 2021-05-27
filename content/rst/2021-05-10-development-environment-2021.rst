@@ -28,7 +28,7 @@ Above all else, managing my dotfiles has been the thing I've spent the most time
 * installed them using stow
 * installed them using hand-built shell scripts
 * installed them using a simple code checkout
-* managed multiple dotfile repos with :literal:`mr`
+* managed multiple dotfile repos with :literal:`mr` [ref]This tool has been extraodinarily hard to google whenver it's stumped me[/ref]
 
 It has been a damned nightmare.
 
@@ -39,7 +39,7 @@ Doom Emacs
 
     Doom is a configuration framework for GNU Emacs tailored for Emacs bankruptcy veterans who want less framework in their frameworks, a modicum of stability (and reproducibility) from their package manager, and the performance of a hand rolled config (or better). It can be a foundation for your own config or a resource for Emacs enthusiasts to learn more about our favorite operating system.
 
-I've been an Emacs user since 2005, after spending my university years using Vim. During that time, I've had a host of different configurations for it. I started off with the one my team at ACI/MessagingDirect used, which was a pretty powerful metaprogramming environment that served me well until I finally added too much cruft and it fell over. I've gone through Prelude and Spacemacs as well, but none of them have fit me quite like `Doom`_ does. Doom is a strange mix of superbly simple and deeply flexible, which fits Emacs to a tee.
+I've been an Emacs user since 2005, after spending [ref]misspending[/ref] my university years using Vim. During that time, I've had a host of different configurations for it. I started off with the one my team at ACI/MessagingDirect used, which was a pretty powerful metaprogramming environment that served me well until I finally added too much cruft and it fell over. I've gone through Prelude and Spacemacs as well, but none of them have fit me quite like `Doom`_ does. Doom is a strange mix of superbly simple and deeply flexible, which fits Emacs to a tee.
 
 Some of the things that it offers that I really like:
 
@@ -82,7 +82,7 @@ I have two patterns I use a lot: First, I tend to have my AWS profile set in a t
 
     export AWS_REGION=us-west-2
     export AWS_DEFAULT_REGION=$AWS_REGION
-    export AWS_PROFILE=chicago
+    export AWS_PROFILE=chicon
 
 Second, on a package by package basis, I will set up things like the runtimes and some specific custom tools:
 
