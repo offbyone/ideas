@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import datetime
 import os
+import pytz
 from pathlib import Path
 
 AUTHOR = "Chris R"
@@ -12,7 +14,10 @@ SITEURL = "//ideas.offby1.net"
 
 PATH = "content"
 
-TIMEZONE = "Europe/Paris"
+TIMEZONE = "America/Los_Angeles"
+TZ = pytz.timezone(TIMEZONE)
+PUBLICATION_TIME = datetime.now(TZ)
+
 
 DEFAULT_LANG = "en"
 

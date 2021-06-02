@@ -215,7 +215,7 @@
                 <div class="col-12 footer">
                     <span>© {{ article.date|strftime("%Y") if article else "2021" }} {{ AUTHOR }}
                         | <a href="https://github.com/offbyone/ideas">Source</a>
-                        | Built with <a href="https://getpelican.com">Pelican</a>
+                        | Built at {{ PUBLICATION_TIME.strftime("%Y-%m-%d") }} with <a href="https://getpelican.com">Pelican</a>
                         | Decorated based on <a href="https://github.com/dsrkafuu/hugo-theme-fuji/">Fuji-V2</a>
                     </span>
                 </div>
