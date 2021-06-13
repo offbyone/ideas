@@ -136,14 +136,11 @@
                     <div class="sidebar-item sidebar-links">
                         <h3>{{ LINKS_WIDGET_NAME | default('links') }}</h3>
                         <ul>
-                            <li>
-                                <a href="https://twitter.com/offby1" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @offby1</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                            </li>
                             {% for name, link in LINKS %}
                             <li><a href="{{ link }}">{{ name }}</a></li>
                             {% endfor %}
                             {% for name, link in SOCIAL %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
+                            <li><a class="sc-{{ name | lower }}" href="{{ link }}" rel="me">{{ name }}</a></li>
                             {% endfor %}
                         </ul>
                     </div>
@@ -217,6 +214,7 @@
                         | <a href="https://github.com/offbyone/ideas">Source</a>
                         | Built at {{ PUBLICATION_TIME.strftime("%Y-%m-%d") }} with <a href="https://getpelican.com">Pelican</a>
                         | Decorated based on <a href="https://github.com/dsrkafuu/hugo-theme-fuji/">Fuji-V2</a>
+                        | Find me on <a class="sc-twitter" href="https://twitter.com/offyb1" rel="me">Twitter</a>
                     </span>
                 </div>
             </div>

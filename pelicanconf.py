@@ -31,10 +31,14 @@ TRANSLATION_FEED_ATOM = None
 #          ('Python.org', 'http://python.org/'),
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
-LINKS = (("Github", "https://github.com/offbyone"),)
+LINKS = ()
 
 # Social widget
-SOCIAL = (("Encrypt a message to me", "https://keybase.io/encrypt#offby1"),)
+SOCIAL = (
+    ("Twitter", "https://twitter.com/offby1"),
+    ("Github", "https://github.com/offbyone"),
+    ("Keybase", "https://keybase.io/encrypt#offby1"),
+)
 
 DEFAULT_PAGINATION = 10
 
