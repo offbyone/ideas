@@ -3,7 +3,7 @@
 :slug: the-answer
 :date: 2020-04-25 23:45 PST
 :category: life
-:tags: 
+:tags: life
 :author: Chris Rose
 :email: offline@offby1.net
 :excerpt: The last day of my 43rd year was...
