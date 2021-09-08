@@ -32,6 +32,15 @@ markupsafe==1.1.1
     # via jinja2
 mf2util==0.5.1
     # via pelican-webmention
+pelican==4.6.0
+    # via
+    #   -r requirements.in
+    #   pelican-advance-embed-tweet
+    #   pelican-simple-footnotes
+    #   pelican-social-cards
+    #   pelican-tag-cloud
+    #   pelican-webassets
+    #   pelican-webmention
 pelican-advance-embed-tweet==1.1.3
     # via -r requirements.in
 pelican-gist==0.3.4
@@ -46,16 +55,7 @@ pelican-tag-cloud==1.0.0
     # via -r requirements.in
 pelican-webassets==2.0.0
     # via -r requirements.in
-pelican==4.6.0
-    # via
-    #   -r requirements.in
-    #   pelican-advance-embed-tweet
-    #   pelican-simple-footnotes
-    #   pelican-social-cards
-    #   pelican-tag-cloud
-    #   pelican-webassets
-    #   pelican-webmention
-pillow==8.2.0
+pillow==8.3.2
     # via pelican-social-cards
 pygments==2.9.0
     # via
