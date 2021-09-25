@@ -12,6 +12,7 @@ Snoqualmie Tunnel
 :email: offline@offby1.net
 :excerpt: I took my bike up into the mountains for the first time since moving to Seattle, which is honestly a tragedy. It's gorgeous up there!
 :gallery: {photo}galleries/snoqualmie-2021{Snoqualmie Tunnel 2021}
+:status: published
 
 I only learned about the Snoqualmie Tunnel's existence a couple of weeks ago, from `an article on Atlas Obscura`_. Combining my love of tunnels, proximity to home, and a general desire to get out and ride more often than I have been, I decided that would make a great weekend trip into the mountains. It's actually pretty sad that I had to live here for an entire decade before I got around to it, honestly.
 
