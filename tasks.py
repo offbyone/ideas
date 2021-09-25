@@ -295,3 +295,21 @@ def list_categories(c):
         table.add_row(c)
 
     console.print(table)
+
+
+@task
+def photo_gallery_gen(c, location):
+    """Create gallery metadata files."""
+    fmt_path = Path(__file__).parent / "config"
+    location = Path(location)
+    with c.cd(location):
+        exif_cmd = "exiftool -if '$filename !~ /\\.txt$$/'"
+        if not (location / "exif.txt").exists():
+            c.run(f"{exif_cmd} -f -p {fmt_path}/exif.fmt . | sort > exif.txt")
+        else:
+            console.print(f"[red]Skipping already present file [bold]exif.txt")
+
+        if not (location / "captions.txt").exists():
+            c.run(f"{exif_cmd} -f -p {fmt_path}/captions.fmt . | sort > captions.txt")
+        else:
+            console.print(f"[red]Skipping already present file [bold]captions.txt")
