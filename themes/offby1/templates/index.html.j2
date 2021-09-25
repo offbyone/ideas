@@ -13,6 +13,11 @@
 			<div class="post-item post-content markdown-body">
 				{{ article.content }}
 			</div>
+			{% if article.photo_gallery %}
+			<div class="post-meta{{ class_suffix | default('') }} post-gallery-link">
+				<span>Gallery inside</span>
+			</div>
+		    {% endif %}
 		</div>
 	</article>
 

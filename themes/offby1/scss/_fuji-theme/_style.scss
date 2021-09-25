@@ -43,6 +43,10 @@ footer {
   color: var(--color-mute);
 }
 
+.post-gallery-link {
+  flex-direction: row-reverse;
+}
+
 @media screen and (max-width: $width-md) {
   .sidebar {
     border-top: $divider;
