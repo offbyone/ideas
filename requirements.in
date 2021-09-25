@@ -13,3 +13,5 @@ pelican-social-cards
 pelican-simple-footnotes
 -e git+https://github.com/drivet/pelican-webmention.git#egg=pelican-webmention
 closure
+rich
+isort>=5.0

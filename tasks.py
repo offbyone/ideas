@@ -1,18 +1,20 @@
+import datetime
 import os
 import shutil
 import sys
-import datetime
-from textwrap import dedent
 from pathlib import Path
+from textwrap import dedent
 
-from invoke import task, call
-from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
-from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
-from slugify import slugify
+import docutils.frontend
 import docutils.nodes
 import docutils.parsers.rst
 import docutils.utils
-import docutils.frontend
+from invoke import call, task
+from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
+from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
+from rich.console import Console
+from rich.table import Table
+from slugify import slugify
 
 
 def parse_rst(text: str) -> docutils.nodes.document:
@@ -43,6 +45,8 @@ CONFIG = {
     "s3_bucket": "ideas.offby1.net",
     "cloudfrount_distribution_id": "E3HG7SIR4ZZAS1",
 }
+
+console = Console()
 
 
 @task
@@ -262,5 +266,32 @@ def list_tags(c):
             for t in tags:
                 all_tags.setdefault(t, set()).add(category)
 
+    table = Table(show_header=True, header_style="bold magenta")
+    table.add_column("Tag")
+    table.add_column("Categories")
+
     for t, v in sorted(all_tags.items()):
-        print(f"{t}\t\t{','.join(v)}")
+        table.add_row(t, ",".join(v))
+
+    console.print(table)
+
+
+@task
+def list_categories(c):
+    categories = []
+
+    for (root, dirs, files) in os.walk("content/rst"):
+        for f in files:
+            p = Path(root) / f
+            doc = parse_rst(p.read_text())
+            category = get_category(doc)
+            if category not in categories:
+                categories.append(category)
+
+    table = Table(show_header=True, header_style="bold magenta")
+    table.add_column("Category")
+
+    for c in sorted(categories):
+        table.add_row(c)
+
+    console.print(table)
