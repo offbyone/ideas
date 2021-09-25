@@ -1,0 +1,8 @@
+IMG_8996.png: 2021:09:10 15:11:56 - Apple iPhone 11 Pro Stats:(f/2.4, 1/761s, ISO 20 Flash: Off, Did not fire) GPS:(47 deg 23' 30.08" N, 121 deg 23' 33.23" W 780 m Above Sea Level)
+IMG_8998.png: 2021:09:10 15:21:31 - Apple iPhone 11 Pro Stats:(f/1.8, 1/115s, ISO 125 Flash: Off, Did not fire) GPS:(47 deg 23' 40.70" N, 121 deg 23' 45.78" W 780.5 m Above Sea Level)
+IMG_8999.png: 2021:09:10 15:27:45 - Apple iPhone 11 Pro Stats:(f/1.8, 0.5s, ISO 12500 Flash: Off, Did not fire) GPS:(47 deg 24' 46.35" N, 121 deg 26' 9.56" W 779.3 m Above Sea Level)
+IMG_9005.png: 2021:09:10 15:29:25 - Apple iPhone 11 Pro Stats:(f/1.8, 1.1s, ISO 8000 Flash: Off, Did not fire) GPS:(47 deg 24' 58.32" N, 121 deg 26' 25.19" W 777 m Above Sea Level)
+IMG_9006.png: 2021:09:10 15:37:38 - Apple iPhone 11 Pro Stats:(f/2.4, 1/123s, ISO 20 Flash: Off, Did not fire) GPS:(47 deg 23' 42.37" N, 121 deg 26' 48.98" W 761.1 m Above Sea Level)
+IMG_9009.png: 2021:09:10 16:06:15 - Apple iPhone 11 Pro Stats:(f/1.8, 1/331s, ISO 32 Flash: Off, Did not fire) GPS:(47 deg 23' 3.92" N, 121 deg 28' 26.40" W 728.3 m Above Sea Level)
+IMG_9011.png: 2021:09:10 16:06:35 - Apple iPhone 11 Pro Stats:(f/2.0, 1/122s, ISO 32 Flash: Off, Did not fire) GPS:(47 deg 23' 4.00" N, 121 deg 28' 26.48" W 726.6 m Above Sea Level)
+IMG_9012.png: 2021:09:10 16:18:38 - Apple iPhone 11 Pro Stats:(f/1.8, 1/60s, ISO 250 Flash: Off, Did not fire) GPS:(47 deg 23' 43.18" N, 121 deg 26' 41.12" W 760.7 m Above Sea Level)
