@@ -5,6 +5,8 @@ from datetime import datetime
 import os
 import pytz
 from pathlib import Path
+import multiprocessing
+
 
 AUTHOR = "Chris R"
 AUTHOR_EMAIL = "offline@offby1.net"
@@ -12,7 +14,17 @@ SITENAME = "Ideas.Offby1"
 DESCRIPTION = "Close Enough"
 SITEURL = "//ideas.offby1.net"
 
-PATH = "content"
+PATH = Path("content")
+
+# photos plugin configuration
+PHOTO_LIBRARY = Path(__file__).parent / "photos"
+PHOTO_RESIZE_JOBS = max(multiprocessing.cpu_count(), 1)
+
+PHOTO_WATERMARK_TEXT = "© Chris Rose"
+PHOTO_EXIF_KEEP = True
+PHOTO_EXIF_REMOVE_GPS = True
+PHOTO_EXIF_COPYRIGHT = "CC-BY-NC-SA"
+PHOTO_EXIF_COPYRIGHT_AUTHOR = "Chris Rose"
 
 TIMEZONE = "America/Los_Angeles"
 TZ = pytz.timezone(TIMEZONE)
@@ -46,7 +58,14 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ["./plugins", "./pelican-plugins"]
-PLUGINS = ["webassets", "pelican_gist", "embed_tweet", "tag_cloud", "simple_footnotes"]
+PLUGINS = [
+    "webassets",
+    "pelican_gist",
+    "embed_tweet",
+    "tag_cloud",
+    "simple_footnotes",
+    "photos",
+]
 
 ARTICLE_URL = "posts/{slug}.html"
 ARTICLE_SAVE_AS = "posts/{slug}.html"
@@ -67,7 +86,24 @@ WEBASSETS_SOURCE_PATHS = [
     "sass",
     "scss",
 ]
+
+# find all node modules that contain min.js files and add thoes to the source paths
+for p in Path("node_modules").resolve().glob("**/*min.js"):
+    WEBASSETS_SOURCE_PATHS.append(str(p.parent))
+
 WEBASSETS_CONFIG = [("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")])]
+WEBASSETS_BUNDLES = [
+    (
+        "theme_js",
+        ("js/fuji.js", "js/bigfoot.js", "jquery.magnific-popup.js",),
+        {"output": "js/fuji.min.js", "filters": ["closure_js"],},
+    ),
+    (
+        "theme_css",
+        ("fuji.scss", "bigfoot-default.scss", "magnific-popup.css"),
+        {"output": "css/style.min.js", "filters": ["scss", "cssmin"],},
+    ),
+]
 
 STATIC_PATHS = [
     "images",

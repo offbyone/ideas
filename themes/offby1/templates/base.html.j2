@@ -54,7 +54,7 @@
         <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 
         <link href='//fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
-        {% assets filters="scss,cssmin", output="css/style.min.css", "fuji.scss", "bigfoot-default.scss" %}
+        {% assets filters="scss,cssmin", output="css/style.min.css", "fuji.scss", "bigfoot-default.scss", "magnific-popup.css" %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
         {% endassets %}
 
@@ -232,7 +232,7 @@
             integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
             crossorigin="anonymous"></script>
 
-        {% assets filters="closure_js", output="js/fuji.min.js", "js/fuji.js", "js/bigfoot.js"%}
+        {% assets "theme_js" %}
         <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
         {% endassets %}
 
@@ -241,5 +241,28 @@
                 anchorPattern: /sf-.*-\d+/
             });
         </script>
+
+        {% if (article and article.photo_gallery) or (articles_page and articles_page.object_list[0].photo_gallery) %}
+        <script>
+        $('.gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            gallery: {
+                enabled: true,
+                navigateByImgClick: true,
+                preload: [1,2]
+            },
+            image: {
+                titleSrc: function(item) {
+                    if (item.el.attr('caption') && item.el.attr('exif')) {
+                        return (item.el.attr('caption').replace(/\\n/g, '<br />') +
+                                '<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
+                    }
+                return item.el.attr('title') + '<small>' + item.el.attr('exif') + '</small>';
+            } }
+        });
+        </script>
+        {% endif %}
+
     </body>
 </html>
