@@ -45,9 +45,6 @@ jobs:
           pelican --version
           sass --version
 
-      - name: Clone plugins
-        run: git clone https://github.com/getpelican/pelican-plugins
-
       - name: Build the page
         run: inv site
 
