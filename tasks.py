@@ -147,8 +147,6 @@ def prepare_fonts(c):
 def site(c):
     """generate using production settings"""
     c.run(f"pelican {SETTINGS['PATH']} -o {CONFIG['deploy_path']} -s {CONFIG['settings_publish']}")
-    if Path("extra").is_dir():
-        c.run(f"rsync --exclude .DS_Store -pthrvz extra/ {CONFIG['deploy_path']}")
 
 
 @task

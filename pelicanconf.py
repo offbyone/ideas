@@ -111,9 +111,12 @@ WEBASSETS_BUNDLES = [
     # ),
 ]
 
-STATIC_PATHS = [
-    "images",
-]
+STATIC_PATHS = ["images", "extra"]
+
+EXTRA_PATH_METADATA = {
+    "extra/robots.txt": {"path": "robots.txt",},
+    "extra/favicon.ico": {"path": "favicon.ico",},
+}
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
 FLICKR_USER = "11217428@N00"
