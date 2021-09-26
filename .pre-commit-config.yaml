@@ -8,7 +8,6 @@ repos:
     rev: 19.10b0
     hooks:
       - id: black
-        args: ["-l100"]
 
   - repo: https://github.com/antonbabenko/pre-commit-terraform
     rev: v1.30.0
