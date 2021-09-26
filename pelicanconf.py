@@ -113,7 +113,6 @@ WEBASSETS_BUNDLES = [
 
 STATIC_PATHS = [
     "images",
-    "webfonts",
 ]
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
