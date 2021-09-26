@@ -137,6 +137,13 @@ def livereload(c):
 
 
 @task
+def prepare_fonts(c):
+    c.run(
+        f"rsync -pthrvz node_modules/@fortawesome/fontawesome-free/webfonts/ themes/offby1/static/webfonts/"
+    )
+
+
+@task(pre=[prepare_fonts])
 def site(c):
     """generate using production settings"""
     c.run(f"pelican {SETTINGS['PATH']} -o {CONFIG['deploy_path']} -s {CONFIG['settings_publish']}")

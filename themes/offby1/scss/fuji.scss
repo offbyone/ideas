@@ -15,6 +15,10 @@
 // iconfont
 @import "_iconfont";
 
+// fontawesome
+@import "@fortawesome/fontawesome-free/scss/fontawesome"; // base
+@import "@fortawesome/fontawesome-free/scss/solid"; // solid
+
 // style
 @import "_fuji-style/_header";
 @import "_fuji-style/_content";

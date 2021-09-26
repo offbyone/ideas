@@ -20,6 +20,9 @@ $mono-font: 'Cascadia Code', 'SF Mono', 'Fira Code', 'Consolas', -apple-system, 
 $title-font: 'Product Sans', $body-font !default;
 $body-font-size: 16px !default;
 
+// fontawesome webfonts are found ... here!
+$fa-font-path: "static/webfonts";
+
 $width-md: 768px;
 
 $light-color-primary: #8aa2d3 !default; // https://irocore.com/aofuji/

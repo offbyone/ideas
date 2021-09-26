@@ -79,7 +79,7 @@ TEMPLATE_EXTENSIONS = [".html.j2", ".html"]
 # THEME = 'pure-single'
 THEME = "themes/offby1"
 # THEME = "twenty"
-
+THEME_STATIC_PATHS = ["static"]
 # set the SASS load path
 WEBASSETS_SOURCE_PATHS = [
     "static/css",
@@ -98,15 +98,22 @@ WEBASSETS_BUNDLES = [
         ("js/fuji.js", "js/bigfoot.js", "jquery.magnific-popup.js",),
         {"output": "js/fuji.min.js", "filters": ["closure_js"],},
     ),
-    (
-        "theme_css",
-        ("fuji.scss", "bigfoot-default.scss", "magnific-popup.css"),
-        {"output": "css/style.min.js", "filters": ["scss", "cssmin"],},
-    ),
+    # Disabled - STILL - because for some reason this CSS doesn't apply in the site
+    # ... but the one in base.html.j2 _does_. Why? Who the hell knows?
+    # (
+    #     "theme_css",
+    #     ("fuji.scss", "bigfoot-default.scss", "magnific-popup.css"),
+    #     {
+    #         "output": "css/style.min.js",
+    #         "filters": "scss",
+    #         "depends": ("**/_*.scss",),
+    #     },
+    # ),
 ]
 
 STATIC_PATHS = [
     "images",
+    "webfonts",
 ]
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
