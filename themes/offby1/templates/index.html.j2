@@ -15,9 +15,11 @@
 			</div>
 			{% if article.photo_gallery %}
 			<div class="post-meta{{ class_suffix | default('') }} post-gallery-link">
-				<span><i class="fas fa-images"></i>&nbsp;Gallery inside</span>
+				<span><a href="{{ SITEURL }}/{{ article.url }}#post-gallery-1">
+						<i class="fas fa-images"></i>&nbsp;Gallery inside
+				</a></span>
 			</div>
-		    {% endif %}
+			{% endif %}
 		</div>
 	</article>
 

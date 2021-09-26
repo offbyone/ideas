@@ -71,7 +71,7 @@
                 {% if article.photo_gallery %}
                 <div class="gallery">
                     {% for title, gallery in article.photo_gallery %}
-                        <h1>{{ title }}</h1>
+                        <h1 id="post-gallery-{{ loop.index }}">{{ title }}</h1>
                         {% for name, photo, thumb, exif, caption in gallery %}
                             <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
                         {% endfor %}
