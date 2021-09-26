@@ -3,5 +3,6 @@ output "blog_iam_user_aws_access_key" {
 }
 
 output "blog_iam_user_aws_secret_key" {
-  value = aws_iam_access_key.blog_deploy.secret
+  value     = aws_iam_access_key.blog_deploy.secret
+  sensitive = true
 }
