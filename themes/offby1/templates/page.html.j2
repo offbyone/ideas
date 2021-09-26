@@ -17,14 +17,14 @@
     <meta property="og:site_name" content="{{ SITENAME }}" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="{{ page.title|striptags|escape }}"/>
-    <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}"/>
+    <meta property="og:url" content="{{ FEED_DOMAIN }}/{{ page.url }}"/>
     <meta property="og:description" content="{{ page.summary|striptags|escape }}" />
     {% if page.og_image %}
         <meta property="og:image"
-              content="{{ SITEURL }}/{{ page.og_image }}"/>
+              content="{{ FEED_DOMAIN }}/{{ page.og_image }}"/>
     {% elif OPEN_GRAPH_IMAGE %}
         <meta property="og:image"
-              content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}"/>
+              content="{{ FEED_DOMAIN }}/{{ OPEN_GRAPH_IMAGE }}"/>
     {% endif %}
 {% endblock %}
 
