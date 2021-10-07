@@ -74,7 +74,7 @@ pillow==8.3.2
     # via
     #   pelican-photos
     #   pelican-social-cards
-pygments==2.9.0
+pygments==2.10.0
     # via
     #   pelican
     #   pelican-gist
