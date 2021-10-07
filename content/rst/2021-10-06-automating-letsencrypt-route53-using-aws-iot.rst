@@ -132,7 +132,7 @@ When I said I wanted it to be easy to make >1 of these, I meant it. Rather than 
     }
 
 
-The last step here is to output some of the information I just found. This'll be used in the Ansible steps I document below, which will use this data to configure each host.
+The last step here is to output some of the information I just found. This'll be used in the Ansible steps I document below, which will use this data to configure each host [ref]Yes, I know that there are formatting errors in this block. See `pygments #1909`_ [/ref].
 
 .. code-block:: terraform
 
@@ -477,3 +477,4 @@ By the time you get here, you have a few things: One, you have AWS IoT "things" 
 Next, well, once you've got all of this put together, the next step is to wire up letsencrypt's certbot to use these credentials to answer ACME's DNS challenge, and install the certificates. That'll be in Part 2.
 
 .. _`authorize direct calls to AWS services using IoT`: https://docs.aws.amazon.com/iot/latest/developerguide/authorizing-direct-aws.html
+.. _`pygments #1909`: https://github.com/pygments/pygments/issues/1909
