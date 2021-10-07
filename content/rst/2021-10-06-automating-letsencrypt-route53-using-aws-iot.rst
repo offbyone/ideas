@@ -113,6 +113,7 @@ It was pretty important to me that this role only have limited access in my acco
 When I said I wanted it to be easy to make >1 of these, I meant it. Rather than copying all of the hosts one after the other, I just put them in a set and then instantiated one of each using a module to set them up (see the next section).
 
 .. code-block:: terraform
+
     variable "iot-things" {
       type = set(string)
 
@@ -242,6 +243,7 @@ Lastly, we install the systemd unit that refreshes the credentials and the timer
 ========================
 
 .. code-block:: yaml
+
     ---
     - name: terraform variables
       include_vars:
@@ -394,7 +396,7 @@ Lastly, we install the systemd unit that refreshes the credentials and the timer
  :code:`files/update-iot-credentials.service`
 ==============================================
 
-.. code-block:: toml
+.. code-block:: ini
 
     [Unit]
     Description = Update the device IOT credentials
@@ -410,7 +412,7 @@ Lastly, we install the systemd unit that refreshes the credentials and the timer
  :code:`files/update-iot-credentials.timer`
 ============================================
 
-.. code-block:: toml
+.. code-block:: ini
 
     [Unit]
     Description=Run the credential updater every half hour
