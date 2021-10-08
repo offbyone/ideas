@@ -132,3 +132,5 @@ THEMES_I_LIKE = [
 ]
 
 IGNORE_FILES = [".#&", "flycheck_*", "flymake_*"]
+
+REPOSITORY_ROOT = f"file://{ Path(__file__).parent.resolve() }/{ PATH }"

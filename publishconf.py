@@ -29,3 +29,7 @@ GOOGLE_ANALYTICS = "UA-55657377-1"
 DEFAULT_METADATA = {
     "status": "draft",
 }
+
+_repository = os.environ.get("GITHUB_REPOSITORY", "offbyone/ideas")
+_tree = os.environ.get("GITHUB_SHA", "main")
+REPOSITORY_ROOT = f"https://github.com/{_repository}/tree/{_tree}/content"
