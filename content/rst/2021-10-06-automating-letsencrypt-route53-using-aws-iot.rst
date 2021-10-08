@@ -11,6 +11,7 @@ Automating LetsEncrypt + Route53 using AWS IoT
 :author: Chris Rose
 :email: offline@offby1.net
 :excerpt: Being a description of the steps I went through to turn my Raspberry Pi devices into IoT things so that I could eventually have them automatically use letsencrypt.
+:status: published
 
 I'm going to start with a bit of a rambling preamble (pre-ramble?) about what I wanted to achieve, and some of the semi-arbitrary constraints I set for myself.
 
@@ -159,7 +160,7 @@ The last step here is to output some of the information I just found. This'll be
 Host configuration using Terraform
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-This is the part where we create the certificate that we'll use to turn our home lab devices into IoT things. This is _not_ a pretty, polished Terraform module; it's a single-file module that does the bare minimum to create a thing, and then write out its client certificate in a place that Ansible will search in order to install it.
+This is the part where we create the certificate that we'll use to turn our home lab devices into IoT things. This is *not* a pretty, polished Terraform module; it's a single-file module that does the bare minimum to create a thing, and then write out its client certificate in a place that Ansible will search in order to install it.
 
 There are two things to note in this: first is the :code:`resource "aws_iot_thing" "host"` section, where we slugify the hostname so that IoT allows it. Second is the :code:`resource "local_file` pair of resources. These write out the keys you'll be installing later. The output here *should not be checked into revision control*. You can configure the path for these in the module call, above. I've got that path added to :code:`.gitignore`.
 
