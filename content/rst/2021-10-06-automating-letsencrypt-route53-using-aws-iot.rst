@@ -389,6 +389,8 @@ Lastly, we install the systemd unit that refreshes the credentials and the timer
 
 .. code-block:: jinja2
 
+    # This uses the same transform as in the terraform module, above.
+    # The output should match
     IOT_THING_NAME={{ ansible_fqdn | replace('.', '-') }}
     IOT_ENDPOINT_URL=https://{{ tf.iot_credential_provider_endpoint }}
     IOT_ROLE_ALIAS={{ tf.iot_credential_role_alias }}
@@ -437,6 +439,8 @@ Lastly, we install the systemd unit that refreshes the credentials and the timer
 This is the meat of the credential retrieval tool. It uses CURL to call the :code:`IOT_ENDPOINT` using a role alias/thing-specific set of headers and URL construction. What it gets back is a json document containing the credentials for this "Thing" lasting as long as we've allowed in the resource definitions above.
 
 It then uses :code:`jq` to extract the keys, and write them into a credentials file that the AWS SDK can be configured to use (and will be, in part 2!).
+
+All the paths in here are hardcoded to their final locations, but if (when?) I generalize this as an ansible-galaxy module, they'll probably be configurable.
 
 .. code-block:: bash
 
