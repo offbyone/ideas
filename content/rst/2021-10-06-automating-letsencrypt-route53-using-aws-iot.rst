@@ -1,5 +1,5 @@
-Automating LetsEncrypt + Route53 using AWS IoT
-##############################################
+Using AWS IoT to provision an IAM role for home lab devices
+###########################################################
 
 .. role:: raw-html(raw)
     :format: html
