@@ -6,7 +6,7 @@ Twenty Years Later
 :tags: society, internet, cyberspace, culture
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: We didn't build a better world, we just automated the excesses of the old one.
+:summary: We didn't build a better world, we just automated the excesses of the old one.
 :status: published
    
 First, read this: `It's not Cyberspace anymore`_.

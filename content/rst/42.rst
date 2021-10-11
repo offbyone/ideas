@@ -6,7 +6,7 @@
 :tags: life
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: The last day of my 43rd year was...
+:summary: The last day of my 43rd year was...
 :status: published
    
 The last day of my 43rd year was about as close to a good birthday party as I

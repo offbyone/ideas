@@ -6,7 +6,7 @@ Worldcon
 :tags: scifi, hugos, books, conferences
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: Fandom turns out to be pretty nifty
+:summary: Fandom turns out to be pretty nifty
 :status: published
    
 My first Worldcon was quite the experience, given that it occurred in

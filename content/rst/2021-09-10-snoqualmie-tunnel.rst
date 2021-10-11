@@ -10,7 +10,7 @@ Snoqualmie Tunnel
 :tags: seattle, biking
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: I took my bike up into the mountains for the first time since moving to Seattle, which is honestly a tragedy. It's gorgeous up there!
+:summary: I took my bike up into the mountains for the first time since moving to Seattle, which is honestly a tragedy. It's gorgeous up there!
 :gallery: {photo}galleries/snoqualmie-2021{Snoqualmie Tunnel 2021}
 :status: published
 

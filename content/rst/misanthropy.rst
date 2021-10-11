@@ -10,7 +10,7 @@ I'm Not a Misanthrope
 :tags: 
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: I used to think I was a misanthrope, and then I met the real ones.
+:summary: I used to think I was a misanthrope, and then I met the real ones.
 :status: published
    
 (from a conversation at work)

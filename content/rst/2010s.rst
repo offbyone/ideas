@@ -10,7 +10,7 @@
 :tags: life, amazon, matt
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: Looking back at the decade that was... it's been a ride. I got married. Emigrated to another country. Took a terrifying job that continues to excite me
+:summary: Looking back at the decade that was... it's been a ride. I got married. Emigrated to another country. Took a terrifying job that continues to excite me
 :status: published
 
 In 2010 I:

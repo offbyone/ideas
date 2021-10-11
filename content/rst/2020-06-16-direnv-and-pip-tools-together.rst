@@ -11,7 +11,7 @@ direnv and pip-tools together
 :author: Chris Rose
 :email: offline@offby1.net
 :status: published
-:excerpt: A relatively simple way to automate locking your pip-tools requirements using direnv
+:summary: A relatively simple way to automate locking your pip-tools requirements using direnv
 
 I have been experimenting with using `pip-tools`_ to manage my python project dependencies. If you're not familiar with it, I encourage you to read Hynek Schlawack's excellent `introduction to dependency management in Python <https://hynek.me/articles/python-app-deps-2018/>`_ which introduces it and offers some comparisons to other alternatives like Poetry and Pipenv.
 

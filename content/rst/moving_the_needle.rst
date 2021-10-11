@@ -6,7 +6,7 @@ Changing Horses Midstream
 :tags: impostor syndrome
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: Taking a step into the unknown means giving up the certainty of my ability
+:summary: Taking a step into the unknown means giving up the certainty of my ability
 :status: published
 
 I've spent the last three years at work developing a reputation at

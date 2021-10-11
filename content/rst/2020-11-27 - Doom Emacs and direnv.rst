@@ -10,7 +10,7 @@ Doom Emacs and direnv
 :tags: emacs, direnv
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: Solving an issue arising from an interaction between Doom Emacs and direnv
+:summary: Solving an issue arising from an interaction between Doom Emacs and direnv
 :status: published
 
 I use both `Doom Emacs`_ and `Direnv`_ a lot, and I discovered -- and with the author of Doom's assistance, solved -- an peculiar issue arising from the interaction of the two.

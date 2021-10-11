@@ -10,7 +10,7 @@ Development Environment (2021)
 :tags: tools, emacs, direnv
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt:  Some of the things I use in my day to day computering
+:summary:  Some of the things I use in my day to day computering
 :status: published
 
 I've had a good couple of years in terms of tool discovery. Rather than try to tweet about them in bits and bobs, I figured I would write up a few bits and pieces that I like.

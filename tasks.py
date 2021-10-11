@@ -223,7 +223,7 @@ def new_post(c, title=None):
     :tags: 
     :author: Chris Rose
     :email: offline@offby1.net
-    :excerpt: 
+    :summary:
 
     A New Post
     """
