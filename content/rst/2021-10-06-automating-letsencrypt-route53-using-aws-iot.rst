@@ -15,6 +15,8 @@ Using AWS IoT to provision an IAM role for home lab devices
 
 I'm going to start with a bit of a rambling preamble (pre-ramble?) about what I wanted to achieve, and some of the semi-arbitrary constraints I set for myself.
 
+(This is part 1 of a 2-part series. The second will cover the LetEncrypt setup challenges)
+
 I have been wanting to migrate from my homegrown self-signed CA for TLS on my home lab for some time. There are a few reasons for this, but chief among them is the pain in the ass of installing the trust root on every new device I get, and I just got a new phone. This was, as they say, the last straw. I decided that I needed to transition off this janky, hacked-together solution. However... I had some constraints.
 
 First, I didn't want to open my home lab hosts to the internet. This meant that I couldn't use letsencrypt's HTTP challenge to manage certificates. I would have to use DNS.
