@@ -10,7 +10,7 @@ Using AWS IoT to provision an IAM role for home lab devices
 :tags: aws, iot, terraform, ansible, letsencrypt, automation
 :author: Chris Rose
 :email: offline@offby1.net
-:excerpt: Being a description of the steps I went through to turn my Raspberry Pi devices into IoT things so that I could eventually have them automatically use letsencrypt.
+:summary: Being a description of the steps I went through to turn my Raspberry Pi devices into IoT things so that I could eventually have them automatically use letsencrypt.
 :status: published
 
 I'm going to start with a bit of a rambling preamble (pre-ramble?) about what I wanted to achieve, and some of the semi-arbitrary constraints I set for myself.
