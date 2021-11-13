@@ -47,11 +47,14 @@
 {% endblock %}
 {% block content %}
 <div class="col-12 col-md-9 float-left content">
-    <article>
+    <article class="h-entry">
         <div class="post wrapper">
-            <h2 class="post-item post-title">{{ article.title }}</h2>
+            <h2 class="post-item post-title p-name">{{ article.title }}</h2>
             <div class="post-item post-meta">
-                <span><i class="iconfont icon-today-sharp"></i>&nbsp;<time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time></span>
+                <span>
+                    <a class="u-url" href="{{ article_url }}"><i class="iconfont icon-today-sharp"></i></a>
+                    &nbsp;<time class="dt-published" datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time>
+                </span>
                 <!-- Disabled for now
                      FIXME add https://github.com/pilosus/pilosus_pelican_word_count/ and re-implement
                      <span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;WORDCOUNT words</span>
@@ -59,13 +62,13 @@
                 {% if article.tags %}
                 <span><i class="iconfont icon-pricetags-sharp"></i>
                     {% for tag in article.tags %}
-                        &nbsp;<a href="{{ SITEURL }}/{{ tag.url }}">{{tag}}</a>
+                        &nbsp;<a class="p-category" href="{{ SITEURL }}/{{ tag.url }}">{{tag}}</a>
                     {% endfor %}
                 </span>
                 {% endif %}
             </div>
 
-            <div class="post-content markdown-body">
+            <div class="post-content markdown-body e-content">
                 {% if article.photo_image %}<img src="{{ SITEURL }}/{{ article.photo_image[1] }}" />{% endif %}
                 {{ article.content }}
                 {% if article.photo_gallery %}
