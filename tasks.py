@@ -321,11 +321,11 @@ def photo_gallery_gen(c, location):
 
 
 @task
-def show_hcard(c):
+def show_hcard(c, page="index.html"):
     """Show the current hcards for the index page"""
     import mf2py
 
-    index = Path(__file__).parent / "output/index.html"
+    index = Path(__file__).parent / "output" / page
 
     with index.open(mode="r") as fh:
         mf = mf2py.parse(doc=fh)
