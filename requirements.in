@@ -4,6 +4,7 @@ cssmin
 invoke
 isort>=5.0
 markdown
+mf2py
 pelican-gist
 pelican-githubprojects
 pelican-photos

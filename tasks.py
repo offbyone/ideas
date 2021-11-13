@@ -318,3 +318,16 @@ def photo_gallery_gen(c, location):
             c.run(f"{exif_cmd} -f -p {fmt_path}/captions.fmt . | sort > captions.txt")
         else:
             console.print(f"[red]Skipping already present file [bold]captions.txt")
+
+
+@task
+def show_hcard(c):
+    """Show the current hcards for the index page"""
+    import mf2py
+
+    index = Path(__file__).parent / "output/index.html"
+
+    with index.open(mode="r") as fh:
+        mf = mf2py.parse(doc=fh)
+
+    console.print(mf)
