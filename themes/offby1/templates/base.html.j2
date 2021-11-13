@@ -116,7 +116,13 @@
                 <aside class="col-12 col-md-3 float-left sidebar">
                     <div class="sidebar-item sidebar-about-me">
                         <div class="card h-card" rel="me">
-                            <h3 class="card-title"><a class="p-name u-url" href="{{ SITEURL }}">Chris</a> Is...</h3>
+                            <h3 class="card-title">
+                                {% if article %}
+                                <a class="p-name p-author u-url" href="{{ SITEURL }}">Chris</a> Is...
+                                {% else %}
+                                <a class="p-name u-url" href="{{ SITEURL }}">Chris</a> Is...
+                                {% endif %}
+                            </h3>
                             <p class="card-text">a code maker and opinion haver with <span class="p-org">AWS</span></p>
                             <p>Opinions are my own, obviously</a>
                         </div>
