@@ -95,8 +95,15 @@ WEBASSETS_CONFIG = [("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "
 WEBASSETS_BUNDLES = [
     (
         "theme_js",
-        ("js/fuji.js", "js/bigfoot.js", "jquery.magnific-popup.js",),
-        {"output": "js/fuji.min.js", "filters": ["closure_js"],},
+        (
+            "js/fuji.js",
+            "js/bigfoot.js",
+            "jquery.magnific-popup.js",
+        ),
+        {
+            "output": "js/fuji.min.js",
+            "filters": ["closure_js"],
+        },
     ),
     # Disabled - STILL - because for some reason this CSS doesn't apply in the site
     # ... but the one in base.html.j2 _does_. Why? Who the hell knows?
@@ -114,8 +121,12 @@ WEBASSETS_BUNDLES = [
 STATIC_PATHS = ["images", "extra"]
 
 EXTRA_PATH_METADATA = {
-    "extra/robots.txt": {"path": "robots.txt",},
-    "extra/favicon.ico": {"path": "favicon.ico",},
+    "extra/robots.txt": {
+        "path": "robots.txt",
+    },
+    "extra/favicon.ico": {
+        "path": "favicon.ico",
+    },
 }
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
