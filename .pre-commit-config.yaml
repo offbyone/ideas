@@ -5,18 +5,18 @@ repos:
       - id: check-useless-excludes
 
   - repo: https://github.com/psf/black
-    rev: 19.10b0
+    rev: 21.11b1
     hooks:
       - id: black
 
   - repo: https://github.com/antonbabenko/pre-commit-terraform
-    rev: v1.30.0
+    rev: v1.58.0
     hooks:
       - id: terraform_fmt
       - id: terraform_validate
 
   - repo: https://github.com/pre-commit/pygrep-hooks
-    rev: v1.5.1
+    rev: v1.9.0
     hooks:
       - id: rst-backticks
 
