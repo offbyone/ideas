@@ -125,23 +125,17 @@ resource "aws_cloudfront_distribution" "frontend" {
   }
 
   default_cache_behavior {
-    allowed_methods  = ["GET", "HEAD"]
-    cached_methods   = ["GET", "HEAD"]
-    target_origin_id = var.s3_origin_id
-
-    forwarded_values {
-      query_string = false
-
-      cookies {
-        forward = "none"
-      }
-    }
+    allowed_methods          = ["GET", "HEAD"]
+    cached_methods           = ["GET", "HEAD"]
+    target_origin_id         = var.s3_origin_id
+    cache_policy_id          = data.aws_cloudfront_cache_policy.none.id
+    origin_request_policy_id = data.aws_cloudfront_origin_request_policy.cors-s3.id
 
     viewer_protocol_policy = "redirect-to-https"
 
     // Using CloudFront defaults, tune to liking
     min_ttl     = 0
-    default_ttl = 86400
+    default_ttl = 300
     max_ttl     = 31536000
   }
 
@@ -160,6 +154,14 @@ resource "aws_cloudfront_distribution" "frontend" {
   }
 
   tags = local.tags
+}
+
+data "aws_cloudfront_cache_policy" "none" {
+  name = "Managed-CachingDisabled"
+}
+
+data "aws_cloudfront_origin_request_policy" "cors-s3" {
+  name = "Managed-CORS-S3Origin"
 }
 
 resource "aws_acm_certificate" "certificate" {
