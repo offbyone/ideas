@@ -40,8 +40,8 @@ data "aws_route53_zone" "website" {
 
 locals {
   zone_id_map = {
-    "offby1.net"     = data.aws_route53_zone.zone.zone_id
-    "offby1.website" = data.aws_route53_zone.website.zone_id
+    "ideas.offby1.net" = data.aws_route53_zone.zone.zone_id
+    "offby1.website"   = data.aws_route53_zone.website.zone_id
   }
   domain_name = var.domain_names[0]
   tags = {
@@ -181,17 +181,17 @@ resource "aws_acm_certificate" "certificate" {
 resource "aws_route53_record" "cert_validation" {
   for_each = {
     for dvo in aws_acm_certificate.certificate.domain_validation_options : dvo.domain_name => {
-      name   = dvo.resource_record_name
-      record = dvo.resource_record_value
-      type   = dvo.resource_record_type
-      tld    = join(".", slice(split(".", trim(dvo.resource_record_name, ".")), length(split(".", trim(dvo.resource_record_name, "."))) - 2, length(split(".", trim(dvo.resource_record_name, ".")))))
+      name    = dvo.resource_record_name
+      record  = dvo.resource_record_value
+      type    = dvo.resource_record_type
+      zone_id = local.zone_id_map[dvo.domain_name]
     }
   }
 
   allow_overwrite = true
   name            = each.value.name
   type            = each.value.type
-  zone_id         = local.zone_id_map[each.value.tld]
+  zone_id         = each.value.zone_id
   records         = [each.value.record]
   ttl             = 60
 
