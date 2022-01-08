@@ -1,7 +1,7 @@
 Title: Aaaarghhh!
 Date: 2004-01-04 13:00
 Author: offby1
-Category: General Thoughts, Rants
+Category: society
 Tags: intellectual property, privacy, Rants
 Slug: aaaarghhh
 Status: published
