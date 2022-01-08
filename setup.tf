@@ -16,14 +16,14 @@ module "log_storage" {
   cdn_logs_path = "cf-log-"
   readers       = [data.aws_caller_identity.current.account_id]
   source        = "github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs?ref=v0.4.1"
-  tags = {
-    "Project" = "ideas.blog"
-    "Domain"  = "offby1.net"
-  }
+  tags          = local.tags
 }
 
-variable "domain_name" {
-  default = "ideas.offby1.net"
+variable "domain_names" {
+  default = [
+    "ideas.offby1.net",
+    "offby1.website"
+  ]
 }
 
 variable "s3_origin_id" {
@@ -34,9 +34,26 @@ data "aws_route53_zone" "zone" {
   name = "offby1.net"
 }
 
+data "aws_route53_zone" "website" {
+  name = "offby1.website"
+}
+
+locals {
+  zone_id_map = {
+    "offby1.net"     = data.aws_route53_zone.zone.zone_id
+    "offby1.website" = data.aws_route53_zone.website.zone_id
+  }
+  domain_name = var.domain_names[0]
+  tags = {
+    Project = "ideas.blog"
+    Domain  = "offby1.net"
+    Source  = "https://github.com/offbyone/ideas"
+  }
+}
+
 resource "aws_s3_bucket" "blog" {
   depends_on = [module.log_storage.s3_logs_bucket]
-  bucket     = var.domain_name
+  bucket     = local.domain_name
   acl        = "public-read"
   policy     = <<EOF
 {
@@ -46,7 +63,7 @@ resource "aws_s3_bucket" "blog" {
     "Effect": "Allow",
     "Principal": "*",
     "Action": "s3:GetObject",
-    "Resource": "arn:aws:s3:::${var.domain_name}/*"
+    "Resource": "arn:aws:s3:::${local.domain_name}/*"
   }]
 }
 EOF
@@ -61,23 +78,17 @@ EOF
     target_prefix = module.log_storage.s3_logs_path
   }
 
-  tags = {
-    "Project" = "ideas.blog"
-    "Domain"  = "offby1.net"
-  }
+  tags = local.tags
 
 }
 
 resource "aws_s3_bucket" "wwwblog" {
-  bucket = "www.${var.domain_name}"
+  bucket = "www.${local.domain_name}"
   acl    = "public-read"
   website {
-    redirect_all_requests_to = var.domain_name
+    redirect_all_requests_to = local.domain_name
   }
-  tags = {
-    "Project" = "ideas.blog"
-    "Domain"  = "offby1.net"
-  }
+  tags = local.tags
 }
 
 resource "aws_cloudfront_distribution" "frontend" {
@@ -105,9 +116,7 @@ resource "aws_cloudfront_distribution" "frontend" {
   is_ipv6_enabled     = false
   default_root_object = "index.html"
 
-  aliases = [
-    "ideas.offby1.net"
-  ]
+  aliases = var.domain_names
 
   logging_config {
     bucket          = module.log_storage.cdn_logs_bucket
@@ -150,28 +159,23 @@ resource "aws_cloudfront_distribution" "frontend" {
     }
   }
 
-  tags = {
-    "Project" = "ideas.blog"
-    "Domain"  = "offby1.net"
-  }
+  tags = local.tags
 }
 
 resource "aws_acm_certificate" "certificate" {
   provider    = aws.useast1
-  domain_name = var.domain_name
-  tags = {
-    "Project" = "ideas.blog"
-    "Domain"  = "offby1.net"
-    "Name"    = "ideas-offby1-net"
-  }
+  domain_name = var.domain_names[0]
+  tags = merge(local.tags, {
+    Name = "ideas-offby1-net"
+  })
 
   validation_method = "DNS"
+
+  subject_alternative_names = slice(var.domain_names, 1, length(var.domain_names))
 
   lifecycle {
     create_before_destroy = true
   }
-
-
 }
 
 resource "aws_route53_record" "cert_validation" {
@@ -180,13 +184,14 @@ resource "aws_route53_record" "cert_validation" {
       name   = dvo.resource_record_name
       record = dvo.resource_record_value
       type   = dvo.resource_record_type
+      tld    = join(".", slice(split(".", trim(dvo.resource_record_name, ".")), length(split(".", trim(dvo.resource_record_name, "."))) - 2, length(split(".", trim(dvo.resource_record_name, ".")))))
     }
   }
 
   allow_overwrite = true
   name            = each.value.name
   type            = each.value.type
-  zone_id         = data.aws_route53_zone.zone.zone_id
+  zone_id         = local.zone_id_map[each.value.tld]
   records         = [each.value.record]
   ttl             = 60
 
@@ -200,19 +205,16 @@ resource "aws_acm_certificate_validation" "certificate" {
 
 resource "aws_route53_record" "blog" {
   zone_id = data.aws_route53_zone.zone.zone_id
-  name    = var.domain_name
+  name    = local.domain_name
   type    = "CNAME"
   records = ["${aws_cloudfront_distribution.frontend.domain_name}."]
   ttl     = 1799
 }
 
 resource "aws_iam_user" "blog_deploy" {
-  name = "${var.domain_name}_blog_deploy"
+  name = "${local.domain_name}_blog_deploy"
   path = "/s3/"
-  tags = {
-    "Project" = "ideas.blog"
-    "Domain"  = "offby1.net"
-  }
+  tags = local.tags
 
 }
 
@@ -221,7 +223,7 @@ resource "aws_iam_access_key" "blog_deploy" {
 }
 
 resource "aws_iam_user_policy" "blog_deploy_rw" {
-  name   = "${var.domain_name}_rw"
+  name   = "${local.domain_name}_rw"
   user   = aws_iam_user.blog_deploy.name
   policy = <<EOF
 {
@@ -235,7 +237,7 @@ resource "aws_iam_user_policy" "blog_deploy_rw" {
       "cloudfront:CreateInvalidation"
     ],
     "Resource": [
-      "arn:aws:s3:::${var.domain_name}",
+      "arn:aws:s3:::${local.domain_name}",
       "${aws_cloudfront_distribution.frontend.arn}"
     ],
     "Condition": {}
@@ -253,7 +255,7 @@ resource "aws_iam_user_policy" "blog_deploy_rw" {
       "s3:PutObjectAcl",
       "s3:PutObjectAclVersion"
     ],
-    "Resource": "arn:aws:s3:::${var.domain_name}/*",
+    "Resource": "arn:aws:s3:::${local.domain_name}/*",
     "Condition": {}
   }, {
     "Effect": "Allow",
@@ -265,3 +267,4 @@ resource "aws_iam_user_policy" "blog_deploy_rw" {
 }
 EOF
 }
+
