@@ -11,10 +11,10 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = "//ideas.offby1.net"
+SITEURL = "https://offby1.website"
 RELATIVE_URLS = False
 
-FEED_DOMAIN = "https:" + SITEURL
+FEED_DOMAIN = SITEURL
 FEED_MAX_ITEMS = 15
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"

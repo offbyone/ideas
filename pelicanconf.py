@@ -12,7 +12,9 @@ AUTHOR = "Chris R"
 AUTHOR_EMAIL = "offline@offby1.net"
 SITENAME = "Ideas.Offby1"
 DESCRIPTION = "Close Enough"
-SITEURL = "//ideas.offby1.net"
+SITEURL = "//offby1.website"
+# Use relative URLs during development. This is overridden in publishconf.py
+RELATIVE_URLS = True
 
 PATH = Path("content")
 
@@ -53,9 +55,6 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 10
-
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
 
 PLUGIN_PATHS = ["./plugins"]
 PLUGINS = [
