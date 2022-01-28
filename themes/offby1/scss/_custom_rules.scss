@@ -17,13 +17,13 @@
     margin-bottom: $spacer-3;
 
     pre {
-      margin-bottom: 0;
       word-break: normal;
+      padding: 1em;
+      box-shadow: rgba(4, 21, 31, 0.2) 0px 3px 6px,
+        rgba(4, 21, 31, 0.3) 0px 3px 6px;
     }
 
     > pre {
-      padding: 0;
-      margin: 0;
       // stylelint-disable-next-line primer/typography
       font-size: 100%;
       word-break: normal;
