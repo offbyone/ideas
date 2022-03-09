@@ -9,6 +9,7 @@ pelican-gist
 pelican-githubprojects
 pelican-photos
 pelican-simple-footnotes
+pelican-sitemap
 pelican-tag-cloud
 pelican-webassets
 pelican>=4.5

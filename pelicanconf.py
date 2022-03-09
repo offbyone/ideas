@@ -28,6 +28,8 @@ PHOTO_EXIF_REMOVE_GPS = True
 PHOTO_EXIF_COPYRIGHT = "CC-BY-NC-SA"
 PHOTO_EXIF_COPYRIGHT_AUTHOR = "Chris Rose"
 
+SITEMAP = {"format": "xml", "exclude": ["tag/", "category/"]}
+
 TIMEZONE = "America/Los_Angeles"
 TZ = pytz.timezone(TIMEZONE)
 PUBLICATION_TIME = datetime.now(TZ)
@@ -58,12 +60,13 @@ DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ["./plugins"]
 PLUGINS = [
-    "webassets",
-    "pelican_gist",
     "embed_tweet",
-    "tag_cloud",
-    "simple_footnotes",
+    "pelican_gist",
     "photos",
+    "simple_footnotes",
+    "sitemap",
+    "tag_cloud",
+    "webassets",
 ]
 
 ARTICLE_URL = "posts/{slug}.html"

@@ -52,6 +52,7 @@ pelican==4.7.1
     #   pelican-advance-embed-tweet
     #   pelican-photos
     #   pelican-simple-footnotes
+    #   pelican-sitemap
     #   pelican-tag-cloud
     #   pelican-webassets
     #   pelican-webmention
@@ -64,6 +65,8 @@ pelican-githubprojects==0.1.1
 pelican-photos==1.0.1
     # via -r requirements.in
 pelican-simple-footnotes==1.0.2
+    # via -r requirements.in
+pelican-sitemap==1.0.2
     # via -r requirements.in
 pelican-tag-cloud==1.0.1
     # via -r requirements.in
