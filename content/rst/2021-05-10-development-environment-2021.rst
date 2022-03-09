@@ -113,6 +113,7 @@ My shell prompt is somewhere I spend a lot of time, and finding one that shows t
 Starship is implemented in Rust, and it uses a set of modules alongside support for custom modules to display an elegant prompt in minimal time. I use it to show me the currenet state of my git repo, the SSH keys I have in my agent, and in the case of my work prompt, some internal metadata about the project I'm looking at that otherwise I'd have to keep in my head.
 
 .. image:: {static}/images/2021-05-10/devenv-starship.gif
+    :alt: an animation of a terminal prompt, demonstrating several features of the Starship prompt
 
 On a personal level, Starship also contains the `first serious Rust code I have ever written <https://github.com/starship/starship/pull/2499>`_ and I'm pretty proud of that.
 
