@@ -46,7 +46,7 @@ mf2py==1.1.2
     # via -r requirements.in
 mf2util==0.5.1
     # via pelican-webmention
-pelican==4.7.1
+pelican==4.7.2
     # via
     #   -r requirements.in
     #   pelican-advance-embed-tweet
