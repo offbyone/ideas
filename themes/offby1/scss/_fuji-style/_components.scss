@@ -49,3 +49,20 @@
 .post-summary .post-player-wrapper {
   display: none;
 }
+
+.sc-twitter {
+  @include fa-icon-brands($fa-var-twitter);
+}
+
+.sc-mastodon,
+.sc-wandering-shop {
+  @include fa-icon-brands($fa-var-mastodon);
+}
+
+.sc-github {
+  @include fa-icon-brands($fa-var-github);
+}
+
+.sc-keybase {
+  @include fa-icon-brands($fa-var-keybase);
+}

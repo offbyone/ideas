@@ -52,6 +52,7 @@ LINKS = ()
 # Social widget
 SOCIAL = (
     ("Twitter", "https://twitter.com/offby1"),
+    ("Wandering.Shop", "https://wandering.shop/@offby1"),
     ("Github", "https://github.com/offbyone"),
     ("Keybase", "https://keybase.io/offby1"),
 )
