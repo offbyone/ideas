@@ -155,8 +155,11 @@
                             {% for name, link in LINKS %}
                             <li><a href="{{ link }}">{{ name }}</a></li>
                             {% endfor %}
-                            {% for name, link in SOCIAL %}
-                            <li><a class="sc-{{ name.replace('.', '-') | lower }}" href="{{ link }}" rel="me">{{ name }}</a></li>
+                            {% for item in SOCIAL %}
+                            <li>
+                                <span class="fa-brands fa-{{ item.network | lower }}"></span>
+                                <a class="sc-{{ item.network | lower }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
+                            </li>
                             {% endfor %}
                         </ul>
                     </div>
@@ -207,8 +210,11 @@
                         {% for name, link in LINKS %}
                             <li><a href="{{ link }}">{{ name }}</a></li>
                         {% endfor %}
-                        {% for name, link in SOCIAL %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
+                        {% for item in SOCIAL %}
+                        <li>
+                            <span class="fa-brands fa-{{ item.network | lower }}"></span>
+                            <a class="sc-{{ item.network | lower }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
+                        </li>
                         {% endfor %}
                     </ul>
                 </div>
@@ -235,8 +241,11 @@
                         | Built at {{ PUBLICATION_TIME.strftime("%Y-%m-%d") }} with <a href="https://getpelican.com">Pelican</a>
                         | Decorated based on <a href="https://github.com/dsrkafuu/hugo-theme-fuji/">Fuji-V2</a>
                         | Find me on
+                        <span class="fa-brands fa-twitter"></span>
                         <a class="sc-twitter" href="https://twitter.com/offby1" rel="me">Twitter</a>
-                        / <a class="sc-mastodon" href="https://wandering.shop/@offby1" rel="me">Mastodon</a>
+                        /
+                        <span class="fa-brands fa-mastodon"></span>
+                        <a class="sc-mastodon" href="https://wandering.shop/@offby1" rel="me">Mastodon</a>
                     </span>
                 </div>
             </div>

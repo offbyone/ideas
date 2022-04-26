@@ -1,11 +1,25 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-from datetime import datetime
-import os
-import pytz
-from pathlib import Path
+
 import multiprocessing
+from dataclasses import dataclass
+from datetime import datetime
+from pathlib import Path
+from typing import Optional
+
+import pytz
+
+
+@dataclass
+class Social:
+    name: str
+    link: str
+    network: Optional[str] = None
+
+    def __post_init__(self):
+        if self.network is None:
+            self.network = self.name
 
 
 AUTHOR = "Chris R"
@@ -51,10 +65,10 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (
-    ("Twitter", "https://twitter.com/offby1"),
-    ("Wandering.Shop", "https://wandering.shop/@offby1"),
-    ("Github", "https://github.com/offbyone"),
-    ("Keybase", "https://keybase.io/offby1"),
+    Social("Twitter", "https://twitter.com/offby1"),
+    Social("Wandering.Shop", "https://wandering.shop/@offby1", "mastodon"),
+    Social("Github", "https://github.com/offbyone"),
+    Social("Keybase", "https://keybase.io/offby1"),
 )
 
 DEFAULT_PAGINATION = 10
