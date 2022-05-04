@@ -14,7 +14,9 @@ Code Plumber
 
 Seattle, WA, USA
 
-`phone`_ | `email`_ | `blog`_ | `github`_
+`signal <phone_>`_ | `whatsapp <phone_>`_ | `email`_ | `blog`_ | `github`_
+
+He/Him
 
 ----
 
@@ -23,7 +25,7 @@ Technical Skills
 
 **Operating Systems**: Linux, macOS (more as a user)
 
-**Programing Languages**: Python (competent to expert), Ruby, Java, Shell, C
+**Programing Languages**: Python (competent to expert), Ruby (journeyfolk at best), Java (literate), Shell, C
 
 **Software Lifecycle**: Git, *mumble AWS internal tools*, Github Actions, CodeDeploy :)*
 
@@ -57,10 +59,12 @@ May 2011 - Present: All kinds of Cloud Things
 
 Networking, build systems, Python, deployment safety
 
-- 3 issued patents for network configuration management
+- Author of a lot of build tools
+- Python user community "lead", I guess?
 - Designed the interpreter dependency model used by Python, Ruby, NodeJS, and Java developers at Amazon
 - Part of the cross-AWS incident response on-call rotation
 - Curator of Amazon's first party codebase
+- 3 issued patents for network configuration management
 
 June 2009 - May 2011 - Web Applications and Deployment Automation
 ..................................................................
@@ -68,7 +72,7 @@ June 2009 - May 2011 - Web Applications and Deployment Automation
 **Advanis**
 
 - Automated deployment for web applications, marketing surveys, and telephony applications
-- ActionScript/Flex/PHP web application development
+- ActionScript/Flex/PHP web application development (It was both better and worse than you'd think!)
 - System automation with Python/Fabric
 
 2005 - June 2009 - Intern and FTE Banking and Messaging Software
@@ -83,7 +87,7 @@ June 2009 - May 2011 - Web Applications and Deployment Automation
 Contact Me
 ----------
 
-Feel free to `email`_ me.
+Feel free to `email`_ me or reach out to me on `Signal <phone_>`_.
 
 .. _blog: https://offby1.website/
 .. _email: mailto:offline@offby1.net
