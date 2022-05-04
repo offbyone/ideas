@@ -25,3 +25,8 @@ exclude: >-
       plugins/.*|
       Just-Read/.*
   )$
+
+ci:
+  skip:
+    - terraform_validate
+    - terraform_fmt
