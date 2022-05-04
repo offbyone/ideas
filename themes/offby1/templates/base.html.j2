@@ -244,9 +244,22 @@
         </main>
 
         <footer>
-            <div class="container-lg clearfix">
-                <div class="col-12 footer">
-                    <span>© {{ article.date|strftime("%Y") if article else "2021" }} {{ AUTHOR }}
+            <div class="container clearfix footer">
+                <div class="row">
+                    <div class="col-12">
+                        <span class="fa-solid fa-image-portrait"></span>
+                        <a class="cv" href="{filename}/pages/cv.rst">Hire me</a>
+                        | Find me on
+                        <span class="fa-brands fa-twitter"></span>
+                        <a class="sc-twitter" href="https://twitter.com/offby1" rel="me">Twitter</a>
+                        /
+                        <span class="fa-brands fa-mastodon"></span>
+                        <a class="sc-mastodon" href="https://wandering.shop/@offby1" rel="me">Mastodon</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <span>© {{ article.date|strftime("%Y") if article else "2021" }} {{ AUTHOR }}
                         {% if article %}
                         | <a href="{{ REPOSITORY_ROOT }}/{{ article.relative_source_path }}">Source</a>
                         {% else %}
@@ -254,13 +267,8 @@
                         {% endif %}
                         | Built at {{ PUBLICATION_TIME.strftime("%Y-%m-%d") }} with <a href="https://getpelican.com">Pelican</a>
                         | Decorated based on <a href="https://github.com/dsrkafuu/hugo-theme-fuji/">Fuji-V2</a>
-                        | Find me on
-                        <span class="fa-brands fa-twitter"></span>
-                        <a class="sc-twitter" href="https://twitter.com/offby1" rel="me">Twitter</a>
-                        /
-                        <span class="fa-brands fa-mastodon"></span>
-                        <a class="sc-mastodon" href="https://wandering.shop/@offby1" rel="me">Mastodon</a>
-                    </span>
+                        </span>
+                    </div>
                 </div>
             </div>
         </footer>
