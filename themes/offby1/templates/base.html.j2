@@ -262,8 +262,10 @@
                         <span>© {{ article.date|strftime("%Y") if article else PUBLICATION_TIME.strftime("%Y") }} {{ AUTHOR }}
                         {% if article %}
                         | <a href="{{ REPOSITORY_ROOT }}/{{ article.relative_source_path }}">Source</a>
+                        {% elif page %}
+                        | <a href="{{ REPOSITORY_ROOT }}/{{ page.relative_source_path }}">Source</a>
                         {% else %}
-                        | <a href="https://github.com/offbyone/ideas">Source</a>
+                        | <a href="{{ REPOSITORY_ROOT }}">Source</a>
                         {% endif %}
                         | Built at {{ PUBLICATION_TIME.strftime("%Y-%m-%d") }} with <a href="https://getpelican.com">Pelican</a>
                         | Decorated based on <a href="https://github.com/dsrkafuu/hugo-theme-fuji/">Fuji-V2</a>
