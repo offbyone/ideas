@@ -4,7 +4,7 @@ Author: offby1
 Category: society
 Tags: intellectual property, privacy, Rants
 Slug: aaaarghhh
-Status: published
+Status: draft
 
 The author of a piece of software that i have used in the past to work
 on this site -- [TopStyle](http://www.bradsoft.com/topstyle/index.asp)
