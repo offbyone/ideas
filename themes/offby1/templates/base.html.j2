@@ -259,7 +259,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <span>© {{ article.date|strftime("%Y") if article else "2021" }} {{ AUTHOR }}
+                        <span>© {{ article.date|strftime("%Y") if article else PUBLICATION_TIME.strftime("%Y") }} {{ AUTHOR }}
                         {% if article %}
                         | <a href="{{ REPOSITORY_ROOT }}/{{ article.relative_source_path }}">Source</a>
                         {% else %}
