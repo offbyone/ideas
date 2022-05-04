@@ -9,7 +9,7 @@
     "@primer/css": "^15.2.0",
     "autoprefixer": "^10.0.2",
     "magnific-popup": "^1.1.0",
-    "postcss": "^8.2.10",
+    "postcss": "^8.2.13",
     "postcss-cli": "^8.3.0",
     "postcss-import": "^13.0.0",
     "sass": "^1.32.8"
