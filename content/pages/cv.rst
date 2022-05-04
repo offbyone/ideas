@@ -25,7 +25,7 @@ Technical Skills
 
 **Operating Systems**: Linux, macOS (more as a user)
 
-**Programing Languages**: Python (competent to expert), Ruby (journeyfolk at best), Java (literate), Shell, C
+**Programing Languages**: Python (competent to expert), Ruby (learning), Java (literate), Shell (hacky), C (rusty!)
 
 **Software Lifecycle**: Git, *mumble AWS internal tools*, Github Actions, CodeDeploy :)*
 
