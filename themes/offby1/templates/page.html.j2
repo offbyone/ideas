@@ -1,4 +1,6 @@
 {% extends "base.html.j2" %}
+{% set content_url = '/' + page.url %}
+
 {% block title %}{{ page.title }}- {{ SITENAME }}{% endblock %}
 {% block meta %}
     {% if page.author %}
@@ -28,11 +30,32 @@
     {% endif %}
 {% endblock %}
 
+{% block page_title %}
+    <a class="title-main" href="{{ content_url }}">
+        {{ page.title }}
+    </a>
+{% endblock %}
+
 {% block content %}
-<div role="main" class="content clearfix">	
-	<div class="post wrapper">
-		<h1>{{ page.title }}</h1>
-		{{ page.content }}		
-	</div>
+<div class="col-12 col-md-9 float-left content">
+    <article class="h-entry">
+        <div class="post wrapper">
+            <!-- <h2 class="post-item post-title p-name">{{ page.title }}</h2> -->
+            <div class="post-content markdown-body e-content">
+                {% if page.photo_image %}<img src="{{ SITEURL }}/{{ page.photo_image[1] }}" />{% endif %}
+                {{ page.content }}
+                {% if page.photo_gallery %}
+                <div class="gallery">
+                    {% for title, gallery in page.photo_gallery %}
+                        <h1 id="post-gallery-{{ loop.index }}">{{ title }}</h1>
+                        {% for name, photo, thumb, exif, caption in gallery %}
+                            <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
+                        {% endfor %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </article>
 </div>
 {% endblock %}
