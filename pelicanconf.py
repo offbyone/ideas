@@ -76,7 +76,7 @@ TRANSLATION_FEED_ATOM = None
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
 LINKS = [
-    StyledLink("CV", "/pages/cv.html", style="cv", icon_style="fa-solid fa-file"),
+    StyledLink("CV", "/pages/cv.html", style="cv", icon_style="fa-solid fa-image-portrait"),
 ]
 
 # Social widget
