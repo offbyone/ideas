@@ -3,7 +3,7 @@ Gmail Goodness
 :date: 2004-09-14 19:58
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: gmail-goodness
 :status: draft
 

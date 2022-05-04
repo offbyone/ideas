@@ -3,7 +3,7 @@ Silence
 :date: 2003-03-22 08:30
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: silence
 :status: draft
 

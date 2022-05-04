@@ -3,7 +3,7 @@ Oh, puck.
 :date: 2006-05-05 15:57
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events
+:tags: events
 :slug: oh-puck
 :status: draft
 

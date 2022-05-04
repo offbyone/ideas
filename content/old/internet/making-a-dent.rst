@@ -3,7 +3,7 @@ Making a dent
 :date: 2003-05-14 00:46
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: making-a-dent
 :status: draft
 

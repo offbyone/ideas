@@ -3,7 +3,7 @@ CSS unhappiness
 :date: 2003-10-26 15:24
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: css-unhappiness
 :status: draft
 

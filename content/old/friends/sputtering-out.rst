@@ -3,7 +3,7 @@ Sputtering out
 :date: 2005-12-23 13:18
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends
+:tags: friends
 :slug: sputtering-out
 :status: draft
 

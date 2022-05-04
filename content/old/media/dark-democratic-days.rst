@@ -3,7 +3,7 @@ Dark (Democratic) Days.
 :date: 2006-03-29 19:02
 :author: offby1
 :category: Media, Rants
-:tags: Media, Rants
+:tags: media, rants
 :slug: dark-democratic-days
 :status: draft
 

@@ -3,7 +3,7 @@ Uncivil "Liberties"
 :date: 2002-12-23 14:29
 :author: offby1
 :category: Friends, General Thoughts, Internet, Rants
-:tags: freedom, Friends, Internet, Rants, school, security theatre
+:tags: freedom, friends, internet, rants, school, security theatre
 :slug: uncivil-liberties
 :status: draft
 

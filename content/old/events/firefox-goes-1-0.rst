@@ -3,7 +3,7 @@
 :date: 2004-11-09 08:36
 :author: offby1
 :category: Events, Internet
-:tags: Events, Internet
+:tags: events, internet
 :slug: firefox-goes-1-0
 :status: draft
 

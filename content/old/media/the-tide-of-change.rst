@@ -3,7 +3,7 @@ The tide of change
 :date: 2004-01-28 07:43
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: the-tide-of-change
 :status: draft
 

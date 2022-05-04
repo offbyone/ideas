@@ -3,7 +3,7 @@ Oh, Victor, you badass!
 :date: 2003-01-18 07:22
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: oh-victor-you-badass
 :status: draft
 

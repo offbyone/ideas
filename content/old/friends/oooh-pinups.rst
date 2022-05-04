@@ -3,7 +3,7 @@ Oooh, pinups!
 :date: 2005-05-10 21:21
 :author: offby1
 :category: Friends, General Thoughts, Meta
-:tags: Friends, Meta, work
+:tags: friends, meta, work
 :slug: oooh-pinups
 :status: draft
 

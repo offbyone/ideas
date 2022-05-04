@@ -3,7 +3,7 @@ Norm was a poor followup
 :date: 2005-07-31 16:24
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends
+:tags: friends
 :slug: norm-was-a-poor-followup
 :status: draft
 

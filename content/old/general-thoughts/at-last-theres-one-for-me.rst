@@ -3,7 +3,7 @@ At last, there's one for me!
 :date: 2004-02-07 10:21
 :author: offby1
 :category: General Thoughts, Internet
-:tags: Internet
+:tags: internet
 :slug: at-last-theres-one-for-me
 :status: draft
 

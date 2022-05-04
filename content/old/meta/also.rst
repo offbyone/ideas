@@ -3,7 +3,7 @@ Also...
 :date: 2003-09-09 11:58
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: also
 :status: draft
 

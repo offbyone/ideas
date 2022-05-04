@@ -3,7 +3,7 @@ Please land...
 :date: 2003-10-15 07:54
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, space
+:tags: events, space
 :slug: please-land
 :status: draft
 

@@ -3,7 +3,7 @@ Oh, one more thing...
 :date: 2005-05-02 22:07
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: oh-one-more-thing
 :status: draft
 

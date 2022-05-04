@@ -3,7 +3,7 @@ Losing things you never knew you had.
 :date: 2006-08-27 21:06
 :author: offby1
 :category: General Thoughts, Internet
-:tags: freedom, intellectual property, Internet, privacy
+:tags: freedom, intellectual property, internet, privacy
 :slug: losing-things-you-never-knew-you-had
 :status: draft
 

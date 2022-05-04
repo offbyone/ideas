@@ -3,7 +3,7 @@ This man is a cancer
 :date: 2006-02-20 23:09
 :author: offby1
 :category: Events, Internet, Media, Rants
-:tags: Events, free speech, freedom, Internet, Media, Rants
+:tags: events, free speech, freedom, internet, media, rants
 :slug: this-man-is-a-cancer
 :status: draft
 

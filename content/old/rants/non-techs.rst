@@ -3,7 +3,7 @@ Non-techs
 :date: 2004-03-10 07:25
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: non-techs
 :status: draft
 

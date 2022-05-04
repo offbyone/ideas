@@ -3,7 +3,7 @@ Up On Arms
 :date: 2006-05-14 09:56
 :author: offby1
 :category: Asides, General Thoughts
-:tags: Asides, work
+:tags: asides, work
 :slug: up-on-arms
 :status: draft
 

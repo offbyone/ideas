@@ -3,7 +3,7 @@ In addition...
 :date: 2004-03-10 07:51
 :author: offby1
 :category: Humour
-:tags: Humour
+:tags: humour
 :slug: in-addition
 :status: draft
 

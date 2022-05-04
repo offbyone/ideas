@@ -3,7 +3,7 @@ Drool...
 :date: 2004-01-02 22:29
 :author: offby1
 :category: Asides, Internet
-:tags: Asides, Internet
+:tags: asides, internet
 :slug: drool
 :status: draft
 

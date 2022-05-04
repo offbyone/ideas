@@ -3,7 +3,7 @@ The weird, wild world of funeral auctions
 :date: 2002-12-04 09:22
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: the-weird-wild-world-of-funeral-auctions
 :status: draft
 

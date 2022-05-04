@@ -3,7 +3,7 @@ Michael Geist - The Search for Net Neutrality
 :date: 2005-12-19 15:34
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: intellectual property, Internet, Media, privacy, Rants
+:tags: intellectual property, internet, media, privacy, rants
 :slug: michael-geist-the-search-for-net-neutrality
 :status: draft
 

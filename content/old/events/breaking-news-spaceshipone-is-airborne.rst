@@ -3,7 +3,7 @@ Airborne
 :date: 2004-06-21 07:43
 :author: offby1
 :category: Events, General Thoughts, Media
-:tags: Events, Media, space
+:tags: events, media, space
 :slug: breaking-news-spaceshipone-is-airborne
 :status: draft
 

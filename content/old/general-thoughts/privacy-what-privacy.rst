@@ -3,7 +3,7 @@ Privacy?  What privacy?
 :date: 2006-09-09 16:39
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: asshole, craigslist, entrapment, Internet, privacy
+:tags: asshole, craigslist, entrapment, internet, privacy
 :slug: privacy-what-privacy
 :status: draft
 

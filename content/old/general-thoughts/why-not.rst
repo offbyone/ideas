@@ -3,7 +3,7 @@ Why not?
 :date: 2003-10-24 07:58
 :author: offby1
 :category: General Thoughts, Internet, Rants
-:tags: intellectual property, Internet, privacy, Rants
+:tags: intellectual property, internet, privacy, rants
 :slug: why-not
 :status: draft
 

@@ -3,7 +3,7 @@
 :date: 2005-01-19 18:00
 :author: offby1
 :category: Events, General Thoughts, Rants
-:tags: Events, Rants
+:tags: events, rants
 :slug: to-end-all-wars
 :status: draft
 

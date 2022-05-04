@@ -3,7 +3,7 @@ Phew
 :date: 2005-01-10 18:14
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events
+:tags: events
 :slug: phew
 :status: draft
 

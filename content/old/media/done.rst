@@ -3,7 +3,7 @@ Done
 :date: 2003-12-17 02:19
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: done
 :status: draft
 

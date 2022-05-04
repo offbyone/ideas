@@ -3,7 +3,7 @@ Words to live by...
 :date: 2003-10-18 17:54
 :author: offby1
 :category: Humour
-:tags: Humour
+:tags: humour
 :slug: words-to-live-by
 :status: draft
 

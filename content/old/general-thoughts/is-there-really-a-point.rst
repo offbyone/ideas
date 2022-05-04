@@ -3,7 +3,7 @@ Is there really a point?
 :date: 2005-08-20 07:36
 :author: offby1
 :category: General Thoughts, Internet, Rants
-:tags: intellectual property, Internet, privacy, Rants
+:tags: intellectual property, internet, privacy, rants
 :slug: is-there-really-a-point
 :status: draft
 

@@ -3,7 +3,7 @@ Rapt Attention
 :date: 2010-04-16 16:38
 :author: offby1
 :category: pics
-:tags: Project 365, Matt
+:tags: project 365, matt
 :slug: rapt-attention
 :status: draft
 

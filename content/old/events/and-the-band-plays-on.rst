@@ -3,7 +3,7 @@
 :date: 2008-11-16 16:05
 :author: offby1
 :category: Events, Meta
-:tags: future, Meta, pregnancy
+:tags: future, meta, pregnancy
 :slug: and-the-band-plays-on
 :status: draft
 

@@ -3,7 +3,7 @@ Crunch, and Success
 :date: 2006-11-17 08:29
 :author: offby1
 :category: Friends, General Thoughts
-:tags: exams, Friends, ldap, school, stress, work
+:tags: exams, friends, ldap, school, stress, work
 :slug: crunch-and-success
 :status: draft
 

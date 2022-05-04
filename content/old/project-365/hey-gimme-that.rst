@@ -3,7 +3,7 @@ Hey, gimme that!
 :date: 2010-04-19 00:05
 :author: offby1
 :category: pics
-:tags: Project 365, Matt
+:tags: project 365, matt
 :slug: hey-gimme-that
 :status: draft
 

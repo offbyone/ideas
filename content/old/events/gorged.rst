@@ -3,7 +3,7 @@ Gorged
 :date: 2003-11-30 08:21
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: gorged
 :status: draft
 

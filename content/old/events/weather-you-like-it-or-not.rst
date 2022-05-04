@@ -3,7 +3,7 @@ Weather; You like it or not.
 :date: 2004-07-09 17:54
 :author: offby1
 :category: Events, Friends, General Thoughts
-:tags: Events, Friends
+:tags: events, friends
 :slug: weather-you-like-it-or-not
 :status: draft
 

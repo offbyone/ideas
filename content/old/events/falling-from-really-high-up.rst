@@ -3,7 +3,7 @@ Falling from really high up
 :date: 2004-08-18 17:31
 :author: offby1
 :category: Events, Friends, General Thoughts
-:tags: Events, Friends
+:tags: events, friends
 :slug: falling-from-really-high-up
 :status: draft
 

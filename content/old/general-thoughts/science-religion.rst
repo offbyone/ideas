@@ -3,7 +3,7 @@ Science != Religion
 :date: 2004-11-22 21:02
 :author: offby1
 :category: General Thoughts, Rants
-:tags: Rants, school
+:tags: rants, school
 :slug: science-religion
 :status: draft
 

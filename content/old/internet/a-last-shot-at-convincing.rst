@@ -3,7 +3,7 @@ A last shot at convincing
 :date: 2004-06-29 19:29
 :author: offby1
 :category: Internet, Rants
-:tags: Internet, Rants
+:tags: internet, rants
 :slug: a-last-shot-at-convincing
 :status: draft
 

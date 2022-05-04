@@ -3,7 +3,7 @@ Politicause
 :date: 2005-12-08 09:11
 :author: offby1
 :category: Events, General Thoughts, Internet, Media, Rants
-:tags: Events, fairness, Green Party, Internet, Media, politics, Rants
+:tags: events, fairness, green party, internet, media, politics, rants
 :slug: politicause
 :status: draft
 

@@ -3,7 +3,7 @@ Stylings
 :date: 2004-09-04 19:05
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: stylings
 :status: draft
 

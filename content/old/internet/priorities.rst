@@ -3,7 +3,7 @@ Priorities
 :date: 2004-01-05 07:49
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: priorities
 :status: draft
 

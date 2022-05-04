@@ -3,7 +3,7 @@ Related to the post prior to this
 :date: 2006-02-20 23:53
 :author: offby1
 :category: Asides, Internet, Media
-:tags: Asides, Internet, Media
+:tags: asides, internet, media
 :slug: related-to-the-post-prior-to-this
 :status: draft
 

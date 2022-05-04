@@ -3,7 +3,7 @@ It's key.
 :date: 2006-03-22 10:46
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, intellectual property, privacy, words that I hate, work
+:tags: events, intellectual property, privacy, words that I hate, work
 :slug: its-key
 :status: draft
 

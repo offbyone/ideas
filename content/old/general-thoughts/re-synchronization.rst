@@ -3,7 +3,7 @@ Re-synchronization
 :date: 2006-01-06 07:42
 :author: offby1
 :category: General Thoughts, Media
-:tags: Media
+:tags: media
 :slug: re-synchronization
 :status: draft
 

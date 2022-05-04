@@ -3,7 +3,7 @@ Updatey Things
 :date: 2005-05-18 19:47
 :author: offby1
 :category: Events, General Thoughts, Media, Meta
-:tags: Events, Media, Meta, school, work
+:tags: events, media, meta, school, work
 :slug: updatey-things
 :status: draft
 

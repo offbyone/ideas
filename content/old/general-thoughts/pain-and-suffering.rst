@@ -3,7 +3,7 @@ Pain and Suffering
 :date: 2004-10-10 17:24
 :author: offby1
 :category: General Thoughts, Meta
-:tags: Meta
+:tags: meta
 :slug: pain-and-suffering
 :status: draft
 

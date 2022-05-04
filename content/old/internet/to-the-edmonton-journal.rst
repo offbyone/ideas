@@ -3,7 +3,7 @@ To the Edmonton Journal
 :date: 2006-01-30 09:42
 :author: offby1
 :category: Internet, Media, Rants
-:tags: fuck telus, Internet, Media, Rants
+:tags: fuck telus, internet, media, rants
 :slug: to-the-edmonton-journal
 :status: draft
 

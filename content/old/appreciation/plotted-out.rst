@@ -3,7 +3,7 @@ Plotted out
 :date: 2007-04-29 12:15
 :author: offby1
 :category: Appreciation, Friends
-:tags: birthday, family, Friends, gifts, giving, hot-30s, party
+:tags: birthday, family, friends, gifts, giving, hot-30s, party
 :slug: plotted-out
 :status: draft
 

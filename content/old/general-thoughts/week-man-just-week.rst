@@ -3,7 +3,7 @@ Week, man.  Just week.
 :date: 2006-02-16 22:44
 :author: offby1
 :category: General Thoughts, Internet, Projects
-:tags: Internet, Projects, school, work
+:tags: internet, projects, school, work
 :slug: week-man-just-week
 :status: draft
 

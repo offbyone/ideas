@@ -3,7 +3,7 @@ Toyota Dicks with their customers
 :date: 2004-06-02 17:34
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: toyota-dicks-with-their-customers
 :status: draft
 

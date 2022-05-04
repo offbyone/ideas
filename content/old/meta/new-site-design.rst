@@ -3,7 +3,7 @@ New site design
 :date: 2002-11-17 23:41
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: new-site-design
 :status: draft
 

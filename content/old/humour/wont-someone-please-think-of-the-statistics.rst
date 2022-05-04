@@ -3,7 +3,7 @@ Won't someone please think of the statistics?
 :date: 2006-08-11 06:42
 :author: offby1
 :category: Humour, Internet, Media, Rants
-:tags: Humour, Internet, Media, Rants
+:tags: humour, internet, media, rants
 :slug: wont-someone-please-think-of-the-statistics
 :status: draft
 

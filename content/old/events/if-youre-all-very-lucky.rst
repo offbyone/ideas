@@ -3,7 +3,7 @@ If you're all very lucky
 :date: 2003-02-20 20:39
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: if-youre-all-very-lucky
 :status: draft
 

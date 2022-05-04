@@ -3,7 +3,7 @@ Am I a bad person?
 :date: 2006-06-08 17:00
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends, school, work
+:tags: friends, school, work
 :slug: am-i-a-bad-person
 :status: draft
 

@@ -3,7 +3,7 @@ Catblogging is so passe.
 :date: 2004-07-19 06:15
 :author: offby1
 :category: General Thoughts, Humour, Internet
-:tags: Humour, Internet
+:tags: humour, internet
 :slug: catblogging-is-so-passe
 :status: draft
 

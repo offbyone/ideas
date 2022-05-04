@@ -3,7 +3,7 @@ Too long to wait
 :date: 2002-12-14 08:37
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, space
+:tags: events, space
 :slug: too-long-to-wait
 :status: draft
 

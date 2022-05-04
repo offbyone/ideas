@@ -3,7 +3,7 @@ Burning Building
 :date: 2006-02-10 22:22
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events
+:tags: events
 :slug: burning-building
 :status: draft
 

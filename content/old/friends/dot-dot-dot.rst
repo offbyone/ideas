@@ -3,7 +3,7 @@
 :date: 2002-12-01 22:44
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends
+:tags: friends
 :slug: dot-dot-dot
 :status: draft
 

@@ -3,7 +3,7 @@ Ours is
 :date: 2005-03-18 07:35
 :author: offby1
 :category: Events
-:tags: Events, Science
+:tags: events, science
 :slug: ours-is
 :status: draft
 

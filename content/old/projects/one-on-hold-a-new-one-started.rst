@@ -3,7 +3,7 @@ One on hold, a new one started
 :date: 2003-06-30 13:43
 :author: offby1
 :category: Projects
-:tags: Projects
+:tags: projects
 :slug: one-on-hold-a-new-one-started
 :status: draft
 

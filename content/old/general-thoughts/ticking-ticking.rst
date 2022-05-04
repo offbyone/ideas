@@ -3,7 +3,7 @@ Ticking, ticking...
 :date: 2005-07-02 15:33
 :author: offby1
 :category: General Thoughts
-:tags: Friends, moving
+:tags: friends, moving
 :slug: ticking-ticking
 :status: draft
 

@@ -3,7 +3,7 @@ Signs you drink with the wrong people
 :date: 2006-11-05 14:54
 :author: offby1
 :category: Asides, Humour, Internet, Media
-:tags: Asides, Humour, Internet, Media
+:tags: asides, humour, internet, media
 :slug: signs-you-drink-with-the-wrong-people
 :status: draft
 

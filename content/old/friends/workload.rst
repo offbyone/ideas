@@ -3,7 +3,7 @@ Workload
 :date: 2004-10-18 17:54
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends, school
+:tags: friends, school
 :slug: workload
 :status: draft
 

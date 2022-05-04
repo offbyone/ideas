@@ -3,7 +3,7 @@ Approaching Health in a New Way
 :date: 2004-07-05 07:32
 :author: offby1
 :category: Internet, Rants
-:tags: Internet, Rants
+:tags: internet, rants
 :slug: health-care-and-a-new-approach
 :status: draft
 

@@ -3,7 +3,7 @@ So much for walking
 :date: 2004-10-11 08:58
 :author: offby1
 :category: Events, Internet, Media
-:tags: Events, Internet, Media
+:tags: events, internet, media
 :slug: so-much-for-walking
 :status: draft
 

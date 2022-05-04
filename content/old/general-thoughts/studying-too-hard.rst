@@ -3,7 +3,7 @@ Studying too hard
 :date: 2003-04-15 06:48
 :author: offby1
 :category: General Thoughts
-:tags: geeky, Humour, school, sex
+:tags: geeky, humour, school, sex
 :slug: studying-too-hard
 :status: draft
 

@@ -3,7 +3,7 @@ A long week.
 :date: 2006-09-29 20:33
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends
+:tags: friends
 :slug: a-long-week
 :status: draft
 

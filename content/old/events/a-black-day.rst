@@ -3,7 +3,7 @@ A black day
 :date: 2003-02-01 09:29
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, space
+:tags: events, space
 :slug: a-black-day
 :status: draft
 

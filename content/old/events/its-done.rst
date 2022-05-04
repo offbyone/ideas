@@ -3,7 +3,7 @@ It's done.
 :date: 2004-10-04 12:49
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, space
+:tags: events, space
 :slug: its-done
 :status: draft
 

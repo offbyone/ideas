@@ -3,7 +3,7 @@ Moved, at last
 :date: 2006-08-27 18:15
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: moved-at-last
 :status: draft
 

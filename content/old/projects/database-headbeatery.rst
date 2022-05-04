@@ -3,7 +3,7 @@ Database Headbeatery
 :date: 2004-04-28 14:47
 :author: offby1
 :category: Projects
-:tags: Projects
+:tags: projects
 :slug: database-headbeatery
 :status: draft
 

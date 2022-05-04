@@ -3,7 +3,7 @@ Things that I wish
 :date: 2004-09-29 09:07
 :author: offby1
 :category: General Thoughts, Rants
-:tags: Rants
+:tags: rants
 :slug: things-that-i-wish
 :status: draft
 

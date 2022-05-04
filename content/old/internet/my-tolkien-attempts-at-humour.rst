@@ -3,7 +3,7 @@ My 'Tolkien' attempts at humour
 :date: 2003-01-07 15:56
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: my-tolkien-attempts-at-humour
 :status: draft
 

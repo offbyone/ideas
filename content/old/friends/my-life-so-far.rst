@@ -3,7 +3,7 @@ My life, so far
 :date: 2006-03-07 08:36
 :author: offby1
 :category: Friends, General Thoughts, Media, Projects, Rants
-:tags: Friends, Media, Projects, Rants
+:tags: friends, media, projects, rants
 :slug: my-life-so-far
 :status: draft
 

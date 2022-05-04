@@ -3,7 +3,7 @@ What on earth have we wrought?
 :date: 2004-03-05 08:09
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: what-on-earth-have-we-wrought
 :status: draft
 

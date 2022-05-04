@@ -3,7 +3,7 @@ Brand New
 :date: 2008-01-02 08:35
 :author: offby1
 :category: Internet, Media
-:tags: new, old, philosophy, politics, questions, Science
+:tags: new, old, philosophy, politics, questions, science
 :slug: brand-new
 :status: draft
 

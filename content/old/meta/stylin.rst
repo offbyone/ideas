@@ -3,7 +3,7 @@ Stylin'
 :date: 2004-07-03 21:36
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: stylin
 :status: draft
 

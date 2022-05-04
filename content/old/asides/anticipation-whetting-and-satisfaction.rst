@@ -3,7 +3,7 @@ Anticipation, Whetting, and Satisfaction
 :date: 2006-05-27 16:48
 :author: offby1
 :category: Asides, General Thoughts, Internet, Media
-:tags: Asides, Internet, Media
+:tags: asides, internet, media
 :slug: anticipation-whetting-and-satisfaction
 :status: draft
 

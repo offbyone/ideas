@@ -3,7 +3,7 @@ Double-plus ungood
 :date: 2005-03-07 23:29
 :author: offby1
 :category: General Thoughts, Internet, Rants
-:tags: intellectual property, Internet, privacy, Rants
+:tags: intellectual property, internet, privacy, rants
 :slug: double-plus-ungood
 :status: draft
 

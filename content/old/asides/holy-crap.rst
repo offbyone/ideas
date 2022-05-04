@@ -3,7 +3,7 @@ Holy crap
 :date: 2005-11-16 15:04
 :author: offby1
 :category: Asides, General Thoughts, Projects
-:tags: Asides, Projects, work
+:tags: asides, projects, work
 :slug: holy-crap
 :status: draft
 

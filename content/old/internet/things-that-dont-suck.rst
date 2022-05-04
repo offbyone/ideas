@@ -3,7 +3,7 @@ Things that don't... Suck?
 :date: 2005-06-26 22:36
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: things-that-dont-suck
 :status: draft
 

@@ -3,7 +3,7 @@ Changes site-side
 :date: 2002-11-02 19:52
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: changes-site-side
 :status: draft
 

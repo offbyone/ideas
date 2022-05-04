@@ -3,7 +3,7 @@ Hell Freezing Over
 :date: 2004-08-23 06:50
 :author: offby1
 :category: Events, General Thoughts, Rants
-:tags: Events, Rants
+:tags: events, rants
 :slug: hell-freezing-over
 :status: draft
 

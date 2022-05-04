@@ -3,7 +3,7 @@ Hobbits!
 :date: 2002-11-26 21:33
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: hobbits
 :status: draft
 

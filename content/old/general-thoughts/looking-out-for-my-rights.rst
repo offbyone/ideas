@@ -3,7 +3,7 @@ Looking Out for my Rights
 :date: 2006-07-30 11:01
 :author: offby1
 :category: General Thoughts, Projects
-:tags: intellectual property, privacy, Projects
+:tags: intellectual property, privacy, projects
 :slug: looking-out-for-my-rights
 :status: draft
 

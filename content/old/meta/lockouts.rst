@@ -3,7 +3,7 @@ Lockouts
 :date: 2006-10-04 07:02
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: lockouts
 :status: draft
 

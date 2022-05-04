@@ -3,7 +3,7 @@ Goddamn It
 :date: 2006-12-15 20:03
 :author: offby1
 :category: Internet
-:tags: Internet, meme
+:tags: internet, meme
 :slug: goddamn-it
 :status: draft
 

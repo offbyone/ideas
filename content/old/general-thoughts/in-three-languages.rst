@@ -3,7 +3,7 @@ In three languages?
 :date: 2006-05-25 18:12
 :author: offby1
 :category: General Thoughts
-:tags: Friends, Media, philosophy, school, work
+:tags: friends, media, philosophy, school, work
 :slug: in-three-languages
 :status: draft
 

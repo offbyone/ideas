@@ -3,7 +3,7 @@ An Excess of (in)Tolerance
 :date: 2002-12-26 09:22
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: an-excess-of-intolerance
 :status: draft
 

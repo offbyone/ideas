@@ -3,7 +3,7 @@ On unions
 :date: 2004-11-14 09:58
 :author: offby1
 :category: Internet, Media, Rants
-:tags: Internet, Media, Rants
+:tags: internet, media, rants
 :slug: on-unions
 :status: draft
 

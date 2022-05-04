@@ -3,7 +3,7 @@ Hiding from the internet
 :date: 2006-03-31 19:55
 :author: offby1
 :category: Internet, Rants
-:tags: Internet, Rants
+:tags: internet, rants
 :slug: hiding-from-the-internet
 :status: draft
 

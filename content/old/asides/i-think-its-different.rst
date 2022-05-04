@@ -3,7 +3,7 @@ I Think It's Different
 :date: 2006-02-24 21:02
 :author: offby1
 :category: Asides, General Thoughts
-:tags: Asides
+:tags: asides
 :slug: i-think-its-different
 :status: draft
 

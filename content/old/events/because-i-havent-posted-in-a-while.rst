@@ -3,7 +3,7 @@ Because i haven't posted in a while
 :date: 2004-04-13 12:36
 :author: offby1
 :category: Events
-:tags: Events, free speech, freedom, Internet
+:tags: events, free speech, freedom, internet
 :slug: because-i-havent-posted-in-a-while
 :status: draft
 

@@ -3,7 +3,7 @@ Dream... Orange? Mango? Passionfruit? Lemon?
 :date: 2006-10-19 14:10
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: dream-orange-mango-passionfruit-lemon
 :status: draft
 

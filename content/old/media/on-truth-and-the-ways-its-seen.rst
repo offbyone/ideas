@@ -3,7 +3,7 @@ On truth and the ways it's seen
 :date: 2003-05-05 13:27
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: on-truth-and-the-ways-its-seen
 :status: draft
 

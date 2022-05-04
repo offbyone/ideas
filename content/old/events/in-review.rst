@@ -3,7 +3,7 @@ In review
 :date: 2003-12-27 14:50
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, space
+:tags: events, space
 :slug: in-review
 :status: draft
 

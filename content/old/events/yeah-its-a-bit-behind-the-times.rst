@@ -3,7 +3,7 @@ Yeah, it's a bit behind the times
 :date: 2004-12-10 12:22
 :author: offby1
 :category: Events, General Thoughts, Media, Rants
-:tags: Events, Media, Rants
+:tags: events, media, rants
 :slug: yeah-its-a-bit-behind-the-times
 :status: draft
 

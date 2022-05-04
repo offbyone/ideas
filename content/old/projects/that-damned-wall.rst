@@ -3,7 +3,7 @@ That damned wall
 :date: 2004-09-02 18:33
 :author: offby1
 :category: Projects
-:tags: Projects
+:tags: projects
 :slug: that-damned-wall
 :status: draft
 

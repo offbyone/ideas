@@ -3,7 +3,7 @@ Free Speech for the dumb, too
 :date: 2003-04-13 19:06
 :author: offby1
 :category: Media
-:tags: free speech, freedom, Media
+:tags: free speech, freedom, media
 :slug: free-speech-for-the-dumb-too
 :status: draft
 

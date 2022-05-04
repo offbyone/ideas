@@ -3,7 +3,7 @@ Chiseling away
 :date: 2004-06-23 15:03
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: intellectual property, Internet, Media, privacy, Rants
+:tags: intellectual property, internet, media, privacy, rants
 :slug: chiseling-away
 :status: draft
 

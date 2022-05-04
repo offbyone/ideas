@@ -3,7 +3,7 @@ Call to action
 :date: 2006-01-25 17:19
 :author: offby1
 :category: Internet, Media
-:tags: Internet, Media
+:tags: internet, media
 :slug: call-to-action
 :status: draft
 

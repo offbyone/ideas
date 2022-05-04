@@ -3,7 +3,7 @@ Let me count the ways
 :date: 2004-08-07 05:43
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: intellectual property, Internet, Media, politics, Rants
+:tags: intellectual property, internet, media, politics, rants
 :slug: let-me-count-the-ways
 :status: draft
 

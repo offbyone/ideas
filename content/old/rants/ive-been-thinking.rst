@@ -3,7 +3,7 @@ I've been thinking
 :date: 2004-03-24 08:46
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: ive-been-thinking
 :status: draft
 

@@ -3,7 +3,7 @@ Ah, man...
 :date: 2008-05-17 12:43
 :author: offby1
 :category: General Thoughts
-:tags: apathy, Friends, hangover, skydiving
+:tags: apathy, friends, hangover, skydiving
 :slug: ah-man
 :status: draft
 

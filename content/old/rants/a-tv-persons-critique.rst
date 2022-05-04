@@ -3,7 +3,7 @@ A TV person's critique
 :date: 2002-12-16 06:58
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: a-tv-persons-critique
 :status: draft
 

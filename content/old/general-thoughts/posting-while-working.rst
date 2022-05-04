@@ -3,7 +3,7 @@ Posting while working
 :date: 2003-07-16 19:08
 :author: offby1
 :category: General Thoughts, Meta
-:tags: Meta, work
+:tags: meta, work
 :slug: posting-while-working
 :status: draft
 

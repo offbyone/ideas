@@ -3,7 +3,7 @@ Nothing to say, but I can say it in three languages
 :date: 2004-10-23 09:03
 :author: offby1
 :category: Friends, General Thoughts, Internet, Meta
-:tags: Friends, Internet, Meta, school
+:tags: friends, internet, meta, school
 :slug: nothing-to-say-but-i-can-say-it-in-three-languages
 :status: draft
 

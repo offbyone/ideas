@@ -3,7 +3,7 @@ Ferfuchsake
 :date: 2004-01-26 10:44
 :author: offby1
 :category: General Thoughts, Rants
-:tags: intellectual property, privacy, Rants
+:tags: intellectual property, privacy, rants
 :slug: ferfuchsake
 :status: draft
 

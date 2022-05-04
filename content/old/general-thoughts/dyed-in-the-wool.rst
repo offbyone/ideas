@@ -3,7 +3,7 @@ Dyed in the Wool?
 :date: 2006-07-02 11:51
 :author: offby1
 :category: General Thoughts, Rants
-:tags: Rants
+:tags: rants
 :slug: dyed-in-the-wool
 :status: draft
 

@@ -3,7 +3,7 @@ Historical Associations
 :date: 2006-04-23 09:55
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends, memory lane
+:tags: friends, memory lane
 :slug: historical-associations
 :status: draft
 

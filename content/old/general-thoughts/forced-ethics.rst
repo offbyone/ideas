@@ -3,7 +3,7 @@ Forced ethics
 :date: 2006-01-25 09:32
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: intellectual property, Internet, Media, privacy, Rants
+:tags: intellectual property, internet, media, privacy, rants
 :slug: forced-ethics
 :status: draft
 

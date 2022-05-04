@@ -3,7 +3,7 @@ An aside to readers
 :date: 2006-09-05 22:16
 :author: offby1
 :category: Meta, Projects
-:tags: Meta, Projects
+:tags: meta, projects
 :slug: an-aside-to-readers
 :status: draft
 

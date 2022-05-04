@@ -3,7 +3,7 @@ Tokenism
 :date: 2005-02-18 13:33
 :author: offby1
 :category: Asides
-:tags: Asides
+:tags: asides
 :slug: tokenism
 :status: draft
 

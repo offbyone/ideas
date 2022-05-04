@@ -3,7 +3,7 @@ An atmosphere of witlessness
 :date: 2004-01-09 14:36
 :author: offby1
 :category: Humour
-:tags: Humour
+:tags: humour
 :slug: an-atmosphere-of-witlessness
 :status: draft
 

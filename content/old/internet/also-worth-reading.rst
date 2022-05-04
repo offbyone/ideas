@@ -3,7 +3,7 @@ Also worth reading
 :date: 2004-02-20 09:04
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: also-worth-reading
 :status: draft
 

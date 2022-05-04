@@ -3,7 +3,7 @@ Aaron
 :date: 2004-08-21 13:33
 :author: offby1
 :category: Appreciation
-:tags: Appreciation
+:tags: appreciation
 :slug: aaron
 :status: draft
 

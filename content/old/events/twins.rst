@@ -3,7 +3,7 @@ Twins?
 :date: 2003-01-22 06:52
 :author: offby1
 :category: Events, Internet, Rants
-:tags: Events, Internet, Rants
+:tags: events, internet, rants
 :slug: twins
 :status: draft
 

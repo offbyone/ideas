@@ -3,7 +3,7 @@ Couple of things
 :date: 2005-02-18 08:28
 :author: offby1
 :category: Friends, General Thoughts, Internet
-:tags: Friends, Internet, school
+:tags: friends, internet, school
 :slug: couple-of-things
 :status: draft
 

@@ -3,7 +3,7 @@ Interstate Leaning
 :date: 2003-05-02 14:04
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: interstate-leaning
 :status: draft
 

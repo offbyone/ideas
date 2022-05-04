@@ -3,7 +3,7 @@ From the past?
 :date: 2004-07-21 21:45
 :author: offby1
 :category: Events, Internet, Media
-:tags: Events, Internet, Media
+:tags: events, internet, media
 :slug: from-the-past
 :status: draft
 

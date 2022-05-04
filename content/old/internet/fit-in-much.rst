@@ -3,7 +3,7 @@ Fit in much?
 :date: 2003-10-02 07:59
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: fit-in-much
 :status: draft
 

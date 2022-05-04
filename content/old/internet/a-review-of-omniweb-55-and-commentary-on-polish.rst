@@ -3,7 +3,7 @@ A review of OmniWeb 5.5, and commentary on polish.
 :date: 2006-09-07 07:02
 :author: offby1
 :category: Internet, Rants
-:tags: Internet, Rants
+:tags: internet, rants
 :slug: a-review-of-omniweb-55-and-commentary-on-polish
 :status: draft
 

@@ -3,7 +3,7 @@ Free, huh?
 :date: 2005-04-04 07:43
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: free speech, intellectual property, Internet, Media, politics, privacy, Rants, school
+:tags: free speech, intellectual property, internet, media, politics, privacy, rants, school
 :slug: free-huh
 :status: draft
 

@@ -3,7 +3,7 @@ Universal Spam Solution Critique
 :date: 2007-10-11 20:59
 :author: offby1
 :category: Humour, Internet
-:tags: checklist, Humour, murder, spam
+:tags: checklist, humour, murder, spam
 :slug: universal-spam-solution-critique
 :status: draft
 

@@ -3,7 +3,7 @@ Post Slug
 :date: 2006-04-08 11:41
 :author: offby1
 :category: Asides, Friends, General Thoughts
-:tags: Asides, Friends, school
+:tags: asides, friends, school
 :slug: post-slug
 :status: draft
 

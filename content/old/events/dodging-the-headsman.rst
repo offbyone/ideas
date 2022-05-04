@@ -3,7 +3,7 @@ Dodging the Headsman
 :date: 2006-10-02 16:51
 :author: offby1
 :category: Events, Friends, General Thoughts
-:tags: Events, Friends, work
+:tags: events, friends, work
 :slug: dodging-the-headsman
 :status: draft
 

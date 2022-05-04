@@ -3,7 +3,7 @@ In other news
 :date: 2004-05-30 08:58
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: in-other-news
 :status: draft
 

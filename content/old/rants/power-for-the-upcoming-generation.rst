@@ -3,7 +3,7 @@ Power for the upcoming generation
 :date: 2004-05-24 07:52
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: power-for-the-upcoming-generation
 :status: draft
 

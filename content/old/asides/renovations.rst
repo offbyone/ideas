@@ -3,7 +3,7 @@ Renovations
 :date: 2005-12-07 11:12
 :author: offby1
 :category: Asides, Friends, Meta
-:tags: Asides, Friends, Meta
+:tags: asides, friends, meta
 :slug: renovations
 :status: draft
 

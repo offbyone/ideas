@@ -3,7 +3,7 @@ This is funny
 :date: 2006-01-18 08:13
 :author: offby1
 :category: Humour, Internet, Media
-:tags: Humour, Internet, Media
+:tags: humour, internet, media
 :slug: this-is-funny
 :status: draft
 

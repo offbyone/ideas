@@ -3,7 +3,7 @@ Place your support requests here.
 :date: 2003-11-12 11:20
 :author: offby1
 :category: Asides, Projects
-:tags: Asides, Projects
+:tags: asides, projects
 :slug: plugin-support-post
 :status: draft
 

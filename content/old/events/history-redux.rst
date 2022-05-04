@@ -3,7 +3,7 @@ History, redux
 :date: 2004-06-06 04:53
 :author: offby1
 :category: Events, Rants
-:tags: Events, Rants
+:tags: events, rants
 :slug: history-redux
 :status: draft
 

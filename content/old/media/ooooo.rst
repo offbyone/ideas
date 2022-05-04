@@ -3,7 +3,7 @@ Ooooo!
 :date: 2003-11-06 14:35
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: ooooo
 :status: draft
 

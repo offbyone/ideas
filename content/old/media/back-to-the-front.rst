@@ -3,7 +3,7 @@ Back to the front
 :date: 2004-04-21 13:29
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: back-to-the-front
 :status: draft
 

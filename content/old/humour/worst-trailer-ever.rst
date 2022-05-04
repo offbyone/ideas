@@ -3,7 +3,7 @@ Who comes up with these things?
 :date: 2004-08-10 18:16
 :author: offby1
 :category: Humour, Internet, Media
-:tags: Humour, Internet, Media
+:tags: humour, internet, media
 :slug: worst-trailer-ever
 :status: draft
 

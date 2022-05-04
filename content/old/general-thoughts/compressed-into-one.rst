@@ -3,7 +3,7 @@ Compressed into one...
 :date: 2005-06-03 17:12
 :author: offby1
 :category: General Thoughts
-:tags: art, Humour, plays, shakespeare
+:tags: art, humour, plays, shakespeare
 :slug: compressed-into-one
 :status: draft
 

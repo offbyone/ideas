@@ -3,7 +3,7 @@ I Must Really Like My Co-workers
 :date: 2006-06-09 21:03
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends, work
+:tags: friends, work
 :slug: i-must-really-like-my-co-workers
 :status: draft
 

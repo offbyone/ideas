@@ -3,7 +3,7 @@ Corpora(l|te) punishment.
 :date: 2005-10-13 13:27
 :author: offby1
 :category: General Thoughts, Rants
-:tags: freedom, intellectual property, privacy, Rants
+:tags: freedom, intellectual property, privacy, rants
 :slug: corporalte-punishment
 :status: draft
 

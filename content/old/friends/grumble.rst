@@ -3,7 +3,7 @@ Grumble...
 :date: 2006-08-08 16:29
 :author: offby1
 :category: Friends, General Thoughts, Projects
-:tags: Friends, Projects, school, work
+:tags: friends, projects, school, work
 :slug: grumble
 :status: draft
 

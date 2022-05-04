@@ -3,7 +3,7 @@ Sporadic Connection
 :date: 2005-01-08 12:55
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, school, work
+:tags: events, school, work
 :slug: sporadic-connection
 :status: draft
 

@@ -3,7 +3,7 @@ Fahrenheit 5/10
 :date: 2004-06-30 05:15
 :author: offby1
 :category: Internet, Media
-:tags: Internet, Media
+:tags: internet, media
 :slug: fahrenheit-510
 :status: draft
 

@@ -3,7 +3,7 @@ Airborne pigs!
 :date: 2003-01-03 10:58
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends, school
+:tags: friends, school
 :slug: airborne-pigs
 :status: draft
 

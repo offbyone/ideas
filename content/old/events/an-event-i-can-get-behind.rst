@@ -3,7 +3,7 @@ An event I can get behind
 :date: 2005-03-09 08:19
 :author: offby1
 :category: Events, Humour, Internet
-:tags: Events, Humour, Internet
+:tags: events, humour, internet
 :slug: an-event-i-can-get-behind
 :status: draft
 

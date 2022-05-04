@@ -3,7 +3,7 @@ About confidence
 :date: 2005-05-11 07:05
 :author: offby1
 :category: Events, Media, Rants
-:tags: Events, Media, Rants
+:tags: events, media, rants
 :slug: about-confidence
 :status: draft
 

@@ -3,7 +3,7 @@ Dystopia
 :date: 2004-02-25 19:14
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: dystopia
 :status: draft
 

@@ -3,7 +3,7 @@ Restricted News
 :date: 2004-07-12 06:03
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: restricted-news
 :status: draft
 

@@ -3,7 +3,7 @@ Oh no!  Time to redesign!
 :date: 2002-12-12 20:17
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: oh-no-time-to-redesign
 :status: draft
 

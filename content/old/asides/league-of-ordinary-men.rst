@@ -3,7 +3,7 @@ League of Ordinary Men
 :date: 2004-03-15 16:55
 :author: offby1
 :category: Asides, Rants
-:tags: Asides, Rants
+:tags: asides, rants
 :slug: league-of-ordinary-men
 :status: draft
 

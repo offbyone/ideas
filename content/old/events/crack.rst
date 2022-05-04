@@ -3,7 +3,7 @@ Crack
 :date: 2005-02-16 08:41
 :author: offby1
 :category: Events, General Thoughts, Internet
-:tags: Events, intellectual property, Internet, privacy
+:tags: events, intellectual property, internet, privacy
 :slug: crack
 :status: draft
 

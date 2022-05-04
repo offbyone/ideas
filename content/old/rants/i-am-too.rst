@@ -3,7 +3,7 @@ I am too.
 :date: 2004-03-13 10:28
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: i-am-too
 :status: draft
 

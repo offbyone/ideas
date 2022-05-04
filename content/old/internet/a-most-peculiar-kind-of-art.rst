@@ -3,7 +3,7 @@ A most peculiar kind of art
 :date: 2002-11-26 07:45
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: a-most-peculiar-kind-of-art
 :status: draft
 

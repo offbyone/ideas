@@ -3,7 +3,7 @@ Rebel(v)
 :date: 2004-12-12 11:30
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: Internet, Media, Rants
+:tags: internet, media, rants
 :slug: rebelv
 :status: draft
 

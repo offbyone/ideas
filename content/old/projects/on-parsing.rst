@@ -3,7 +3,7 @@ On parsing
 :date: 2004-03-02 19:48
 :author: offby1
 :category: Projects
-:tags: Projects
+:tags: projects
 :slug: on-parsing
 :status: draft
 

@@ -3,7 +3,7 @@ I Don't Want to Get My Hopes Up, but...
 :date: 2004-01-14 22:39
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, space
+:tags: events, space
 :slug: i-dont-want-to-get-my-hopes-up-but
 :status: draft
 

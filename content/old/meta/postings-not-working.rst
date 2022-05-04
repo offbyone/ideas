@@ -3,7 +3,7 @@ Postings not working?
 :date: 2004-02-26 10:12
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: postings-not-working
 :status: draft
 

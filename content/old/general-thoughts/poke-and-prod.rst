@@ -3,7 +3,7 @@ Poke and Prod
 :date: 2005-02-09 22:26
 :author: offby1
 :category: General Thoughts, Media
-:tags: Media, school, work
+:tags: media, school, work
 :slug: poke-and-prod
 :status: draft
 

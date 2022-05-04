@@ -3,7 +3,7 @@ Oh...
 :date: 2003-05-30 09:34
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: oh
 :status: draft
 

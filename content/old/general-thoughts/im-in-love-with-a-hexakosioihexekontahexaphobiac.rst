@@ -3,7 +3,7 @@ I'm in love with a Hexakosioihexekontahexaphobiac.
 :date: 2006-12-28 16:06
 :author: offby1
 :category: General Thoughts
-:tags: bbc, facts, Humour, Science, snark, trivia
+:tags: bbc, facts, humour, science, snark, trivia
 :slug: im-in-love-with-a-hexakosioihexekontahexaphobiac
 :status: draft
 

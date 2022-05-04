@@ -3,7 +3,7 @@ Faith in the Environment
 :date: 2003-12-11 07:58
 :author: offby1
 :category: Media
-:tags: environmentalism, Media, smoking
+:tags: environmentalism, media, smoking
 :slug: faith-in-the-environment
 :status: draft
 

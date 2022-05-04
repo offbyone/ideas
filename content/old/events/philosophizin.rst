@@ -3,7 +3,7 @@ Philosophizin'
 :date: 2006-05-11 07:01
 :author: offby1
 :category: Events, General Thoughts, Media, Meta
-:tags: Events, Media, Meta, school
+:tags: events, media, meta, school
 :slug: philosophizin
 :status: draft
 

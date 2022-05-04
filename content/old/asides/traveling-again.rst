@@ -3,7 +3,7 @@ Traveling again
 :date: 2006-06-04 15:37
 :author: offby1
 :category: Asides, Friends
-:tags: Asides, Friends
+:tags: asides, friends
 :slug: traveling-again
 :status: draft
 

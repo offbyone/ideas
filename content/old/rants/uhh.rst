@@ -3,7 +3,7 @@ Uhh...
 :date: 2003-07-22 08:02
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: uhh
 :status: draft
 

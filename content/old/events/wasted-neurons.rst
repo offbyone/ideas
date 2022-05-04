@@ -3,7 +3,7 @@ Wasted Neurons
 :date: 2004-08-18 05:11
 :author: offby1
 :category: Events, General Thoughts, Internet, Media, Rants
-:tags: Events, intellectual property, Internet, Media, privacy, Rants
+:tags: events, intellectual property, internet, media, privacy, rants
 :slug: wasted-neurons
 :status: draft
 

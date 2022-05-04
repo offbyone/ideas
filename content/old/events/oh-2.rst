@@ -3,7 +3,7 @@ Oh
 :date: 2004-05-05 13:47
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: oh-2
 :status: draft
 

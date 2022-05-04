@@ -3,7 +3,7 @@ Relief Most Intense
 :date: 2004-12-20 22:53
 :author: offby1
 :category: Events, General Thoughts, Projects
-:tags: Events, Projects, school
+:tags: events, projects, school
 :slug: relief-most-intense
 :status: draft
 

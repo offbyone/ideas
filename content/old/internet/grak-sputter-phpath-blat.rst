@@ -3,7 +3,7 @@ Grak Sputter Phpath Blat!
 :date: 2005-02-02 08:58
 :author: offby1
 :category: Internet, Rants
-:tags: Internet, Rants
+:tags: internet, rants
 :slug: grak-sputter-phpath-blat
 :status: draft
 

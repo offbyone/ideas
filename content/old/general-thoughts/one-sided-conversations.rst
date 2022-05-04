@@ -3,7 +3,7 @@ One-sided conversations
 :date: 2003-04-04 15:35
 :author: offby1
 :category: General Thoughts
-:tags: apology, asshole, Events, Friends
+:tags: apology, asshole, events, friends
 :slug: one-sided-conversations
 :status: draft
 

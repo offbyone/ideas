@@ -3,7 +3,7 @@ Hacking the Vote
 :date: 2003-09-30 11:56
 :author: offby1
 :category: General Thoughts, Rants
-:tags: intellectual property, privacy, Rants
+:tags: intellectual property, privacy, rants
 :slug: hacking-the-vote
 :status: draft
 

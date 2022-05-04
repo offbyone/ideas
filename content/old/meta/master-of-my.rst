@@ -3,7 +3,7 @@ Master of my...
 :date: 2003-11-05 21:31
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: master-of-my
 :status: draft
 

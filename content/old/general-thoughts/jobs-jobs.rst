@@ -3,7 +3,7 @@ Jobs, jobs...
 :date: 2006-01-27 23:36
 :author: offby1
 :category: General Thoughts, Humour, Internet
-:tags: Humour, Internet, work
+:tags: humour, internet, work
 :slug: jobs-jobs
 :status: draft
 

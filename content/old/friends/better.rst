@@ -3,7 +3,7 @@ Better
 :date: 2006-03-03 15:59
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends, school
+:tags: friends, school
 :slug: better
 :status: draft
 

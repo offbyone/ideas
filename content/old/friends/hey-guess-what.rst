@@ -3,7 +3,7 @@ Hey, guess what!
 :date: 2005-11-05 10:21
 :author: offby1
 :category: Friends, General Thoughts, Projects
-:tags: Friends, Projects, work
+:tags: friends, projects, work
 :slug: hey-guess-what
 :status: draft
 

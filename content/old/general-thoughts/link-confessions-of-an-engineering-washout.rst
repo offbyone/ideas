@@ -3,7 +3,7 @@ Link: Confessions of an Engineering Washout
 :date: 2005-09-28 07:17
 :author: offby1
 :category: General Thoughts, Internet, Media
-:tags: Internet, Media, school
+:tags: internet, media, school
 :slug: link-confessions-of-an-engineering-washout
 :status: draft
 

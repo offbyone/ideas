@@ -3,7 +3,7 @@ Beau
 :date: 2004-08-01 17:18
 :author: offby1
 :category: Appreciation
-:tags: Appreciation
+:tags: appreciation
 :slug: beau
 :status: draft
 

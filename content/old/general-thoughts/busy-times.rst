@@ -3,7 +3,7 @@ Busy Times
 :date: 2007-10-09 08:33
 :author: offby1
 :category: General Thoughts
-:tags: apple, computer, Look at you hacker a pathetic creature of meat and bone, mac, skydiving, work
+:tags: apple, computer, look at you hacker a pathetic creature of meat and bone, mac, skydiving, work
 :slug: busy-times
 :status: draft
 

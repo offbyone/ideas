@@ -3,7 +3,7 @@ Slow Communication
 :date: 2005-01-26 11:36
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends, school, work
+:tags: friends, school, work
 :slug: slow-communication
 :status: draft
 

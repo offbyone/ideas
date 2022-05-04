@@ -3,7 +3,7 @@ Hey, nonny...
 :date: 2005-08-31 07:15
 :author: offby1
 :category: General Thoughts, Meta
-:tags: Meta
+:tags: meta
 :slug: hey-nonny
 :status: draft
 

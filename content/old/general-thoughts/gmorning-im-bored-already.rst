@@ -3,7 +3,7 @@ G'morning.  I'm bored, already!
 :date: 2004-07-11 07:29
 :author: offby1
 :category: General Thoughts, Projects
-:tags: Projects, work
+:tags: projects, work
 :slug: gmorning-im-bored-already
 :status: draft
 

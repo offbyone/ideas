@@ -3,7 +3,7 @@ Twenty Years, and Godspeed
 :date: 2007-01-28 09:45
 :author: offby1
 :category: Events
-:tags: Events, history, mourning, space
+:tags: events, history, mourning, space
 :slug: twenty-years-and-godspeed
 :status: draft
 

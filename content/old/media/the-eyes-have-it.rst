@@ -3,7 +3,7 @@ The eyes have it...
 :date: 2003-08-10 20:29
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: the-eyes-have-it
 :status: draft
 

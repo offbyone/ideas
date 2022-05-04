@@ -3,7 +3,7 @@ Return
 :date: 2005-03-02 10:41
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events, school
+:tags: events, school
 :slug: return
 :status: draft
 

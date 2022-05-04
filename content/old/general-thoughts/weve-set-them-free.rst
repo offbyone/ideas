@@ -3,7 +3,7 @@ We've set them free...
 :date: 2006-01-21 00:05
 :author: offby1
 :category: General Thoughts, Meta
-:tags: Meta
+:tags: meta
 :slug: weve-set-them-free
 :status: draft
 

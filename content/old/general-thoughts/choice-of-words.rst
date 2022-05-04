@@ -3,7 +3,7 @@ Choice of Words
 :date: 2004-10-05 06:21
 :author: offby1
 :category: General Thoughts, Internet, Rants
-:tags: Internet, Rants, words that I hate
+:tags: internet, rants, words that I hate
 :slug: choice-of-words
 :status: draft
 

@@ -3,7 +3,7 @@ Not sure why this comes to mind
 :date: 2004-07-14 06:31
 :author: offby1
 :category: General Thoughts, Internet, Rants
-:tags: Internet, Rants
+:tags: internet, rants
 :slug: not-sure-why-this-comes-to-mind
 :status: draft
 

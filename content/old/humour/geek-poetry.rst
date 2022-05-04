@@ -3,7 +3,7 @@ Geek Poetry
 :date: 2003-10-08 07:33
 :author: offby1
 :category: Humour
-:tags: Humour
+:tags: humour
 :slug: geek-poetry
 :status: draft
 

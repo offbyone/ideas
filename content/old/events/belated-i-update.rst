@@ -3,7 +3,7 @@ Belated, I Update.
 :date: 2004-08-17 04:14
 :author: offby1
 :category: Events, Friends, General Thoughts
-:tags: Events, Friends, school, work
+:tags: events, friends, school, work
 :slug: belated-i-update
 :status: draft
 

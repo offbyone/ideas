@@ -3,7 +3,7 @@ Lasers!
 :date: 2008-05-09 08:42
 :author: offby1
 :category: General Thoughts
-:tags: family, Friends, laser tag, party
+:tags: family, friends, laser tag, party
 :slug: lasers
 :status: draft
 

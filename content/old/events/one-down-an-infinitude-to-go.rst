@@ -3,7 +3,7 @@ One down, an infinitude to go...
 :date: 2003-01-01 10:15
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: one-down-an-infinitude-to-go
 :status: draft
 

@@ -3,7 +3,7 @@ Topic changes?
 :date: 2006-06-14 20:20
 :author: offby1
 :category: General Thoughts, Media
-:tags: Media, school
+:tags: media, school
 :slug: topic-changes
 :status: draft
 

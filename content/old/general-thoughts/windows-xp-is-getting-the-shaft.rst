@@ -3,7 +3,7 @@ Windows XP is getting the shaft
 :date: 2003-01-09 07:05
 :author: offby1
 :category: General Thoughts, Rants
-:tags: intellectual property, privacy, Rants
+:tags: intellectual property, privacy, rants
 :slug: windows-xp-is-getting-the-shaft
 :status: draft
 

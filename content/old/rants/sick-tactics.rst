@@ -3,7 +3,7 @@ Sick tactics
 :date: 2003-05-24 18:08
 :author: offby1
 :category: Rants
-:tags: asshole, idiocy, Rants
+:tags: asshole, idiocy, rants
 :slug: sick-tactics
 :status: draft
 

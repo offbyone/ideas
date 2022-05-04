@@ -3,7 +3,7 @@ What are you doing in my bath?
 :date: 2010-05-27 05:12
 :author: offby1
 :category: pics
-:tags: Matt
+:tags: matt
 :slug: what-are-you-doing-in-my-bath
 :status: published
 

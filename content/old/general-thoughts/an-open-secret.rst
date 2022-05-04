@@ -3,7 +3,7 @@ An open secret
 :date: 2003-04-08 16:35
 :author: offby1
 :category: General Thoughts, Rants
-:tags: intellectual property, privacy, Rants
+:tags: intellectual property, privacy, rants
 :slug: an-open-secret
 :status: draft
 

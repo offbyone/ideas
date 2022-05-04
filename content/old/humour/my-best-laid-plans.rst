@@ -3,7 +3,7 @@ My best-laid plans
 :date: 2008-04-26 12:33
 :author: offby1
 :category: Humour, Internet, Media
-:tags: fun, Internet, Phil Foglio, pointless waste of time, pop culture, wiki
+:tags: fun, internet, Phil Foglio, pointless waste of time, pop culture, wiki
 :slug: my-best-laid-plans
 :status: draft
 

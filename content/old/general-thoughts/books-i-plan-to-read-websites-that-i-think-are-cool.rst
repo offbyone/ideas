@@ -3,7 +3,7 @@ Books I plan to read, websites that I think are cool.
 :date: 2006-01-22 14:51
 :author: offby1
 :category: General Thoughts, Internet, Media
-:tags: Internet, Media
+:tags: internet, media
 :slug: books-i-plan-to-read-websites-that-i-think-are-cool
 :status: draft
 

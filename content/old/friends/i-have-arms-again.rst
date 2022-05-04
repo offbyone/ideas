@@ -3,7 +3,7 @@ I have arms again!
 :date: 2006-11-06 15:33
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Appreciation, deadlines, dislocation, health, skydiving, work
+:tags: appreciation, deadlines, dislocation, health, skydiving, work
 :slug: i-have-arms-again
 :status: draft
 

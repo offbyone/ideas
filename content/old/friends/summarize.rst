@@ -3,7 +3,7 @@ Summarize
 :date: 2006-10-10 22:30
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends, school, work
+:tags: friends, school, work
 :slug: summarize
 :status: draft
 

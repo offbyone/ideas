@@ -3,7 +3,7 @@ And then there was one...
 :date: 2006-05-27 21:46
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: and-then-there-was-one
 :status: draft
 

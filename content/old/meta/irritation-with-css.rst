@@ -3,7 +3,7 @@ Irritation with CSS
 :date: 2002-11-07 22:18
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: irritation-with-css
 :status: draft
 

@@ -3,7 +3,7 @@ Sexual Politics in the age of Girls Gone Wild
 :date: 2003-11-20 08:12
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: sexual-politics-in-the-age-of-girls-gone-wild
 :status: draft
 

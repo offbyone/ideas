@@ -3,7 +3,7 @@ Wallpaper For The Slow
 :date: 2006-10-02 21:10
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: wallpaper-for-the-slow
 :status: draft
 

@@ -3,7 +3,7 @@ As a point of concern
 :date: 2006-01-02 07:31
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: as-a-point-of-concern
 :status: draft
 

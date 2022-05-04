@@ -3,7 +3,7 @@ Expletives and Imprecations
 :date: 2005-01-16 00:11
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends
+:tags: friends
 :slug: expletives-and-imprecations
 :status: draft
 

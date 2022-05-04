@@ -3,7 +3,7 @@ To Know Me
 :date: 2006-04-05 23:20
 :author: offby1
 :category: Asides, Friends, General Thoughts
-:tags: Asides, Friends
+:tags: asides, friends
 :slug: to-know-me
 :status: draft
 

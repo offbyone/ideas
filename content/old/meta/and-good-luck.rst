@@ -3,7 +3,7 @@
 :date: 2008-06-10 06:49
 :author: offby1
 :category: Meta
-:tags: Meta, school
+:tags: meta, school
 :slug: and-good-luck
 :status: draft
 

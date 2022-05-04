@@ -3,7 +3,7 @@ A new hope?
 :date: 2005-03-11 00:33
 :author: offby1
 :category: Internet, Media
-:tags: Internet, Media
+:tags: internet, media
 :slug: a-new-hope
 :status: draft
 

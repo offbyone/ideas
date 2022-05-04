@@ -3,7 +3,7 @@ On Inspiration
 :date: 2004-08-08 23:32
 :author: offby1
 :category: General Thoughts, Projects
-:tags: Projects
+:tags: projects
 :slug: on-inspiration
 :status: draft
 

@@ -3,7 +3,7 @@ Infotainment Glut
 :date: 2004-11-09 08:16
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: Internet, Media, Rants
+:tags: internet, media, rants
 :slug: infotainment-glut
 :status: draft
 

@@ -3,7 +3,7 @@ New pony!
 :date: 2005-02-15 16:29
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: new-pony
 :status: draft
 

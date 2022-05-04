@@ -3,7 +3,7 @@ On authority and its exercise
 :date: 2003-05-16 10:56
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: on-authority-and-its-exercise
 :status: draft
 

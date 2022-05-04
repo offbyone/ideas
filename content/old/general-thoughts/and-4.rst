@@ -3,7 +3,7 @@
 :date: 2002-12-13 17:26
 :author: offby1
 :category: General Thoughts, Internet
-:tags: Internet, school
+:tags: internet, school
 :slug: and-4
 :status: draft
 

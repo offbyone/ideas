@@ -3,7 +3,7 @@ The Second Law
 :date: 2003-04-12 20:37
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: the-second-law
 :status: draft
 

@@ -3,7 +3,7 @@ Dreaming of high places
 :date: 2003-02-17 09:19
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: dreaming-of-high-places
 :status: draft
 

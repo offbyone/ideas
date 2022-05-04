@@ -3,7 +3,7 @@ Getting Closer
 :date: 2007-02-12 20:31
 :author: offby1
 :category: Events, Friends
-:tags: japan, Projects, school, time, vacation, websphere, work
+:tags: japan, projects, school, time, vacation, websphere, work
 :slug: getting-closer
 :status: draft
 

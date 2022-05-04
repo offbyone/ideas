@@ -3,7 +3,7 @@ Up, up
 :date: 2004-10-27 07:33
 :author: offby1
 :category: General Thoughts, Internet, Rants
-:tags: Internet, Rants, space
+:tags: internet, rants, space
 :slug: up-up
 :status: draft
 

@@ -3,7 +3,7 @@ Crap
 :date: 2007-08-22 23:25
 :author: offby1
 :category: Asides
-:tags: Look at you hacker a pathetic creature of meat and bone
+:tags: look at you hacker a pathetic creature of meat and bone
 :slug: crap
 :status: draft
 

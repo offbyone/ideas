@@ -3,7 +3,7 @@ More and further...
 :date: 2004-01-08 10:20
 :author: offby1
 :category: General Thoughts, Rants
-:tags: intellectual property, privacy, Rants
+:tags: intellectual property, privacy, rants
 :slug: more-and-further
 :status: draft
 

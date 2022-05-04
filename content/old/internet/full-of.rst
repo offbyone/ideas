@@ -3,7 +3,7 @@ Full of.
 :date: 2006-09-25 22:06
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: full-of
 :status: draft
 

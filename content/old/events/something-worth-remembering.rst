@@ -3,7 +3,7 @@ Something worth remembering
 :date: 2006-09-27 07:55
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: something-worth-remembering
 :status: draft
 

@@ -3,7 +3,7 @@ The Project Apollo Image Gallery
 :date: 2004-07-22 08:23
 :author: offby1
 :category: General Thoughts, Internet
-:tags: Internet, space
+:tags: internet, space
 :slug: the-project-apollo-image-gallery
 :status: draft
 

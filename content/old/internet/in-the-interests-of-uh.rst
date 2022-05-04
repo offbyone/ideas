@@ -3,7 +3,7 @@ In the interests of, uh...
 :date: 2003-02-17 09:52
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: in-the-interests-of-uh
 :status: draft
 

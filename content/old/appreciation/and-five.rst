@@ -3,7 +3,7 @@ And... Five!
 :date: 2006-03-31 07:49
 :author: offby1
 :category: Appreciation, Events, General Thoughts
-:tags: Appreciation, Events
+:tags: appreciation, events
 :slug: and-five
 :status: draft
 

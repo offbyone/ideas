@@ -3,7 +3,7 @@
 :date: 2007-08-15 16:54
 :author: offby1
 :category: Internet, Media
-:tags: gaming, geeky, Look at you hacker a pathetic creature of meat and bone, sucker, xbox
+:tags: gaming, geeky, look at you hacker a pathetic creature of meat and bone, sucker, xbox
 :slug: me-cries
 :status: draft
 

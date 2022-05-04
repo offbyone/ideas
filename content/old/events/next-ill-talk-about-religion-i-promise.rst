@@ -3,7 +3,7 @@ Next, I'll talk about Religion.  I promise!
 :date: 2004-06-14 06:11
 :author: offby1
 :category: Events, Rants
-:tags: Events, Rants
+:tags: events, rants
 :slug: next-ill-talk-about-religion-i-promise
 :status: draft
 

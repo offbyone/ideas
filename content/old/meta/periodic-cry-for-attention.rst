@@ -3,7 +3,7 @@ Periodic cry for attention...
 :date: 2006-02-03 13:52
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: periodic-cry-for-attention
 :status: draft
 

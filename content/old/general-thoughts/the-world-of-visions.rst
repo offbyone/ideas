@@ -3,7 +3,7 @@ The world of visions
 :date: 2004-09-26 14:16
 :author: offby1
 :category: General Thoughts, Media
-:tags: Media
+:tags: media
 :slug: the-world-of-visions
 :status: draft
 

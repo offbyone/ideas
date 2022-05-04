@@ -3,7 +3,7 @@ How Will You React?
 :date: 2007-04-18 18:54
 :author: offby1
 :category: General Thoughts
-:tags: blame, finger-pointing, Media, Rants, society, voyeurism
+:tags: blame, finger-pointing, media, rants, society, voyeurism
 :slug: how-will-you-react
 :status: draft
 

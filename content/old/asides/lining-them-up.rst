@@ -3,7 +3,7 @@ Lining Them Up...
 :date: 2006-08-30 18:33
 :author: offby1
 :category: Asides, General Thoughts
-:tags: Asides, school, work
+:tags: asides, school, work
 :slug: lining-them-up
 :status: draft
 

@@ -3,7 +3,7 @@ Again, the words
 :date: 2005-04-19 09:13
 :author: offby1
 :category: Friends, General Thoughts, Projects
-:tags: Friends, Projects, school, work
+:tags: friends, projects, school, work
 :slug: again-the-words
 :status: draft
 

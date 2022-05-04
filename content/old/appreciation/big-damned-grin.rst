@@ -3,7 +3,7 @@
 :date: 2004-09-29 16:06
 :author: offby1
 :category: Appreciation, Events, Friends, General Thoughts
-:tags: Appreciation, Events, Friends
+:tags: appreciation, events, friends
 :slug: big-damned-grin
 :status: draft
 

@@ -7,7 +7,7 @@ I'm Not a Misanthrope
 :slug: misanthropy
 :date: 2020-02-07 12:30 PST
 :category: society
-:tags: attitude misanthropy feminism bigotry
+:tags: attitude, misanthropy, feminism, bigotry
 :author: Chris Rose
 :email: offline@offby1.net
 :summary: I used to think I was a misanthrope, and then I met the real ones.

@@ -3,7 +3,7 @@ Doomed
 :date: 2004-08-04 20:38
 :author: offby1
 :category: General Thoughts
-:tags: doom, games, Look at you hacker a pathetic creature of meat and bone
+:tags: doom, games, look at you hacker a pathetic creature of meat and bone
 :slug: doomed
 :status: draft
 

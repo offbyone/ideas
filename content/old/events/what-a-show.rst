@@ -3,7 +3,7 @@ What a show
 :date: 2002-11-11 12:35
 :author: offby1
 :category: Events, Friends, General Thoughts
-:tags: Events, Friends
+:tags: events, friends
 :slug: what-a-show
 :status: draft
 

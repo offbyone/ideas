@@ -3,7 +3,7 @@ Abbot and Costello's Nightmare Movie
 :date: 2004-05-30 20:45
 :author: offby1
 :category: General Thoughts, Media, Rants
-:tags: Media, Rants
+:tags: media, rants
 :slug: abbot-and-costellos-nightmare-movie
 :status: draft
 

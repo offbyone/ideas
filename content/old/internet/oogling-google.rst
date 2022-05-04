@@ -3,7 +3,7 @@ Oogling Google
 :date: 2004-02-21 02:03
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: oogling-google
 :status: draft
 

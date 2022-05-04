@@ -3,7 +3,7 @@ Thanks, TED
 :date: 2007-08-18 15:13
 :author: offby1
 :category: Asides, Media
-:tags: atheism, dawkins, entertainment, Media, meme, musings, politics, Science, technology
+:tags: atheism, dawkins, entertainment, media, meme, musings, politics, science, technology
 :slug: thanks-ted
 :status: draft
 

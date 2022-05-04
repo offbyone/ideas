@@ -3,7 +3,7 @@ More Rights
 :date: 2003-01-05 07:16
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: more-rights
 :status: draft
 

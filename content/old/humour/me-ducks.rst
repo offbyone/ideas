@@ -3,7 +3,7 @@
 :date: 2004-04-14 08:51
 :author: offby1
 :category: Humour
-:tags: Humour
+:tags: humour
 :slug: me-ducks
 :status: draft
 

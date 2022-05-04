@@ -3,7 +3,7 @@ On a different note
 :date: 2004-05-30 08:16
 :author: offby1
 :category: General Thoughts
-:tags: edmonton, Friends, memory lane, moving, school
+:tags: edmonton, friends, memory lane, moving, school
 :slug: on-a-different-note
 :status: draft
 

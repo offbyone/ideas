@@ -3,7 +3,7 @@ From the "It only matters to Chris" department
 :date: 2005-12-19 07:51
 :author: offby1
 :category: Asides, General Thoughts, Projects
-:tags: Asides, Projects
+:tags: asides, projects
 :slug: from-the-it-only-matters-to-chris-department
 :status: draft
 

@@ -3,7 +3,7 @@ Eternal Truths
 :date: 2006-10-07 11:44
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: eternal-truths
 :status: draft
 

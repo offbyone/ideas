@@ -3,7 +3,7 @@ What this site looks like
 :date: 2002-11-06 07:20
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: what-this-site-looks-like
 :status: draft
 

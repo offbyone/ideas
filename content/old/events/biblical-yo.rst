@@ -3,7 +3,7 @@ Biblical, yo.
 :date: 2004-07-11 17:01
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events
+:tags: events
 :slug: biblical-yo
 :status: draft
 

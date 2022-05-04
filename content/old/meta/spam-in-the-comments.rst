@@ -3,7 +3,7 @@ Spam in the comments
 :date: 2003-11-11 21:04
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: spam-in-the-comments
 :status: draft
 

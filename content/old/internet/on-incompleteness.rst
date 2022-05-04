@@ -3,7 +3,7 @@ On Incompleteness
 :date: 2005-03-20 00:21
 :author: offby1
 :category: Internet, Media
-:tags: Internet, Media, Science
+:tags: internet, media, science
 :slug: on-incompleteness
 :status: draft
 

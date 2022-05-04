@@ -3,7 +3,7 @@ Switch, already!
 :date: 2004-07-10 08:29
 :author: offby1
 :category: Internet, Rants
-:tags: Internet, Rants
+:tags: internet, rants
 :slug: switch-already
 :status: draft
 

@@ -3,7 +3,7 @@ Arrr!
 :date: 2003-09-19 13:38
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: arrr
 :status: draft
 

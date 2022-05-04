@@ -3,7 +3,7 @@
 :date: 2007-01-25 09:59
 :author: offby1
 :category: Asides, Friends
-:tags: apology, Friends, school, stress, time, work
+:tags: apology, friends, school, stress, time, work
 :slug: 5-minute-quickie
 :status: draft
 

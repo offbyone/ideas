@@ -3,7 +3,7 @@ What did we ever do, before the internets?
 :date: 2006-07-19 12:19
 :author: offby1
 :category: Humour, Internet
-:tags: Humour, Internet
+:tags: humour, internet
 :slug: what-did-we-ever-do-before-the-internets
 :status: draft
 

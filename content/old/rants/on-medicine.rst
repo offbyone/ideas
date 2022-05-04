@@ -3,7 +3,7 @@ On medicine
 :date: 2004-06-18 08:00
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: on-medicine
 :status: draft
 

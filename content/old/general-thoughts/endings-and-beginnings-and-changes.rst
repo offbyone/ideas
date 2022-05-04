@@ -3,7 +3,7 @@ Endings and Beginnings and Changes
 :date: 2003-06-09 08:42
 :author: offby1
 :category: General Thoughts
-:tags: Friends, love, memory lane, wedding
+:tags: friends, love, memory lane, wedding
 :slug: endings-and-beginnings-and-changes
 :status: draft
 

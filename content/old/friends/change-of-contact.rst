@@ -3,7 +3,7 @@ Change of Contact
 :date: 2004-06-24 07:21
 :author: offby1
 :category: Friends, General Thoughts
-:tags: Friends
+:tags: friends
 :slug: change-of-contact
 :status: draft
 

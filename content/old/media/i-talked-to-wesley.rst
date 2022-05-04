@@ -3,7 +3,7 @@ I talked to Wesley!
 :date: 2002-11-20 20:03
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: i-talked-to-wesley
 :status: draft
 

@@ -3,7 +3,7 @@ Sitrep
 :date: 2007-05-10 12:40
 :author: offby1
 :category: General Thoughts
-:tags: alive, bike, char, commuting, dislocation, fear, health, Meta, politics, primitive superstition, skydiving, undue risk, work
+:tags: alive, bike, char, commuting, dislocation, fear, health, meta, politics, primitive superstition, skydiving, undue risk, work
 :slug: sitrep
 :status: draft
 

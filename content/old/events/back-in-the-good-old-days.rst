@@ -3,7 +3,7 @@ Back in the good old days
 :date: 2004-09-17 06:43
 :author: offby1
 :category: Events, General Thoughts, Media, Rants
-:tags: Events, Media, Rants
+:tags: events, media, rants
 :slug: back-in-the-good-old-days
 :status: draft
 

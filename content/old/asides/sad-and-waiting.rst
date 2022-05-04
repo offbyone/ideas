@@ -3,7 +3,7 @@ Sad, and Waiting
 :date: 2006-02-14 15:35
 :author: offby1
 :category: Asides, General Thoughts
-:tags: Asides
+:tags: asides
 :slug: sad-and-waiting
 :status: draft
 

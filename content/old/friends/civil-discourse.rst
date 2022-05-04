@@ -3,7 +3,7 @@ Civil discourse
 :date: 2003-07-31 08:06
 :author: offby1
 :category: Friends
-:tags: Friends
+:tags: friends
 :slug: civil-discourse
 :status: draft
 

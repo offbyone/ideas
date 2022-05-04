@@ -3,7 +3,7 @@ Reach for the sky
 :date: 2004-02-28 09:34
 :author: offby1
 :category: General Thoughts, Media
-:tags: Media, space
+:tags: media, space
 :slug: reach-for-the-sky
 :status: draft
 

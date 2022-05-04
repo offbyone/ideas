@@ -3,7 +3,7 @@ It's been a bit
 :date: 2005-10-07 07:14
 :author: offby1
 :category: General Thoughts, Media, Projects
-:tags: Media, Projects, work
+:tags: media, projects, work
 :slug: its-been-a-bit
 :status: draft
 

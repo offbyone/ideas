@@ -3,7 +3,7 @@ Small change
 :date: 2004-04-01 18:01
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: small-change
 :status: draft
 

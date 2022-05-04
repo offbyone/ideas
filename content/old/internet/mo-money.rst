@@ -3,7 +3,7 @@ Mo' money!
 :date: 2002-11-18 07:38
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: mo-money
 :status: draft
 

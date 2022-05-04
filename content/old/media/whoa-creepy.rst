@@ -3,7 +3,7 @@ Whoa.  Creepy.
 :date: 2004-03-01 23:12
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: whoa-creepy
 :status: draft
 

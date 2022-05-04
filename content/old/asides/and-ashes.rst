@@ -3,7 +3,7 @@ And... ashes
 :date: 2005-07-09 09:44
 :author: offby1
 :category: Asides, General Thoughts, Media
-:tags: Asides, Media
+:tags: asides, media
 :slug: and-ashes
 :status: draft
 

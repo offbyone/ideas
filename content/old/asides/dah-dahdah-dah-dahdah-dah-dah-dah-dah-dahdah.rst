@@ -3,7 +3,7 @@ Dah. Dahdah-dah. Dahdah-dah dah dah-dah-dahdah!
 :date: 2006-09-20 20:18
 :author: offby1
 :category: Asides, General Thoughts, Media
-:tags: Asides, Media
+:tags: asides, media
 :slug: dah-dahdah-dah-dahdah-dah-dah-dah-dah-dahdah
 :status: draft
 

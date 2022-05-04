@@ -3,7 +3,7 @@ Redesign
 :date: 2004-10-06 19:01
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: redesign
 :status: draft
 

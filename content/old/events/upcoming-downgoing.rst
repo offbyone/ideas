@@ -3,7 +3,7 @@ Upcoming, Downgoing
 :date: 2004-08-22 08:01
 :author: offby1
 :category: Events, Friends, General Thoughts, Meta
-:tags: Events, Friends, Meta
+:tags: events, friends, meta
 :slug: upcoming-downgoing
 :status: draft
 

@@ -3,7 +3,7 @@ Irony in Philosophy
 :date: 2004-09-13 10:08
 :author: offby1
 :category: General Thoughts, Internet, Rants
-:tags: intellectual property, Internet, privacy, Rants, school
+:tags: intellectual property, internet, privacy, rants, school
 :slug: irony-in-philosophy
 :status: draft
 

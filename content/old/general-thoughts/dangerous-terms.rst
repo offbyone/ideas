@@ -3,7 +3,7 @@ Dangerous Terms
 :date: 2005-03-05 07:58
 :author: offby1
 :category: General Thoughts, Internet
-:tags: intellectual property, Internet, privacy
+:tags: intellectual property, internet, privacy
 :slug: dangerous-terms
 :status: draft
 

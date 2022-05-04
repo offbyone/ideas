@@ -3,7 +3,7 @@ Contact
 :date: 2005-07-17 10:56
 :author: offby1
 :category: General Thoughts
-:tags: Friends, moving, party
+:tags: friends, moving, party
 :slug: contact
 :status: draft
 

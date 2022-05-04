@@ -3,7 +3,7 @@ On again,
 :date: 2005-07-16 12:29
 :author: offby1
 :category: Asides, General Thoughts
-:tags: Asides, work
+:tags: asides, work
 :slug: on-again
 :status: draft
 

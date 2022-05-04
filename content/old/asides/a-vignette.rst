@@ -3,7 +3,7 @@ A Vignette
 :date: 2005-05-26 06:40
 :author: offby1
 :category: Asides, General Thoughts
-:tags: Asides
+:tags: asides
 :slug: a-vignette
 :status: draft
 

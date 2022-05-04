@@ -3,7 +3,7 @@ Monday morning updates
 :date: 2005-05-30 07:02
 :author: offby1
 :category: Friends, General Thoughts, Projects
-:tags: Friends, Projects
+:tags: friends, projects
 :slug: monday-morning-updates
 :status: draft
 

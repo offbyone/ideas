@@ -3,7 +3,7 @@ Projects in the pipe
 :date: 2004-02-11 20:20
 :author: offby1
 :category: Projects
-:tags: Projects
+:tags: projects
 :slug: projects-in-the-pipe
 :status: draft
 

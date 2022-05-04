@@ -3,7 +3,7 @@ Urgh.
 :date: 2005-11-06 14:00
 :author: offby1
 :category: General Thoughts, Internet
-:tags: Internet
+:tags: internet
 :slug: urgh
 :status: draft
 

@@ -3,7 +3,7 @@ Justify my paranoia?
 :date: 2005-02-07 07:37
 :author: offby1
 :category: General Thoughts, Internet
-:tags: intellectual property, Internet, privacy
+:tags: intellectual property, internet, privacy
 :slug: justify-my-paranoia
 :status: draft
 

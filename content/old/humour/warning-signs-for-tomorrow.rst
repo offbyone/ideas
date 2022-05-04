@@ -3,7 +3,7 @@ Warning Signs for Tomorrow
 :date: 2006-10-15 12:42
 :author: offby1
 :category: Humour
-:tags: future, Humour, Internet, meme, snark
+:tags: future, humour, internet, meme, snark
 :slug: warning-signs-for-tomorrow
 :status: draft
 

@@ -3,7 +3,7 @@ Hitches and Glitches and 22,000 feet travelled at speed
 :date: 2004-08-29 13:05
 :author: offby1
 :category: Events, Friends, General Thoughts
-:tags: Events, Friends
+:tags: events, friends
 :slug: hitches-and-glitches-and-22000-feet-travelled-at-speed
 :status: draft
 

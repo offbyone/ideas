@@ -3,7 +3,7 @@ Goodbye...
 :date: 2002-11-03 15:21
 :author: offby1
 :category: Events, General Thoughts, Internet
-:tags: Events, Internet, space
+:tags: events, internet, space
 :slug: goodbye
 :status: draft
 

@@ -3,7 +3,7 @@ Found on the Internets
 :date: 2006-12-14 23:32
 :author: offby1
 :category: Humour, Internet
-:tags: Humour, Internet, interview, Sylvester Stallone
+:tags: humour, internet, interview, Sylvester Stallone
 :slug: found-on-the-internets
 :status: draft
 

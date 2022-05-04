@@ -3,7 +3,7 @@ Siteside again
 :date: 2004-12-19 09:52
 :author: offby1
 :category: General Thoughts, Meta
-:tags: Meta, school
+:tags: meta, school
 :slug: siteside-again
 :status: draft
 

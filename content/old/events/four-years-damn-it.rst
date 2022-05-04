@@ -3,7 +3,7 @@ Four years, damn it!
 :date: 2004-11-18 12:57
 :author: offby1
 :category: Events, General Thoughts, Internet
-:tags: Events, Internet
+:tags: events, internet
 :slug: four-years-damn-it
 :status: draft
 

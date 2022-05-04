@@ -3,7 +3,7 @@ Lest their sacrifices be forgotten.
 :date: 2004-11-11 10:42
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: lest-their-sacrifices-be-forgotten
 :status: draft
 

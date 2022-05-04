@@ -3,7 +3,7 @@ Innerview
 :date: 2004-11-21 10:52
 :author: offby1
 :category: Internet, Media
-:tags: Internet, Media
+:tags: internet, media
 :slug: innerview
 :status: draft
 

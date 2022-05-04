@@ -3,7 +3,7 @@ Delta
 :date: 2008-12-08 04:32
 :author: offby1
 :category: General Thoughts
-:tags: baby, culture, distance, General Thoughts, travel
+:tags: baby, culture, distance, thoughts, travel
 :slug: delta
 :status: draft
 

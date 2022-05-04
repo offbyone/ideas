@@ -3,7 +3,7 @@ The whole picture?
 :date: 2003-05-07 19:47
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: the-whole-picture
 :status: draft
 

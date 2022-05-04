@@ -3,7 +3,7 @@ Gut-level disgust
 :date: 2003-02-28 06:54
 :author: offby1
 :category: General Thoughts, Rants
-:tags: asshole, free speech, hypocrisy, idiocy, privacy, Rants
+:tags: asshole, free speech, hypocrisy, idiocy, privacy, rants
 :slug: gut-level-disgust
 :status: draft
 

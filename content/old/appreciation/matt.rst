@@ -3,7 +3,7 @@ Matt
 :date: 2006-11-21 16:25
 :author: offby1
 :category: Appreciation
-:tags: Appreciation
+:tags: appreciation
 :slug: matt
 :status: draft
 

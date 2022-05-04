@@ -3,7 +3,7 @@ To Brin, I Direct this Writing
 :date: 2006-05-20 10:21
 :author: offby1
 :category: General Thoughts, Rants
-:tags: intellectual property, privacy, Rants
+:tags: intellectual property, privacy, rants
 :slug: to-brin-i-direct-this-writing
 :status: draft
 

@@ -3,7 +3,7 @@ The Two Times
 :date: 2002-12-19 06:58
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: the-two-times
 :status: draft
 

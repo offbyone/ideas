@@ -3,7 +3,7 @@ Maynard
 :date: 2006-12-01 00:01
 :author: offby1
 :category: General Thoughts, Internet, Media, Rants
-:tags: intellectual property, Internet, Media, obscenity, pornography, privacy, quote, Rants
+:tags: intellectual property, internet, media, obscenity, pornography, privacy, quote, rants
 :slug: maynard
 :status: draft
 

@@ -3,7 +3,7 @@ Amurrican Politics
 :date: 2004-08-06 05:44
 :author: offby1
 :category: General Thoughts
-:tags: Events, fear, government, hypocrisy, politics
+:tags: events, fear, government, hypocrisy, politics
 :slug: amurrican-politics
 :status: draft
 

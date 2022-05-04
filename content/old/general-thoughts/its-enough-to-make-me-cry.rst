@@ -3,7 +3,7 @@ It's enough to make me cry
 :date: 2004-08-31 22:48
 :author: offby1
 :category: General Thoughts, Rants
-:tags: Rants
+:tags: rants
 :slug: its-enough-to-make-me-cry
 :status: draft
 

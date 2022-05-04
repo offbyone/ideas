@@ -3,7 +3,7 @@ Wow.  That took WAY longer than I thought it would
 :date: 2005-12-10 08:02
 :author: offby1
 :category: Asides, General Thoughts, Media
-:tags: Asides, Media
+:tags: asides, media
 :slug: wow-that-took-way-longer-than-i-thought-it-would
 :status: draft
 

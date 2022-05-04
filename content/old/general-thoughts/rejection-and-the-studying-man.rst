@@ -3,7 +3,7 @@ Rejection and the Studying man
 :date: 2003-09-19 09:26
 :author: offby1
 :category: General Thoughts, Rants
-:tags: fuck telus, Rants, school, work
+:tags: fuck telus, rants, school, work
 :slug: rejection-and-the-studying-man
 :status: draft
 

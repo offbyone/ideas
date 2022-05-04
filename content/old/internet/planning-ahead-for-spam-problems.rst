@@ -3,7 +3,7 @@ Planning ahead for spam problems
 :date: 2005-10-12 16:52
 :author: offby1
 :category: Internet, Meta
-:tags: Internet, Meta
+:tags: internet, meta
 :slug: planning-ahead-for-spam-problems
 :status: draft
 

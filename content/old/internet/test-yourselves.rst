@@ -3,7 +3,7 @@ Test yourselves
 :date: 2003-05-30 09:33
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: test-yourselves
 :status: draft
 

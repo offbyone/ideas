@@ -3,7 +3,7 @@ A bit of net.humour
 :date: 2006-07-23 10:23
 :author: offby1
 :category: Humour, Internet
-:tags: Humour, Internet
+:tags: humour, internet
 :slug: a-bit-of-nethumour
 :status: draft
 

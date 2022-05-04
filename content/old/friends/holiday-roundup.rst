@@ -3,7 +3,7 @@ Holiday Roundup
 :date: 2004-12-30 09:21
 :author: offby1
 :category: Friends, General Thoughts, Projects, Rants
-:tags: Friends, Projects, Rants, school
+:tags: friends, projects, rants, school
 :slug: holiday-roundup
 :status: draft
 

@@ -3,7 +3,7 @@ Music to my ears
 :date: 2006-01-20 11:18
 :author: offby1
 :category: Asides, Internet, Media
-:tags: Asides, Internet, Media
+:tags: asides, internet, media
 :slug: music-to-my-ears
 :status: draft
 

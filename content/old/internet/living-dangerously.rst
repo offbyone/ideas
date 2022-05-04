@@ -3,7 +3,7 @@ Living Dangerously
 :date: 2003-12-01 07:35
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: living-dangerously
 :status: draft
 

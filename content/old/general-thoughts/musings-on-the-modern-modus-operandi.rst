@@ -3,7 +3,7 @@ Musings on the Modern Modus Operandi
 :date: 2008-03-29 11:53
 :author: offby1
 :category: General Thoughts, Internet, Media
-:tags: censorship, culture, gaming, Internet, islam, parenting, religion
+:tags: censorship, culture, gaming, internet, islam, parenting, religion
 :slug: musings-on-the-modern-modus-operandi
 :status: draft
 

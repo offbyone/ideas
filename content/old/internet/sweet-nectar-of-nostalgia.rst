@@ -3,7 +3,7 @@ Sweet nectar of nostalgia!
 :date: 2005-03-07 08:04
 :author: offby1
 :category: Internet, Media
-:tags: Internet, Media
+:tags: internet, media
 :slug: sweet-nectar-of-nostalgia
 :status: draft
 

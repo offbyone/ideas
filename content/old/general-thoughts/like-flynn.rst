@@ -3,7 +3,7 @@ Like Flynn
 :date: 2009-01-26 18:24
 :author: offby1
 :category: life
-:tags: Friends, home, move, simon
+:tags: friends, home, move, simon
 :slug: like-flynn
 :status: published
 

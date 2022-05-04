@@ -3,7 +3,7 @@ Before and After
 :date: 2010-04-24 06:58
 :author: offby1
 :category: pics
-:tags: Project 365
+:tags: project 365
 :slug: before-and-after
 :status: draft
 

@@ -3,7 +3,7 @@ Echo...
 :date: 2005-02-27 16:29
 :author: offby1
 :category: Asides, Friends, General Thoughts, Meta
-:tags: Asides, Friends, Meta
+:tags: asides, friends, meta
 :slug: echo
 :status: draft
 

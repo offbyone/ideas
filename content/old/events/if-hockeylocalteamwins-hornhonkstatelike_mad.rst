@@ -3,7 +3,7 @@ if (hockey.localTeam().wins()) { horn.honk(State.LIKE_MAD); }
 :date: 2006-05-17 21:13
 :author: offby1
 :category: Events, General Thoughts
-:tags: Events
+:tags: events
 :slug: if-hockeylocalteamwins-hornhonkstatelike_mad
 :status: draft
 

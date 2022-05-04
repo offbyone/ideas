@@ -3,7 +3,7 @@ WinXP
 :date: 2002-11-30 23:54
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: winxp
 :status: draft
 

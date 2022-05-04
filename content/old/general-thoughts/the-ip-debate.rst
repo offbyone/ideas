@@ -3,7 +3,7 @@ The I/P debate...
 :date: 2002-11-15 06:59
 :author: offby1
 :category: General Thoughts, Rants
-:tags: Rants, school
+:tags: rants, school
 :slug: the-ip-debate
 :status: draft
 

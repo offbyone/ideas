@@ -3,7 +3,7 @@ Vanishing point
 :date: 2003-08-31 10:52
 :author: offby1
 :category: Events, General Thoughts, Meta
-:tags: apology, Appreciation, moving, simon, skydiving
+:tags: apology, appreciation, moving, simon, skydiving
 :slug: vanishing-point
 :status: draft
 

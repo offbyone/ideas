@@ -3,7 +3,7 @@ We get the government we deserve, don't we?
 :date: 2004-06-29 05:08
 :author: offby1
 :category: Events, Media, Rants
-:tags: Events, Media, Rants
+:tags: events, media, rants
 :slug: we-get-the-government-we-deserve-dont-we
 :status: draft
 

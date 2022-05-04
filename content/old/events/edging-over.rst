@@ -3,7 +3,7 @@ Edging over
 :date: 2005-02-12 07:56
 :author: offby1
 :category: Events, General Thoughts, Media
-:tags: Events, Media
+:tags: events, media
 :slug: edging-over
 :status: draft
 

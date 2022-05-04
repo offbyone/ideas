@@ -3,7 +3,7 @@ Home at last
 :date: 2009-01-23 10:53
 :author: offby1
 :category: life
-:tags: cats, char, General Thoughts, homeownership, moving, stress
+:tags: cats, char, thoughts, homeownership, moving, stress
 :slug: home-at-last
 :status: published
 

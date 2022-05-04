@@ -3,7 +3,7 @@ A Rabbit Hole
 :date: 2008-01-31 08:47
 :author: offby1
 :category: Internet, Media
-:tags: Internet, Media, operation clambake, religion, scientology, xenu
+:tags: internet, media, operation clambake, religion, scientology, xenu
 :slug: a-rabbit-hole
 :status: draft
 

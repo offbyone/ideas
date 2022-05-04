@@ -3,7 +3,7 @@ Idle hands
 :date: 2006-10-14 20:50
 :author: offby1
 :category: General Thoughts, Projects
-:tags: Projects, school
+:tags: projects, school
 :slug: idle-hands
 :status: draft
 

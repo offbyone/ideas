@@ -3,7 +3,7 @@ Links on the sidebar
 :date: 2003-11-12 11:06
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: links-on-the-sidebar
 :status: draft
 

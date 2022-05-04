@@ -3,7 +3,7 @@ Abandoned Past
 :date: 2007-10-14 23:33
 :author: offby1
 :category: Media
-:tags: Comics, dystopia, melancholy, science fiction, Transmetropolitan, Warren Ellis
+:tags: comics, dystopia, melancholy, science fiction, Transmetropolitan, Warren Ellis
 :slug: abandoned-past
 :status: draft
 

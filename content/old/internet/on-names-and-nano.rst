@@ -3,7 +3,7 @@ On Names, and Nano
 :date: 2007-03-06 13:15
 :author: offby1
 :category: Internet, Meta, Rants
-:tags: ludditism, Science, snark, stupidity
+:tags: ludditism, science, snark, stupidity
 :slug: on-names-and-nano
 :status: draft
 

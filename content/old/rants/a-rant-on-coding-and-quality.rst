@@ -3,7 +3,7 @@ A Rant on Coding and Quality
 :date: 2007-03-27 10:11
 :author: offby1
 :category: Rants
-:tags: good design, incompetence, model-view-controller, Rants, school, Software Engineering, vitriol
+:tags: good design, incompetence, model-view-controller, rants, school, software engineering, vitriol
 :slug: a-rant-on-coding-and-quality
 :status: draft
 

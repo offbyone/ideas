@@ -3,7 +3,7 @@ Hola, all
 :date: 2008-04-24 22:10
 :author: offby1
 :category: General Thoughts
-:tags: integration, Projects, travel, unicode, utf-8, work
+:tags: integration, projects, travel, unicode, utf-8, work
 :slug: hola-all
 :status: draft
 

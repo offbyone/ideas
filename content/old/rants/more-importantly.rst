@@ -3,7 +3,7 @@ More importantly...
 :date: 2002-11-11 15:24
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: more-importantly
 :status: draft
 

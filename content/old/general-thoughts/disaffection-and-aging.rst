@@ -3,7 +3,7 @@ Disaffection and Aging
 :date: 2003-01-17 23:02
 :author: offby1
 :category: General Thoughts
-:tags: char, introspection, Media, memory lane
+:tags: char, introspection, media, memory lane
 :slug: disaffection-and-aging
 :status: draft
 

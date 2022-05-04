@@ -3,7 +3,7 @@ On the line again
 :date: 2004-05-12 22:14
 :author: offby1
 :category: General Thoughts
-:tags: Internet
+:tags: internet
 :slug: on-the-line-again
 :status: draft
 

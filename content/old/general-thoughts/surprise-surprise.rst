@@ -3,7 +3,7 @@ Surprise, Surprise...
 :date: 2004-04-17 23:40
 :author: offby1
 :category: General Thoughts
-:tags: book, doodads, gift-giving, gifts, Projects
+:tags: book, doodads, gift-giving, gifts, projects
 :slug: surprise-surprise
 :status: draft
 

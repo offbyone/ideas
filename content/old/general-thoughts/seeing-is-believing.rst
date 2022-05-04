@@ -3,7 +3,7 @@ Seeing is Believing
 :date: 2004-07-27 08:26
 :author: offby1
 :category: General Thoughts, Rants
-:tags: intellectual property, privacy, Rants
+:tags: intellectual property, privacy, rants
 :slug: seeing-is-believing
 :status: draft
 

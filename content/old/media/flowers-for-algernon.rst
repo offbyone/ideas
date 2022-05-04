@@ -3,7 +3,7 @@ Flowers for Algernon
 :date: 2002-12-03 07:51
 :author: offby1
 :category: Media
-:tags: Media
+:tags: media
 :slug: flowers-for-algernon
 :status: draft
 

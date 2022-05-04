@@ -3,7 +3,7 @@ Time again
 :date: 2005-04-09 08:14
 :author: offby1
 :category: Events, General Thoughts, Media, Rants
-:tags: Events, Media, Rants, school
+:tags: events, media, rants, school
 :slug: time-again
 :status: draft
 

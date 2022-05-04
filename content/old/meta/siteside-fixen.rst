@@ -3,7 +3,7 @@ Siteside Fixen
 :date: 2005-03-09 11:29
 :author: offby1
 :category: Meta
-:tags: Meta
+:tags: meta
 :slug: siteside-fixen
 :status: draft
 

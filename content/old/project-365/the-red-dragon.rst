@@ -3,7 +3,7 @@ The Red Dragon
 :date: 2010-04-23 01:19
 :author: offby1
 :category: pics
-:tags: Project 365
+:tags: project 365
 :slug: the-red-dragon
 :status: draft
 

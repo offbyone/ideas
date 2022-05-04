@@ -3,7 +3,7 @@ Sporadic, isn't it?
 :date: 2006-03-12 12:14
 :author: offby1
 :category: Events, General Thoughts, Internet, Meta, Projects
-:tags: Events, Internet, Meta, Projects
+:tags: events, internet, meta, projects
 :slug: sporadic-isnt-it
 :status: draft
 

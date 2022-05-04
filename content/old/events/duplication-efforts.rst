@@ -3,7 +3,7 @@ Duplication efforts
 :date: 2002-12-29 10:04
 :author: offby1
 :category: Events
-:tags: Events
+:tags: events
 :slug: duplication-efforts
 :status: draft
 

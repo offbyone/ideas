@@ -3,7 +3,7 @@ Sportsmanlike Conduct
 :date: 2002-11-21 20:01
 :author: offby1
 :category: Rants
-:tags: Rants
+:tags: rants
 :slug: sportsmanlike-conduct
 :status: draft
 

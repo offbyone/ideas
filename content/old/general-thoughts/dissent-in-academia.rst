@@ -3,7 +3,7 @@ Dissent in Academia
 :date: 2004-11-28 11:28
 :author: offby1
 :category: General Thoughts, Internet, Rants
-:tags: academia, free speech, Internet, Rants
+:tags: academia, free speech, internet, rants
 :slug: dissent-in-academia
 :status: draft
 

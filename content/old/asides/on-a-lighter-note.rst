@@ -3,7 +3,7 @@ On a lighter note
 :date: 2005-12-07 08:20
 :author: offby1
 :category: Asides, Meta
-:tags: Asides, Meta
+:tags: asides, meta
 :slug: on-a-lighter-note
 :status: draft
 

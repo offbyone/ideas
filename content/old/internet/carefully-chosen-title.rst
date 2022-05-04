@@ -3,7 +3,7 @@ Carefully-chosen Title
 :date: 2004-03-22 14:27
 :author: offby1
 :category: Internet
-:tags: Internet
+:tags: internet
 :slug: carefully-chosen-title
 :status: draft
 

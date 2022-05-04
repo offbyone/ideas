@@ -3,7 +3,7 @@ Ideas for my upcoming birthday
 :date: 2006-04-10 23:14
 :author: offby1
 :category: Events, Friends, General Thoughts, Media
-:tags: Events, Friends, Media
+:tags: events, friends, media
 :slug: ideas-for-my-upcoming-birthday
 :status: draft
 

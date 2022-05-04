@@ -3,7 +3,7 @@ On traveling
 :date: 2005-12-13 13:29
 :author: offby1
 :category: Friends, General Thoughts, Rants
-:tags: Friends, Rants
+:tags: friends, rants
 :slug: on-traveling
 :status: draft
 

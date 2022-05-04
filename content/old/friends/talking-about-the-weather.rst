@@ -3,7 +3,7 @@ Talking about the weather
 :date: 2005-12-28 09:10
 :author: offby1
 :category: Friends, General Thoughts, Rants
-:tags: Friends, Rants, work
+:tags: friends, rants, work
 :slug: talking-about-the-weather
 :status: draft
 
