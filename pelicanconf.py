@@ -12,14 +12,28 @@ import pytz
 
 
 @dataclass
-class Social:
+class StyledLink:
     name: str
     link: str
+    style: Optional[str] = None
+    icon_style: Optional[str] = None
+
+    def __post_init__(self):
+        if self.style is None:
+            self.style = self.name.lower()
+        if self.icon_style is None:
+            self.icon_style = f"fa-brands fa-{{ self.style }}"
+
+
+@dataclass
+class Social(StyledLink):
     network: Optional[str] = None
 
     def __post_init__(self):
         if self.network is None:
-            self.network = self.name
+            self.network = self.name.lower()
+        self.style = f"sc-{self.network}"
+        self.icon_style = f"fa-brands fa-{self.network}"
 
 
 AUTHOR = "Chris R"
@@ -61,12 +75,14 @@ TRANSLATION_FEED_ATOM = None
 #          ('Python.org', 'http://python.org/'),
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
-LINKS = ()
+LINKS = [
+    StyledLink("CV", "/pages/cv.html", style="cv", icon_style="fa-solid fa-file"),
+]
 
 # Social widget
 SOCIAL = (
     Social("Twitter", "https://twitter.com/offby1"),
-    Social("Wandering.Shop", "https://wandering.shop/@offby1", "mastodon"),
+    Social("Wandering.Shop", "https://wandering.shop/@offby1", network="mastodon"),
     Social("Github", "https://github.com/offbyone"),
     Social("Keybase", "https://keybase.io/offby1"),
 )

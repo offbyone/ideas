@@ -99,9 +99,11 @@
         <header role="banner">
             <div class="container-lg clearfix">
                 <div class="col-12 header">
+                    {% block page_title %}
                     <a class="title-main" href="{{ SITEURL }}">
-                        {% block page_title %}{{ SITENAME }}{% endblock %}
+                        {{ SITENAME }}
                     </a>
+                    {% endblock %}
                 </div>
             </div>
         </header>
@@ -154,13 +156,18 @@
                     <div class="sidebar-item sidebar-links">
                         <h3>{{ LINKS_WIDGET_NAME | default('links') }}</h3>
                         <ul>
-                            {% for name, link in LINKS %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
+                            {% for item in LINKS %}
+                            <li>
+                                {% if item.icon_style %}
+                                    <span class="{{ item.icon_style }}"></span>
+                                {% endif %}
+                                <a class="{{ item.style }}" href="{{ item.link }}">{{ item.name }}</a>
+                            </li>
                             {% endfor %}
                             {% for item in SOCIAL %}
                             <li>
-                                <span class="fa-brands fa-{{ item.network | lower }}"></span>
-                                <a class="sc-{{ item.network | lower }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
+                                <span class="{{ item.icon_style }}"></span>
+                                <a class="{{ item.style }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
                             </li>
                             {% endfor %}
                         </ul>
@@ -204,18 +211,23 @@
                 {% endif %}
                 
                 <div class="sidebar-item sidebar-links">
-                    <h3>{{ LINKS_WIDGET_NAME | default('links') }}</h3>
+                    <h3>{{ LINKS_WIDGET_NAME | default('links-lower') }}</h3>
                     <ul>
                         <li>
                             <a href="https://twitter.com/offby1" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @offby1</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                         </li>
-                        {% for name, link in LINKS %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
+                        {% for item in LINKS %}
+                        <li>
+                            {% if item.icon_style %}
+                                <span class="{{ item.icon_style }}"></span>
+                            {% endif %}
+                            <a class="{{ item.style }}" href="{{ item.link }}">{{ item.name }}</a>
+                        </li>
                         {% endfor %}
                         {% for item in SOCIAL %}
                         <li>
-                            <span class="fa-brands fa-{{ item.network | lower }}"></span>
-                            <a class="sc-{{ item.network | lower }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
+                            <span class="{{ item.icon_style }}"></span>
+                            <a class="{{ item.style }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
                         </li>
                         {% endfor %}
                     </ul>
