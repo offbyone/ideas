@@ -99,7 +99,9 @@
         <header role="banner">
             <div class="container-lg clearfix">
                 <div class="col-12 header">
-                    <a class="title-main" href="{{ SITEURL }}">{{ SITENAME }}</a>
+                    <a class="title-main" href="{{ SITEURL }}">
+                        {% block page_title %}{{ SITENAME }}{% endblock %}
+                    </a>
                 </div>
             </div>
         </header>
