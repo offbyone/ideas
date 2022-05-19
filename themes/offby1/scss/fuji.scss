@@ -37,5 +37,8 @@
 // pygments
 @import "_code";
 
+// print overrides
+@import "media";
+
 // let the user override the theme
 @import "_custom_rules";
