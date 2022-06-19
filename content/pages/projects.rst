@@ -3,7 +3,7 @@ Projects
 :date: 2005-03-18 21:29
 :author: offby1
 :slug: projects
-:status: published
+:status: draft
 
 Here's a little list of code-related thingys that I've tossed up on the
 net:
