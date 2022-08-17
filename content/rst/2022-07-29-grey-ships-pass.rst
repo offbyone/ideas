@@ -7,7 +7,7 @@ Into The West
 :slug: grey-ships-pass
 :date: 2022-08-17T00:53:58.055492
 :category: Amazon Expedition
-:tags: AWS, github, changes
+:tags: AWS, changes
 :author: Chris Rose
 :email: offline@offby1.net
 :summary: Being an account of the emotional side of leaving an employer that has defined one's career.
