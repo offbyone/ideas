@@ -20,6 +20,11 @@ $mono-font: 'Cascadia Code', 'SF Mono', 'Fira Code', 'Consolas', -apple-system, 
 $title-font: 'Product Sans', $body-font !default;
 $body-font-size: 16px !default;
 
+// @primer/css/support/variables/typography.scss
+$lh-condensed-ultra: 1rem !default;
+$lh-condensed: 1.2rem !default;
+$lh-default: 1.35rem;
+
 // fontawesome webfonts are found ... here!
 $fa-font-path: "../webfonts";
 

@@ -1,5 +1,9 @@
 // Override CSS rules with that file
 .markdown-body {
+  pre {
+    line-height: $lh-condensed !important;
+  }
+
   .highlight {
     // stylelint-disable-next-line primer/spacing
     padding: 0.2em 0.4em;
