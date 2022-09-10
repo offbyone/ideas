@@ -19,11 +19,14 @@ module "log_storage" {
   tags          = local.tags
 }
 
-variable "domain_names" {
-  default = [
-    "ideas.offby1.net",
-    "offby1.website"
-  ]
+variable "website_domain" {
+  type    = string
+  default = "offby1.website"
+}
+
+variable "dotnet_subdomain" {
+  type    = string
+  default = "ideas.offby1.net"
 }
 
 variable "s3_origin_id" {
@@ -43,7 +46,13 @@ locals {
     "ideas.offby1.net" = data.aws_route53_zone.zone.zone_id
     "offby1.website"   = data.aws_route53_zone.website.zone_id
   }
-  domain_name = var.domain_names[0]
+  domain_names = [
+    var.dotnet_subdomain,
+    var.website_domain,
+  ]
+  domain_name = var.website_domain
+  bucket_name = var.dotnet_subdomain
+
   tags = {
     Project = "ideas.blog"
     Domain  = "offby1.net"
@@ -53,7 +62,7 @@ locals {
 
 resource "aws_s3_bucket" "blog" {
   depends_on = [module.log_storage.s3_logs_bucket]
-  bucket     = local.domain_name
+  bucket     = local.bucket_name
   acl        = "public-read"
   policy     = <<EOF
 {
@@ -63,10 +72,18 @@ resource "aws_s3_bucket" "blog" {
     "Effect": "Allow",
     "Principal": "*",
     "Action": "s3:GetObject",
-    "Resource": "arn:aws:s3:::${local.domain_name}/*"
+    "Resource": "arn:aws:s3:::${local.bucket_name}/*"
   }]
 }
 EOF
+
+  cors_rule {
+    allowed_headers = ["*"]
+    allowed_methods = ["GET", "HEAD", ]
+    allowed_origins = formatlist("https://%s", local.domain_names)
+    expose_headers  = ["ETag"]
+    max_age_seconds = 0
+  }
 
   website {
     index_document = "index.html"
@@ -83,10 +100,10 @@ EOF
 }
 
 resource "aws_s3_bucket" "wwwblog" {
-  bucket = "www.${local.domain_name}"
+  bucket = "www.${local.bucket_name}"
   acl    = "public-read"
   website {
-    redirect_all_requests_to = local.domain_name
+    redirect_all_requests_to = local.bucket_name
   }
   tags = local.tags
 }
@@ -116,7 +133,7 @@ resource "aws_cloudfront_distribution" "frontend" {
   is_ipv6_enabled     = false
   default_root_object = "index.html"
 
-  aliases = var.domain_names
+  aliases = local.domain_names
 
   logging_config {
     bucket          = module.log_storage.cdn_logs_bucket
@@ -135,8 +152,8 @@ resource "aws_cloudfront_distribution" "frontend" {
 
     // Using CloudFront defaults, tune to liking
     min_ttl     = 0
-    default_ttl = 300
-    max_ttl     = 31536000
+    default_ttl = 0
+    max_ttl     = 0
   }
 
   price_class = "PriceClass_100"
@@ -166,14 +183,14 @@ data "aws_cloudfront_origin_request_policy" "cors-s3" {
 
 resource "aws_acm_certificate" "certificate" {
   provider    = aws.useast1
-  domain_name = var.domain_names[0]
+  domain_name = local.domain_names[0]
   tags = merge(local.tags, {
     Name = "ideas-offby1-net"
   })
 
   validation_method = "DNS"
 
-  subject_alternative_names = slice(var.domain_names, 1, length(var.domain_names))
+  subject_alternative_names = slice(local.domain_names, 1, length(local.domain_names))
 
   lifecycle {
     create_before_destroy = true
@@ -206,15 +223,18 @@ resource "aws_acm_certificate_validation" "certificate" {
 }
 
 resource "aws_route53_record" "blog" {
-  zone_id = data.aws_route53_zone.zone.zone_id
+  zone_id = data.aws_route53_zone.website.zone_id
   name    = local.domain_name
-  type    = "CNAME"
-  records = ["${aws_cloudfront_distribution.frontend.domain_name}."]
-  ttl     = 1799
+  type    = "A"
+  alias {
+    name                   = aws_cloudfront_distribution.frontend.domain_name
+    zone_id                = aws_cloudfront_distribution.frontend.hosted_zone_id
+    evaluate_target_health = true
+  }
 }
 
 resource "aws_iam_user" "blog_deploy" {
-  name = "${local.domain_name}_blog_deploy"
+  name = "${local.bucket_name}_blog_deploy"
   path = "/s3/"
   tags = local.tags
 
@@ -225,7 +245,7 @@ resource "aws_iam_access_key" "blog_deploy" {
 }
 
 resource "aws_iam_user_policy" "blog_deploy_rw" {
-  name   = "${local.domain_name}_rw"
+  name   = "${local.bucket_name}_rw"
   user   = aws_iam_user.blog_deploy.name
   policy = <<EOF
 {
@@ -239,7 +259,7 @@ resource "aws_iam_user_policy" "blog_deploy_rw" {
       "cloudfront:CreateInvalidation"
     ],
     "Resource": [
-      "arn:aws:s3:::${local.domain_name}",
+      "arn:aws:s3:::${local.bucket_name}",
       "${aws_cloudfront_distribution.frontend.arn}"
     ],
     "Condition": {}
@@ -257,7 +277,7 @@ resource "aws_iam_user_policy" "blog_deploy_rw" {
       "s3:PutObjectAcl",
       "s3:PutObjectAclVersion"
     ],
-    "Resource": "arn:aws:s3:::${local.domain_name}/*",
+    "Resource": "arn:aws:s3:::${local.bucket_name}/*",
     "Condition": {}
   }, {
     "Effect": "Allow",
