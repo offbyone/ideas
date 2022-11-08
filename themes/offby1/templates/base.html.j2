@@ -170,6 +170,11 @@
                                 <a class="{{ item.style }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
                             </li>
                             {% endfor %}
+                            <!-- Here are a few other rel=me links that I want but don't necessarily want to show. -->
+                            <div style="display: none">
+                                <a rel="me" href="https://hachyderm.io/@offby1">Mastodon on Hachyderm</a>
+                                <a rel="me" href="https://freeradical.zone/@offby1">Mastodon on FreeRadical</a>
+                            </div>
                         </ul>
                     </div>
 
