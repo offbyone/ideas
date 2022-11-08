@@ -258,18 +258,25 @@ def get_category(doc: docutils.nodes.document) -> str:
     return v.fields["category"].strip()
 
 
+def content_paths(relative="content/rst", extensions=(".rst",)):
+    for (root, _, files) in os.walk(relative):
+        for f in files:
+            p = Path(root) / f
+            if p.suffix not in extensions:
+                continue
+            yield p
+
+
 @task
 def list_tags(c):
     all_tags: dict[str : set[str]] = {}
 
-    for (root, dirs, files) in os.walk("content/rst"):
-        for f in files:
-            p = Path(root) / f
-            doc = parse_rst(p.read_text())
-            tags = get_tags(doc)
-            category = get_category(doc)
-            for t in tags:
-                all_tags.setdefault(t, set()).add(category)
+    for p in content_paths():
+        doc = parse_rst(p.read_text())
+        tags = get_tags(doc)
+        category = get_category(doc)
+        for t in tags:
+            all_tags.setdefault(t, set()).add(category)
 
     table = Table(show_header=True, header_style="bold magenta")
     table.add_column("Tag")
@@ -285,13 +292,15 @@ def list_tags(c):
 def list_categories(c):
     categories = []
 
-    for (root, dirs, files) in os.walk("content/rst"):
-        for f in files:
-            p = Path(root) / f
+    for p in content_paths():
+        try:
             doc = parse_rst(p.read_text())
-            category = get_category(doc)
-            if category not in categories:
-                categories.append(category)
+        except:
+            print(f"Unable to parse categories from {p}")
+            continue
+        category = get_category(doc)
+        if category not in categories:
+            categories.append(category)
 
     table = Table(show_header=True, header_style="bold magenta")
     table.add_column("Category")
