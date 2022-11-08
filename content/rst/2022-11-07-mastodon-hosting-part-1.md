@@ -52,7 +52,7 @@ I looked into the logs of each component more closely and noticed that the datab
 
 I haven't gone and asked for confirmation of this, but after spending some time troubleshooting with <a href="https://infosec.exchange/@tacertain">Andrew Certain</a> looking at performance numbers, we formed the hypothesis that the shared CPU nature of the instance was giving us misleading load numbers, and we were in fact fully exhausting the CPU we had available despite appearing to be only at 70%.
 
-The only way out of this was either to optimze the Mastodon code -- and that's not off the table! -- or to offload some work.
+The only way out of this was either to optimize the Mastodon code -- and that's not off the table! -- or to offload some work.
 
 ### Mitigation 4 - move the default queue off-host
 
