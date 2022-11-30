@@ -160,6 +160,9 @@ EXTRA_PATH_METADATA = {
     "extra/favicon.ico": {
         "path": "favicon.ico",
     },
+    "extra/.well-known/webfinger": {
+        "path": ".well-known/webfinger",
+    },
 }
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
