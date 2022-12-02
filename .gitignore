@@ -14,3 +14,4 @@ themes/fuji
 !/themes/offby1
 node_modules/
 themes/offby1/static/webfonts/
+requirements-dev*

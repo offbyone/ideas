@@ -8,7 +8,7 @@ Email: offline@offby1.net
 Status: published
 Summary: I inherited the system admin role for a Mastodon instance a couple of months ago, and recently I've needed to scale it. Here's a bit of how that went (and it's not done yet!)
 
-A few months ago, the owners of [wandering.shop](https://wandering.shop)[ref]A small [Mastodon](https://joinmastodon.org) instance focusing on SF/F and crafty folk, mainly[/ref] decided they were looking to hand off ownership (and paying for hosting) for the instance. As I had settled on that instance some time ago for [my own Mastodon home](https://wandering.shop/offby1), I had a vested interest in seeing it stay viable, so I volunteered to take over the technical side of running it.
+A few months ago, the owners of [wandering.shop](https://wandering.shop)[ref]A small [Mastodon](https://joinmastodon.org) instance focusing on SF/F and crafty folk, mainly[/ref] decided they were looking to hand off ownership (and paying for hosting) for the instance. As I had settled on that instance some time ago for [my own Mastodon home](https://wandering.shop/@offby1), I had a vested interest in seeing it stay viable, so I volunteered to take over the technical side of running it.
 
 Fast forward to last week, when _nothing of interest whatsoever occurred in social media_[ref]Actually, [things were rather dramatic](https://web.archive.org/web/20221107081949/https://www.washingtonpost.com/technology/2022/11/06/elon-musk-inner-circle/)[/ref] and we undertook to upgrade the instance software, Mastodon, to the latest, greatest, and hopefully most secure and stable version.
 

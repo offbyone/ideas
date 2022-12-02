@@ -1,3 +1,47 @@
+[project]
+name = "offby1.website"
+description = "My website"
+requires-python = ">= 3.10"
+keywords = [
+  "pelican",
+  "blog",
+  "offby1"
+]
+version = "1.0.0"
+
+dependencies = [
+  "closure",
+  "cssmin",
+  "invoke",
+  "isort>=5.0",
+  "markdown",
+  "mf2py",
+  "pelican-embed-microblog",
+  "pelican-gist",
+  "pelican-githubprojects",
+  "pelican-photos",
+  "pelican-simple-footnotes",
+  "pelican-sitemap",
+  "pelican-tag-cloud",
+  "pelican-webassets",
+  "pelican>=4.5",
+  "piexif",
+  "python-slugify>=4.0",
+  "rich",
+  "webassets",
+  "wheel",
+]
+
+[[authors]]
+name = "Chris Rose"
+email = "offline@offby1.net"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch]
+
 [tool.black]
 line-length = 100
 target-version = ['py38']

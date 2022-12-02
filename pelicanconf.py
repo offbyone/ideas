@@ -91,7 +91,7 @@ DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ["./plugins"]
 PLUGINS = [
-    "embed_tweet",
+    "pelican_embed_microblog",
     "pelican_gist",
     "photos",
     "simple_footnotes",
