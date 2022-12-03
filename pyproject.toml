@@ -16,6 +16,7 @@ dependencies = [
   "isort>=5.0",
   "markdown",
   "mf2py",
+  "pelican-webmention @ git+https://github.com/drivet/pelican-webmention.git",
   "pelican-embed-microblog",
   "pelican-gist",
   "pelican-githubprojects",
@@ -41,6 +42,10 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch]
+
+[tool.hatch.metadata]
+# enabled because we are using the git version of the webmention plugin
+allow-direct-references = true
 
 [tool.black]
 line-length = 100

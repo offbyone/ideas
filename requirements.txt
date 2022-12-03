@@ -42,6 +42,8 @@ markupsafe==2.1.1
     # via jinja2
 mf2py==1.1.2
     # via offby1-website
+mf2util==0.5.1
+    # via pelican-webmention
 pelican==4.8.0
     # via
     #   offby1-website
@@ -50,6 +52,7 @@ pelican==4.8.0
     #   pelican-sitemap
     #   pelican-tag-cloud
     #   pelican-webassets
+    #   pelican-webmention
 pelican-embed-microblog==1.0.0
     # via offby1-website
 pelican-gist==0.3.4
@@ -65,6 +68,8 @@ pelican-sitemap==1.0.2
 pelican-tag-cloud==1.0.1
     # via offby1-website
 pelican-webassets==2.0.0
+    # via offby1-website
+pelican-webmention @ git+https://github.com/drivet/pelican-webmention.git
     # via offby1-website
 piexif==1.1.3
     # via
@@ -85,6 +90,8 @@ pytz==2022.6
     # via
     #   feedgenerator
     #   pelican
+pyyaml==6.0
+    # via pelican-webmention
 requests==2.28.1
     # via
     #   mf2py
@@ -93,6 +100,8 @@ rich==12.6.0
     # via
     #   offby1-website
     #   pelican
+ronkyuu==0.9
+    # via pelican-webmention
 six==1.16.0
     # via
     #   html5lib
