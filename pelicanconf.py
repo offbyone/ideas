@@ -5,9 +5,9 @@ from __future__ import unicode_literals
 import multiprocessing
 from dataclasses import dataclass
 from datetime import datetime
+import os
 from pathlib import Path
 from typing import Optional
-
 import pytz
 
 
@@ -181,3 +181,33 @@ THEMES_I_LIKE = [
 IGNORE_FILES = [".#&", "flycheck_*", "flymake_*"]
 
 REPOSITORY_ROOT = f"file://{ Path(__file__).parent.resolve() }/{ PATH }"
+
+if "IDEAS_EMIT_TIMING" in os.environ:
+    import time
+    import sqlite3
+    from pelican import signals
+    from pelican.generators import Generator
+
+    timing_db = "timings.sqlite3"
+    Path(timing_db).unlink(missing_ok=True)
+    con = sqlite3.connect(timing_db)
+    cur = con.cursor()
+    cur.execute("CREATE TABLE timings(path, start, end)")
+
+    @signals.article_generator_preread.connect
+    def start_time(generator: Generator):
+        with sqlite3.connect(timing_db) as con:
+            cur = con.cursor()
+            cur.execute(
+                "INSERT INTO timings (path, start) VALUES (?, ?)",
+                (generator.path, int(time.perf_counter() * 1000)),
+            )
+
+    @signals.article_generator_context.connect
+    def stop_time(generator: Generator, metadata):
+        with sqlite3.connect(timing_db) as con:
+            cur = con.cursor()
+            cur.execute(
+                "UPDATE timings SET end=? WHERE path = ?",
+                (int(time.perf_counter() * 1000), generator.path),
+            )
