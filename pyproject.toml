@@ -47,6 +47,24 @@ build-backend = "hatchling.build"
 # enabled because we are using the git version of the webmention plugin
 allow-direct-references = true
 
+[tool.hatch.envs.dev]
+extra-dependencies = [
+  "flameprof",
+  "viztracer",
+  "orjson",
+  "rich",
+]
+
+[tool.hatch.envs.dev.scripts]
+cprofile = [
+  "python -m cProfile -o pelican.prof -m pelican",
+  "flameprof pelican.prof > pelican.svg",
+]
+
+perf = [
+  "viztracer -o result.json -m pelican",
+]
+
 [tool.black]
 line-length = 100
 target-version = ['py38']
