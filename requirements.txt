@@ -53,13 +53,13 @@ pelican==4.8.0
     #   pelican-tag-cloud
     #   pelican-webassets
     #   pelican-webmention
-pelican-embed-microblog==1.0.0
+pelican-embed-microblog==1.0.1
     # via offby1-website
 pelican-gist==0.3.4
     # via offby1-website
 pelican-githubprojects==0.1.1
     # via offby1-website
-pelican-photos==1.4.0
+pelican-photos==1.3.0
     # via offby1-website
 pelican-simple-footnotes==1.0.2
     # via offby1-website
@@ -75,7 +75,7 @@ piexif==1.1.3
     # via
     #   offby1-website
     #   pelican-photos
-pillow==9.3.0
+pillow==8.4.0
     # via pelican-photos
 pygments==2.13.0
     # via

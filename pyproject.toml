@@ -20,7 +20,7 @@ dependencies = [
   "pelican-embed-microblog",
   "pelican-gist",
   "pelican-githubprojects",
-  "pelican-photos",
+  "pelican-photos < 1.4",
   "pelican-simple-footnotes",
   "pelican-sitemap",
   "pelican-tag-cloud",
