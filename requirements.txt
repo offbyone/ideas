@@ -10,7 +10,7 @@ beautifulsoup4==4.11.1
     #   pelican-embed-microblog
 blinker==1.5
     # via pelican
-certifi==2022.9.24
+certifi==2022.12.7
     # via requests
 charset-normalizer==2.1.1
     # via requests
@@ -44,6 +44,8 @@ mf2py==1.1.2
     # via offby1-website
 mf2util==0.5.1
     # via pelican-webmention
+offby1.website @ file:///home/dependabot/dependabot-updater/tmp/dependabot_20221208-6-opx7as
+    # via -r requirements.in
 pelican==4.8.0
     # via
     #   offby1-website
@@ -122,6 +124,3 @@ webencodings==0.5.1
     # via html5lib
 wheel==0.38.4
     # via offby1-website
-
-# The following packages are considered to be unsafe in a requirements file:
-# offby1-website
