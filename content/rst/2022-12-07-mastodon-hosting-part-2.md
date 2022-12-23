@@ -47,6 +47,20 @@ We are running the docker version of Mastodon, version 4.0.2 as of this writing.
 
 The software is the thing I'm least engaged with right now; it _just works_ for the purposes of running a Mastodon instance, which is exactly what you want.
 
+## Managing the Server
+
+Our service is configured nearly entirely using Ansible, in a set of playbooks and roles that define the different components of the application. That means I can spin up new queue servers relatively quickly (not _entirely_ from boot, but close!) and ensures we all know what we're running.
+
+# The Future of the Service
+
+I've got a few plans for the service that I want to make happen. First[ref]Actually, this is already done[/ref] I intend to move the Rails server so that it is not co-tenanted with the database. That'll be a huge win for scaling,
+
+Second, I'm going to put the media behind a CDN, probably CloudFront to start, and then maybe Fastly if the costs work out. We are paying through the _nose_ to host our media on S3, and that bleeding needs to stop.
+
+Third, I want to move the raw objects from the media store to a cheaper object store. DigitalOcean has options there.
+
+Fourth, it'd be keen to get infrastructure code in place to manage our DNS and our tailnet. That's in the plans -- I'm betting terraform will end up in the story somewhere.
+
 # Other Areas of Interest?
 
 If there's any interest in more of how this works, I'd be happy to see your comments. Just link this page and ask me anything.
