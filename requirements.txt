@@ -10,7 +10,7 @@ beautifulsoup4==4.11.1
     #   pelican-embed-microblog
 blinker==1.5
     # via pelican
-certifi==2022.9.24
+certifi==2022.12.7
     # via requests
 charset-normalizer==2.1.1
     # via requests
@@ -32,7 +32,7 @@ idna==3.4
     # via requests
 invoke==1.7.3
     # via offby1-website
-isort==5.10.1
+isort==5.11.2
     # via offby1-website
 jinja2==3.1.2
     # via pelican
@@ -53,7 +53,7 @@ pelican==4.8.0
     #   pelican-tag-cloud
     #   pelican-webassets
     #   pelican-webmention
-pelican-embed-microblog==1.0.1
+pelican-embed-microblog==1.1.0
     # via offby1-website
 pelican-gist==0.3.4
     # via offby1-website
