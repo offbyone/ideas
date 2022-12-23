@@ -81,10 +81,9 @@ LINKS = [
 
 # Social widget
 SOCIAL = (
-    Social("Twitter", "https://twitter.com/offby1"),
     Social("Wandering.Shop", "https://wandering.shop/@offby1", network="mastodon"),
+    Social("Twitter", "https://twitter.com/offby1"),
     Social("Github", "https://github.com/offbyone"),
-    Social("Keybase", "https://keybase.io/offby1"),
 )
 
 DEFAULT_PAGINATION = 10
