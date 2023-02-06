@@ -259,7 +259,7 @@ def get_category(doc: docutils.nodes.document) -> str:
 
 
 def content_paths(relative="content/rst", extensions=(".rst",)):
-    for (root, _, files) in os.walk(relative):
+    for root, _, files in os.walk(relative):
         for f in files:
             p = Path(root) / f
             if p.suffix not in extensions:
