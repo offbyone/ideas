@@ -5,7 +5,7 @@ I'm Not a Misanthrope
     :format: html
 
 :slug: misanthropy
-:date: 2020-02-07 12:30 PST
+:date: 2020-02-07T12:30:00-0800
 :category: society
 :tags: attitude, misanthropy, feminism, bigotry
 :author: Chris Rose
