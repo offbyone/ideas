@@ -12,6 +12,7 @@ version = "1.0.0"
 dependencies = [
   "closure",
   "cssmin",
+  "feed2toot",
   "invoke",
   "isort>=5.0",
   "markdown",
