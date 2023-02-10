@@ -90,6 +90,7 @@ DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ["./plugins"]
 PLUGINS = [
+    "link_toot",
     "pelican_embed_microblog",
     "pelican_gist",
     "photos",

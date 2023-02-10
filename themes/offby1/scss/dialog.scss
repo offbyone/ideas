@@ -1,0 +1,17 @@
+[data-component*="dialog"] * {
+  box-sizing: border-box;
+  outline-color: var(--dlg-out, #1346a0);
+}
+
+:where([data-component*="dialog"]) {
+  --dlg-gap: 1em;
+  background: var(--dlg-bg, #fff);
+  border: var(--dlg-b, 0);
+  border-radius: var(--dlg-bdrs, 0.25em);
+  box-shadow: var(--dlg-bxsh, 0px 25px 50px -12px rgba(0, 0, 0, 0.25));
+  font-family: $body-font;
+  min-inline-size: var(--dlg-mis, auto);
+  padding: var(--dlg-p, var(--dlg-gap));
+  width: var(--dlg-w, fit-content);
+  color: var(--dlg-color, #000);
+}

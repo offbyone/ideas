@@ -1,3 +1,10 @@
+.comments {
+  --dlg-bg: var(--color-codebg);
+  --dlg-color: var(--color-font);
+  --dlg-out: var(--color-divider);
+  --dlg-w: 600px;
+}
+
 @mixin light {
   --color-mode: 'light';
   --color-primary: #{$light-color-primary};

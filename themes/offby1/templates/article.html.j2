@@ -14,6 +14,13 @@
         <meta name="description" content="{{ article.summary|striptags|escape }}" />
     {% endif %}
 {% endblock %}
+{% block scripts %}
+    {% if article.toot is defined %}
+        {% assets output="js/purify.js", "purify.min.js" %}
+        <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
+        {% endassets %}
+    {% endif %}
+{% endblock %}
 {% block opengraph %}
     {% if USE_OPEN_GRAPH %}
         {% if OPEN_GRAPH_FB_APP_ID %}
@@ -81,6 +88,103 @@
                     {% endfor %}
                 </div>
                 {% endif %}
+                {% if article.toot %}
+                <div class="comments">
+                    <h3>Feedback</h3>
+                    <p>You can reply to <a href="https://{{article.toot.domain}}/{{article.toot.username}}/{{article.toot.id}}">this post via Mastodon</a>: <button id="replyButton" href="https://{{ article.toot.domain }}/{{ article.toot.username }}/{{ article.toot.id }}">Reply</button></p>
+                    <p id="mastodon-comments-list">Waiting to load comments</p>
+                    <dialog id="toot-reply" class="mastodon" data-component="dialog">
+                        <h3>Reply to {{ article.toot.username }}'s post</h3>
+                        <p>
+                            With an account on the Fediverse or Mastodon, you
+                            can respond to this post. Since Mastodon is
+                            decentralized, you can use your existing account
+                            hosted by another Mastodon server or compatible
+                            platform if you don't have an account on this one.
+                        </p>
+                        <p>Copy and paste this URL into the search field of your favourite Fediverse app or the web interface of your Mastodon server.</p>
+                        <div class="copypaste">
+                            <input type="text" readonly="" value="https://{{ article.toot.domain }}/{{ article.toot.username }}/{{ article.toot.id }}">
+                            <button class="button" id="copyButton">Copy</button>
+                            <button class="button" id="cancelButton">Close</button>
+                        </div>
+                    </dialog>
+                    <noscript><p>You need JavaScript to view the comments.</p></noscript>
+                    <script type="text/javascript">
+                        const dialog = document.querySelector('dialog');
+
+                        document.getElementById('replyButton').addEventListener('click', () => {
+                            dialog.showModal();
+                        });
+
+                        document.getElementById('copyButton').addEventListener('click', () => {
+                          navigator.clipboard.writeText('https://{{ article.toot.domain }}/@{{ article.toot.username }}/{{ article.toot.id }}');
+                        });
+
+                        document.getElementById('cancelButton').addEventListener('click', () => {
+                          dialog.close();
+                        });
+
+                        dialog.addEventListener('keydown', e => {
+                          if (e.key === 'Escape') dialog.close();
+                        });
+
+                        function escapeHtml(unsafe) {
+                          return unsafe
+                               .replace(/&/g, "&amp;")
+                               .replace(/</g, "&lt;")
+                               .replace(/>/g, "&gt;")
+                               .replace(/"/g, "&quot;")
+                               .replace(/'/g, "&#039;");
+                       }
+
+                        document.addEventListener("DOMContentLoaded", function() {
+                          document.getElementById("mastodon-comments-list").innerHTML = "Loading comments...";
+
+                          fetch('https://{{ article.toot.domain }}/api/v1/statuses/{{ article.toot.id }}/context')
+                            .then(function(response) {
+                               return response.json();
+                            })
+                            .then(function(data) {
+                              if(data &&
+                                 data['descendants'] &&
+                                 Array.isArray(data['descendants']) &&
+                                data['descendants'].length > 0) {
+                                  document.getElementById('mastodon-comments-list').innerHTML = "";
+                                  data['descendants'].forEach(function(reply) {
+                                    reply.account.display_name = escapeHtml(reply.account.display_name);
+                                    reply.account.emojis.forEach(emoji => {
+                                      reply.account.display_name = reply.account.display_name.replace(`:${emoji.shortcode}:`,
+                                        `<img src="${escapeHtml(emoji.static_url)}" alt="Emoji ${emoji.shortcode}" height="20" width="20" />`);
+                                    });
+                                    mastodonComment =
+                                      `<div class="mastodon-comment post-comment">
+                                         <div class="avatar">
+                                           <img src="${escapeHtml(reply.account.avatar_static)}" height=60 width=60 alt="">
+                                         </div>
+                                         <div class="content">
+                                           <div class="author">
+                                             <a href="${reply.account.url}" rel="nofollow">
+                                               <span>${reply.account.display_name}</span>
+                                               <span class="disabled">${escapeHtml(reply.account.acct)}</span>
+                                             </a>
+                                             <a class="date" href="${reply.uri}" rel="nofollow">
+                                               ${reply.created_at.substr(0, 10)}
+                                             </a>
+                                           </div>
+                                           <div class="mastodon-comment-content">${reply.content}</div>
+                                         </div>
+                                       </div>`;
+                                    document.getElementById('mastodon-comments-list').appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
+                                  });
+                              } else {
+                                document.getElementById('mastodon-comments-list').innerHTML = "<p>Not comments found</p>";
+                              }
+                            });
+                          });
+                    </script>
+                </div>
+                {% else %}
                 <div class="no-comments">
                     <h3>Feedback</h3>
 
@@ -91,6 +195,7 @@
                         <a class="sc-twitter" href="https://twitter.com/intent/tweet?text=I%20just%20read%20this%20post%20by%20%40offby1%20and%20I%20think%20that...&url={{
                     article_url | urlencode }}">@offby1</a> or tag me on <span class="fa-brands fa-mastodon"></span> <a class="sc-mastodon" href="https://wandering.shop/@offby1">wandering.shop</a></p>
                 </div>
+              {% endif %}
             </div>
         </div>
     </article>
