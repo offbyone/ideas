@@ -10,7 +10,7 @@ Into The West
 :tags: AWS, changes
 :author: Chris Rose
 :email: offline@offby1.net
-:toot: domain=wandering.shop,username=@offby1,id=108837036785290901
+:toot: https://wandering.shop/@offby1/108837036785290901
 :summary: Being an account of the emotional side of leaving an employer that has defined one's career.
 :status: published
 
