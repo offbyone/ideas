@@ -14,18 +14,19 @@ from pelican.contents import Content
 
 log = logging.getLogger("link_toot")
 
+
 @dataclass
 class Toot:
     domain: str
     username: str
     id: str
 
+
 def parse_toot(content: Content):
     if not "toot" in content.metadata:
         return
 
     toot_str = content.metadata["toot"]
-
 
     try:
         toot_parts = [p.strip() for p in toot_str.split(",")]
@@ -60,6 +61,7 @@ def parse_toot(content: Content):
         del content.metadata["toot"]
         del content.toot
         return
+
 
 def register():
     signals.content_object_init.connect(parse_toot)
