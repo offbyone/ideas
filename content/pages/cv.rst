@@ -55,7 +55,7 @@ Past Employment
 Sept 2022 - Present: DAG vendor
 ...............................
 
-**GitHub**[ref]The capital G, capital H *really* matter[/ref]
+**GitHub**
 
 Staff Software Engineer, Deployment
 
