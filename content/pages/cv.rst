@@ -52,10 +52,19 @@ University of Alberta
 Past Employment
 ---------------
 
-May 2011 - Present: All kinds of Cloud Things
-.............................................
+Sept 2022 - Present: DAG vendor
+...............................
 
-**Amazon Web Services**
+**GitHub**[ref]The capital G, capital H *really* matter[/ref]
+
+Staff Software Engineer, Deployment
+
+- There would be more bullet points here, but give me time, I'm new!
+
+May 2011 - Aug 2022: All kinds of Cloud Things
+..............................................
+
+****Amazon Web Services**
 
 Senior Software Engineer. Expertise in build systems, Python, deployment safety.
 
