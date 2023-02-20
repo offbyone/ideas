@@ -18,6 +18,13 @@ I've become a huge fan of Tailscale_ as a VPN / software-defined network for my 
 
 Now, there are ways around this; I could, for example, have a ``CNAME`` that points to the tailnet address. That'd be the *easy* way. Instead, what I built (and it's not super complicated!) is a reverse proxy living in a cloud provider, with a dedicated public IP, that acts as a bridge to my tailnet.
 
+What are the goals, here?
+@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Why am I even doing this? Well, I don't like the idea of punching open ports in my firewall, especially not for every random idea I want to host. Ideally, I want to use the standard HTTPS port, too, for everything. I *could* do this using CNAMEs for my home network address, but my ISP doesn't give me a static IP, and then won't even sell me one.
+
+This solution gives me a static public IP, an easy way to add new endpoints on standard HTTP ports, and no need to punch a hole in the house firewall, since tailscale provides secure transport between here and that proxy.
+
 Bill of Materials
 @@@@@@@@@@@@@@@@@
 
