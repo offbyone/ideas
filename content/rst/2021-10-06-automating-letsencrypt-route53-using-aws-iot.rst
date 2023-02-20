@@ -6,7 +6,7 @@ Using AWS IoT to provision an IAM role for home lab devices
 
 :slug: automating-letsencrypt-route53-using-aws-iot
 :date: 2021-10-06T23:17:22.563676
-:category: programming
+:category: homelab
 :tags: aws, iot, terraform, ansible, letsencrypt, automation
 :author: Chris Rose
 :email: offline@offby1.net
