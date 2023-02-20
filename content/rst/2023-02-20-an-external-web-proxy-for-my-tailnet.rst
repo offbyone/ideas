@@ -12,6 +12,7 @@ An External Web Proxy for my Tailnet
 :email: offline@offby1.net
 :status: published
 :summary: Exposing web APIs on my tailnet to the world
+:toot: https://wandering.shop/@offby1/109898670642861642
 
 I've become a huge fan of Tailscale_ as a VPN / software-defined network for my homelab. They've even introduced a really fantastic new alpha feature "Funnels" that lets you expose a service to the internet at :code:`https://<your-hostname>.<your-tailnet>`. It's really cool... **but** the URL you get is forever tied to Tailscale, instead of being on your own domain.
 
