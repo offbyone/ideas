@@ -1,11 +1,11 @@
 Title: Bits: Prometheus on Tailscale and fly.io
 Slug: bits-prometheus-on-tailscale-and-fly-io
-Date: 2023-01-21T21:21:58.326668
+Date: 2023-02-21T21:21:58.326668
 Category: sys
 Tags: docker, tailscale, homelab, fly.io
 Author: Chris Rose
 Email: offline@offby1.net
-Status: published
+Status: draft
 Summary: A quick post about running Prometheus on fly.io (even on the free tier!) connected to tailscale
 
 As an admin for [wandering.shop](https://wandering.shop) I find it useful to be able to see how the shop is doing, metrics-wise. I'm not a genius at operations, but I can read a dashboard... so I wanted to have one for the shop.
