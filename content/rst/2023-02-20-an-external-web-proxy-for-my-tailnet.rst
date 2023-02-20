@@ -7,7 +7,7 @@ An External Web Proxy for my Tailnet
 :slug: an-external-web-proxy-for-my-tailnet
 :date: 2023-02-20T09:34:18.354245
 :category: homelab
-:tags: internet letsencrypt tailscale terraform
+:tags: internet, letsencrypt, tailscale, terraform, bookwyrm
 :author: Chris Rose
 :email: offline@offby1.net
 :status: published
