@@ -123,7 +123,7 @@ Notable things in this block are that I disabled ssh with a password, provided m
  The Software
 ==============
 
-I'm going to skip the Ansible part of my setup, because it's got a lot of other complexity that doens't matter here, and just dig into how I installed the two key software components on the host.
+I'm going to skip the Ansible part of my setup, because it's got a lot of other complexity that doesn't matter here, and just dig into how I installed the two key software components on the host.
 
 First, install tailscale. This follows `their instructions <https://tailscale.com/kb/1031/install-linux/>`_ more or less to a T:
 
