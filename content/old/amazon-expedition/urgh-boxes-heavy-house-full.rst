@@ -17,7 +17,7 @@ dressers, a stereo, an end table, some old baby toys, and six bookcases.
 
 Yep, six bookcases. In a case of amazing coincidence, just as
 `mayttvw <https://twitter.com/#!/mayttvw/status/91935205018963968>`__
-was tweeting about `this <http://t.co/6HsmMsz>`__, I was cataloguing and
+was tweeting about this, I was cataloguing and
 boxing 2/3 of our book collection for eventual resale. Char and I are
 converting to digital, slowly but surely, and this was a necessary step.
 I've kept the best parts, in my opinion, and packed up for sale a lot of
