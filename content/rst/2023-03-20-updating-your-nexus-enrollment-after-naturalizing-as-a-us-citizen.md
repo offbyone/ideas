@@ -7,6 +7,7 @@ Author: Chris Rose
 Email: offline@offby1.net
 Summary: I recently naturalized as a US citizen and I had a hell of a time identifying exactly which steps I needed to take to get my Nexus card updated to reflect my new citizenship status. Here, I list out the steps that were needed in practice to update my card to reflect my dual citizenship.
 Status: published
+Toot: https://wandering.shop/@offby1/110058483223840031
 
 I recently naturalized as a US citizen and I had a hell of a time identifying exactly which steps I needed to take to get my Nexus card updated to reflect my new citizenship status. Thanks to a tip from [Adam Harvey](https://tldr.nettime.org/@adam_harvey) while socializing at PyCascades in Vancouver, though, I believe I have it sorted.
 
