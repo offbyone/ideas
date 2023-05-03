@@ -15,7 +15,7 @@ module "log_storage" {
   s3_logs_path  = "s3-log-"
   cdn_logs_path = "cf-log-"
   readers       = [data.aws_caller_identity.current.account_id]
-  source        = "github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs?ref=v0.4.1"
+  source        = "github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs?ref=v0.4.2"
   tags          = local.tags
 }
 
@@ -95,6 +95,15 @@ EOF
     target_prefix = module.log_storage.s3_logs_path
   }
 
+  server_side_encryption_configuration {
+    rule {
+      bucket_key_enabled = false
+      apply_server_side_encryption_by_default {
+        sse_algorithm = "AES256"
+      }
+    }
+  }
+
   tags = local.tags
 
 }
@@ -105,6 +114,17 @@ resource "aws_s3_bucket" "wwwblog" {
   website {
     redirect_all_requests_to = local.bucket_name
   }
+
+
+  server_side_encryption_configuration {
+    rule {
+      bucket_key_enabled = false
+      apply_server_side_encryption_by_default {
+        sse_algorithm = "AES256"
+      }
+    }
+  }
+
   tags = local.tags
 }
 
