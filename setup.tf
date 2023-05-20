@@ -5,7 +5,7 @@ module "log_storage" {
   s3_logs_path  = "s3-log-"
   cdn_logs_path = "cf-log-"
   readers       = [data.aws_caller_identity.current.account_id]
-  source        = "github.com/offbyone/terraform-aws-s3-bucket-for-logs?ref=v0.7.2"
+  source        = "github.com/offbyone/terraform-aws-s3-bucket-for-logs?ref=v0.7.3"
   tags          = local.tags
 }
 
@@ -53,7 +53,38 @@ locals {
 resource "aws_s3_bucket" "blog" {
   depends_on = [module.log_storage.s3_logs_bucket]
   bucket     = local.bucket_name
-  acl        = "public-read"
+
+  tags = local.tags
+}
+
+resource "aws_s3_bucket_acl" "blog" {
+  bucket = aws_s3_bucket.blog.id
+}
+
+resource "aws_s3_bucket_website_configuration" "blog" {
+  bucket = aws_s3_bucket.blog.id
+
+  index_document {
+    suffix = "index.html"
+  }
+  error_document {
+    key = "error.html"
+  }
+}
+
+resource "aws_s3_bucket_server_side_encryption_configuration" "blog" {
+  bucket = aws_s3_bucket.blog.id
+
+  rule {
+    bucket_key_enabled = false
+    apply_server_side_encryption_by_default {
+      sse_algorithm = "AES256"
+    }
+  }
+}
+
+resource "aws_s3_bucket_cors_configuration" "blog" {
+  bucket = aws_s3_bucket.blog.id
 
   cors_rule {
     allowed_headers = ["*"]
@@ -62,28 +93,12 @@ resource "aws_s3_bucket" "blog" {
     expose_headers  = ["ETag"]
     max_age_seconds = 0
   }
+}
 
-  website {
-    index_document = "index.html"
-    error_document = "error.html"
-  }
-
-  logging {
-    target_bucket = module.log_storage.s3_logs_bucket
-    target_prefix = module.log_storage.s3_logs_path
-  }
-
-  server_side_encryption_configuration {
-    rule {
-      bucket_key_enabled = false
-      apply_server_side_encryption_by_default {
-        sse_algorithm = "AES256"
-      }
-    }
-  }
-
-  tags = local.tags
-
+resource "aws_s3_bucket_logging" "blog" {
+  bucket        = aws_s3_bucket.blog.id
+  target_bucket = module.log_storage.s3_logs_bucket
+  target_prefix = module.log_storage.s3_logs_path
 }
 
 resource "aws_s3_bucket_public_access_block" "blog" {
@@ -95,33 +110,100 @@ resource "aws_s3_bucket_public_access_block" "blog" {
   restrict_public_buckets = true
 }
 
+data "aws_iam_policy_document" "policy" {
+  statement {
+    sid = "AllowCloudFrontServicePrincipal"
+    principals {
+      type        = "Service"
+      identifiers = ["cloudfront.amazonaws.com"]
+    }
+
+    actions = ["s3:GetObject"]
+
+    resources = ["${aws_s3_bucket.blog.arn}/*"]
+
+    condition {
+      test     = "StringEquals"
+      variable = "AWS:SourceArn"
+      values   = [aws_cloudfront_distribution.frontend.arn]
+    }
+  }
+
+  statement {
+    sid = "AllowDeploymentBucket"
+    principals {
+      type = "AWS"
+      identifiers = [
+        aws_iam_user.blog_deploy.arn,
+        "arn:aws:iam::${data.aws_caller_identity.current.account_id}:root"
+      ]
+    }
+
+    actions = [
+      "s3:ListBucketMultipartUploads",
+      "s3:ListBucket",
+      "s3:GetBucketLocation",
+    ]
+
+    resources = [aws_s3_bucket.blog.arn]
+  }
+
+  statement {
+    sid = "AllowDeploymentFiles"
+    principals {
+      type = "AWS"
+      identifiers = [
+        aws_iam_user.blog_deploy.arn,
+        "arn:aws:iam::${data.aws_caller_identity.current.account_id}:root"
+      ]
+    }
+
+    actions = [
+      "s3:AbortMultipartUpload",
+      "s3:DeleteObject",
+      "s3:DeleteObjectVersion",
+      "s3:GetObject",
+      "s3:GetObjectAcl",
+      "s3:GetObjectVersion",
+      "s3:GetObjectVersionAcl",
+      "s3:PutObject",
+      "s3:PutObjectAcl",
+    ]
+
+    resources = ["${aws_s3_bucket.blog.arn}/*"]
+  }
+}
+
 resource "aws_s3_bucket_policy" "policy" {
   bucket = aws_s3_bucket.blog.id
-  policy = templatefile("${path.module}/templates/bucket-policy.json", {
-    bucket_name                 = local.bucket_name
-    cloudfront_distribution_arn = aws_cloudfront_distribution.frontend.arn
-  })
+  policy = data.aws_iam_policy_document.policy.json
 }
 
 
 resource "aws_s3_bucket" "wwwblog" {
   bucket = "www.${local.bucket_name}"
-  acl    = "public-read"
-  website {
-    redirect_all_requests_to = local.bucket_name
-  }
+  tags   = local.tags
+}
 
+resource "aws_s3_bucket_acl" "wwwblog" {
+  bucket = aws_s3_bucket.wwwblog.id
+}
 
-  server_side_encryption_configuration {
-    rule {
-      bucket_key_enabled = false
-      apply_server_side_encryption_by_default {
-        sse_algorithm = "AES256"
-      }
+resource "aws_s3_bucket_server_side_encryption_configuration" "wwwblog" {
+  bucket = aws_s3_bucket.wwwblog.id
+  rule {
+    bucket_key_enabled = false
+    apply_server_side_encryption_by_default {
+      sse_algorithm = "AES256"
     }
   }
+}
 
-  tags = local.tags
+resource "aws_s3_bucket_website_configuration" "wwwblog" {
+  bucket = aws_s3_bucket.wwwblog.id
+  redirect_all_requests_to {
+    host_name = local.bucket_name
+  }
 }
 
 resource "aws_cloudfront_distribution" "frontend" {
@@ -290,8 +372,7 @@ resource "aws_iam_user_policy" "blog_deploy_rw" {
       "s3:GetObjectVersion",
       "s3:GetObjectVersionAcl",
       "s3:PutObject",
-      "s3:PutObjectAcl",
-      "s3:PutObjectAclVersion"
+      "s3:PutObjectAcl"
     ],
     "Resource": "arn:aws:s3:::${local.bucket_name}/*",
     "Condition": {}
