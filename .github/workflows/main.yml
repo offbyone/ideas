@@ -9,6 +9,11 @@ on:
 
 jobs:
   deploy:
+    # These permissions are needed to interact with GitHub's OIDC Token endpoint.
+    permissions:
+      id-token: write
+      contents: read
+
     runs-on: ubuntu-latest
 
     steps:
