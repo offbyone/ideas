@@ -54,18 +54,6 @@ resource "aws_s3_bucket" "blog" {
   depends_on = [module.log_storage.s3_logs_bucket]
   bucket     = local.bucket_name
   acl        = "public-read"
-  policy     = <<EOF
-{
-  "Version": "2012-10-17",
-  "Statement": [{
-    "Sid": "AddPerm",
-    "Effect": "Allow",
-    "Principal": "*",
-    "Action": "s3:GetObject",
-    "Resource": "arn:aws:s3:::${local.bucket_name}/*"
-  }]
-}
-EOF
 
   cors_rule {
     allowed_headers = ["*"]
@@ -98,6 +86,24 @@ EOF
 
 }
 
+resource "aws_s3_bucket_public_access_block" "blog" {
+  bucket = aws_s3_bucket.blog.id
+
+  block_public_acls       = true
+  block_public_policy     = true
+  ignore_public_acls      = true
+  restrict_public_buckets = true
+}
+
+resource "aws_s3_bucket_policy" "policy" {
+  bucket = aws_s3_bucket.blog.id
+  policy = templatefile("${path.module}/templates/bucket-policy.json", {
+    bucket_name                 = local.bucket_name
+    cloudfront_distribution_arn = aws_cloudfront_distribution.frontend.arn
+  })
+}
+
+
 resource "aws_s3_bucket" "wwwblog" {
   bucket = "www.${local.bucket_name}"
   acl    = "public-read"
@@ -120,22 +126,14 @@ resource "aws_s3_bucket" "wwwblog" {
 
 resource "aws_cloudfront_distribution" "frontend" {
   depends_on = [aws_s3_bucket.blog]
+  comment    = "offby1.website hosting"
 
   origin {
-    custom_origin_config {
-      http_port              = 80
-      https_port             = 443
-      origin_protocol_policy = "http-only"
-      origin_ssl_protocols   = ["TLSv1", "TLSv1.1", "TLSv1.2"]
-    }
-
     // Important to use this format of origin domain name, it is the only format that
     // supports S3 redirects with CloudFront
-    domain_name = aws_s3_bucket.blog.bucket_domain_name
-    // domain_name = "${var.bucket_name}.s3-website-${var.aws_region}.amazonaws.com"
-
-    origin_id = var.s3_origin_id
-    # origin_path = var.origin_path
+    domain_name              = aws_s3_bucket.blog.bucket_domain_name
+    origin_id                = var.s3_origin_id
+    origin_access_control_id = aws_cloudfront_origin_access_control.blog.id
   }
 
   enabled             = true
@@ -181,6 +179,14 @@ resource "aws_cloudfront_distribution" "frontend" {
   }
 
   tags = local.tags
+}
+
+resource "aws_cloudfront_origin_access_control" "blog" {
+  name                              = aws_s3_bucket.blog.bucket_domain_name
+  description                       = "Access to ${local.bucket_name}"
+  origin_access_control_origin_type = "s3"
+  signing_behavior                  = "always"
+  signing_protocol                  = "sigv4"
 }
 
 data "aws_cloudfront_cache_policy" "none" {
