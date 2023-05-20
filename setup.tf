@@ -1,13 +1,3 @@
-provider "aws" {
-  profile = "me"
-  region  = "us-west-2"
-}
-
-provider "aws" {
-  alias  = "useast1"
-  region = "us-east-1"
-}
-
 data "aws_caller_identity" "current" {}
 
 module "log_storage" {
@@ -15,7 +5,7 @@ module "log_storage" {
   s3_logs_path  = "s3-log-"
   cdn_logs_path = "cf-log-"
   readers       = [data.aws_caller_identity.current.account_id]
-  source        = "github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs?ref=v0.4.2"
+  source        = "github.com/offbyone/terraform-aws-s3-bucket-for-logs?ref=v0.7.2"
   tags          = local.tags
 }
 
