@@ -378,3 +378,28 @@ resource "aws_iam_role" "blog_deploy" {
   tags               = local.tags
   assume_role_policy = data.aws_iam_policy_document.deployer.json
 }
+
+data "aws_iam_policy_document" "deploy" {
+  statement {
+    sid     = "AllowS3"
+    effect  = "Allow"
+    actions = ["s3:*"]
+    resources = [
+      "${aws_s3_bucket.blog.arn}/*",
+      aws_s3_bucket.blog.arn
+    ]
+  }
+  statement {
+    sid     = "AllowCloudFront"
+    effect  = "Allow"
+    actions = ["cloudfront:CreateInvalidation"]
+    resources = [
+      aws_cloudfront_distribution.frontend.arn
+    ]
+  }
+}
+
+resource "aws_iam_role_policy" "cloudfront" {
+  role   = aws_iam_role.blog_deploy.name
+  policy = data.aws_iam_policy_document.deploy.json
+}
