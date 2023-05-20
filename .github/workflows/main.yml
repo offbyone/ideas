@@ -15,11 +15,12 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v1
+        uses: aws-actions/configure-aws-credentials@v2
         with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-west-2
+          role-to-assume: arn:aws:iam::984616268605:role/ideas-deployer
+          role-session-name: deploy-ideas
+          mask-aws-account-id: false
 
       - name: Set up Python 3
         uses: actions/setup-python@v2

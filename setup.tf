@@ -134,7 +134,7 @@ data "aws_iam_policy_document" "policy" {
     principals {
       type = "AWS"
       identifiers = [
-        aws_iam_user.blog_deploy.arn,
+        aws_iam_role.blog_deploy.arn,
         "arn:aws:iam::${data.aws_caller_identity.current.account_id}:root"
       ]
     }
@@ -153,7 +153,7 @@ data "aws_iam_policy_document" "policy" {
     principals {
       type = "AWS"
       identifiers = [
-        aws_iam_user.blog_deploy.arn,
+        aws_iam_role.blog_deploy.arn,
         "arn:aws:iam::${data.aws_caller_identity.current.account_id}:root"
       ]
     }
@@ -331,59 +331,50 @@ resource "aws_route53_record" "blog" {
   }
 }
 
-resource "aws_iam_user" "blog_deploy" {
-  name = "${local.bucket_name}_blog_deploy"
-  path = "/s3/"
-  tags = local.tags
-
+data "aws_iam_user" "me" {
+  user_name = "chrisros"
 }
 
-resource "aws_iam_access_key" "blog_deploy" {
-  user = aws_iam_user.blog_deploy.name
+data "aws_iam_openid_connect_provider" "github" {
+  url = "https://token.actions.githubusercontent.com"
 }
 
-resource "aws_iam_user_policy" "blog_deploy_rw" {
-  name   = "${local.bucket_name}_rw"
-  user   = aws_iam_user.blog_deploy.name
-  policy = <<EOF
-{
-  "Version": "2012-10-17",
-  "Statement": [{
-    "Effect": "Allow",
-    "Action": [
-      "s3:ListBucketMultipartUploads",
-      "s3:ListBucket",
-      "s3:GetBucketLocation",
-      "cloudfront:CreateInvalidation"
-    ],
-    "Resource": [
-      "arn:aws:s3:::${local.bucket_name}",
-      "${aws_cloudfront_distribution.frontend.arn}"
-    ],
-    "Condition": {}
-  }, {
-    "Effect": "Allow",
-    "Action": [
-      "s3:AbortMultipartUpload",
-      "s3:DeleteObject",
-      "s3:DeleteObjectVersion",
-      "s3:GetObject",
-      "s3:GetObjectAcl",
-      "s3:GetObjectVersion",
-      "s3:GetObjectVersionAcl",
-      "s3:PutObject",
-      "s3:PutObjectAcl"
-    ],
-    "Resource": "arn:aws:s3:::${local.bucket_name}/*",
-    "Condition": {}
-  }, {
-    "Effect": "Allow",
-    "Action": "s3:ListAllMyBuckets",
-    "Resource": "*",
-    "Condition": {}
+data "aws_iam_policy_document" "deployer" {
+  statement {
+    effect = "Allow"
+    principals {
+      type = "AWS"
+      identifiers = [
+        data.aws_iam_user.me.arn
+      ]
+    }
+    actions = ["sts:AssumeRole"]
   }
-]
-}
-EOF
+
+  statement {
+    effect = "Allow"
+    principals {
+      type = "Federated"
+      identifiers = [
+        data.aws_iam_openid_connect_provider.github.arn
+      ]
+    }
+    actions = ["sts:AssumeRoleWithWebIdentity"]
+    condition {
+      test     = "StringEquals"
+      variable = "token.actions.githubusercontent.com:aud"
+      values   = ["sts.amazonaws.com"]
+    }
+    condition {
+      test     = "StringLike"
+      variable = "token.actions.githubusercontent.com:sub"
+      values   = ["repo:offbyone/ideas:*"]
+    }
+  }
 }
 
+resource "aws_iam_role" "blog_deploy" {
+  name               = "ideas-deployer"
+  tags               = local.tags
+  assume_role_policy = data.aws_iam_policy_document.deployer.json
+}
