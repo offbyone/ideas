@@ -152,9 +152,7 @@ def site(c):
 @task
 def upload(c):
     """Upload the site to the production S3 bucket"""
-    c.run(
-        f"aws s3 sync --acl public-read --delete {CONFIG['deploy_path']} s3://{CONFIG['s3_bucket']}"
-    )
+    c.run(f"aws s3 sync --delete {CONFIG['deploy_path']} s3://{CONFIG['s3_bucket']}")
 
 
 @task
