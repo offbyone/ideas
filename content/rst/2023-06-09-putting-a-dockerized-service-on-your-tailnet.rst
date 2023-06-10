@@ -11,6 +11,7 @@ Putting a dockerized service on your tailnet
 :author: Chris Rose
 :email: offline@offby1.net
 :summary: Putting a single, secured webserver
+:status: published
 
 I got an itch to stop having my homelab services running at :code:`https://some-tailscale.my-tailnet/service`, and instead be able to reasonably cheaply have :code:`https://service.my-tailnet/` be the order of the day. You may not have this desire, and if that's the case congratulations; you're probably in a healthier mental space than I am.
 
