@@ -20,12 +20,12 @@ jobs:
       - name: Set up Python 3
         uses: actions/setup-python@v2
         with:
-          python-version: "3.10"
+          python-version: "3.11"
 
       - name: Set up Node
         uses: actions/setup-node@v2
         with:
-          node-version: "15"
+          node-version: "18"
 
       - name: Install dependencies
         run: |
