@@ -30,6 +30,9 @@ DEFAULT_METADATA = {
     "status": "draft",
 }
 
+# for publication, let's really hammer the jobs.
+PHOTO_RESIZE_JOBS = max(multiprocessing.cpu_count(), 1)
+
 _repository = os.environ.get("GITHUB_REPOSITORY", "offbyone/ideas")
 _tree = os.environ.get("GITHUB_SHA", "main")
 REPOSITORY_ROOT = f"https://github.com/{_repository}/tree/{_tree}/content"

@@ -54,8 +54,8 @@
         <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 
         <link href='//fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
-        {% assets filters="scss,cssmin",
-                  output="css/style.min.css",
+        {% assets filters="scss",
+                  output="css/style.css",
                   depends=["**/_*.scss"],
                   "fuji.scss", "bigfoot-default.scss", "magnific-popup.css" %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
