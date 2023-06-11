@@ -2,11 +2,13 @@
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 version: 2
 updates:
-  - package-ecosystem: "pip" 
-    directory: "/" 
+  - package-ecosystem: "pip"
+    directory: "/"
     schedule:
       interval: "weekly"
+    versioning-strategy: "increase"
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
+    versioning-strategy: "increase"
