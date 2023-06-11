@@ -48,7 +48,8 @@ PATH = Path("content")
 
 # photos plugin configuration
 PHOTO_LIBRARY = Path(__file__).parent / "photos"
-PHOTO_RESIZE_JOBS = max(multiprocessing.cpu_count(), 1)
+# during development, the pelican listener and this feature are incompatible
+PHOTO_RESIZE_JOBS = 1
 
 PHOTO_WATERMARK_TEXT = "© Chris Rose"
 PHOTO_EXIF_KEEP = True
