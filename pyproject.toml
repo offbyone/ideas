@@ -21,7 +21,7 @@ dependencies = [
   "pelican-embed-microblog >= 1.1.0",
   "pelican-gist",
   "pelican-githubprojects",
-  "pelican-photos < 1.4",
+#  "pelican-photos < 1.4",
   "pelican-photos @ git+https://github.com/pelican-plugins/photos.git",
   "pelican-simple-footnotes",
   "pelican-sitemap",
