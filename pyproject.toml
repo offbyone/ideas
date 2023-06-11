@@ -1,7 +1,7 @@
 [project]
 name = "offby1.website"
 description = "My website"
-requires-python = ">= 3.10"
+requires-python = ">= 3.11"
 keywords = [
   "pelican",
   "blog",
