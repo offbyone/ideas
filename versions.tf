@@ -6,6 +6,12 @@ terraform {
     }
   }
   required_version = ">= 1.4"
+
+  backend "s3" {
+    bucket = "terraform.offby1.net"
+    key    = "website/ideas/state.tfstate"
+    region = "us-west-2"
+  }
 }
 
 provider "aws" {
