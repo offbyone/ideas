@@ -64,7 +64,7 @@ Staff Software Engineer, Deployment
 May 2011 - Aug 2022: All kinds of Cloud Things
 ..............................................
 
-****Amazon Web Services**
+**Amazon Web Services**
 
 Senior Software Engineer. Expertise in build systems, Python, deployment safety.
 
