@@ -20,6 +20,7 @@ variable "dotnet_subdomain" {
 }
 
 variable "s3_origin_id" {
+  type    = string
   default = "S3-ideas.offby1.net"
 }
 
@@ -339,6 +340,8 @@ data "aws_iam_openid_connect_provider" "github" {
   url = "https://token.actions.githubusercontent.com"
 }
 
+# OIDC provider policy document
+# see https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services
 data "aws_iam_policy_document" "deployer" {
   statement {
     effect = "Allow"

@@ -10,7 +10,7 @@ function getNowTheme() {
   }
 }
 
-// load comment button only when comment area exist
+// load comment button only when the comment area exists
 if (document.querySelector('span.post-comment-notloaded')) {
   document.querySelector('span.post-comment-notloaded').addEventListener('click', loadComment);
 }
