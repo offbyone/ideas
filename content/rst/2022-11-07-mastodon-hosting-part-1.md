@@ -2,7 +2,7 @@ Title: Mastodon Hosting, Part 1
 Slug: mastodon-hosting-part-1
 Date: 2022-11-07T17:01:33.869988
 Category: internet
-Tags: software, mastodon, tailscale, infrastructure
+Tags: software, mastodon, tailscale, infrastructure, wandering.shop
 Author: Chris Rose
 Email: offline@offby1.net
 Status: published
