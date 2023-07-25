@@ -13,7 +13,7 @@ blinker==1.6.2
     # via pelican
 blurhash==1.1.4
     # via mastodon-py
-certifi==2023.5.7
+certifi==2023.7.22
     # via requests
 charset-normalizer==3.1.0
     # via requests
@@ -57,6 +57,8 @@ mf2py==1.1.2
     # via offby1-website
 mf2util==0.5.2
     # via pelican-webmention
+offby1-website @ file:///home/dependabot/dependabot-updater/tmp/dependabot_20230725-6-l712mk
+    # via -r requirements.in
 pelican==4.8.0
     # via
     #   offby1-website
@@ -143,6 +145,3 @@ webencodings==0.5.1
     # via html5lib
 wheel==0.40.0
     # via offby1-website
-
-# The following packages are considered to be unsafe in a requirements file:
-# offby1-website
