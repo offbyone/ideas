@@ -18,6 +18,7 @@ dependencies = [
   "markdown",
   "mf2py",
   "pelican-webmention @ git+https://github.com/drivet/pelican-webmention.git",
+  "pelican-edit-url",
   "pelican-embed-microblog >= 1.1.0",
   "pelican-gist",
   "pelican-githubprojects",

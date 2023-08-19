@@ -60,12 +60,15 @@ mf2util==0.5.2
 pelican==4.8.0
     # via
     #   offby1-website
+    #   pelican-edit-url
     #   pelican-photos
     #   pelican-simple-footnotes
     #   pelican-sitemap
     #   pelican-tag-cloud
     #   pelican-webassets
     #   pelican-webmention
+pelican-edit-url==0.1.1
+    # via offby1-website
 pelican-embed-microblog==1.1.0
     # via offby1-website
 pelican-gist==0.3.4
