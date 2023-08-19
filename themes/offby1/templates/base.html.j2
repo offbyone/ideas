@@ -268,9 +268,9 @@
                     <div class="col-12">
                         <span>© {{ article.date|strftime("%Y") if article else PUBLICATION_TIME.strftime("%Y") }} {{ AUTHOR }}
                         {% if article %}
-                        | <a href="{{ REPOSITORY_ROOT }}/{{ article.relative_source_path }}">Source</a>
+                        | <a href="{{ article.edit_url }}">Source</a>
                         {% elif page %}
-                        | <a href="{{ REPOSITORY_ROOT }}/{{ page.relative_source_path }}">Source</a>
+                        | <a href="{{ page.edit_url }}">Source</a>
                         {% else %}
                         | <a href="{{ REPOSITORY_ROOT }}">Source</a>
                         {% endif %}

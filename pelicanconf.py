@@ -92,6 +92,7 @@ DEFAULT_PAGINATION = 10
 PLUGIN_PATHS = ["./plugins"]
 PLUGINS = [
     "link_toot",
+    "pelican_edit_url",
     "pelican_embed_microblog",
     "pelican_gist",
     "photos",
@@ -182,6 +183,7 @@ THEMES_I_LIKE = [
 IGNORE_FILES = [".#&", "flycheck_*", "flymake_*"]
 
 REPOSITORY_ROOT = f"file://{ Path(__file__).parent.resolve() }/{ PATH }"
+EDIT_CONTENT_URL = "https://github.com/offbyone/ideas/edit/main/{file_path}"
 
 if "IDEAS_EMIT_TIMING" in os.environ:
     import time
