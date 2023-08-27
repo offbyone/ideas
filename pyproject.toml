@@ -17,7 +17,6 @@ dependencies = [
   "isort>=5.0",
   "markdown",
   "mf2py",
-  "pelican-webmention @ git+https://github.com/drivet/pelican-webmention.git",
   "pelican-edit-url",
   "pelican-embed-microblog >= 1.1.0",
   "pelican-gist",
@@ -47,7 +46,7 @@ build-backend = "hatchling.build"
 [tool.hatch]
 
 [tool.hatch.metadata]
-# enabled because we are using the git version of the webmention plugin
+# enabled because we are using git dependencies
 allow-direct-references = true
 
 [tool.hatch.envs.dev]
