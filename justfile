@@ -11,12 +11,13 @@ serve:
 upload:
   aws s3 sync \
     --delete \
-    $(inv config deploy_path) \
-    ideas.offby1.net
+    output \
+    s3://ideas.offby1.net
 
 invalidate:
   aws cloudfront create-invalidation \
-    --distribution-id E3HG7SIR4ZZAS1
+    --distribution-id E3HG7SIR4ZZAS1 \
+    --paths "/*"
 
 @build settings="pelicanconf.py":
   pelican -s {{settings}} -o output content
