@@ -18,6 +18,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - uses: extractions/setup-just@v1
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v2
@@ -50,15 +51,16 @@ jobs:
           python --version
           pelican --version
           sass --version
+          just --version
 
       - name: Build the page
-        run: inv site
+        run: just build
 
       - name: Publish the content
-        run: inv upload
+        run: just upload
 
       - name: Invalidate the existing distribution
-        run: inv invalidate
+        run: just invalidate
 
       - name: Tell me about it
         if: ${{ always() }}
