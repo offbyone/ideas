@@ -32,7 +32,6 @@ publish: generate upload invalidate
 compile-deps:
     .venv/bin/pip-compile --no-emit-index-url \
       --no-emit-trusted-host \
-      --resolver=backtracking \
       --unsafe-package=distribute \
       --unsafe-package=offby1-website \
       --unsafe-package=offby1.website \
@@ -44,7 +43,6 @@ update-deps:
     .venv/bin/pip-compile --no-emit-index-url \
       --upgrade \
       --no-emit-trusted-host \
-      --resolver=backtracking \
       --unsafe-package=distribute \
       --unsafe-package=offby1-website \
       --unsafe-package=offby1.website \
