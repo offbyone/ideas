@@ -16,6 +16,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - uses: extractions/setup-just@v1
 
       - name: Set up Python 3
         uses: actions/setup-python@v2
@@ -38,4 +39,4 @@ jobs:
         run: git clone https://github.com/getpelican/pelican-plugins
 
       - name: Build the page
-        run: inv site
+        run: just build

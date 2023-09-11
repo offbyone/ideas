@@ -19,7 +19,12 @@ invalidate:
     --distribution-id E3HG7SIR4ZZAS1 \
     --paths "/*"
 
-@build settings="pelicanconf.py":
+prepare_fonts:
+  rsync -pthrvz \
+    node_modules/@fortawesome/fontawesome-free/webfonts/ \
+    themes/offby1/static/webfonts/
+
+@build settings="pelicanconf.py": prepare_fonts
   pelican -s {{settings}} -o output content
 
 generate: (build "publishconf.py")
