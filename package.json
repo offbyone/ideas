@@ -13,6 +13,6 @@
     "postcss": "^8.4.29",
     "postcss-cli": "^10.1.0",
     "postcss-import": "^15.1.0",
-    "sass": "^1.66.1"
+    "sass": "^1.67.0"
   }
 }
