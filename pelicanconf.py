@@ -134,6 +134,7 @@ WEBASSETS_BUNDLES = [
             "js/fuji.js",
             "js/bigfoot.js",
             "jquery.magnific-popup.js",
+            "js/adblocker.js",
         ),
         {
             "output": "js/fuji.min.js",
