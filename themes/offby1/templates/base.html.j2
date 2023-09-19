@@ -5,7 +5,7 @@
 <html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}"{% if USE_OPEN_GRAPH %} prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml"{% endif %} class="no-js">
     <head>
         <meta charset="utf-8"/>
-	<meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
+	    <meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
 
         <script type="module">
@@ -32,67 +32,67 @@
         {% if USE_OPEN_GRAPH %}
             {% block opengraph %}
                 <!-- Open Graph tags -->
-                {% if OPEN_GRAPH_FB_APP_ID %}
-                    <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
-                {% endif %}
-                <meta property="og:title" content="{{ SITENAME }}"/>
-                <meta property="og:description" content="{{ SITENAME }}"/>
-                <meta property="og:site_name" content="{{ SITENAME }}" />
-                <meta property="og:type" content="website"/>
-                <meta property="og:url" content="{{ FEED_DOMAIN }}"/>
-                <meta property="og:locale" content="en_US" />
-                {% if OPEN_GRAPH_IMAGE %}
-                    <meta property="og:image"
-                          content="{{ FEED_DOMAIN }}/{{ OPEN_GRAPH_IMAGE }}"/>
-                {% endif %}
-            {% endblock %}
-        {% endif %}
-        
-        <meta name="HandheldFriendly" content="True">
-        <meta name="MobileOptimized" content="320">
-        <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
-        <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+            {% if OPEN_GRAPH_FB_APP_ID %}
+                <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
+            {% endif %}
+            <meta property="og:title" content="{{ SITENAME }}"/>
+            <meta property="og:description" content="{{ SITENAME }}"/>
+            <meta property="og:site_name" content="{{ SITENAME }}" />
+            <meta property="og:type" content="website"/>
+            <meta property="og:url" content="{{ FEED_DOMAIN }}"/>
+            <meta property="og:locale" content="en_US" />
+            {% if OPEN_GRAPH_IMAGE %}
+                <meta property="og:image"
+                      content="{{ FEED_DOMAIN }}/{{ OPEN_GRAPH_IMAGE }}"/>
+                  {% endif %}
+              {% endblock %}
+          {% endif %}
 
-        <link href='//fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
-        {% assets filters="scss",
-                  output="css/style.css",
-                  depends=["**/_*.scss"],
-                  "fuji.scss", "bigfoot-default.scss", "magnific-popup.css" %}
-        <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
-        {% endassets %}
+          <meta name="HandheldFriendly" content="True">
+          <meta name="MobileOptimized" content="320">
+          <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+          <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 
-        <!--[if lt IE 9]>
-            <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+          <link href='//fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
+          {% assets filters="scss",
+          output="css/style.css",
+          depends=["**/_*.scss"],
+          "fuji.scss", "bigfoot-default.scss", "magnific-popup.css" %}
+          <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
+      {% endassets %}
 
-        {% block scripts %}
-        {% endblock %}
+      <!--[if lt IE 9]>
+          <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+          <![endif]-->
 
-        {% if FEED_ATOM %}
-        <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
-        {% endif %}
+           {% block scripts %}
+           {% endblock %}
 
-        {% if FEED_RSS %}
-        <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
-        {% endif %}
-        {%- if tag and TAG_FEED_ATOM %}
-        {%- if '%s' not in TAG_FEED_ATOM %}
-            {%- set tag_feed_atom = TAG_FEED_ATOM.format(slug=tag.slug) %}
-        {%- else %}
-            {%- set tag_feed_atom = TAG_FEED_ATOM.format(tag.slug) %}
-        {%- endif %}
-        <link href="{{ FEED_DOMAIN }}/{{ tag_feed_atom }}" type="application/atom+xml" rel="alternate"
-              title="{{ SITENAME }} {{ tag }} ATOM Feed"/>
-        {%- endif %}
-        {%- if category and CATEGORY_FEED_ATOM %}
-        {%- if '%s' not in CATEGORY_FEED_ATOM %}
-            {%- set category_feed_atom = CATEGORY_FEED_ATOM.format(slug=category.slug) %}
-        {%- else %}
-            {%- set category_feed_atom = CATEGORY_FEED_ATOM.format(category.slug) %}
-        {%- endif %}
-        <link href="{{ FEED_DOMAIN }}/{{ category_feed_atom }}" type="application/atom+xml" rel="alternate"
-              title="{{ SITENAME }} {{ category }} ATOM Feed"/>
-        {%- endif %}
+           {% if FEED_ATOM %}
+               <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
+           {% endif %}
+
+           {% if FEED_RSS %}
+               <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+           {% endif %}
+           {%- if tag and TAG_FEED_ATOM %}
+               {%- if '%s' not in TAG_FEED_ATOM %}
+                   {%- set tag_feed_atom = TAG_FEED_ATOM.format(slug=tag.slug) %}
+               {%- else %}
+                   {%- set tag_feed_atom = TAG_FEED_ATOM.format(tag.slug) %}
+               {%- endif %}
+               <link href="{{ FEED_DOMAIN }}/{{ tag_feed_atom }}" type="application/atom+xml" rel="alternate"
+                     title="{{ SITENAME }} {{ tag }} ATOM Feed"/>
+                 {%- endif %}
+                 {%- if category and CATEGORY_FEED_ATOM %}
+                     {%- if '%s' not in CATEGORY_FEED_ATOM %}
+                         {%- set category_feed_atom = CATEGORY_FEED_ATOM.format(slug=category.slug) %}
+                     {%- else %}
+                         {%- set category_feed_atom = CATEGORY_FEED_ATOM.format(category.slug) %}
+                     {%- endif %}
+                     <link href="{{ FEED_DOMAIN }}/{{ category_feed_atom }}" type="application/atom+xml" rel="alternate"
+                           title="{{ SITENAME }} {{ category }} ATOM Feed"/>
+                       {%- endif %}
     </head>
 
     <body data-theme="auto">
@@ -100,9 +100,9 @@
             <div class="container-lg clearfix">
                 <div class="col-12 header">
                     {% block page_title %}
-                    <a class="title-main" href="{{ SITEURL }}">
-                        {{ SITENAME }}
-                    </a>
+                        <a class="title-main" href="{{ SITEURL }}">
+                            {{ SITENAME }}
+                        </a>
                     {% endblock %}
                 </div>
             </div>
@@ -138,214 +138,211 @@
 
                 <!-- sidebar block begins -->
                 {% block sidebar %}
-                <aside class="col-12 col-md-3 float-left sidebar">
-                    <div class="sidebar-item sidebar-about-me">
-                        <div class="card h-card" rel="me">
-                            <h3 class="card-title">
-                                {% if article %}
-                                <a rel="author" class="p-name p-author u-url" href="{{ SITEURL }}">Chris</a> Is...
-                                {% else %}
-                                <a class="p-name u-url" href="{{ SITEURL }}">Chris</a> Is...
-                                {% endif %}
-                            </h3>
-                            <div class="p-note">
-                                <p class="card-text">a code maker and opinion haver with <span class="p-org">GitHub</span></p>
-                                <p>Opinions are my own, obviously</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    {% if DISPLAY_PAGES_ON_MENU %}
-                    <div class="sidebar-item sidebar-pages">
-                        <h3>Pages</h3>
-                        {% for p in pages %}
-                        <li{% if p == page %} class="active"{% endif %}>
-                            <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
-                        </li>
-                        {% endfor %}
-                    </div>
-                    {% endif %}
+                    <aside class="col-12 col-md-3 float-left sidebar">
+                        <div class="sidebar-item sidebar-about-me">
+                            <div class="card h-card" rel="me">
+                                <h3 class="card-title">
+                                    {% if article %}
+                                        <a rel="author" class="p-name p-author u-url" href="{{ SITEURL }}">Chris</a> Is...
+                                    {% else %}
+                                        <a class="p-name u-url" href="{{ SITEURL }}">Chris</a> Is...
+                                    {% endif %}
+                                </h3>
+                                <div class="p-note">
+                                    <p class="card-text">a code maker and opinion haver with <span class="p-org">GitHub</span></p>
+                                    <p>Opinions are my own, obviously</a></p>
+</div>
+</div>
+</div>
+{% if DISPLAY_PAGES_ON_MENU %}
+    <div class="sidebar-item sidebar-pages">
+        <h3>Pages</h3>
+        {% for p in pages %}
+            <li{% if p == page %} class="active"{% endif %}>
+                <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+            </li>
+        {% endfor %}
+    </div>
+{% endif %}
 
-                    {% if DISPLAY_CATEGORIES_ON_MENU %}
-                    <div class="sidebar-item sidebar-pages">
-                        <h3>Categories</h3>
-                        {% for cat, null in categories %}
-                        <li{% if cat == category %} class="active"{% endif %}>
-                            <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
-                        </li>
-                        {% endfor %}
-                    </div>
-                    {% endif %}
+{% if DISPLAY_CATEGORIES_ON_MENU %}
+    <div class="sidebar-item sidebar-pages">
+        <h3>Categories</h3>
+        {% for cat, null in categories %}
+            <li{% if cat == category %} class="active"{% endif %}>
+                <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+            </li>
+        {% endfor %}
+    </div>
+{% endif %}
 
-                    <div class="sidebar-item sidebar-links">
-                        <h3>{{ LINKS_WIDGET_NAME | default('links') }}</h3>
-                        <ul>
-                            {% for item in LINKS %}
-                            <li>
-                                {% if item.icon_style %}
-                                    <span class="{{ item.icon_style }}"></span>
-                                {% endif %}
-                                <a class="{{ item.style }}" href="{{ item.link }}">{{ item.name }}</a>
-                            </li>
-                            {% endfor %}
-                            {% for item in SOCIAL %}
-                            <li>
-                                <span class="{{ item.icon_style }}"></span>
-                                <a class="{{ item.style }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
-                            </li>
-                            {% endfor %}
-                            <!-- Here are a few other rel=me links that I want but don't necessarily want to show. -->
-                            <div style="display: none">
-                                <a rel="me" href="https://hachyderm.io/@offby1">Mastodon on Hachyderm</a>
-                                <a rel="me" href="https://freeradical.zone/@offby1">Mastodon on FreeRadical</a>
-                            </div>
-                        </ul>
-                    </div>
-
-                    <div class="sidebar-item sidebar-tags">
-                        <h3>Tags</h3>
-                        <ul class="tagcloud">
-                            {% for tag in tag_cloud %}
-                                <li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </aside>
-                {% endblock %}
-                <!-- sidebar block ends -->
-            </div>
-            <!-- button section -->
-            <div class="btn">
-                <div class="btn-menu" id="btn-menu">
-                    <i class="iconfont icon-grid-sharp"></i>
-                </div>
-                <div class="btn-toggle-mode">
-                    <i class="iconfont icon-contrast-sharp"></i>
-                </div>
-                <div class="btn-scroll-top">
-                    <i class="iconfont icon-chevron-up-circle-sharp"></i>
-                </div>
-            </div>
-            <aside class="sidebar-mobile" style="display: none;">
-                <div class="sidebar-wrapper">
-                    {% if DISPLAY_PAGES_ON_MENU %}
-                    <div class="sidebar-item sidebar-pages">
-                        <h3>Pages</h3>
-                        {% for p in pages %}
-                        <li{% if p == page %} class="active"{% endif %}>
-                            <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
-                        </li>
-                        {% endfor %}
-                    </div>
+<div class="sidebar-item sidebar-links">
+    <h3>{{ LINKS_WIDGET_NAME | default('links') }}</h3>
+    <ul>
+        {% for item in LINKS %}
+            <li>
+                {% if item.icon_style %}
+                    <span class="{{ item.icon_style }}"></span>
                 {% endif %}
-                
-                <div class="sidebar-item sidebar-links">
-                    <h3>{{ LINKS_WIDGET_NAME | default('links-lower') }}</h3>
-                    <ul>
-                        <li>
-                            <a href="https://twitter.com/offby1" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @offby1</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                        </li>
-                        {% for item in LINKS %}
-                        <li>
-                            {% if item.icon_style %}
-                                <span class="{{ item.icon_style }}"></span>
-                            {% endif %}
-                            <a class="{{ item.style }}" href="{{ item.link }}">{{ item.name }}</a>
-                        </li>
-                        {% endfor %}
-                        {% for item in SOCIAL %}
-                        <li>
-                            <span class="{{ item.icon_style }}"></span>
-                            <a class="{{ item.style }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="sidebar-item sidebar-tags">
-                    <h3>Tags</h3>
-                    <ul class="tagcloud">
-                        {% for tag in tag_cloud %}
-                            <li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </aside>
-        </main>
-
-        <footer>
-            <div class="container clearfix footer">
-                <div class="row">
-                    <div class="col-12">
-                        <span class="fa-solid fa-image-portrait"></span>
-                        <a class="cv" href="/pages/cv.html">Hire me</a>
-                        | Find me on
-                        <span class="fa-brands fa-twitter"></span>
-                        <a class="sc-twitter" href="https://twitter.com/offby1" rel="me">Twitter</a>
-                        /
-                        <span class="fa-brands fa-mastodon"></span>
-                        <a class="sc-mastodon" href="https://wandering.shop/@offby1" rel="me">Mastodon</a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <span>© {{ article.date|strftime("%Y") if article else PUBLICATION_TIME.strftime("%Y") }} {{ AUTHOR }}
-                        {% if article %}
-                        | <a href="{{ article.edit_url }}">Source</a>
-                        {% elif page %}
-                        | <a href="{{ page.edit_url }}">Source</a>
-                        {% else %}
-                        | <a href="{{ REPOSITORY_ROOT }}">Source</a>
-                        {% endif %}
-                        | Built at {{ PUBLICATION_TIME.strftime("%Y-%m-%d") }} with <a href="https://getpelican.com">Pelican</a>
-                        | Decorated based on <a href="https://github.com/dsrkafuu/hugo-theme-fuji/">Fuji-V2</a>
-                        </span>
-                    </div>
-                </div>
+                <a class="{{ item.style }}" href="{{ item.link }}">{{ item.name }}</a>
+            </li>
+        {% endfor %}
+        {% for item in SOCIAL %}
+            <li>
+                <span class="{{ item.icon_style }}"></span>
+                <a class="{{ item.style }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
+            </li>
+        {% endfor %}
+        <!-- Here are a few other rel=me links that I want but don't necessarily want to show. -->
+            <div style="display: none">
+                <a rel="me" href="https://hachyderm.io/@offby1">Mastodon on Hachyderm</a>
+                <a rel="me" href="https://freeradical.zone/@offby1">Mastodon on FreeRadical</a>
             </div>
-        </footer>
+    </ul>
+</div>
 
-        <script>
-         var _gaq=[['_setAccount','{{ GOOGLE_ANALYTICS }}'],['_trackPageview']];
-         (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-             g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-             s.parentNode.insertBefore(g,s)}(document,'script'));
-        </script>
-
-        <script
-            src="https://code.jquery.com/jquery-3.6.0.min.js"
-            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-            crossorigin="anonymous"></script>
-
-        {% assets "theme_js" %}
-        <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
-        {% endassets %}
-
-        <script type="text/javascript">
-            $.bigfoot({
-                anchorPattern: /sf-.*-\d+/
-            });
-        </script>
-
-        {% if (article and article.photo_gallery) or (articles_page and articles_page.object_list[0].photo_gallery) %}
-        <script>
-        $('.gallery').magnificPopup({
-            delegate: 'a',
-            type: 'image',
-            gallery: {
-                enabled: true,
-                navigateByImgClick: true,
-                preload: [1,2]
-            },
-            image: {
-                titleSrc: function(item) {
-                    if (item.el.attr('caption') && item.el.attr('exif')) {
-                        return (item.el.attr('caption').replace(/\\n/g, '<br />') +
-                                '<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
-                    }
-                return item.el.attr('title') + '<small>' + item.el.attr('exif') + '</small>';
-            } }
-        });
-        </script>
+<div class="sidebar-item sidebar-tags">
+    <h3>Tags</h3>
+    <ul class="tagcloud">
+        {% for tag in tag_cloud %}
+            <li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+</aside>
+{% endblock %}
+<!-- sidebar block ends -->
+</div>
+<!-- button section -->
+<div class="btn">
+    <div class="btn-menu" id="btn-menu">
+        <i class="iconfont icon-grid-sharp"></i>
+    </div>
+    <div class="btn-toggle-mode">
+        <i class="iconfont icon-contrast-sharp"></i>
+    </div>
+    <div class="btn-scroll-top">
+        <i class="iconfont icon-chevron-up-circle-sharp"></i>
+    </div>
+</div>
+<aside class="sidebar-mobile" style="display: none;">
+    <div class="sidebar-wrapper">
+        {% if DISPLAY_PAGES_ON_MENU %}
+            <div class="sidebar-item sidebar-pages">
+                <h3>Pages</h3>
+                {% for p in pages %}
+                    <li{% if p == page %} class="active"{% endif %}>
+                        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+                    </li>
+                {% endfor %}
+            </div>
         {% endif %}
 
-    </body>
+        <div class="sidebar-item sidebar-links">
+            <h3>{{ LINKS_WIDGET_NAME | default('links-lower') }}</h3>
+            <ul>
+                {% for item in LINKS %}
+                    <li>
+                        {% if item.icon_style %}
+                            <span class="{{ item.icon_style }}"></span>
+                        {% endif %}
+                        <a class="{{ item.style }}" href="{{ item.link }}">{{ item.name }}</a>
+                    </li>
+                {% endfor %}
+                {% for item in SOCIAL %}
+                    <li>
+                        <span class="{{ item.icon_style }}"></span>
+                        <a class="{{ item.style }}" href="{{ item.link }}" rel="me">{{ item.name }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="sidebar-item sidebar-tags">
+            <h3>Tags</h3>
+            <ul class="tagcloud">
+                {% for tag in tag_cloud %}
+                    <li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+</aside>
+</main>
+
+<footer>
+    <div class="container clearfix footer">
+        <div class="row">
+            <div class="col-12">
+                <span class="fa-solid fa-image-portrait"></span>
+                <a class="cv" href="/pages/cv.html">Hire me</a>
+                | Find me on
+                <span class="fa-brands fa-twitter"></span>
+                <a class="sc-twitter" href="https://twitter.com/offby1" rel="me">Twitter</a>
+                /
+                <span class="fa-brands fa-mastodon"></span>
+                <a class="sc-mastodon" href="https://wandering.shop/@offby1" rel="me">Mastodon</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <span>© {{ article.date|strftime("%Y") if article else PUBLICATION_TIME.strftime("%Y") }} {{ AUTHOR }}
+                    {% if article %}
+                        | <a href="{{ article.edit_url }}">Source</a>
+                    {% elif page %}
+                        | <a href="{{ page.edit_url }}">Source</a>
+                    {% else %}
+                        | <a href="{{ REPOSITORY_ROOT }}">Source</a>
+                    {% endif %}
+                    | Built at {{ PUBLICATION_TIME.strftime("%Y-%m-%d") }} with <a href="https://getpelican.com">Pelican</a>
+                    | Decorated based on <a href="https://github.com/dsrkafuu/hugo-theme-fuji/">Fuji-V2</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    var _gaq=[['_setAccount','{{ GOOGLE_ANALYTICS }}'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+<script
+    src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    crossorigin="anonymous"></script>
+
+    {% assets "theme_js" %}
+    <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
+{% endassets %}
+
+<script type="text/javascript">
+    $.bigfoot({
+    anchorPattern: /sf-.*-\d+/
+    });
+</script>
+
+{% if (article and article.photo_gallery) or (articles_page and articles_page.object_list[0].photo_gallery) %}
+    <script>
+        $('.gallery').magnificPopup({
+        delegate: 'a',
+        type: 'image',
+        gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [1,2]
+        },
+        image: {
+        titleSrc: function(item) {
+        if (item.el.attr('caption') && item.el.attr('exif')) {
+        return (item.el.attr('caption').replace(/\\n/g, '<br />') +
+        '<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
+        }
+        return item.el.attr('title') + '<small>' + item.el.attr('exif') + '</small>';
+        } }
+        });
+    </script>
+{% endif %}
+
+</body>
 </html>
