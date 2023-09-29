@@ -33,38 +33,22 @@ Technical Skills
 
 **Tools**: Emacs, Git, `my tools category here </category/tools.html>`_
 
-Personal Achievements and Hobbies
----------------------------------
+Present Employment
+------------------
 
-Volunteer open source contributor
-
-IT area head for Chicon 8 (the 2022 World Science Fiction convention)
-
-Completed the Seattle to Portland ride in 2017
-
-Education
----------
-
-**2008**: Bachelor of Science (Computer Science)
-
-University of Alberta
-
-Past Employment
----------------
-
-Sept 2022 - Present: DAG vendor
-...............................
-
-**GitHub**
+**GitHub - Sept 2022 - Present: DAG vendor**
 
 Staff Software Engineer, Deployment
 
 - There would be more bullet points here, but give me time, I'm new!
 
+Past Employment
+---------------
+
 May 2011 - Aug 2022: All kinds of Cloud Things
 ..............................................
 
-**Amazon Web Services**
+***Amazon Web Services**
 
 Senior Software Engineer. Expertise in build systems, Python, deployment safety.
 
@@ -97,6 +81,22 @@ June 2009 - May 2011 - Web Applications and Deployment Automation
 - Migration from CVS to SVN[ref]I know, right?! I was so young...[/ref].
 - Maintain and extend a nightly autobuild system.
 - Coded and maintained J2EE and legacy C services for B2B messaging systems.
+
+Personal Achievements and Hobbies
+---------------------------------
+
+Volunteer open source contributor
+
+IT area head for Chicon 8 (the 2022 World Science Fiction convention)
+
+Completed the Seattle to Portland ride in 2017
+
+Education
+---------
+
+**2008**: Bachelor of Science (Computer Science)
+
+University of Alberta
 
 Contact Me
 ----------
