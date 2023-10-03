@@ -233,11 +233,12 @@ resource "aws_cloudfront_distribution" "frontend" {
   }
 
   default_cache_behavior {
-    allowed_methods          = ["GET", "HEAD"]
-    cached_methods           = ["GET", "HEAD"]
-    target_origin_id         = var.s3_origin_id
-    cache_policy_id          = data.aws_cloudfront_cache_policy.none.id
-    origin_request_policy_id = data.aws_cloudfront_origin_request_policy.cors-s3.id
+    allowed_methods            = ["GET", "HEAD"]
+    cached_methods             = ["GET", "HEAD"]
+    target_origin_id           = var.s3_origin_id
+    cache_policy_id            = data.aws_cloudfront_cache_policy.none.id
+    origin_request_policy_id   = data.aws_cloudfront_origin_request_policy.cors-s3.id
+    response_headers_policy_id = data.aws_cloudfront_response_headers_policy.gnu.id
 
     viewer_protocol_policy = "redirect-to-https"
 
@@ -278,6 +279,10 @@ data "aws_cloudfront_cache_policy" "none" {
 
 data "aws_cloudfront_origin_request_policy" "cors-s3" {
   name = "Managed-CORS-S3Origin"
+}
+
+data "aws_cloudfront_response_headers_policy" "gnu" {
+  name = "GNU"
 }
 
 resource "aws_acm_certificate" "certificate" {
