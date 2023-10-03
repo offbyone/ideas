@@ -55,6 +55,8 @@ mdurl==0.1.2
     # via markdown-it-py
 mf2py==1.1.3
     # via offby1-website
+offby1-website @ file:///home/dependabot/dependabot-updater/tmp/20231003-7-6xv7mv/dependabot_20231003-7-n4jn9q
+    # via -r requirements.in
 pelican==4.8.0
     # via
     #   offby1-website
@@ -127,7 +129,7 @@ text-unidecode==1.3
     # via python-slugify
 unidecode==1.3.6
     # via pelican
-urllib3==2.0.4
+urllib3==2.0.6
     # via requests
 webassets==2.0
     # via
@@ -137,6 +139,3 @@ webencodings==0.5.1
     # via html5lib
 wheel==0.41.2
     # via offby1-website
-
-# The following packages are considered to be unsafe in a requirements file:
-# offby1-website
