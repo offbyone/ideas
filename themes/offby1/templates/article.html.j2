@@ -78,7 +78,7 @@
             <div class="post-content markdown-body e-content">
                 {% if PUBLICATION_TIME.year - article.date.year > 5 %}
                 <div class="disclaimer">
-Hi, reader. I wrote this in {{ article.date.year }}. Technology referenced may have changed and I nearly certainly have. I may disagree now with what I wrote then, or it may refer to obsolete terms and tech. I will usually only edit old posts to refresh links that have changed. If this post is particularly offensive please contact me and let me know.
+Hi, reader. I wrote this in {{ article.date.year }}. Technology referenced may have changed and I nearly certainly have. I may disagree now with what I wrote then, or it may refer to obsolete terms and tech. I will usually only edit old posts to refresh links that have changed. If this post is particularly offensive please <a href="/pages/about">contact me</a> and let me know.
                 </div>
                 {% endif %}
                 {% if article.photo_image %}<img src="{{ SITEURL }}/{{ article.photo_image[1] }}" />{% endif %}
