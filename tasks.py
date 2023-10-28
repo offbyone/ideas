@@ -20,7 +20,9 @@ from slugify import slugify
 def parse_rst(text: str) -> docutils.nodes.document:
     parser = docutils.parsers.rst.Parser()
     components = (docutils.parsers.rst.Parser,)
-    settings = docutils.frontend.OptionParser(components=components).get_default_values()
+    settings = docutils.frontend.OptionParser(
+        components=components
+    ).get_default_values()
     document = docutils.utils.new_document("<rst-doc>", settings=settings)
     parser.parse(text, document)
     return document
@@ -139,14 +141,16 @@ def livereload(c):
 @task
 def prepare_fonts(c):
     c.run(
-        f"rsync -pthrvz node_modules/@fortawesome/fontawesome-free/webfonts/ themes/offby1/static/webfonts/"
+        "rsync -pthrvz node_modules/@fortawesome/fontawesome-free/webfonts/ themes/offby1/static/webfonts/"
     )
 
 
 @task(pre=[prepare_fonts])
 def site(c):
     """generate using production settings"""
-    c.run(f"pelican {SETTINGS['PATH']} -o {CONFIG['deploy_path']} -s {CONFIG['settings_publish']}")
+    c.run(
+        f"pelican {SETTINGS['PATH']} -o {CONFIG['deploy_path']} -s {CONFIG['settings_publish']}"
+    )
 
 
 @task
@@ -172,10 +176,15 @@ def publish(c):
 def compile_deps(c, upgrade=False):
     """Compile the pip deps to lock them"""
     if upgrade:
-        c.run("pip-compile -U --no-emit-trusted-host --no-emit-index-url requirements.in")
+        c.run(
+            "pip-compile -U --no-emit-trusted-host --no-emit-index-url requirements.in"
+        )
         return
 
-    if Path("requirements.txt").stat().st_mtime < Path("requirements.in").stat().st_mtime:
+    if (
+        Path("requirements.txt").stat().st_mtime
+        < Path("requirements.in").stat().st_mtime
+    ):
         c.run("pip-compile --no-emit-trusted-host --no-emit-index-url requirements.in")
 
 
@@ -319,12 +328,12 @@ def photo_gallery_gen(c, location):
         if not (location / "exif.txt").exists():
             c.run(f"{exif_cmd} -f -p {fmt_path}/exif.fmt . | sort > exif.txt")
         else:
-            console.print(f"[red]Skipping already present file [bold]exif.txt")
+            console.print("[red]Skipping already present file [bold]exif.txt")
 
         if not (location / "captions.txt").exists():
             c.run(f"{exif_cmd} -f -p {fmt_path}/captions.fmt . | sort > captions.txt")
         else:
-            console.print(f"[red]Skipping already present file [bold]captions.txt")
+            console.print("[red]Skipping already present file [bold]captions.txt")
 
 
 @task

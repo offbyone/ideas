@@ -23,14 +23,16 @@ class Toot:
 
 
 def parse_toot(content: Content):
-    if not "toot" in content.metadata:
+    if "toot" not in content.metadata:
         return
 
     toot_str = content.metadata["toot"]
 
     try:
         toot_parts = [p.strip() for p in toot_str.split(",")]
-        toot_keys = {k.strip(): v.strip() for k, v in [p.split("=") for p in toot_parts]}
+        toot_keys = {
+            k.strip(): v.strip() for k, v in [p.split("=") for p in toot_parts]
+        }
     except ValueError:
         # maybe the toot was a URL?
         parsed = urlparse(toot_str)
