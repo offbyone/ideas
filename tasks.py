@@ -293,7 +293,7 @@ def list_categories(c):
     for p in content_paths():
         try:
             doc = parse_rst(p.read_text())
-        except:
+        except:  # noqa: E722
             print(f"Unable to parse categories from {p}")
             continue
         category = get_category(doc)

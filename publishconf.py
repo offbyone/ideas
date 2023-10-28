@@ -7,9 +7,10 @@ from __future__ import unicode_literals
 
 import os
 import sys
+import multiprocessing
 
 sys.path.append(os.curdir)
-from pelicanconf import *
+from pelicanconf import *  # noqa: F403, E402
 
 SITEURL = "https://offby1.website"
 RELATIVE_URLS = False
