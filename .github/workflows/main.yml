@@ -54,7 +54,7 @@ jobs:
           just --version
 
       - name: Build the page
-        run: just build
+        run: just generate
 
       - name: Publish the content
         run: just upload
