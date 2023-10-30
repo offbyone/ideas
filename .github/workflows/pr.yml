@@ -18,10 +18,14 @@ jobs:
       - uses: actions/checkout@v2
       - uses: extractions/setup-just@v1
 
-      - name: Set up Python 3
-        uses: actions/setup-python@v2
+      - name: Set up Python & PDM
+        uses: pdm-project/setup-pdm@v3
         with:
           python-version: "3.11"
+          cache: true
+
+      - name: install python libs
+        run: pdm install
 
       - name: Set up Node
         uses: actions/setup-node@v2
@@ -30,8 +34,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip pip-tools
-          pip-sync requirements.txt
           npm install
           echo "$GITHUB_WORKSPACE/node_modules/.bin" >> $GITHUB_PATH
 
@@ -39,4 +41,6 @@ jobs:
         run: git clone https://github.com/getpelican/pelican-plugins
 
       - name: Build the page
-        run: just build
+        run: |
+          eval $(pdm venv activate)
+          just generate

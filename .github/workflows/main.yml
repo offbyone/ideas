@@ -28,10 +28,14 @@ jobs:
           role-session-name: deploy-ideas
           mask-aws-account-id: false
 
-      - name: Set up Python 3
-        uses: actions/setup-python@v2
+      - name: Set up Python & PDM
+        uses: pdm-project/setup-pdm@v3
         with:
           python-version: "3.11"
+          cache: true
+
+      - name: install python libs
+        run: pdm install
 
       - name: Set up Node
         uses: actions/setup-node@v2
@@ -40,13 +44,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip pip-tools
-          pip-sync requirements.txt
           npm install
           echo "$GITHUB_WORKSPACE/node_modules/.bin" >> $GITHUB_PATH
 
       - name: Assert that our dependencies are reachable
         run: |
+          eval $(pdm venv activate)
           echo $PATH
           python --version
           pelican --version
@@ -54,13 +57,19 @@ jobs:
           just --version
 
       - name: Build the page
-        run: just generate
+        run: |
+          eval $(pdm venv activate)
+          just generate
 
       - name: Publish the content
-        run: just upload
+        run: |
+          eval $(pdm venv activate)
+          just upload
 
       - name: Invalidate the existing distribution
-        run: just invalidate
+        run: |
+          eval $(pdm venv activate)
+          just invalidate
 
       - name: Tell me about it
         if: ${{ always() }}
