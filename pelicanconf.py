@@ -141,7 +141,7 @@ WEBASSETS_BUNDLES = [
         ),
         {
             "output": "js/fuji.min.js",
-            "filters": ["closure_js"],
+            "filters": ["jsmin"],
         },
     ),
     # Disabled - STILL - because for some reason this CSS doesn't apply in the site
