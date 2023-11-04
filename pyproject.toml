@@ -10,7 +10,6 @@ keywords = [
 version = "1.0.0"
 
 dependencies = [
-    "closure",
     "cssmin",
     "feed2toot",
     "invoke",
@@ -27,6 +26,8 @@ dependencies = [
     "pelican-sitemap",
     "pelican-tag-cloud",
     "pelican-webassets",
+    # 👇🏻 this is required by webassets for some reason
+    "closure",
     "pelican>=4.5",
     "piexif",
     "python-slugify>=4.0",
