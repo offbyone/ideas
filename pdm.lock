@@ -3,10 +3,9 @@
 
 [metadata]
 groups = ["default"]
-cross_platform = true
-static_urls = false
-lock_version = "4.3"
-content_hash = "sha256:0f17dfb7afa212013f50178f60dbfdf9e9538b659253f60ff0689868f9d4f20d"
+strategy = ["cross_platform"]
+lock_version = "4.4"
+content_hash = "sha256:aa9911decca5ca796c8e671929efefacfcf781631eeed07391d36640622f6532"
 
 [[package]]
 name = "beautifulsoup4"
