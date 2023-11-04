@@ -26,8 +26,8 @@ dependencies = [
     "pelican-sitemap",
     "pelican-tag-cloud",
     "pelican-webassets",
-    # 👇🏻 this is required by webassets for some reason
-    "closure",
+    # 👇🏻 this is required by webassets, and I need my version because it uses importlib
+    "closure @ git+https://github.com/offbyone/python-closure.git@importlib",
     "pelican>=4.5",
     "piexif",
     "python-slugify>=4.0",
