@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["cross_platform"]
 lock_version = "4.4"
-content_hash = "sha256:aa9911decca5ca796c8e671929efefacfcf781631eeed07391d36640622f6532"
+content_hash = "sha256:e40d4b36fd63fbaa2dbb41f56e9ee732fdd06cca1b5d643ef749b01346114067"
 
 [[package]]
 name = "beautifulsoup4"
@@ -91,11 +91,11 @@ files = [
 
 [[package]]
 name = "closure"
-version = "20191111"
+version = "20231104"
+git = "https://github.com/offbyone/python-closure.git"
+ref = "importlib"
+revision = "7ab39852083a754c12c33433926bef70e89142fc"
 summary = "Closure compiler packaged for Python"
-files = [
-    {file = "closure-20191111.tar.gz", hash = "sha256:a133ac625c55697645b1c41745e167572633982128ee7f06e401fd76cb4e292f"},
-]
 
 [[package]]
 name = "cssmin"
