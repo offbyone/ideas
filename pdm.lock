@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["cross_platform"]
 lock_version = "4.4"
-content_hash = "sha256:e40d4b36fd63fbaa2dbb41f56e9ee732fdd06cca1b5d643ef749b01346114067"
+content_hash = "sha256:25f09fc67738a6f4909f221e9b5bbc816d2213f492d71675cd0c053d95f42102"
 
 [[package]]
 name = "beautifulsoup4"
@@ -88,14 +88,6 @@ files = [
     {file = "charset_normalizer-3.3.1-cp312-cp312-win_amd64.whl", hash = "sha256:baec8148d6b8bd5cee1ae138ba658c71f5b03e0d69d5907703e3e1df96db5e41"},
     {file = "charset_normalizer-3.3.1-py3-none-any.whl", hash = "sha256:800561453acdecedaac137bf09cd719c7a440b6800ec182f077bb8e7025fb708"},
 ]
-
-[[package]]
-name = "closure"
-version = "20231104"
-git = "https://github.com/offbyone/python-closure.git"
-ref = "importlib"
-revision = "7ab39852083a754c12c33433926bef70e89142fc"
-summary = "Closure compiler packaged for Python"
 
 [[package]]
 name = "cssmin"
@@ -219,6 +211,14 @@ dependencies = [
 files = [
     {file = "Jinja2-3.1.2-py3-none-any.whl", hash = "sha256:6088930bfe239f0e6710546ab9c19c9ef35e29792895fed6e6e31a023a182a61"},
     {file = "Jinja2-3.1.2.tar.gz", hash = "sha256:31351a702a408a9e7595a8fc6150fc3f43bb6bf7e319770cbc0db9df9437e852"},
+]
+
+[[package]]
+name = "jsmin"
+version = "3.0.1"
+summary = "JavaScript minifier."
+files = [
+    {file = "jsmin-3.0.1.tar.gz", hash = "sha256:c0959a121ef94542e807a674142606f7e90214a2b3d1eb17300244bbb5cc2bfc"},
 ]
 
 [[package]]
@@ -701,4 +701,12 @@ summary = "A built-package format for Python"
 files = [
     {file = "wheel-0.41.2-py3-none-any.whl", hash = "sha256:75909db2664838d015e3d9139004ee16711748a52c8f336b52882266540215d8"},
     {file = "wheel-0.41.2.tar.gz", hash = "sha256:0c5ac5ff2afb79ac23ab82bab027a0be7b5dbcf2e54dc50efe4bf507de1f7985"},
+]
+
+[[package]]
+name = "yuicompressor"
+version = "66.0.2"
+summary = "A package to prevent Dependency Confusion attacks against Yandex."
+files = [
+    {file = "yuicompressor-66.0.2.tar.gz", hash = "sha256:fbb122b2b1b642e8455f22982e352c3074648db41985179b2ff43bd74a1e045e"},
 ]

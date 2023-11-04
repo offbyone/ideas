@@ -21,20 +21,19 @@ dependencies = [
     "pelican-gist",
     "pelican-githubprojects",
     "pelican-photos ~= 1.5.0",
-    # "pelican-photos @ git+https://github.com/pelican-plugins/photos.git",
     "pelican-simple-footnotes",
     "pelican-sitemap",
     "pelican-tag-cloud",
     "pelican-webassets",
-    # 👇🏻 this is required by webassets, and I need my version because it uses importlib
-    "closure @ git+https://github.com/offbyone/python-closure.git@importlib",
+    # 👇🏻 this is required by webassets' jsmin
+    "jsmin~=3.0.1",
     "pelican>=4.5",
     "piexif",
     "python-slugify>=4.0",
     "rich",
     "webassets",
     "wheel",
-    "ruff>=0.1.3",
+    "ruff~=0.1.3",
 ]
 
 [[authors]]
