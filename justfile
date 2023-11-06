@@ -24,14 +24,12 @@ prepare_fonts:
     node_modules/@fortawesome/fontawesome-free/webfonts/ \
     themes/offby1/static/webfonts/
 
-@build settings="pelicanconf.py": prepare_fonts
-  pelican -s {{settings}} -o output content
+build settings="pelicanconf.py": prepare_fonts
+  pelican --fatal=errors -s {{settings}} -o output content
 
 generate: (build "publishconf.py")
-  pelican content -o output -s publishconf.py
 
 generate-dev: build
-  pelican content -o output -s pelicanconf.py
 
 publish: generate upload invalidate
 

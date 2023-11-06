@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-import multiprocessing
 from dataclasses import dataclass
 from datetime import datetime
 import os
@@ -22,7 +21,7 @@ class StyledLink:
         if self.style is None:
             self.style = self.name.lower()
         if self.icon_style is None:
-            self.icon_style = f"fa-brands fa-{{ self.style }}"
+            self.icon_style = "fa-brands fa-{ self.style }"
 
 
 @dataclass
@@ -77,7 +76,9 @@ TRANSLATION_FEED_ATOM = None
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
 LINKS = [
-    StyledLink("CV", "/pages/cv.html", style="cv", icon_style="fa-solid fa-image-portrait"),
+    StyledLink(
+        "CV", "/pages/cv.html", style="cv", icon_style="fa-solid fa-image-portrait"
+    ),
 ]
 
 # Social widget
@@ -126,7 +127,9 @@ WEBASSETS_SOURCE_PATHS = [
 for p in Path("node_modules").resolve().glob("**/*min.js"):
     WEBASSETS_SOURCE_PATHS.append(str(p.parent))
 
-WEBASSETS_CONFIG = [("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")])]
+WEBASSETS_CONFIG = [
+    ("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")])
+]
 WEBASSETS_BUNDLES = [
     (
         "theme_js",
@@ -138,7 +141,7 @@ WEBASSETS_BUNDLES = [
         ),
         {
             "output": "js/fuji.min.js",
-            "filters": ["closure_js"],
+            "filters": ["jsmin"],
         },
     ),
     # Disabled - STILL - because for some reason this CSS doesn't apply in the site

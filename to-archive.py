@@ -2,10 +2,7 @@
 import os
 import argparse
 import docutils
-import requests
-import json
 import pathlib
-from datetime import datetime
 
 import docutils.nodes
 import docutils.parsers.rst
@@ -53,7 +50,9 @@ class Visitor(docutils.nodes.NodeVisitor):
 def parse_rst(text: str) -> docutils.nodes.document:
     parser = docutils.parsers.rst.Parser()
     components = (docutils.parsers.rst.Parser,)
-    settings = docutils.frontend.OptionParser(components=components).get_default_values()
+    settings = docutils.frontend.OptionParser(
+        components=components
+    ).get_default_values()
     document = docutils.utils.new_document("<rst-doc>", settings=settings)
     parser.parse(text, document)
     return document
