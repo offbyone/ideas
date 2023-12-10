@@ -11,6 +11,7 @@ Serve an S3 bucket over tailscale
 :author: Chris Rose
 :email: offline@offby1.net
 :summary: A short intro to the idea of serving an S3 bucket on your tailnet
+:toot: https://wandering.shop/@offby1/111555217869127815
 :status: published
 
 I found myself wanting to host a private website that I could reliably update, but only serve it to users on my tailnet.
