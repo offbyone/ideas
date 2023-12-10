@@ -16,7 +16,7 @@ Serve an S3 bucket over tailscale
 
 I found myself wanting to host a private website that I could reliably update, but only serve it to users on my tailnet.
 
-I didn't find anything obvious that could do the job, but I _did_ realize that between the existence of `s3fs <https://github.com/jszwec/s3fs>`_, `tsnet <https://pkg.go.dev/tailscale.com/tsnet>`_, and the batteries that come with Go, I could probably bodge together something that does the job for me.
+I didn't find anything obvious that could do the job, but I *did* realize that between the existence of `s3fs <https://github.com/jszwec/s3fs>`_, `tsnet <https://pkg.go.dev/tailscale.com/tsnet>`_, and the batteries that come with Go, I could probably bodge together something that does the job for me.
 
 This is it: `offbyone/tailscale-s3-proxy <https://github.com/offbyone/tailscale-s3-proxy>`_.
 
