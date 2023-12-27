@@ -5,6 +5,7 @@ Category: society
 Tags: culture, cyberspace, internet
 Slug: adblockers
 Summary: This page explains why I want you to use an adblocker.
+Status: published
 
 I think that the ad economy on the internet is toxic and even when done in the most ethical of ways on the side of the site hosting the ads, can allow dangerous code to run on your computer. You should install an ad blocker for your own safety and to reduce the power of advertising to control what we see and discuss.
 
