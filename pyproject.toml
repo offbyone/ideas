@@ -50,23 +50,14 @@ build-backend = "hatchling.build"
 # enabled because we are using git dependencies
 allow-direct-references = true
 
-[tool.hatch.envs.dev]
-extra-dependencies = [
-  "flameprof",
-  "viztracer",
-  "orjson",
-  "rich",
+[tool.hatch.build.targets.sdist]
+ignore-vcs = true
+only-include = [
+  "plugins/*.py",
 ]
 
-[tool.hatch.envs.dev.scripts]
-cprofile = [
-  "python -m cProfile -o pelican.prof -m pelican",
-  "flameprof pelican.prof > pelican.svg",
-]
-
-perf = [
-  "viztracer -o result.json -m pelican",
-]
+[tool.hatch.build.targets.wheel]
+packages = ["plugins"]
 
 [tool.black]
 line-length = 100

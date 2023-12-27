@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["cross_platform"]
 lock_version = "4.4"
-content_hash = "sha256:25f09fc67738a6f4909f221e9b5bbc816d2213f492d71675cd0c053d95f42102"
+content_hash = "sha256:26903d1a2b6a124d4985171b6418c15c04ec689c76479231e8407c61a6154d88"
 
 [[package]]
 name = "beautifulsoup4"
@@ -701,12 +701,4 @@ summary = "A built-package format for Python"
 files = [
     {file = "wheel-0.41.2-py3-none-any.whl", hash = "sha256:75909db2664838d015e3d9139004ee16711748a52c8f336b52882266540215d8"},
     {file = "wheel-0.41.2.tar.gz", hash = "sha256:0c5ac5ff2afb79ac23ab82bab027a0be7b5dbcf2e54dc50efe4bf507de1f7985"},
-]
-
-[[package]]
-name = "yuicompressor"
-version = "66.0.2"
-summary = "A package to prevent Dependency Confusion attacks against Yandex."
-files = [
-    {file = "yuicompressor-66.0.2.tar.gz", hash = "sha256:fbb122b2b1b642e8455f22982e352c3074648db41985179b2ff43bd74a1e045e"},
 ]
