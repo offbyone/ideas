@@ -411,3 +411,6 @@ resource "aws_iam_role_policy" "cloudfront" {
   role   = aws_iam_role.blog_deploy.name
   policy = data.aws_iam_policy_document.deploy.json
 }
+
+# Atlantis test resource
+resource "null_resource" "example" {}
