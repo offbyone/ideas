@@ -41,24 +41,16 @@ name = "Chris Rose"
 email = "offline@offby1.net"
 
 [build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-[tool.hatch]
-
-[tool.hatch.metadata]
-# enabled because we are using git dependencies
-allow-direct-references = true
-
-[tool.hatch.build.targets.sdist]
-ignore-vcs = true
-only-include = [
-  "plugins/*.py",
-]
-
-[tool.hatch.build.targets.wheel]
-packages = ["plugins"]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
 
 [tool.black]
 line-length = 100
 target-version = ['py38']
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "boto3>=1.34.23",
+    "click>=8.1.7",
+    "aws-log-parser>=2.3.0",
+]
