@@ -34,27 +34,18 @@ generate-dev: build
 publish: generate upload invalidate
 
 compile-deps:
-    .venv/bin/pip-compile --no-emit-index-url \
-      --no-emit-trusted-host \
-      --unsafe-package=distribute \
-      --unsafe-package=offby1-website \
-      --unsafe-package=offby1.website \
-      --unsafe-package=pip \
-      --unsafe-package=setuptools \
-      requirements.in
+  pdm lock
 
 update-deps:
-    .venv/bin/pip-compile --no-emit-index-url \
-      --upgrade \
-      --no-emit-trusted-host \
-      --unsafe-package=distribute \
-      --unsafe-package=offby1-website \
-      --unsafe-package=offby1.website \
-      --unsafe-package=pip \
-      --unsafe-package=setuptools \
-      requirements.in
+  pdm update --update-all
 
 install-deps:
-    .venv/bin/pip-sync requirements.txt
+  pdm install
 
 deps: compile-deps install-deps
+
+plan:
+    terraform plan -out plan.just
+
+apply:
+    terraform apply plan.just
