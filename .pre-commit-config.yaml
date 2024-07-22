@@ -5,14 +5,14 @@ repos:
       - id: check-useless-excludes
 
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.3.7
+    rev: v0.5.4
     hooks:
       - id: ruff
       - id: ruff-format
         args: ["--check"]
 
   - repo: https://github.com/antonbabenko/pre-commit-terraform
-    rev: v1.88.4
+    rev: v1.92.0
     hooks:
       - id: terraform_fmt
       - id: terraform_validate
