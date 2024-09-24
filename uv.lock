@@ -438,9 +438,9 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "aws-log-parser", specifier = ">=2.4.0" },
-    { name = "boto3", specifier = ">=1.35.25" },
-    { name = "click", specifier = ">=8.1.7" },
+    { name = "aws-log-parser", specifier = "~=2.4" },
+    { name = "boto3", specifier = "~=1.35" },
+    { name = "click", specifier = "~=8.1" },
     { name = "cssmin" },
     { name = "feed2toot" },
     { name = "invoke" },
@@ -448,20 +448,20 @@ requires-dist = [
     { name = "jsmin", specifier = "~=3.0.1" },
     { name = "markdown" },
     { name = "mf2py" },
-    { name = "pelican", specifier = ">=4.5" },
+    { name = "pelican", specifier = "~=4.5" },
     { name = "pelican-edit-url" },
-    { name = "pelican-embed-microblog", specifier = ">=1.1.0" },
+    { name = "pelican-embed-microblog", specifier = "~=1.1" },
     { name = "pelican-gist" },
     { name = "pelican-githubprojects" },
-    { name = "pelican-photos", specifier = "~=1.5.0" },
+    { name = "pelican-photos", specifier = "~=1.5" },
     { name = "pelican-simple-footnotes" },
     { name = "pelican-sitemap" },
     { name = "pelican-tag-cloud" },
     { name = "pelican-webassets" },
     { name = "piexif" },
-    { name = "python-slugify", specifier = ">=4.0" },
+    { name = "python-slugify", specifier = "~=8.0" },
     { name = "rich" },
-    { name = "rich", specifier = ">=13.8.1" },
+    { name = "rich", specifier = "~=13.8" },
     { name = "ruff", specifier = "~=0.1.3" },
     { name = "webassets" },
     { name = "wheel" },
@@ -552,7 +552,7 @@ wheels = [
 
 [[package]]
 name = "pelican-photos"
-version = "1.5.0"
+version = "1.6.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "beautifulsoup4" },
@@ -560,9 +560,9 @@ dependencies = [
     { name = "piexif" },
     { name = "pillow" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/77/63/c2c79b440939a0419d7a77ead41e8aaa5c4c6c3c877a7b71aa0ef246489f/pelican_photos-1.5.0.tar.gz", hash = "sha256:2b3f1e6514f6529b7c2b7cdce6d483e94de996d7f0e3c2024e774e9217676486", size = 382730 }
+sdist = { url = "https://files.pythonhosted.org/packages/e1/3a/0e41d14e8a454247e84ccc73db4710cf2c9600a52f97e381d0501f68ddcb/pelican_photos-1.6.0.tar.gz", hash = "sha256:9b8fd3e5e26e3961c8f14f2858f35218f2d56f428e0efd1137444cac37527f41", size = 381038 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b3/61/a1c087c8b297cefb9a414986259b51aa7044827730eb8728e515172105c2/pelican_photos-1.5.0-py3-none-any.whl", hash = "sha256:b23024b73a6957d524acda09e84947b774e8169556c1173328385d80d0231697", size = 216388 },
+    { url = "https://files.pythonhosted.org/packages/e2/df/87feff1afeb57b07447a39de7ad1a62a7fcececf495ded946ae81f08ab56/pelican_photos-1.6.0-py3-none-any.whl", hash = "sha256:8d72d3f7f8cb8ac889ee5d4362e27cbd44a393d6861f383c1889cb8f3b2bff18", size = 216561 },
 ]
 
 [[package]]
