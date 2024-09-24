@@ -15,32 +15,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: extractions/setup-just@v1
-
-      - name: Set up Python & PDM
-        uses: pdm-project/setup-pdm@v3
-        with:
-          python-version: "3.12"
-          cache: true
+      - name: Set up uv
+        run: |
+          curl -LsSf https://astral.sh/uv/0.4.15/install.sh | sh
+      - name: Set up Python
+        run: |
+          uv python install --python-preference=system python3.12
 
       - name: install python libs
-        run: pdm install
+        run: uv sync
 
       - name: Set up Node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: "18"
 
       - name: Install dependencies
         run: |
           npm install
-          echo "$GITHUB_WORKSPACE/node_modules/.bin" >> $GITHUB_PATH
-
-      - name: Clone plugins
-        run: git clone https://github.com/getpelican/pelican-plugins
+          echo "$GITHUB_WORKSPACE/node_modules/.bin" >> "$GITHUB_PATH"
 
       - name: Build the page
         run: |
-          eval $(pdm venv activate)
           just generate
