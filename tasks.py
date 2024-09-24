@@ -13,6 +13,7 @@ from invoke import call, task
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 from rich.console import Console
+from rich.prompt import Prompt
 from rich.table import Table
 from slugify import slugify
 
@@ -206,8 +207,10 @@ def new_post(c, title=None):
         filename_title_string = f"-{slugify(title)}"
         title_string = title
     else:
-        filename_title_string = ""
-        title_string = "Post Title"
+        console.print("[bold magenta]Please enter the title:[/bold magenta]")
+        title = Prompt.ask("Title", default="New Post")
+        filename_title_string = f"-{slugify(title)}"
+        title_string = title
     new_post_path = (
         Path(SETTINGS["PATH"])
         / "rst"

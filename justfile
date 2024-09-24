@@ -3,19 +3,19 @@ set dotenv-load
 default: pelican
 
 pelican:
-    pelican
+  uv run pelican
 
 serve:
-    pelican --listen --autoreload
+  uv run pelican --listen --autoreload
 
 upload:
-  aws s3 sync \
+  uv run aws s3 sync \
     --delete \
     output \
     s3://ideas.offby1.net
 
 invalidate:
-  aws cloudfront create-invalidation \
+  uv run aws cloudfront create-invalidation \
     --distribution-id E3HG7SIR4ZZAS1 \
     --paths "/*"
 
@@ -25,7 +25,7 @@ prepare_fonts:
     themes/offby1/static/webfonts/
 
 build settings="pelicanconf.py": prepare_fonts
-  pelican --fatal=errors -s {{settings}} -o output content
+  uv run pelican --fatal=errors -s {{settings}} -o output content
 
 generate: (build "publishconf.py")
 
@@ -34,13 +34,13 @@ generate-dev: build
 publish: generate upload invalidate
 
 compile-deps:
-  pdm lock
+  uv lock
 
 update-deps:
-  pdm update --update-all
+  uv lock --upgrade
 
 install-deps:
-  pdm install
+  uv sync
 
 deps: compile-deps install-deps
 
@@ -49,3 +49,6 @@ plan:
 
 apply:
     terraform apply plan.just
+
+new_post:
+  uv run invoke new-post

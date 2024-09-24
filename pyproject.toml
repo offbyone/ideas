@@ -34,6 +34,10 @@ dependencies = [
     "webassets",
     "wheel",
     "ruff~=0.1.3",
+    "rich>=13.8.1",
+    "boto3>=1.35.25",
+    "click>=8.1.7",
+    "aws-log-parser>=2.4.0",
 ]
 
 [[authors]]
@@ -48,9 +52,3 @@ build-backend = "pdm.backend"
 line-length = 100
 target-version = ['py38']
 
-[tool.pdm.dev-dependencies]
-dev = [
-    "boto3>=1.34.23",
-    "click>=8.1.7",
-    "aws-log-parser>=2.3.0",
-]
