@@ -1,4 +1,5 @@
 data "aws_caller_identity" "current" {}
+data "aws_canonical_user_id" "current" {}
 
 module "log_storage" {
   bucket        = "logs.ideas.offby1.net"
@@ -60,6 +61,12 @@ resource "aws_s3_bucket" "blog" {
 
 resource "aws_s3_bucket_acl" "blog" {
   bucket = aws_s3_bucket.blog.id
+  access_control_policy {
+    owner {
+      id           = data.aws_canonical_user_id.current.id
+      display_name = "offline"
+    }
+  }
 }
 
 resource "aws_s3_bucket_website_configuration" "blog" {
@@ -188,6 +195,28 @@ resource "aws_s3_bucket" "wwwblog" {
 
 resource "aws_s3_bucket_acl" "wwwblog" {
   bucket = aws_s3_bucket.wwwblog.id
+  access_control_policy {
+    grant {
+      permission = "READ"
+      grantee {
+        type = "Group"
+        uri  = "http://acs.amazonaws.com/groups/global/AllUsers"
+      }
+    }
+
+    grant {
+      permission = "FULL_CONTROL"
+      grantee {
+        id   = data.aws_canonical_user_id.current.id
+        type = "CanonicalUser"
+      }
+    }
+
+    owner {
+      id           = data.aws_canonical_user_id.current.id
+      display_name = "offline"
+    }
+  }
 }
 
 resource "aws_s3_bucket_server_side_encryption_configuration" "wwwblog" {
