@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import os
 from dataclasses import dataclass
 from datetime import datetime
-import os
 from pathlib import Path
 from typing import Optional
+
 import pytz
 
 
@@ -190,8 +191,9 @@ REPOSITORY_ROOT = f"file://{ Path(__file__).parent.resolve() }/{ PATH }"
 EDIT_CONTENT_URL = "https://github.com/offbyone/ideas/edit/main/{file_path}"
 
 if "IDEAS_EMIT_TIMING" in os.environ:
-    import time
     import sqlite3
+    import time
+
     from pelican import signals
     from pelican.generators import Generator
 
