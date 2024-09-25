@@ -44,10 +44,6 @@ dependencies = [
 name = "Chris Rose"
 email = "offline@offby1.net"
 
-[build-system]
-requires = ["pdm-backend"]
-build-backend = "pdm.backend"
-
 [tool.black]
 line-length = 100
 target-version = ['py38']
