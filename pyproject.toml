@@ -24,7 +24,7 @@ dependencies = [
     "pelican-simple-footnotes",
     "pelican-sitemap",
     "pelican-tag-cloud",
-    "pelican-webassets",
+    "pelican-webassets~=2.0",
     # 👇🏻 this is required by webassets' jsmin
     "jsmin~=3.0.1",
     "pelican~=4.5",
@@ -48,3 +48,6 @@ email = "offline@offby1.net"
 line-length = 100
 target-version = ['py38']
 
+[tool.uv.sources]
+webassets = { git = "https://github.com/offbyone/webassets", branch = "ci-modernize" }
+pelican-webassets = { git = "https://github.com/offbyone/pelican-plugin-webassets", branch = "up-webassets" }
