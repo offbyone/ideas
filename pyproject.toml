@@ -33,7 +33,7 @@ dependencies = [
     "rich",
     "webassets",
     "wheel",
-    "ruff~=0.1.3",
+    "ruff~=0.6.8",
     "rich~=13.8",
     "boto3~=1.35",
     "click~=8.1",
