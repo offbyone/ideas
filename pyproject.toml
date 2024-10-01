@@ -1,7 +1,7 @@
 [project]
 name = "offby1.website"
 description = "My website"
-requires-python = ">= 3.11"
+requires-python = "~= 3.11"
 keywords = [
   "pelican",
   "blog",
@@ -10,31 +10,30 @@ keywords = [
 version = "1.0.0"
 
 dependencies = [
-    "cssmin",
-    "feed2toot",
-    "invoke",
+    "cssmin~=0.2.0",
+    "feed2toot~=0.17",
+    "invoke~=2.2.0",
     "isort>=5.0",
-    "markdown",
-    "mf2py",
-    "pelican-edit-url",
+    "markdown~=3.7",
+    "mf2py~=2.0.1",
+    "pelican-edit-url~=0.1.1",
     "pelican-embed-microblog ~= 1.1",
-    "pelican-gist",
-    "pelican-githubprojects",
+    "pelican-gist~=0.3.4",
+    "pelican-githubprojects~=0.1.1",
     "pelican-photos ~= 1.5",
-    "pelican-simple-footnotes",
-    "pelican-sitemap",
-    "pelican-tag-cloud",
+    "pelican-simple-footnotes~=1.0.3",
+    "pelican-sitemap~=1.1.0",
+    "pelican-tag-cloud~=1.0.1",
     "pelican-webassets~=2.0",
     # 👇🏻 this is required by webassets' jsmin
     "jsmin~=3.0.1",
     "pelican~=4.5",
-    "piexif",
+    "piexif~=1.1.3",
     "python-slugify~=8.0",
-    "rich",
-    "webassets",
-    "wheel",
-    "ruff~=0.1.3",
-    "rich~=13.8",
+    "rich~=13.8.1",
+    "webassets~=3.0.0a1",
+    "wheel~=0.44.0",
+    "ruff~=0.6.8",
     "boto3~=1.35",
     "click~=8.1",
     "aws-log-parser~=2.4",

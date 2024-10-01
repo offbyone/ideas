@@ -1,6 +1,7 @@
 Title: Default Apps 2024
-Category: personal
+Category: tools
 Slug: defaults
+Status: published
 
 "Apps I’ve been using regularly this year." Heavily inspired by [Jeff Triplett](https://jefftriplett.com/2023/default-apps-2023/).
 
