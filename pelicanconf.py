@@ -80,6 +80,9 @@ LINKS = [
     StyledLink(
         "CV", "/pages/cv.html", style="cv", icon_style="fa-solid fa-image-portrait"
     ),
+    StyledLink(
+        "Tools", "/pages/defaults.html", style="tools", icon_style="fa-solid fa-toolbox"
+    ),
 ]
 
 # Social widget
