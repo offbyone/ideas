@@ -1,4 +1,4 @@
-Title: Default Apps 2024
+Title: Default Apps (as of late 2024)
 Category: tools
 Slug: defaults
 Status: published
