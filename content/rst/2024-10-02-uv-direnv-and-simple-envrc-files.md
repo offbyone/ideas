@@ -39,7 +39,7 @@ Let me explain each of these commands and why they are there:
 
 * `dotenv_if_exists` -- this loads `.env` from the current working directory. 12-factor apps often have environment-driven configuration, and `docker compose` uses them relatively seamlessly as well. Doing this makes it easier to run commands from my shell that behave like my development environment. 
 
-* `source_env_if_exists .envrc.local` -- sometimes you need more complex functionality in a project than just environment variables. Having this hear lets me use `.envrc.local` for that. This comes after `.env` because sometimes you want to change those values. 
+* `source_env_if_exists .envrc.local` -- sometimes you need more complex functionality in a project than just environment variables. Having this here lets me use `.envrc.local` for that. This comes after `.env` because sometimes you want to change those values. 
 
 * `use venv` -- this is a function that activates the project `.venv` (creating it if needed); I'm old and set in my ways, and I prefer `. .venv/bin/activate.fish` in my shell to the more newfangled "prefix it with a runner" mode.
 
