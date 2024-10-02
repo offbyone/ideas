@@ -201,7 +201,7 @@ def upgrade(c):
 
 
 @task
-def new_post(c, title=None):
+def new_post(c, title=None, post_type="md"):
     """Create a blank new post in SETTINGS['PATH']"""
     if title is not None:
         filename_title_string = f"-{slugify(title)}"
@@ -214,31 +214,48 @@ def new_post(c, title=None):
     new_post_path = (
         Path(SETTINGS["PATH"])
         / "rst"
-        / f"{datetime.date.today().isoformat()}{filename_title_string}.rst"
+        / f"{datetime.date.today().isoformat()}{filename_title_string}.{post_type}"
     )
 
-    title_bar = "#" * len(title_string)
-    new_post_path.write_text(
-        dedent(
-            f"""\
-    {title_string}
-    {title_bar}
+    if post_type == "rst":
+        title_bar = "#" * len(title_string)
+        new_post_path.write_text(
+            dedent(
+                f"""\
+        {title_string}
+        {title_bar}
 
-    .. role:: raw-html(raw)
-        :format: html
+        .. role:: raw-html(raw)
+            :format: html
 
-    :slug: {slugify(title_string)}
-    :date: {datetime.datetime.now().isoformat()}
-    :category: CATEGORY
-    :tags: 
-    :author: Chris Rose
-    :email: offline@offby1.net
-    :summary:
+        :slug: {slugify(title_string)}
+        :date: {datetime.datetime.now().isoformat()}
+        :category: CATEGORY
+        :tags:
+        :author: Chris Rose
+        :email: offline@offby1.net
+        :summary:
 
-    A New Post
-    """
+        A New Post
+        """
+            )
         )
-    )
+    else:
+        new_post_path.write_text(
+            dedent(
+                f"""\
+        Title: {title_string}
+        Slug: { slugify(title_string) }
+        Date: {datetime.datetime.now().isoformat()}
+        Tags:
+        Category: CATEGORY
+        Author: Chris Rose
+        Email: offline@offby1.net
+        Status: draft
+        Summary: Summarize this
+        """
+            )
+        )
     c.run(f"git add '{new_post_path}'")
 
 
