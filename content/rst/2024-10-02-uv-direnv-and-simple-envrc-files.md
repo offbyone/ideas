@@ -5,7 +5,7 @@ Tags: uv, python, direnv, tool-sharpening
 Category: tools
 Author: Chris Rose
 Email: offline@offby1.net
-Toot:
+Toot: https://wandering.shop/@offby1/113236646362747524
 Status: published
 Summary: Easily using uv, direnv, and minimal, consistent .envrc files
 
