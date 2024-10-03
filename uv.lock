@@ -58,30 +58,30 @@ wheels = [
 
 [[package]]
 name = "boto3"
-version = "1.35.26"
+version = "1.35.31"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "botocore" },
     { name = "jmespath" },
     { name = "s3transfer" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/63/c8/a63ed2623011775dbde551dc2706970afb6e12ab9eafd948f9b818ffa11f/boto3-1.35.26.tar.gz", hash = "sha256:b04087afd3570ba540fd293823c77270ec675672af23da9396bd5988a3f8128b", size = 110960 }
+sdist = { url = "https://files.pythonhosted.org/packages/d0/f1/79811295eeb4a17ac30e35811665554b123fe131306f9d241e649c1440c4/boto3-1.35.31.tar.gz", hash = "sha256:8c593af260c4ea3eb6f079c09908f94494ca2222aa4e40a7ff490fab1cee8b39", size = 111034 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/16/fb/dec2efbad7f3b246ed8884334d7e259a51c43a7bbabbcb900665fe1d0e36/boto3-1.35.26-py3-none-any.whl", hash = "sha256:c31db992655db233d98762612690cfe60723c9e1503b5709aad92c1c564877bb", size = 139142 },
+    { url = "https://files.pythonhosted.org/packages/33/53/c15e373e6f8057afb0e73a5bd4be85069252d7daa1dc09d21272495e8657/boto3-1.35.31-py3-none-any.whl", hash = "sha256:2e9af74d10d8af7610a8d8468d2914961f116912a024fce17351825260385a52", size = 139138 },
 ]
 
 [[package]]
 name = "botocore"
-version = "1.35.26"
+version = "1.35.31"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "jmespath" },
     { name = "python-dateutil" },
     { name = "urllib3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/bc/86/64687d39e88a7324fac123e2eba1cb77527331aaaf82d11cf34db5184d86/botocore-1.35.26.tar.gz", hash = "sha256:19efc3a22c9df77960712b4e203f912486f8bcd3794bff0fd7b2a0f5f1d5712d", size = 12782097 }
+sdist = { url = "https://files.pythonhosted.org/packages/21/e0/760f93dc395259120fc23de87de8e6f692bdd8507b126071f5c0241cd75a/botocore-1.35.31.tar.gz", hash = "sha256:f7bfa910cf2cbcc8c2307c1cf7b93495d614c2d699883417893e0a337fe4eb63", size = 12783441 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/1e/46/355f7345b6c5a9d95771bdf69d3860163ee5ac3c6ff5d0a652a3dc8e243c/botocore-1.35.26-py3-none-any.whl", hash = "sha256:0b9dee5e4a3314e251e103585837506b17fcc7485c3c8adb61a9a913f46da1e7", size = 12570363 },
+    { url = "https://files.pythonhosted.org/packages/c7/b8/af6ff2c29315c0be0dcdec98ba42bb699e531bca83fbab1027fee060312e/botocore-1.35.31-py3-none-any.whl", hash = "sha256:4cee814875bc78656aef4011d3d6b2231e96f53ea3661ee428201afb579d5c31", size = 12571828 },
 ]
 
 [[package]]
@@ -957,7 +957,7 @@ wheels = [
 [[package]]
 name = "webassets"
 version = "3.0.0a1"
-source = { git = "https://github.com/offbyone/webassets?branch=ci-modernize#18abae2ffbc6bcec55f6bf75702fa35c961bbaa4" }
+source = { git = "https://github.com/offbyone/webassets?branch=ci-modernize#44d558c9383dc43603b24147cd39034ab38cb2d5" }
 dependencies = [
     { name = "pyyaml" },
     { name = "zope-dottedname" },

@@ -40,7 +40,13 @@ Present Employment
 
 Staff Software Engineer, Deployment
 
-- There would be more bullet points here, but give me time, I'm new!
+- Led a project to apply multiple security best practices to the deployment systems
+- Designed methods for managing sensitive materials during deployments for the company
+
+Staff Software Engineer, Migrations
+
+- Technical leadership for a team of 15
+- Led design for observability and tracing in the migrations system
 
 Past Employment
 ---------------
