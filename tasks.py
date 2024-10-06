@@ -213,7 +213,7 @@ def new_post(c, title=None, post_type="md"):
         title_string = title
     new_post_path = (
         Path(SETTINGS["PATH"])
-        / "rst"
+        / "posts"
         / f"{datetime.date.today().isoformat()}{filename_title_string}.{post_type}"
     )
 
@@ -285,7 +285,7 @@ def get_category(doc: docutils.nodes.document) -> str:
     return v.fields["category"].strip()
 
 
-def content_paths(relative="content/rst", extensions=(".rst",)):
+def content_paths(relative="content/posts", extensions=(".rst",)):
     for root, _, files in os.walk(relative):
         for f in files:
             p = Path(root) / f
