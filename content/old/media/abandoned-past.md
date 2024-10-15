@@ -30,12 +30,16 @@ restore them to life, and it is tragic without pause. I can't convey it
 here, because I'm not Warren Ellis, but in the man's own words:
 
 > She was revived out of a sense of begrudging duty.
+> 
 > She'd been foisted on a future already busy enough with its own problems by a past that couldn't have cared less.
+> 
 > She could have told the future what it'd been like to meet Che Guevara in that old Cuban schoolhouse.
+> 
 > She could've told them about the last Queen and Albert Einstein and a million other true stories besides.
+> 
 > But the future didn't want to know.
 > ...
 > Mary sticks to the alleyways, where the light and noise of the city is screened out a little.
-> And she talks to anyone who will listen. She tells of how she was Revived: tells it in cold, terrible detail. She has a photographer's eye. She's made a little documentary of her new
-> life, up in her chilled head. And she tells stories of the past. Great rich warm human stories of Stephen Hawking mapping the universe from a wheelchair, of dancing with children in Zimbabwe dust and walking through Moscow with Mikhail Gorbachev... John Kennedy playing grabass in the White House. Nelson Mandela laughing at dirty jokes on a Jo'Burg street, a kid walking in front of a Chinese tank... The stories that make us great.
+> And she talks to anyone who will listen. She tells of how she was Revived: tells it in cold, terrible detail. She has a photographer's eye. She's made a little documentary of her new life, up in her chilled head. And she tells stories of the past. Great rich warm human stories of Stephen Hawking mapping the universe from a wheelchair, of dancing with children in Zimbabwe dust and walking through Moscow with Mikhail Gorbachev... John Kennedy playing grabass in the White House. Nelson Mandela laughing at dirty jokes on a Jo'Burg street, a kid walking in front of a Chinese tank... The stories that make us great.
+> 
 > Mary will live for maybe another century. But her story's over. Because you wouldn't have it any other way.
