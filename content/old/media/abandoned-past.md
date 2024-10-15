@@ -38,7 +38,7 @@ here, because I'm not Warren Ellis, but in the man's own words:
 > She could've told them about the last Queen and Albert Einstein and a million other true stories besides.  
 > 
 > But the future didn't want to know.  
-> ...
+> ...  
 > Mary sticks to the alleyways, where the light and noise of the city is screened out a little.  
 > And she talks to anyone who will listen. She tells of how she was Revived: tells it in cold, terrible detail. She has a photographer's eye. She's made a little documentary of her new life, up in her chilled head. And she tells stories of the past. Great rich warm human stories of Stephen Hawking mapping the universe from a wheelchair, of dancing with children in Zimbabwe dust and walking through Moscow with Mikhail Gorbachev... John Kennedy playing grabass in the White House. Nelson Mandela laughing at dirty jokes on a Jo'Burg street, a kid walking in front of a Chinese tank... The stories that make us great.  
 > 
