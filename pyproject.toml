@@ -22,7 +22,7 @@ dependencies = [
     "pelican-githubprojects~=0.1.1",
     "pelican-photos ~= 1.5",
     "pelican-simple-footnotes~=1.0.3",
-    "pelican-sitemap~=1.1.0",
+    "pelican-sitemap~=1.2.0",
     "pelican-tag-cloud~=1.0.1",
     "pelican-webassets~=2.0",
     # 👇🏻 this is required by webassets' jsmin
