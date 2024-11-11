@@ -45,6 +45,17 @@ Let me explain each of these commands and why they are there:
 
 * `uv sync` -- this is a super fast, "install my development and main dependencies" command. This was way, way too slow with `pip`, `pip-tools`, `poetry`, `pdm`, or `hatch`, but with `uv`, I don't mind having this in my `.envrc`
 
+### A sidebar on `use venv`
+
+`use venv` is a custom direnv function I have as well, and mine is a bit complicated because it evolved as I was choosing a way to set up virtualenvs. At the present, though, it can be written very simply:
+
+```bash
+function use_venv() {
+    uv venv
+    source .venv/bin/activate
+}
+```
+
 ## Using it in a sentence
 
 With this set up in direnv's configuration, all I need in my `.envrc` file is this:
