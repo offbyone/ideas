@@ -5,14 +5,14 @@
   "license": "CC-BY-SA",
   "repository": "https://github.com/offbyone/ideas",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.5",
+    "@fortawesome/fontawesome-free": "^6.7",
     "@primer/css": "~21",
-    "autoprefixer": "^10.4.19",
-    "dompurify": "^3.1.5",
+    "autoprefixer": "^10.4.20",
+    "dompurify": "^3.2.2",
     "magnific-popup": "^1.2.0",
-    "postcss": "^8.4.39",
+    "postcss": "^8.4.49",
     "postcss-cli": "^11.0.0",
     "postcss-import": "^16.1.0",
-    "sass": "^1.77.6"
+    "sass": "^1.81.0"
   }
 }
