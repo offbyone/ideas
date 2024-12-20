@@ -138,6 +138,11 @@ article {
     margin-top: 1.25rem;
   }
 
+  p {
+    // a half-line space between paragraphs
+    margin: 0 0 0.5rem 0;
+  }
+
   ul {
     list-style-type: circle;
   }
