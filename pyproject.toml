@@ -33,10 +33,10 @@ dependencies = [
     "rich~=13.9.4",
     "webassets~=3.0.0a1",
     "wheel~=0.45.0",
-    "ruff~=0.7.3",
+    "ruff~=0.8.6",
     "boto3~=1.35",
     "click~=8.1",
-    "aws-log-parser~=2.4",
+    "aws-log-parser~=3.0",
 ]
 
 [tool.uv]
