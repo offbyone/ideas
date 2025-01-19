@@ -9,7 +9,10 @@ import docutils.frontend
 import docutils.nodes
 import docutils.parsers.rst
 import docutils.utils
-from invoke import call, task
+from invoke.main import program
+from invoke.tasks import call, task
+from livereload.server import shlex
+from pelican import main as pelican_main
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 from rich.console import Console
@@ -29,6 +32,7 @@ def parse_rst(text: str) -> docutils.nodes.document:
     return document
 
 
+OPEN_BROWSER_ON_SERVE = True
 SETTINGS_FILE_BASE = "pelicanconf.py"
 SETTINGS = {}
 SETTINGS.update(DEFAULT_CONFIG)
@@ -40,10 +44,8 @@ CONFIG = {
     "settings_publish": "publishconf.py",
     # Output path. Can be absolute or relative to tasks.py. Default: 'output'
     "deploy_path": SETTINGS["OUTPUT_PATH"],
-    # Github Pages configuration
-    "github_pages_branch": "master",
-    "commit_message": "'Publish site on {}'".format(datetime.date.today().isoformat()),
-    # Port for `serve`
+    # Host and port for `serve`
+    "host": "localhost",
     "port": 8000,
     "s3_bucket": "ideas.offby1.net",
     "cloudfrount_distribution_id": "E3HG7SIR4ZZAS1",
@@ -119,24 +121,39 @@ def livereload(c):
     """Automatically reload browser tab upon file modification."""
     from livereload import Server
 
-    build(c)
+    def cached_build():
+        cmd = "-s {settings_base} -e CACHE_CONTENT=true LOAD_CONTENT_CACHE=true"
+        pelican_run(cmd.format(**CONFIG))
+
+    cached_build()
     server = Server()
-    # Watch the base settings file
-    server.watch(CONFIG["settings_base"], lambda: build(c))
-    # Watch content source files
+    theme_path = SETTINGS["THEME"]
+    watched_globs = [
+        CONFIG["settings_base"],
+        f"{theme_path}/templates/**/*.html",
+        f"{theme_path}/templates/**/*.j2",
+    ]
+
     content_file_extensions = [".md", ".rst"]
     for extension in content_file_extensions:
-        content_blob = "{0}/**/*{1}".format(SETTINGS["PATH"], extension)
-        server.watch(content_blob, lambda: build(c))
-    # Watch the theme's templates and static assets
-    theme_path = SETTINGS["THEME"]
-    server.watch("{}/templates/*.html".format(theme_path), lambda: build(c))
+        content_glob = "{}/**/*{}".format(SETTINGS["PATH"], extension)
+        watched_globs.append(content_glob)
+
     static_file_extensions = [".css", ".js"]
     for extension in static_file_extensions:
-        static_file = "{0}/static/**/*{1}".format(theme_path, extension)
-        server.watch(static_file, lambda: build(c))
-    # Serve output path on configured port
-    server.serve(port=CONFIG["port"], root=CONFIG["deploy_path"])
+        static_file_glob = f"{theme_path}/static/**/*{extension}"
+        watched_globs.append(static_file_glob)
+
+    for glob in watched_globs:
+        server.watch(glob, cached_build)
+
+    if OPEN_BROWSER_ON_SERVE:
+        # Open site in default browser
+        import webbrowser
+
+        webbrowser.open("http://{host}:{port}".format(**CONFIG))
+
+    server.serve(host=CONFIG["host"], port=CONFIG["port"], root=CONFIG["deploy_path"])
 
 
 @task
@@ -296,7 +313,7 @@ def content_paths(relative="content/posts", extensions=(".rst",)):
 
 @task
 def list_tags(c):
-    all_tags: dict[str : set[str]] = {}
+    all_tags: dict[str, set[str]] = {}
 
     for p in content_paths():
         doc = parse_rst(p.read_text())
@@ -367,3 +384,8 @@ def show_hcard(c, page="index.html"):
         mf = mf2py.parse(doc=fh)
 
     console.print(mf)
+
+
+def pelican_run(cmd):
+    cmd += " " + program.core.remainder  # allows to pass-through args to pelican
+    pelican_main(shlex.split(cmd))

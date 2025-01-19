@@ -49,6 +49,11 @@ override-dependencies = [
 name = "Chris Rose"
 email = "offline@offby1.net"
 
+[dependency-groups]
+dev = [
+    "livereload>=2.7.1",
+]
+
 [tool.black]
 line-length = 100
 target-version = ['py38']
