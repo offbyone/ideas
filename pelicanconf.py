@@ -88,8 +88,8 @@ LINKS = [
 # Social widget
 SOCIAL = (
     Social("Wandering.Shop", "https://wandering.shop/@offby1", network="mastodon"),
-    Social("Twitter", "https://twitter.com/offby1"),
     Social("Github", "https://github.com/offbyone"),
+    Social("Bluesky", "https://bsky.app/profile/offby1.net"),
 )
 
 DEFAULT_PAGINATION = 10
