@@ -9,4 +9,4 @@ The best way to reach me if you want a speedy response is via my Mastodon accoun
 
 I also use BlueSky, albeit less often; find me there at <span class="fa-brands fa-bluesky"></span><a href="https://bsky.app/profile/offby1.net">offby1.net</a>. 
 
-Email is also viable; please email <span class="fa fa-envelope"></span><a href="mailto:ideas.feedback@offby1.net?subject=A comment about a post" class="sc-email">ideas.feedback@offby1.net</a>. 
+Email is also viable; please email <span class="fa fa-envelope"></span><a href="mailto:ideas.feedback@offby1.net?subject=A comment about a post" class="sc-email">ideas.feedback@offby1.net</a> for post feedback, or <span class="fa fa-envelope"></span><a href="mailto:offline@offby1.net?subject=Emailing for the hell of it" class="sc-email">offline@</a> for just general contact. 
