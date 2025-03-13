@@ -48,6 +48,15 @@ Staff Software Engineer, Migrations
 - Technical leadership for a team of 15
 - Led design for observability and tracing in the migrations system
 
+Open Source Software
+--------------------
+
+- Lead developer of the current Hugo Awards nominations and voting system, `NomNom <https://nomnom.fans/>`_.
+
+- Maintainer of the Python implementation of the Hamcrest matcher package, `PyHamcrest <https://github.com/hamcrest/PyHamcrest>`_.
+
+- I have small contributions in a range of OSS developer tool projects including `overmind <https://github.com/DarthSim/overmind>`_, `starship <https://starship.rs/>`_, and `pelican <https://getpelican.com/>`_.
+
 Past Employment
 ---------------
 
