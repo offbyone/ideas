@@ -31,7 +31,7 @@ Technical Skills
 
 **Cloud Services**: AWS[ref]I certainly hope so![/ref], Docker
 
-**Tools**: Emacs, Git[ref]Again, I certainly hope so![/ref], `my tools category here </category/tools.html>`_
+**Tools**: Emacs, Git[ref]Again, I certainly hope so![/ref], `my tools category here <{category}tools>`_
 
 Present Employment
 ------------------
