@@ -1,11 +1,12 @@
-Busy Times
-##########
-:date: 2007-10-09 08:33
-:author: offby1
-:category: life
-:tags: apple, computer, look at you hacker a pathetic creature of meat and bone, mac, skydiving, work
-:slug: busy-times
-:status: draft
+Title: Busy Times
+Date: 2007-10-09 08:33
+Author: offby1
+Category: Life
+Tags: apple, computer, look at you hacker a pathetic creature of meat and bone, mac, skydiving, work
+Slug: busy-times
+Status: draft
+
+# Busy Times
 
 Well, it's been a busy few weeks here, as evinced by... well, nought, as
 far as you all can tell. I've been lazy with regards to all _kinds_ of

@@ -1,11 +1,12 @@
-... and it did.
-###############
-:date: 2007-01-16 11:56
-:author: offby1
-:category: life
-:tags: bad news, dislocation, health, skydiving
-:slug: and-it-did
-:status: published
+Title: ... and it did.
+Date: 2007-01-16 11:56
+Author: offby1
+Category: Life
+Tags: bad news, dislocation, health, skydiving
+Slug: and-it-did
+Status: published
+
+# ... and it did.
 
 So, the other shoe to which I referred has, in fact, dropped.
 

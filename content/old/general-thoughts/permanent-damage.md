@@ -1,11 +1,12 @@
-Permanent Damage
-################
-:date: 2007-01-05 07:42
-:author: offby1
-:category: life
-:tags: bad news, dislocation, health, skydiving
-:slug: permanent-damage
-:status: published
+Title: Permanent Damage
+Date: 2007-01-05 07:42
+Author: offby1
+Category: Life
+Tags: bad news, dislocation, health, skydiving
+Slug: permanent-damage
+Status: published
+
+# Permanent Damage
 
 I got a phone call from my physician on Wednesday in which he told me
 that the MRI I had indicated cartilage damage in the shoulder, and that

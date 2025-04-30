@@ -1,11 +1,12 @@
-Alone in the air
-################
-:date: 2005-08-14 14:47
-:author: offby1
-:category: life
-:tags: skydiving
-:slug: alone-in-the-air
-:status: published
+Title: Alone in the air
+Date: 2005-08-14 14:47
+Author: offby1
+Category: Life
+Tags: skydiving
+Slug: alone-in-the-air
+Status: published
+
+# Alone in the air
 
 With a flutter or two of butterflies in my stomach to keep me company on
 the way up, it is *done*! I am now certified to jump solo at the club

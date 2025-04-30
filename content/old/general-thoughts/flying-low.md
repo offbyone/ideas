@@ -1,11 +1,12 @@
-Flying... low
-#############
-:date: 2003-07-26 22:27
-:author: offby1
-:category: life
-:tags: new experience, skydiving
-:slug: flying-low
-:status: published
+Title: Flying... low
+Date: 2003-07-26 22:27
+Author: offby1
+Category: Life
+Tags: new experience, skydiving
+Slug: flying-low
+Status: published
+
+# Flying... low
 
 Holy. shit. what. a. rush.
 
@@ -17,8 +18,8 @@ later, we were off.
 
 Off where, you ask?
 
-Well, about 30 min west of Edmonton, there's a place called `Eden
-North <http://www.edennorth.com/>`__. Wonderful place, as the name
+Well, about 30 min west of Edmonton, there's a place called [Eden
+North](http://www.edennorth.com/). Wonderful place, as the name
 suggests, and i am more than a bit pleased with the day i spent there -
 tired, or no.
 

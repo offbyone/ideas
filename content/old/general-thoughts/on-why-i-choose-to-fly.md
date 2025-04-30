@@ -1,11 +1,12 @@
-On why I choose to fly
-######################
-:date: 2008-12-13 15:47
-:author: offby1
-:category: life
-:tags: dislocation, health, risk, skydiving
-:slug: on-why-i-choose-to-fly
-:status: published
+Title: On why I choose to fly
+Date: 2008-12-13 15:47
+Author: offby1
+Category: Life
+Tags: dislocation, health, risk, skydiving
+Slug: on-why-i-choose-to-fly
+Status: published
+
+# On why I choose to fly
 
 Anyone that partakes in a sport that is outside the norm will have some
 reason or other for doing what they do. Mostly, their reasons boil down
@@ -31,7 +32,7 @@ The air was fresh, the wind calm.
 The temperature was high, but for Brazil, not too bad.
 
 I jumped from a
-`Caravan <http://en.wikipedia.org/wiki/Cessna_Caravan>`__ at 12,000',
+[Caravan](http://en.wikipedia.org/wiki/Cessna_Caravan) at 12,000',
 making a smooth exit and a laughing, joyous flight through a cloud in
 the aforementioned cloud layer.
 
