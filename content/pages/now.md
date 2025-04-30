@@ -14,6 +14,4 @@ I work on open source when I can find the time, mostly Python stuff, or just chi
 
 If you read SF/F, you may have heard of [the Hugo Awards](https://www.thehugoawards.org/). I'm the developer of [NomNom](https://nomnom.fans), which is the software that collects nominations, votes, and links to the Hugo finalist packet. 
 
-I have a homelab and an old house, both of which give me infinte opportunities to tinker.
-
-
+I have a homelab and an old house, both of which give me infinte opportunities to tinker. If I run out of ideas there, I'm also the admin of [wandering.shop](https://wandering.shop/).
