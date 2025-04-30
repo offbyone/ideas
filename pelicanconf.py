@@ -78,6 +78,7 @@ TRANSLATION_FEED_ATOM = None
 #          ('You can modify those links in your config file', '#'),)
 LINKS = [
     StyledLink("CV", "/cv.html", style="cv", icon_style="fa-solid fa-image-portrait"),
+    StyledLink("Now", "/now.html", style="now", icon_style="fa-solid fa-clock"),
     StyledLink(
         "Tools", "/defaults.html", style="tools", icon_style="fa-solid fa-toolbox"
     ),
