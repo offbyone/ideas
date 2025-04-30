@@ -1,4 +1,5 @@
 version = 1
+revision = 1
 requires-python = ">=3.13, <4"
 
 [manifest]
@@ -387,6 +388,7 @@ dependencies = [
     { name = "pelican-gist" },
     { name = "pelican-githubprojects" },
     { name = "pelican-photos" },
+    { name = "pelican-redirect" },
     { name = "pelican-simple-footnotes" },
     { name = "pelican-sitemap" },
     { name = "pelican-tag-cloud" },
@@ -422,6 +424,7 @@ requires-dist = [
     { name = "pelican-gist", specifier = "~=0.3.4" },
     { name = "pelican-githubprojects", specifier = "~=0.1.1" },
     { name = "pelican-photos", specifier = "~=1.5" },
+    { name = "pelican-redirect", git = "https://github.com/bryanwweber/pelican-redirect?tag=v2.0.0" },
     { name = "pelican-simple-footnotes", specifier = "~=1.0.3" },
     { name = "pelican-sitemap", specifier = "~=1.2.0" },
     { name = "pelican-tag-cloud", specifier = "~=1.0.1" },
@@ -533,6 +536,14 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/e1/3a/0e41d14e8a454247e84ccc73db4710cf2c9600a52f97e381d0501f68ddcb/pelican_photos-1.6.0.tar.gz", hash = "sha256:9b8fd3e5e26e3961c8f14f2858f35218f2d56f428e0efd1137444cac37527f41", size = 381038 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/e2/df/87feff1afeb57b07447a39de7ad1a62a7fcececf495ded946ae81f08ab56/pelican_photos-1.6.0-py3-none-any.whl", hash = "sha256:8d72d3f7f8cb8ac889ee5d4362e27cbd44a393d6861f383c1889cb8f3b2bff18", size = 216561 },
+]
+
+[[package]]
+name = "pelican-redirect"
+version = "1.0.2"
+source = { git = "https://github.com/bryanwweber/pelican-redirect?tag=v2.0.0#27b6f1a7845ba60d81d7888dc11bf9a50f28f591" }
+dependencies = [
+    { name = "pelican" },
 ]
 
 [[package]]

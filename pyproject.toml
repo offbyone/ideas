@@ -25,6 +25,7 @@ dependencies = [
     "pelican-sitemap~=1.2.0",
     "pelican-tag-cloud~=1.0.1",
     "pelican-webassets~=2.0",
+    "pelican-redirect>=1.0",
     # 👇🏻 this is required by webassets' jsmin
     "jsmin~=3.0.1",
     "pelican~=4.5",
@@ -61,3 +62,4 @@ target-version = ['py38']
 [tool.uv.sources]
 webassets = { git = "https://github.com/offbyone/webassets", branch = "ci-modernize" }
 pelican-webassets = { git = "https://github.com/offbyone/pelican-plugin-webassets", branch = "up-webassets" }
+pelican-redirect = { git = "https://github.com/bryanwweber/pelican-redirect", tag = "v2.0.0" }

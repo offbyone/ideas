@@ -100,6 +100,7 @@ PLUGINS = [
     "pelican_edit_url",
     "pelican_embed_microblog",
     "pelican_gist",
+    "pelican_redirect",
     "photos",
     "simple_footnotes",
     "sitemap",
@@ -177,6 +178,15 @@ EXTRA_PATH_METADATA = {
 
 FLICKR_API_KEY = "b6948f5853252a6c1310523f2e3b1faa"
 FLICKR_USER = "11217428@N00"
+
+# PAGE_URL = "{slug}.html"
+PAGE_SAVE_AS = "{slug}.html"
+
+CONTENT_REDIRECT_CONFIGURATION = [
+    {
+        "PAGE_URL": "pages/{slug}.html",
+    }
+]
 
 THEMES_I_LIKE = [
     "svtble",
