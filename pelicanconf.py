@@ -77,11 +77,9 @@ TRANSLATION_FEED_ATOM = None
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
 LINKS = [
+    StyledLink("CV", "/cv.html", style="cv", icon_style="fa-solid fa-image-portrait"),
     StyledLink(
-        "CV", "/pages/cv.html", style="cv", icon_style="fa-solid fa-image-portrait"
-    ),
-    StyledLink(
-        "Tools", "/pages/defaults.html", style="tools", icon_style="fa-solid fa-toolbox"
+        "Tools", "/defaults.html", style="tools", icon_style="fa-solid fa-toolbox"
     ),
 ]
 
@@ -181,6 +179,7 @@ FLICKR_USER = "11217428@N00"
 
 # PAGE_URL = "{slug}.html"
 PAGE_SAVE_AS = "{slug}.html"
+# PAGE_URL = "{slug}.html"
 
 CONTENT_REDIRECT_CONFIGURATION = [
     {
