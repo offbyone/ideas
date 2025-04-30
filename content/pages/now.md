@@ -4,6 +4,10 @@ Status: published
 
 ## What I'm Doing Now
 
+<span><i class="iconfont icon-today-sharp"></i>&nbsp;
+    Last Updated: <time datetime="2025-04-29T20:55:47-08:00" pubdate="">Tuesday 29 April 2025</time>
+</span>
+
 I'm living in [Seattle]({tag}seattle), having been here since 2011 when I moved here for [a job with AWS]({category}amazon expedition).
 
 My work these days is with [GitHub](https://github.com), where I'm working on some of our enterprise product ... "stuff".
