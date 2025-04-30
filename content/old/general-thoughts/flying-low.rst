@@ -2,10 +2,10 @@ Flying... low
 #############
 :date: 2003-07-26 22:27
 :author: offby1
-:category: General Thoughts
+:category: life
 :tags: new experience, skydiving
 :slug: flying-low
-:status: draft
+:status: published
 
 Holy. shit. what. a. rush.
 

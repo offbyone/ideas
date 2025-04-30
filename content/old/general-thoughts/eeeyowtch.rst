@@ -2,10 +2,10 @@ Eeeyowtch!
 ##########
 :date: 2006-10-22 19:04
 :author: offby1
-:category: General Thoughts
+:category: life
 :tags: dislocation, skydiving
 :slug: eeeyowtch
-:status: draft
+:status: published
 
 Christ, dislocating my shoulder **hurt**.
 

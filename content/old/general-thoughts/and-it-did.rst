@@ -2,10 +2,10 @@
 ###############
 :date: 2007-01-16 11:56
 :author: offby1
-:category: General Thoughts
+:category: life
 :tags: bad news, dislocation, health, skydiving
 :slug: and-it-did
-:status: draft
+:status: published
 
 So, the other shoe to which I referred has, in fact, dropped.
 

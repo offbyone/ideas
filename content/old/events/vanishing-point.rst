@@ -2,10 +2,10 @@ Vanishing point
 ###############
 :date: 2003-08-31 10:52
 :author: offby1
-:category: Events, General Thoughts, Meta
+:category: life
 :tags: apology, appreciation, moving, simon, skydiving
 :slug: vanishing-point
-:status: draft
+:status: published
 
 So sorry about having dropped from the face of the earth for a week,
 folks. I know my readership isn't huge, but i suspect at least one or
