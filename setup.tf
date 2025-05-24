@@ -15,6 +15,11 @@ variable "website_domain" {
   default = "offby1.website"
 }
 
+variable "website_alternate_domain" {
+  type    = string
+  default = "offbyone.website"
+}
+
 variable "dotnet_subdomain" {
   type    = string
   default = "ideas.offby1.net"
@@ -33,17 +38,24 @@ data "aws_route53_zone" "website" {
   name = "offby1.website"
 }
 
+data "aws_route53_zone" "offbyone-website" {
+  name = "offbyone.website"
+}
+
 locals {
   zone_id_map = {
     "ideas.offby1.net" = data.aws_route53_zone.zone.zone_id
     "offby1.website"   = data.aws_route53_zone.website.zone_id
+    "offbyone.website" = data.aws_route53_zone.offbyone-website.zone_id
   }
   domain_names = [
     var.dotnet_subdomain,
     var.website_domain,
+    var.website_alternate_domain,
   ]
-  domain_name = var.website_domain
-  bucket_name = var.dotnet_subdomain
+  domain_name           = var.website_domain
+  alternate_domain_name = var.website_alternate_domain
+  bucket_name           = var.dotnet_subdomain
 
   tags = {
     Project = "ideas.blog"
@@ -359,6 +371,18 @@ resource "aws_route53_record" "blog" {
   zone_id = data.aws_route53_zone.website.zone_id
   name    = local.domain_name
   type    = "A"
+  alias {
+    name                   = aws_cloudfront_distribution.frontend.domain_name
+    zone_id                = aws_cloudfront_distribution.frontend.hosted_zone_id
+    evaluate_target_health = true
+  }
+}
+
+resource "aws_route53_record" "offbyone-website" {
+  zone_id = data.aws_route53_zone.offbyone-website.zone_id
+  name    = local.alternate_domain_name
+  type    = "A"
+
   alias {
     name                   = aws_cloudfront_distribution.frontend.domain_name
     zone_id                = aws_cloudfront_distribution.frontend.hosted_zone_id
