@@ -6,6 +6,7 @@ Category: internet
 Author: Chris Rose
 Email: offline@offby1.net
 Status: published
+Toot: https://wandering.shop/@offby1/114608855854673274
 Summary: Expose your Tailscale hosts as Ansible facts. Make peer node IPs and tags available in your playbooks
 
 [Tailscale](https://tailscale.com) is an encrypted overlay network that "just works", so well that I have adopted it both for my homelab and for the infrastructure of [wandering.shop](https://wandering.shop). In the latter case, I've heavily used [Ansible](https://ansible.com) to make the infrastructure easy to replicate and manage.
