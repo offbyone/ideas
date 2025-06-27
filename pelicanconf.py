@@ -142,6 +142,7 @@ WEBASSETS_BUNDLES = [
             "js/bigfoot.js",
             "jquery.magnific-popup.js",
             "js/adblocker.js",
+            # We don't include federated-comments.js here because it's loaded conditionally
         ),
         {
             "output": "js/fuji.min.js",
@@ -172,6 +173,9 @@ EXTRA_PATH_METADATA = {
     },
     "extra/.well-known/webfinger": {
         "path": ".well-known/webfinger",
+    },
+    "extra/js/federated-comments.js": {
+        "path": "js/federated-comments.js",
     },
 }
 

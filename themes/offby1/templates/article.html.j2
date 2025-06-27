@@ -15,11 +15,7 @@
     {% endif %}
 {% endblock %}
 {% block scripts %}
-    {% if article.toot is defined %}
-        {% assets output="js/purify.js", "purify.min.js" %}
-        <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
-        {% endassets %}
-    {% endif %}
+    {# Scripts for federated comments are now loaded in base template #}
 {% endblock %}
 {% block opengraph %}
     {% if USE_OPEN_GRAPH %}

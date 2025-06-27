@@ -67,6 +67,13 @@
 
            {% block scripts %}
            {% endblock %}
+           
+           {% if article and article.toot is defined %}
+               {% assets output="js/purify.js", "purify.min.js" %}
+               <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
+               {% endassets %}
+               <script src="{{ SITEURL }}/js/federated-comments.js"></script>
+           {% endif %}
 
            {% if FEED_ATOM %}
                <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
