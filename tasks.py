@@ -144,6 +144,10 @@ def livereload(c):
         static_file_glob = f"{theme_path}/static/**/*{extension}"
         watched_globs.append(static_file_glob)
 
+        # Also watch the content/extra directory for JS and CSS files
+        extra_static_glob = f"{SETTINGS['PATH']}/extra/**/*{extension}"
+        watched_globs.append(extra_static_glob)
+
     for glob in watched_globs:
         server.watch(glob, cached_build)
 
