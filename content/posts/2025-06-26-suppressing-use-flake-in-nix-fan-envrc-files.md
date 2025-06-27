@@ -36,7 +36,7 @@ environment:1270: nix: command not found
 
 Both of those kinda suck. Moreover, if I have my own local environment I want to load, I'm now SOL because they checked one in.
 
-So, first up, if you do that, [_stop ](https://wandering.shop/@offby1/114753269522469030).
+So, first up, if you do that, [*stop*](https://wandering.shop/@offby1/114753269522469030).
 
 But, since they likely won't do so, here's something as a direnv user you can do to mitigate it; create your own `use_flake()` function in `~/.config/direnv/direnvrc`:
 
