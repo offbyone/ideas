@@ -1,0 +1,100 @@
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#   "click",
+#   "boto3",
+#   "aws-log-parser",
+# ]
+# ///
+
+import datetime
+import gzip
+import sys
+from collections import Counter
+from io import BytesIO
+
+import aws_log_parser
+import boto3
+import click
+
+s3 = boto3.client("s3")
+bucket_name = "logs.ideas.offby1.net"
+prefix = "cf-log-/"
+distribution_id = "E3HG7SIR4ZZAS1"
+
+
+@click.group()
+def main(): ...
+
+
+@main.command()
+@click.option(
+    "--date",
+    default=datetime.datetime.now().date().strftime("%Y-%m-%d"),
+    type=click.DateTime(),
+)
+def list(date: datetime.datetime):
+    """List all log files"""
+    year = date.year
+    month = date.month
+    day = date.day
+
+    full_prefix = f"{prefix}{distribution_id}.{year}-{month:02d}-{day:02d}"
+    # print(full_prefix)
+    for page in s3.get_paginator("list_objects_v2").paginate(
+        Bucket=bucket_name, Prefix=full_prefix
+    ):
+        if "Contents" in page:
+            for obj in page["Contents"]:
+                print(obj["Key"])
+
+
+@main.command()
+@click.argument("log_name")
+def download(log_name: str):
+    """Download and decompress a log file"""
+    if not log_name.endswith(".gz"):
+        log_name += ".gz"
+    if not log_name.startswith(distribution_id):
+        log_name = f"{distribution_id}.{log_name}"
+    click.echo(f"Downloading {log_name}")
+    key = f"{prefix}{log_name}"
+
+    entries = aws_log_parser.AwsLogParser(
+        log_type=aws_log_parser.LogType.CloudFront
+    ).read_url(f"s3://{bucket_name}/{prefix}")
+    counter = Counter(entry.client_ip for entry in entries)
+
+    for ip, count in sorted(counter.items()):
+        print(f"{ip}: {count}")
+
+
+@main.command()
+@click.option(
+    "--date",
+    default=datetime.datetime.now().date().strftime("%Y-%m-%d"),
+    type=click.DateTime(),
+)
+def process(date: datetime.datetime):
+    """Process a log file"""
+    key = "path/to/your/logfile.gz"
+
+    key = "path/to/your/logfile.gz"  # Use the relevant S3 key for your log file
+
+    # Download and decompress the log file
+    obj = s3.get_object(Bucket=bucket_name, Key=key)
+    with gzip.GzipFile(fileobj=BytesIO(obj["Body"].read())) as gzipfile:
+        content = gzipfile.read().decode("utf-8")
+
+    # Process the log lines
+    for line in content.splitlines():
+        if "robots.txt" in line:
+            parts = line.split("\t")
+            # Assuming CloudFront log format, IP address is typically in the 5th position
+            ip_address = parts[4]
+            print(f"IP {ip_address} requested robots.txt")
+
+
+if __name__ == "__main__":
+    main()
