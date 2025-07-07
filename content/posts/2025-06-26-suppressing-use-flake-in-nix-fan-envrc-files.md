@@ -6,7 +6,6 @@ Category: tools
 Author: Chris Rose
 Email: offline@offby1.net
 Status: published
-Toot: https://wandering.shop/@offby1/114753269522469030
 Summary: Are you annoyed by direnv-using nix fans committing .envrc files with "use flake" in them? Is this an overly specific complaint turned into a blog post? Is there a solution to your very specific problem within? 
 
 This'll be short, but sweet[ref]Actually, pretty salty[/ref]:
