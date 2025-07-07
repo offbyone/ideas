@@ -22,3 +22,5 @@ What that means is that the first interaction I have with your code is a speedbu
 If it helps to convince you, Direnv itself is described as "Built with Nix" and has a flake configuration, [but _they don't check in their `.envrc`_](https://github.com/direnv/direnv/tree/d6b6caacffba02169ed7f36dd5f972794ac40180); that's not where the file belongs.
 
 So, please stop. If you've added it, please consider a PR to remove it so that future contributors can use the tools that make sense for them. 
+
+Edit: [`@dtomvan`](https://toot.cat/@dtomvan) pointed out that this has been actively discussed in the issues for the direnv project here: https://github.com/direnv/direnv/issues/556, as well as by the Nix project here: https://github.com/NixOS/nixfmt/pull/118#discussion_r1718517899
