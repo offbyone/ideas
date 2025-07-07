@@ -237,3 +237,11 @@ if "IDEAS_EMIT_TIMING" in os.environ:
                 "UPDATE timings SET end=? WHERE path = ?",
                 (int(time.perf_counter() * 1000), generator.path),
             )
+
+
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.toc": {"title": "Table of Contents"},
+    },
+    "output_format": "html5",
+}

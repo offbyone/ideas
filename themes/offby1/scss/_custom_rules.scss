@@ -1,7 +1,7 @@
 // Override CSS rules with that file
 .markdown-body {
   pre {
-    line-height: $lh-condensed !important;
+    line-height: 1.2rem !important;
   }
 
   .highlight {
@@ -13,13 +13,13 @@
     // stylelint-disable-next-line primer/colors
     background-color: var(--color-bg);
     opacity: 90%;
-    border-radius: $border-radius;
+    border-radius: 4px;
 
     br {
       display: none;
     }
 
-    margin-bottom: $spacer-3;
+    margin-bottom: 16px;
 
     pre {
       word-break: normal;
@@ -36,6 +36,54 @@
       background: transparent;
       border: 0;
     }
+  }
+}
+
+// Table of Contents styling
+.markdown-body .toc {
+  border: 1px solid var(--color-border-muted);
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  background-color: var(--color-canvas-subtle);
+  
+  // TOC header styling
+  > :first-child {
+    margin-top: 0;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-fg-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
+  // TOC list styling
+  ul {
+    margin: 0.5rem 0 0 0;
+    padding-left: 1.5rem;
+    list-style: none;
+    
+    li {
+      margin: 0.25rem 0;
+      
+      a {
+        color: var(--color-fg-default);
+        text-decoration: none;
+        font-size: 0.9rem;
+        line-height: 1.4;
+        
+        &:hover {
+          color: var(--color-accent-emphasis);
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  
+  // Nested list items
+  ul ul {
+    margin: 0.25rem 0 0 0;
+    padding-left: 1rem;
   }
 }
 
