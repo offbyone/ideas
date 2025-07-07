@@ -19,8 +19,8 @@ I use Direnv extensively and have for years, but I don't use Nix, and am not lik
 
 What that means is that the first interaction I have with your code is a speedbump in every single tool I use. My editor reads `.envrc` files, so I see errors there. My shell does, too, so that fails. Unless you [perform the workaround I describe in another post]({filename}./2025-06-26-suppressing-use-flake-in-nix-fan-envrc-files.md), _every_ direnv invocation will either fail, or I'll have to maintain a permanently dirty working copy of your repository (which is, in fact, a lot harder if one is trying out [jujutsu](https://jj-vcs.github.io/jj/latest/)).
 
-If it helps to convince you, Direnv itself is described as "Built with Nix" and has a flake configuration, [but _they don't check in their `.envrc`_](https://github.com/direnv/direnv/tree/d6b6caacffba02169ed7f36dd5f972794ac40180); that's not where the file belongs.
+If it helps to convince you, Direnv itself is described as "Built with Nix" and has a flake configuration, [but they don't check in their `.envrc`](https://github.com/direnv/direnv/tree/d6b6caacffba02169ed7f36dd5f972794ac40180); that's not where the file belongs.
 
 So, please stop. If you've added it, please consider a PR to remove it so that future contributors can use the tools that make sense for them. 
 
-Edit: [`@dtomvan`](https://toot.cat/@dtomvan) pointed out that this has been actively discussed in the issues for the direnv project here: https://github.com/direnv/direnv/issues/556, as well as by the Nix project here: https://github.com/NixOS/nixfmt/pull/118#discussion_r1718517899
+Edit: Someone on Mastodon pointed out that this has been [actively discussed in the issues for the direnv project](https://github.com/direnv/direnv/issues/556), as well as [by the Nix project](https://github.com/NixOS/nixfmt/pull/118#discussion_r1718517899).
