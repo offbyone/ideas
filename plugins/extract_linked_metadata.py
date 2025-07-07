@@ -7,6 +7,7 @@ can be turned into a toot reference, which can be used in themes.
 import logging
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Callable
 from urllib.parse import urlparse
 
 from pelican import signals
@@ -22,23 +23,31 @@ class Toot:
     id: str
 
 
-def parse_toot(content: Content):
-    if "toot" not in content.metadata:
-        return
+@dataclass
+class MetadataProcessor:
+    enrich_content: Callable[[str, str, Content], None]
 
-    toot_str = content.metadata["toot"]
 
+def parse_linked_metadata(content: Content):
+    for metadata_key, metadata_processor in SUPPORTED_METADATA.items():
+        if metadata_key in content.metadata:
+            metadata_value = content.metadata[metadata_key]
+
+            metadata_processor.enrich_content(metadata_key, metadata_value, content)
+
+
+def add_toot_to_content(_, toot_url, content: Content):
     try:
-        toot_parts = [p.strip() for p in toot_str.split(",")]
+        toot_parts = [p.strip() for p in toot_url.split(",")]
         toot_keys = {
             k.strip(): v.strip() for k, v in [p.split("=") for p in toot_parts]
         }
     except ValueError:
         # maybe the toot was a URL?
-        parsed = urlparse(toot_str)
+        parsed = urlparse(toot_url)
         if parsed.scheme != "https":
             # not a valid URL
-            log.warning(f"Invalid toot property on content {content}: {toot_str}")
+            log.warning(f"Invalid toot property on content {content}: {toot_url}")
             del content.metadata["toot"]
             del content.toot
             return
@@ -57,13 +66,25 @@ def parse_toot(content: Content):
             id=toot_keys["id"],
         )
         log.debug(f"Added toot metadata {content.toot} to {content}")
+        content.has_feedback = True
 
     except KeyError:
-        log.warning(f"Incomplete toot property on content {content}: {toot_str}")
+        log.warning(f"Incomplete toot property on content {content}: {toot_url}")
         del content.metadata["toot"]
         del content.toot
         return
 
 
+def add_lobsters_to_content(_, url, content: Content):
+    content.lobsters_url = url
+    content.has_feedback = True
+
+
 def register():
-    signals.content_object_init.connect(parse_toot)
+    signals.content_object_init.connect(parse_linked_metadata)
+
+
+SUPPORTED_METADATA = {
+    "toot": MetadataProcessor(enrich_content=add_toot_to_content),
+    "lobsters": MetadataProcessor(enrich_content=add_lobsters_to_content),
+}

@@ -95,7 +95,7 @@ DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ["./plugins"]
 PLUGINS = [
-    "link_toot",
+    "extract_linked_metadata",
     "pelican_edit_url",
     "pelican_embed_microblog",
     "pelican_gist",
