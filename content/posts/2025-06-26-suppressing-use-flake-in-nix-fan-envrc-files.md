@@ -1,7 +1,7 @@
 Title: Suppressing "use flake" in nix fan .envrc files
 Slug: suppressing-use-flake-in-nix-fan-envrc-files
 Date: 2025-06-26T20:51:14.762573
-Tags: petpeeve direnv nix
+Tags: petpeeve, direnv, nix
 Category: tools
 Author: Chris Rose
 Email: offline@offby1.net
