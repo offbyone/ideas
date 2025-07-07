@@ -6,6 +6,7 @@ Category: programming
 Author: Chris Rose
 Email: offline@offby1.net
 Status: published
+Lobsters: https://lobste.rs/s/nm5lho/stop_putting_nix_setup_your_checked_envrc
 Toot: https://wandering.shop/@offby1/114753269522469030
 Summary: Nix-using developers who use direnv, please stop checking in your .envrc files; they break your project for other contributors.
 
