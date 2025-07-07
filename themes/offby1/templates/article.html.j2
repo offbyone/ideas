@@ -89,10 +89,16 @@ Hi, reader. I wrote this in {{ article.date.year }}. Technology and culture refe
                     {% endfor %}
                 </div>
                 {% endif %}
-                {% if article.toot %}
-                  {% with toot=article.toot %}
-                    {% include 'federated_comments.html.j2' %}
-                  {% endwith %}
+                {% if article.has_feedback %}
+                    <h3>Feedback</h3>
+                    {% if article.lobsters %}
+                        Discuss this post on <a href="{{ article.lobsters }}">lobste.rs</a>.
+                    {% endif %}
+                    {% if article.toot %}
+                        {% with toot=article.toot %}
+                        {% include 'federated_comments.html.j2' %}
+                        {% endwith %}
+                    {% endif %}
                 {% else %}
                 <div class="no-comments">
                     <h3>Feedback</h3>

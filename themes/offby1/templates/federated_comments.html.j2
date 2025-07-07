@@ -1,5 +1,7 @@
 <div class="comments">
-  <h3>Feedback</h3>
+  {% if lobsters %}
+    Discuss this post on <a href="{{ lobsters }}">lobste.rs</a>.
+  {% endif %}
   <p>You can reply to <a href="https://{{toot.domain}}/{{toot.username}}/{{toot.id}}">this post via Mastodon</a>: <button id="replyButton" href="https://{{ toot.domain }}/{{ toot.username }}/{{ toot.id }}">Reply</button></p>
   <p id="mastodon-comments-list" data-domain="{{ toot.domain }}" data-id="{{ toot.id }}">Waiting to load comments</p>
   <dialog id="toot-reply" class="mastodon" data-component="dialog">
