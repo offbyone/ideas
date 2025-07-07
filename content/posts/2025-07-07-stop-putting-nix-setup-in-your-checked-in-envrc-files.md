@@ -24,4 +24,8 @@ If it helps to convince you, Direnv itself is described as "Built with Nix" and 
 
 So, please stop. If you've added it, please consider a PR to remove it so that future contributors can use the tools that make sense for them. 
 
+Edit: To be a bit more constructive...
+
+[Someone on lobste.rs pointed out](https://lobste.rs/s/nm5lho/stop_putting_nix_setup_your_checked_envrc#c_szbmc0) that I am not being constructive in this post, and that's a valid point. If you want to encourage `.envrc` use in your projects, can I recommend instead that you add `.envrc.defaults` to your repository? Your README can recommend that new users run `echo 'source_env_if_exists .envrc.defaults' | tee -a .envrc && direnv allow`; that'll set up the development environment you recommend, but allow people who use different tools to maintain their own environments. Then, add `.envrc` to `.gitignore` and happy hacking!
+
 Edit: Someone on Mastodon pointed out that this has been [actively discussed in the issues for the direnv project](https://github.com/direnv/direnv/issues/556), as well as [by the Nix project](https://github.com/NixOS/nixfmt/pull/118#discussion_r1718517899).
