@@ -13,7 +13,8 @@ Please note that some websites may break when you visit them with an ad-blocking
 
 ## Recommended browser extensions, plugins, and add-ons
 
-* [uBlock Origin](https://ublockorigin.com/): open-source, supports Chrome, Chromium, MS Edge, Opera, Firefox and Safari up to version 13
+* [uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home): open-source, works with Chrome Manifest V3. A fallback if, like me, you're a Chrome user who just got screwed by MV3.
+* [uBlock Origin](https://ublockorigin.com/): open-source, supports Chromium, MS Edge, Opera, Firefox and Safari up to version 13
 * [1Blocker](https://1blocker.com/): supports iPhone, iPad, and Mac
 * [AdNauseam](https://adnauseam.io/): obfuscates browsing data and protects users from tracking by advertising networks
 
