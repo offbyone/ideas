@@ -207,6 +207,19 @@ IGNORE_FILES = [".#&", "flycheck_*", "flymake_*"]
 REPOSITORY_ROOT = f"file://{ Path(__file__).parent.resolve() }/{ PATH }"
 EDIT_CONTENT_URL = "https://github.com/offbyone/ideas/edit/main/{file_path}"
 
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.codehilite": {"css_class": "highlight"},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
+        "markdown.extensions.toc": {
+            "permalink": True,
+            "title": "Table of Contents",
+        },
+    },
+    "output_format": "html5",
+}
+
 if "IDEAS_EMIT_TIMING" in os.environ:
     import sqlite3
     import time
