@@ -2,10 +2,10 @@ Please land...
 ##############
 :date: 2003-10-15 07:54
 :author: offby1
-:category: Events, General Thoughts
+:category: contemplation
 :tags: events, space
 :slug: please-land
-:status: draft
+:status: published
 
 Today, a third nation `joined the US and
 USSR <http://story.news.yahoo.com/news?tmpl=story&cid=514&e=4&u=/ap/20031015/ap_on_sc/china_space>`__

@@ -1,18 +1,16 @@
-Goodbye...
-##########
-:date: 2002-11-03 15:21
-:author: offby1
-:category: Events, General Thoughts, Internet
-:tags: events, internet, space
-:slug: goodbye
-:status: draft
+Title: Goodbye...
+Date: 2002-11-03 15:21
+Author: offby1
+Category: contemplation
+Tags: events, internet, space
+Slug: goodbye
+Status: published
 
 There's this piece of metal, see, and it was sent out thirteen years ago
 with the intent of learning more about the hunks of rock that share the
 sun with us.
 
-`In the next day or
-so <http://www.smh.com.au/articles/2002/11/03/1036308205556.html>`__,
+[In the next day or so](http://www.smh.com.au/articles/2002/11/03/1036308205556.html)
 Galileo, well past its operating life, limping along with little or no
 fuel and no main antenna, will most likely send its last signal, as it
 passes close to Jupiter again, and begins to fall into the planet's

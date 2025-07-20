@@ -1,11 +1,10 @@
-In review
-#########
-:date: 2003-12-27 14:50
-:author: offby1
-:category: Events, General Thoughts
-:tags: events, space
-:slug: in-review
-:status: draft
+Title: In review
+Date: 2003-12-27 14:50
+Author: offby1
+Category: contemplation
+Tags: events, space
+Slug: in-review
+Status: published
 
 Looking back over the year just past, i'll be the first to admit there's
 been a staggering amount of fascinating news, but there have been some
@@ -37,7 +36,7 @@ imagination \_stimulated\_, not stifled by it.
 And fourth, if i had to choose one news item that truly was significant
 to me, there was this:
 
-![Godspeed, Columbia](/images/godspeed\_columbia-jeff\_parker.gif)
+![Godspeed, Columbia](/images/godspeed_columbia-jeff_parker.jpeg)
 
 Let us not forget that the men and women that take to the stars do so at
 incredible risk to themselves. And let us not fail the ones who die
@@ -46,5 +45,4 @@ reaching by declining to stand upon their shoulders and reach higher.
 #### PS...
 
 It's worth checking this out, too - some nice art, commentary, and event
-synopses: `Darryl Cagle's Editorial Cartoon
-Year-in-review <http://cagle.slate.msn.com/news/2003best/main.asp>`__
+synopses: [Darryl Cagle's Editorial Cartoon Year-in-review](https://web.archive.org/web/20031229021204/http://cagle.slate.msn.com/news/2003best/main.asp)

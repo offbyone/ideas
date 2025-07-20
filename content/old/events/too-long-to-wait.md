@@ -1,14 +1,12 @@
-Too long to wait
-################
-:date: 2002-12-14 08:37
-:author: offby1
-:category: Events, General Thoughts
-:tags: events, space
-:slug: too-long-to-wait
-:status: draft
+Title: Too long to wait
+Date: 2002-12-14 08:37
+Author: offby1
+Category: contemplation
+Tags: events, space
+Slug: too-long-to-wait
+Status: published
 
-It's been `thirty
-years <http://home.attbi.com/~danglover/apollo17.htm>`__ since Eugene
+It's been [thirty years](http://home.attbi.com/~danglover/apollo17.htm) since Eugene
 Cernan, Harrison Schmitt, and Ronald Evans last took Apollo 17 to the
 moon. In the intervening years, the attitude of the public to space
 flight has become one of apathy and disinterest. Just like the Galileo
