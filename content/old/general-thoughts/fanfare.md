@@ -6,7 +6,7 @@ tags: lord of the rings
 slug: fanfare
 status: draft
 
-\### Wooo!!!
+### Wooo!!!
 
 Got tickets to see the trilogy just today, thanks to the good offices of my dear Char and Simon. So, those two, i, and two other friends will be attending this 12-hr geekfest on 16 December.
 

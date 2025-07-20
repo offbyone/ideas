@@ -137,7 +137,7 @@ $ sudo apt update
 $ sudo apt install caddy
 ```
 
-This installs a caddy systemd service, a default configuration, and sets up Caddy with http validation. While I\'ve written [a post about getting LetsEncrypt to work with DNS]({filename}2021-10-06-automating-letsencrypt-route53-using-aws-iot.rst), we won\'t need that here, since HTTP validation will work just fine; this server, unlike the rest of my homelab, will be on the internet.
+This installs a caddy systemd service, a default configuration, and sets up Caddy with http validation. While I\'ve written [a post about getting LetsEncrypt to work with DNS]({filename}2021-10-06-automating-letsencrypt-route53-using-aws-iot.md), we won\'t need that here, since HTTP validation will work just fine; this server, unlike the rest of my homelab, will be on the internet.
 
 The most important line of the caddyfile is this one:
 

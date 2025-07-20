@@ -17,7 +17,7 @@ So\...
 
 # Why is this hard for me?
 
-There are a lot of ways I could have made this easier for myself. I could have set up a wildcard certificate somewhere that let me get my SSL in bulk, for example. Or, I could have compromised on the security of my Route53 credentials and just created a user with a permanent access key and secret key ([I clearly am not willing to do that]({filename}2021-10-06-automating-letsencrypt-route53-using-aws-iot.rst)). Given that what I want is \"DNS challenges, with short-lived credentials\" I had to solve it with something else.
+There are a lot of ways I could have made this easier for myself. I could have set up a wildcard certificate somewhere that let me get my SSL in bulk, for example. Or, I could have compromised on the security of my Route53 credentials and just created a user with a permanent access key and secret key ([I clearly am not willing to do that]({filename}2021-10-06-automating-letsencrypt-route53-using-aws-iot.md)). Given that what I want is \"DNS challenges, with short-lived credentials\" I had to solve it with something else.
 
 That means I can\'t use the built in HTTP challenges or the built in DNS challenges. I\'d feel bad about that, but neither Synology nor Ubiquiti actually *have* support for ACME\'s `dns-01` challenge in the first place. So, the fact I\'m doing it \"the hard way\" puts me on an equal footing with every other user of those platforms, even the ones who are way more relaxed about security.
 
