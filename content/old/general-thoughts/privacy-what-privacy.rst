@@ -15,7 +15,7 @@ provoked (and prodded... and
 ...) <http://rfjason.livejournal.com/410835.html>`__ by a blogger by the
 name of Jason Fortuny.
 
-Fortuny, looking at `Craigslist <www.craigslist.org>`__, observed this,
+Fortuny, looking at `Craigslist <https://www.craigslist.org>`__, observed this,
 and made a decision that is -- at best -- unethical, and at worst
 actively sociopathic. He posted an explicit ad to a casual encounters
 section of a Craigslist site (a section devoted to hooking up for
