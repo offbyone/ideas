@@ -4,60 +4,135 @@ name: "Blog"
 on:
   push:
     branches:
-      - master
       - main
+      - ci-testing*
+
+  pull_request:
+    branches:
+      - main
+      - ci-testing*
 
 jobs:
-  deploy:
-    # These permissions are needed to interact with GitHub's OIDC Token endpoint.
+  build:
     permissions:
-      id-token: write
       contents: read
-
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
-      - uses: extractions/setup-just@v1
-
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v2
         with:
-          aws-region: us-west-2
-          role-to-assume: arn:aws:iam::984616268605:role/ideas-deployer
-          role-session-name: deploy-ideas
-          mask-aws-account-id: false
+          persist-credentials: false
 
-      - name: Set up uv
-        run: |
-          curl -LsSf https://astral.sh/uv/0.4.22/install.sh | sh
-      - name: Set up Python
-        run: |
-          uv python install --python-preference=system
-
-      - name: install python libs
-        run: uv sync
-
-      - name: Set up Node
-        uses: actions/setup-node@v3
+      - name: Install just
+        uses: extractions/setup-just@e33e0265a09d6d736e2ee1e0eb685ef1de4669ff # v3
+      - name: Install uv
+        uses: astral-sh/setup-uv@7edac99f961f18b581bbd960d59d049f04c0002f # v6.4.1
+      - name: Install node
+        uses: actions/setup-node@v4.4.0
         with:
-          node-version: "18"
-
+          node-version-file: .tool-versions
+          cache: npm
       - name: Install dependencies
-        run: |
-          npm install
-          echo "$GITHUB_WORKSPACE/node_modules/.bin" >> "$GITHUB_PATH"
+        run: just setup-gha
 
       - name: Assert that our dependencies are reachable
         run: |
           uv run python --version
           uv run pelican --version
           sass --version
-          just --version
 
       - name: Build the page
         run: |
           just generate
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-build
+          path: output/
+          retention-days: 1
+
+  verify:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    strategy:
+      matrix:
+        check:
+          - check-links
+          - check-html
+          - check-code
+          - check-content
+          - check-feeds
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Install just
+        uses: extractions/setup-just@e33e0265a09d6d736e2ee1e0eb685ef1de4669ff # v3
+      - name: Install uv
+        uses: astral-sh/setup-uv@7edac99f961f18b581bbd960d59d049f04c0002f # v6.4.1
+      - name: Install node
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version-file: .tool-versions
+          cache: npm
+      - name: Install dependencies
+        run: just setup-gha
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site-build
+          path: output/
+
+      - name: Run verification checks
+        run: just ${{ matrix.check }}
+
+  deploy:
+    # I am not blocking this on verify because I want the ability to publish
+    # quick trash.
+    needs: build
+    # only run this when the action is push and the destination branch is main
+    if: github.action == 'push' && github.ref_name == 'main'
+    permissions:
+      id-token: write
+      contents: read
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          sparse-checkout: |
+            justfile
+          sparse-checkout-cone-mode: false
+
+      - name: Install just
+        uses: extractions/setup-just@e33e0265a09d6d736e2ee1e0eb685ef1de4669ff # v3
+      - name: Install uv
+        uses: astral-sh/setup-uv@7edac99f961f18b581bbd960d59d049f04c0002f # v6.4.1
+      - name: Install node
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version-file: .tool-versions
+          cache: npm
+      - name: Install dependencies
+        run: just setup-gha
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@b47578312673ae6fa5b5096b330d9fbac3d116df # v4.2.1
+        with:
+          aws-region: us-west-2
+          role-to-assume: arn:aws:iam::984616268605:role/ideas-deployer
+          role-session-name: deploy-ideas
+          mask-aws-account-id: false
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site-build
+          path: output/
 
       - name: Publish the content
         run: |
@@ -69,7 +144,7 @@ jobs:
 
       - name: Tell me about it
         if: ${{ always() }}
-        uses: desiderati/github-action-pushover@v1
+        uses: desiderati/github-action-pushover@22efda5223198aba3e271f9cbec9b1b3a16033b0 # v1
         with:
           job-status: ${{ job.status }}
           pushover-api-token: ${{ secrets.PUSHOVER_API_TOKEN }}
