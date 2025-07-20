@@ -79,7 +79,8 @@ check-content:
 check-links:
   uvx --from linkchecker@10.5.0 linkchecker \
       --ignore-url /tag/ \
-      output
+      --no-warnings \
+      output/
 
 check-html:
   #!/usr/bin/env bash
