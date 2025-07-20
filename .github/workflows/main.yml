@@ -94,7 +94,7 @@ jobs:
     # quick trash.
     needs: build
     # only run this when the action is push and the destination branch is main
-    if: github.action == 'push' && github.ref_name == 'main'
+    if: github.event_name == 'push' && github.ref_name == 'main'
     permissions:
       id-token: write
       contents: read
