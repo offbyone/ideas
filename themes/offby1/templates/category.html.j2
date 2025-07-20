@@ -16,7 +16,7 @@
 {% for article in articles %}
 <div class="post">
 	{% include 'metadata.html.j2' %}
-	<div class="post-item post-summary">
+	<div class="post-item post-summary markdown-body">
 		{{ article.summary }}
 		<a href="{{ SITEURL }}/{{ article.url }}">read more →</a>
 	</div>
