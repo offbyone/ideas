@@ -62,7 +62,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-
+    strategy:
+      matrix:
+        check:
+          - check-links
+          - check-html
+          - check-code
+          - check-content
+          - check-feeds
     steps:
       - uses: actions/checkout@v4
         with:
@@ -78,56 +85,8 @@ jobs:
           name: site-build
           path: output/
 
-      - name: Run code quality checks
-        run: |
-          # Run ruff linting and formatting checks
-          uv run ruff check .
-          uv run ruff format --check .
-
-      - name: Validate content structure
-        run: |
-          # Check that posts have required metadata and valid structure
-          uv run invoke list-categories > /dev/null
-          uv run invoke list-tags > /dev/null
-
-      - name: Check for broken internal links
-        run: |
-          # Basic check for common broken link patterns in generated HTML
-          if find output -name "*.html" -exec grep -l "href=\"#\"" {} \; | head -1; then
-            echo "Found empty href attributes in HTML files"
-            find output -name "*.html" -exec grep -l "href=\"#\"" {} \;
-            exit 1
-          fi
-
-      - name: Validate HTML structure
-        run: |
-          # Check that key pages exist and have basic structure
-          if [ ! -f "output/index.html" ]; then
-            echo "Missing index.html"
-            exit 1
-          fi
-          
-          # Check that index.html has basic HTML structure
-          if ! grep -q "<html" output/index.html; then
-            echo "index.html missing HTML tag"
-            exit 1
-          fi
-          
-          if ! grep -q "<title>" output/index.html; then
-            echo "index.html missing title tag"
-            exit 1
-          fi
-
-      - name: Check RSS feed validity
-        run: |
-          # Verify RSS feeds exist and are valid XML
-          if [ -f "output/feeds/all.atom.xml" ]; then
-            # Basic XML validation - check it's well-formed
-            if ! python3 -c "import xml.etree.ElementTree as ET; ET.parse('output/feeds/all.atom.xml')"; then
-              echo "RSS feed is not valid XML"
-              exit 1
-            fi
-          fi
+      - name: Run verification checks
+        run: just ${{ matrix.check }}
 
   deploy:
     needs: build

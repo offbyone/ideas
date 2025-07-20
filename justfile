@@ -52,3 +52,45 @@ apply:
 
 new_post:
   uv run invoke new-post
+
+# Verification tasks
+check-code:
+  uv run ruff check .
+  uv run ruff format --check .
+
+check-content:
+  uv run invoke list-categories > /dev/null
+  uv run invoke list-tags > /dev/null
+
+check-links:
+  uvx --from linkchecker@10.5.0 linkchecker \
+      --ignore-url /tag/ \
+      output
+
+check-html:
+  #!/usr/bin/env bash
+  if [ ! -f "output/index.html" ]; then
+    echo "Missing index.html"
+    exit 1
+  fi
+  
+  if ! grep -q "<html" output/index.html; then
+    echo "index.html missing HTML tag"
+    exit 1
+  fi
+  
+  if ! grep -q "<title>" output/index.html; then
+    echo "index.html missing title tag"
+    exit 1
+  fi
+
+check-feeds:
+  #!/usr/bin/env bash
+  if [ -f "output/feeds/all.atom.xml" ]; then
+    if ! python3 -c "import xml.etree.ElementTree as ET; ET.parse('output/feeds/all.atom.xml')"; then
+      echo "RSS feed is not valid XML"
+      exit 1
+    fi
+  fi
+
+check: check-code check-content check-links check-html check-feeds
