@@ -2,7 +2,7 @@ Taking my finger off the pulse
 ##############################
 :date: 2011-06-04 08:10
 :author: offby1
-:category: Amazon Expedition
+:category: amazon
 :tags: lifestyle, reading
 :slug: taking-my-finger-off-the-pulse
 :status: published

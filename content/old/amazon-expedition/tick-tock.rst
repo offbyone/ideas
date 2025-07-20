@@ -2,7 +2,7 @@ Tick, Tock
 ##########
 :date: 2011-06-25 08:52
 :author: offby1
-:category: Amazon Expedition
+:category: amazon
 :tags: home, nightlife, socializing
 :slug: tick-tock
 :status: published

@@ -2,7 +2,7 @@ Wallingford
 ###########
 :date: 2011-06-01 22:06
 :author: offby1
-:category: Amazon Expedition
+:category: amazon
 :tags: home, seattle
 :slug: wallingford
 :status: published

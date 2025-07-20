@@ -2,7 +2,7 @@ Picking up the reins
 ####################
 :date: 2011-06-09 11:18
 :author: offby1
-:category: Amazon Expedition
+:category: amazon
 :tags: details omitted to protect the innocent, workflow, AWS
 :slug: picking-up-the-reins
 :status: published

@@ -2,7 +2,7 @@ The Factory is In
 #################
 :date: 2011-07-03 21:28
 :author: offby1
-:category: Amazon Expedition
+:category: amazon
 :tags: beer, seattle
 :slug: the-factory-is-in
 :status: published

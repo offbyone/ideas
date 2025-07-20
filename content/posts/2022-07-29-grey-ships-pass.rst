@@ -6,7 +6,7 @@ Into The West
 
 :slug: grey-ships-pass
 :date: 2022-08-17T00:53:58.055492
-:category: Amazon Expedition
+:category: amazon
 :tags: AWS, changes
 :author: Chris Rose
 :email: offline@offby1.net

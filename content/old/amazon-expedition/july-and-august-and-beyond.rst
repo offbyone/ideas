@@ -2,7 +2,7 @@ July and August (And Beyond)
 ############################
 :date: 2011-08-24 10:20
 :author: offby1
-:category: Amazon Expedition
+:category: amazon
 :slug: july-and-august-and-beyond
 :status: published
 

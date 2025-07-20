@@ -2,7 +2,7 @@ An Expedition up the Amazon
 ###########################
 :date: 2011-06-01 01:46
 :author: offby1
-:category: Amazon Expedition
+:category: amazon
 :tags: amazon, emigration, seattle
 :slug: an-expedition-up-the-amazon
 :status: published

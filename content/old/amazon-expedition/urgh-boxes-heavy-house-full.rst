@@ -2,7 +2,7 @@ Urgh. Boxes Heavy. House full.
 ##############################
 :date: 2011-07-17 15:03
 :author: offby1
-:category: Amazon Expedition
+:category: amazon
 :slug: urgh-boxes-heavy-house-full
 :status: published
 
