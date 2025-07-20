@@ -143,8 +143,13 @@ jobs:
 
       - name: Tell me about it
         if: ${{ always() }}
-        uses: desiderati/github-action-pushover@22efda5223198aba3e271f9cbec9b1b3a16033b0 # v1
+        uses: umahmood/pushover-actions@5da31193f672e7418804bdb51836bdf20f393c8f # v1.1.0
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_API_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER_KEY }}
         with:
-          job-status: ${{ job.status }}
-          pushover-api-token: ${{ secrets.PUSHOVER_API_TOKEN }}
-          pushover-user-key: ${{ secrets.PUSHOVER_USER_KEY }}
+          status: ${{ job.status }}
+          title: offby1.website update
+          message: |-
+            Site publication for offby1.website completed with status=${{ job.status }}
+          url: https://offby1.website/
