@@ -39,8 +39,22 @@ compile-deps:
 update-deps:
   uv lock --upgrade
 
-install-deps:
+install-deps: install-python-deps install-node-deps
+
+install-python-deps:
   uv sync
+
+install-node-deps:
+  npm install
+
+setup-gha: install-deps
+  #!/usr/bin/env bash
+  # if GITHUB_PATH exists then we are in a GitHub Action, add the
+  # virtual environment and node_modules to the PATH
+  if [ -n "$GITHUB_PATH" ]; then
+    echo "$GITHUB_WORKSPACE/.venv/bin" >> $GITHUB_PATH
+    echo "$GITHUB_WORKSPACE/node_modules/.bin" >> $GITHUB_PATH
+  fi
 
 deps: compile-deps install-deps
 
