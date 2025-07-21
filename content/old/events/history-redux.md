@@ -10,10 +10,10 @@ Also worthy of note: Sixty years ago this day, thousands of oft-sung heroes gave
 
 To my enduring shame, my generation and the ones that come after me continue to dismiss and forget the sacrifices made during those times by all those who risked their lives for our freedom.
 
-I want to take this platform that I\'ve given myself and say that at least *I* have not forgotten, nor will I take for granted the freedoms that they won for me, and all those who came after them.
+I want to take this platform that I've given myself and say that at least *I* have not forgotten, nor will I take for granted the freedoms that they won for me, and all those who came after them.
 
 Truthfully, the words on the plinth at Dachau say it best:
 
 Never Again
 
-As always, more links via [Metafilter](http://www.metafilter.com/mefi/33504). Come on, did you think they\'d pass this one up?
+As always, more links via [Metafilter](http://www.metafilter.com/mefi/33504). Come on, did you think they'd pass this one up?

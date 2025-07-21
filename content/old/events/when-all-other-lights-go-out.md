@@ -10,4 +10,4 @@ In the later hours of this day, Arthur C. Clarke \-- creator and muse \--ended 9
 
 He leaves behind ideas beyond number and a culture immeasurably richer for his contribution.
 
-> My god, it\'s full of stars!
+> My god, it's full of stars!

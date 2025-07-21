@@ -8,6 +8,6 @@ status: draft
 
 \[ICBM\](<http://www.collegehumor.com/video:1771556>).
 
-\_Thank\_ you, MetaFilter.
+_Thank_ you, MetaFilter.
 
-If you\'re an internet forum reader of \_any\_ kind, watch it to the end.
+If you're an internet forum reader of _any_ kind, watch it to the end.

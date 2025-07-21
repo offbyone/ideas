@@ -6,4 +6,4 @@ tags: meta
 slug: periodic-cry-for-attention
 status: draft
 
-I have to ask \-- it\'s been a few posts, is comment posting broken?
+I have to ask \-- it's been a few posts, is comment posting broken?

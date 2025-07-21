@@ -8,7 +8,7 @@ status: draft
 
 Happy anniversary, Char.
 
-It\'s been five years, now, arguably the best five of my life.  We\'ve had our ups and downs, to be sure, but the ups so far outnumber and outscale the downs that it\'s difficult to pinpoint anything in particular in the latter  set.
+It's been five years, now, arguably the best five of my life.  We've had our ups and downs, to be sure, but the ups so far outnumber and outscale the downs that it's difficult to pinpoint anything in particular in the latter  set.
 
 I wish you could be here, but even more, I wish I could be there.
 

@@ -10,4 +10,4 @@ Well, I had a couple of post ideas over the last couple of days, but with the wo
 
 Sorry, kids.
 
-If you\'re interested, though, I\'ll be putting something up about internet censorship later this week.
+If you're interested, though, I'll be putting something up about internet censorship later this week.

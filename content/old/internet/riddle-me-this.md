@@ -6,6 +6,6 @@ tags: internet
 slug: riddle-me-this
 status: draft
 
-Links after links of riddles: If [these](http://www.metafilter.com/mefi/28943) don\'t keep you at least somewhat entertained, consider professional help.
+Links after links of riddles: If [these](http://www.metafilter.com/mefi/28943) don't keep you at least somewhat entertained, consider professional help.
 
-Personally, i\'m going to kill some time in psych class thinking about some of these.
+Personally, i'm going to kill some time in psych class thinking about some of these.

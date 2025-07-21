@@ -8,9 +8,9 @@ status: draft
 
 Yeah, or something like that, anyway.
 
-It\'s increasingly obvious to me that I need to find something that I\'m passionate about to write about. The \"Here\'s what\'s new in my life\" format has its place, and will never truly leave these pages, but I don\'t know that it has the mileage to make it.
+It's increasingly obvious to me that I need to find something that I'm passionate about to write about. The "Here's what's new in my life" format has its place, and will never truly leave these pages, but I don't know that it has the mileage to make it.
 
-At any rate, this is more of a \"ping\" to let you all know I\'m not dead, I haven\'t forgotten the blog, and I plan to write more, soon.
+At any rate, this is more of a "ping" to let you all know I'm not dead, I haven't forgotten the blog, and I plan to write more, soon.
 
 Oh\...
 

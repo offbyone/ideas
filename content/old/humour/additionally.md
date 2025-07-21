@@ -6,4 +6,4 @@ tags: humour, podcast, sex
 slug: additionally
 status: draft
 
-The \[Midwest Teen Sex Show\](<http://midwestteensexshow.com/>) is freakin\' excellent, even though I\'m neither in the midwest, nor a teen.
+The \[Midwest Teen Sex Show\](<http://midwestteensexshow.com/>) is freakin' excellent, even though I'm neither in the midwest, nor a teen.

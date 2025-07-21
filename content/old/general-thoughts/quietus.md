@@ -6,6 +6,6 @@ tags: ping
 slug: quietus
 status: draft
 
-I haven\'t posted because i haven\'t felt like saying anything. Still don\'t, in fact, but i figured i should output something or someone might think i\'m dead.
+I haven't posted because i haven't felt like saying anything. Still don't, in fact, but i figured i should output something or someone might think i'm dead.
 
-So no, i\'m not dead.
+So no, i'm not dead.

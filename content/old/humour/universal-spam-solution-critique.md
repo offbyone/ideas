@@ -6,15 +6,15 @@ tags: checklist, humour, murder, spam
 slug: universal-spam-solution-critique
 status: draft
 
-Because I\'ve recently read the \_tragic\_ news that a Russian spam baron was found dead under suspicious circumstances, and because that\'s probably not a good long-term solution to the problem, I bring you:
+Because I've recently read the _tragic_ news that a Russian spam baron was found dead under suspicious circumstances, and because that's probably not a good long-term solution to the problem, I bring you:
 
-\*\*The universal spam solution critique\*\*
+**The universal spam solution critique**
 
 Your company advocates a
 
     ( ) technical ( ) legislative ( ) market-based ( ) vigilante
 
-approach to fighting spam. Your idea will not work. Here is why it won\'t work. (One or more of the following may apply to your particular idea, and it may have other flaws which used to vary from state to state before a bad federal law was passed.)
+approach to fighting spam. Your idea will not work. Here is why it won't work. (One or more of the following may apply to your particular idea, and it may have other flaws which used to vary from state to state before a bad federal law was passed.)
 
     ( ) Spammers can easily use it to harvest email addresses
     ( ) Mailing lists and other legitimate email uses would be affected

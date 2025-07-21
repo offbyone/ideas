@@ -6,11 +6,11 @@ tags: humour, internet
 slug: catblogging-is-so-passe
 status: draft
 
-The above is true, to be sure. [Catblogging](http://www.google.com/search?hl=en&lr=&ie=UTF-8&safe=off&q=catblogging&btnG=Search), basically a modernized version of homepages with pictures of the writer\'s cat, is everywhere. A weekly thing at some sites, a constant at others.
+The above is true, to be sure. [Catblogging](http://www.google.com/search?hl=en&lr=&ie=UTF-8&safe=off&q=catblogging&btnG=Search), basically a modernized version of homepages with pictures of the writer's cat, is everywhere. A weekly thing at some sites, a constant at others.
 
 Wankery.
 
-*However*, in the name of being a wanker myself, here\'s a couple of pics Char and I took of our weirdest cat last night. Tell me, has anyone ever seen a cat do this?
+*However*, in the name of being a wanker myself, here's a couple of pics Char and I took of our weirdest cat last night. Tell me, has anyone ever seen a cat do this?
 
 [![Fritz in blissful repose](http://www.offlineblog.com/images/thumb-Bliss.jpg)](http://www.offlineblog.com/images/Bliss.jpg)
 

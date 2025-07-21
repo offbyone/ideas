@@ -6,6 +6,6 @@ tags: bugs, gripe, work
 slug: heisenbugs
 status: draft
 
-\_Def\_: A bug that vanishes when you look at it.
+_Def_: A bug that vanishes when you look at it.
 
 Also: The bane of my existence, today.

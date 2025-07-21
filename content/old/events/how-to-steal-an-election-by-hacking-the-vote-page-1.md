@@ -8,4 +8,4 @@ status: draft
 
 [How to steal an election by hacking the vote](http://arstechnica.com/articles/culture/evoting.ars), from Ars Technica.
 
-The next two weeks, I\'ll be posting unadorned links of interest. Enjoy!
+The next two weeks, I'll be posting unadorned links of interest. Enjoy!

@@ -16,4 +16,4 @@ A quick sum-up:
 
 The world: Fucked, man. Hypocrisy in Congress down south, media shutdown up here\...
 
-I\'d rather not think about it.
+I'd rather not think about it.

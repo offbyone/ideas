@@ -13,6 +13,6 @@ Seen on a forum today:
 | \> 1. that which ensures freedom or
 | \> 2. that which grants so much freedom that it permits denial of freedom
 
-I know my perspective on this one, but I\'m interested in hearing yours, before I weigh in myself.
+I know my perspective on this one, but I'm interested in hearing yours, before I weigh in myself.
 
 Discuss.

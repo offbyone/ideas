@@ -16,7 +16,7 @@ This is the scary one \-- it should probably be posted in most banks, office bui
 
 ![Nonstandard Spacetime Warning](http://offby1.files.wordpress.com/2006/10/nonstandardspacetimewarning.jpg)
 
-Perhaps those times when you\'ve got a project due the next morning *\"all of a sudden\"* even though you *never* let things sit that long?
+Perhaps those times when you've got a project due the next morning *"all of a sudden"* even though you *never* let things sit that long?
 
 ![Lack of Internet Connectivity Warning](http://offby1.files.wordpress.com/2006/10/lackofinternetconnectivitywarning.jpg)
 

@@ -14,4 +14,4 @@ Except\...
 
 I take the damnable piece of cack back to \[BCom\](<http://www.bcom.ab.ca/>) and they check it out and it works fine there. So I bring it home, and lo and behold, it works like a damned charm!
 
-I\'m not too trusting of it at this point, though, which tells me that maybe \-- dud or no \-- I need to investigate a newer drive. I\'m starting to think that it\'s gonna end up being a problem elsewhere in the PC \--it\'s plausible that the hard drive controller itself is b0rked. Not a happy thought, that.
+I'm not too trusting of it at this point, though, which tells me that maybe \-- dud or no \-- I need to investigate a newer drive. I'm starting to think that it's gonna end up being a problem elsewhere in the PC \--it's plausible that the hard drive controller itself is b0rked. Not a happy thought, that.

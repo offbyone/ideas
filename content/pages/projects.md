@@ -4,7 +4,7 @@ author: offby1
 slug: projects
 status: draft
 
-Here\'s a little list of code-related thingys that I\'ve tossed up on the net:
+Here's a little list of code-related thingys that I've tossed up on the net:
 
 - \[Azureus Plugin Tutorial\](azureus-plugin-tutorial)
 - \[LibraryThing WordPress Widget\](librarything-blog-widget)

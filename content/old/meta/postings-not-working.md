@@ -6,6 +6,6 @@ tags: meta
 slug: postings-not-working
 status: draft
 
-Just a note, if you\'re reading this and can\'t seem to comment (since that seems to be the case).
+Just a note, if you're reading this and can't seem to comment (since that seems to be the case).
 
-Drop me a note at chris (at) offlineblog {dot} com and let me know, please, what the error message is (copy and paste the page, please) and i\'ll try fix it.
+Drop me a note at chris (at) offlineblog {dot} com and let me know, please, what the error message is (copy and paste the page, please) and i'll try fix it.

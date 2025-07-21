@@ -8,32 +8,32 @@ email: offline@offby1.net
 summary: Being a description of the steps I went through to turn my Raspberry Pi devices into IoT things so that I could eventually have them automatically use letsencrypt.
 status: published
 
-I\'m going to start with a bit of a rambling preamble (pre-ramble?) about what I wanted to achieve, and some of the semi-arbitrary constraints I set for myself.
+I'm going to start with a bit of a rambling preamble (pre-ramble?) about what I wanted to achieve, and some of the semi-arbitrary constraints I set for myself.
 
 (This is part 1 of a 2-part series. The second will cover the LetEncrypt setup challenges)
 
 I have been wanting to migrate from my homegrown self-signed CA for TLS on my home lab for some time. There are a few reasons for this, but chief among them is the pain in the ass of installing the trust root on every new device I get, and I just got a new phone. This was, as they say, the last straw. I decided that I needed to transition off this janky, hacked-together solution. However\... I had some constraints.
 
-First, I didn\'t want to open my home lab hosts to the internet. This meant that I couldn\'t use letsencrypt\'s HTTP challenge to manage certificates. I would have to use DNS.
+First, I didn't want to open my home lab hosts to the internet. This meant that I couldn't use letsencrypt's HTTP challenge to manage certificates. I would have to use DNS.
 
-Second, I didn\'t want to manage long term DNS management credentials on the hosts. I assume Linux has a keychain-like mechanism somewhere, but I\'ve never been able to find one that made me comfortable in how it could be used, so I needed something I could use to give them a \"host identity\" that I could revoke if I needed to, but would mostly just \"work\" otherwise.
+Second, I didn't want to manage long term DNS management credentials on the hosts. I assume Linux has a keychain-like mechanism somewhere, but I've never been able to find one that made me comfortable in how it could be used, so I needed something I could use to give them a "host identity" that I could revoke if I needed to, but would mostly just "work" otherwise.
 
-Third, I didn\'t want to spend a tonne of time manually managing this with every new host I got. The less effort it took to add a new host, the happier I\'d be.
+Third, I didn't want to spend a tonne of time manually managing this with every new host I got. The less effort it took to add a new host, the happier I'd be.
 
-It took me a while, but I think I\'ve hit on a solution that satisfies me. The short version is that I am:
+It took me a while, but I think I've hit on a solution that satisfies me. The short version is that I am:
 
-- Creating an AWS IoT \"Thing\" for each machine in my home lab using Terraform to automate that.
-- Installing the thing\'s X509.1 certificate in a \"secure\" way on each host (readable only by the `iot` service user)
+- Creating an AWS IoT "Thing" for each machine in my home lab using Terraform to automate that.
+- Installing the thing's X509.1 certificate in a "secure" way on each host (readable only by the `iot` service user)
 - Using the host certificate to get temporary credentials for the host to perform a limited set of actions in the AWS account that controls my LAN subdomain.
 - Installing and configuring certbot to use those credentials to satisfy an ACME challenge using my LAN subdomain
 
-I\'m going to cover the first half of that in this post, and I\'ll see if I can assemble a reasonable write-up for the second half sometime later.
+I'm going to cover the first half of that in this post, and I'll see if I can assemble a reasonable write-up for the second half sometime later.
 
 # Creating an IoT Thing for each machine in my lab
 
-First\... \"Why would you do this, Chris?\". Well, I took advantage of having access to a group of well informed AWS engineers at work to ask if there was a solution to my credential storage issue, and someone pointed me at a documentation on how I could [authorize direct calls to AWS services using IoT](https://docs.aws.amazon.com/iot/latest/developerguide/authorizing-direct-aws.html) and, with a bit of a hard think, I realized that yes, that would in fact solve my problem. What I gleaned from it was that once I could treat each machine in my lab as a \"thing\" in IoT, I could provide each of them with an X509.1 certificate that they could use to get credentials to act in other parts of my account.
+First\... "Why would you do this, Chris?". Well, I took advantage of having access to a group of well informed AWS engineers at work to ask if there was a solution to my credential storage issue, and someone pointed me at a documentation on how I could [authorize direct calls to AWS services using IoT](https://docs.aws.amazon.com/iot/latest/developerguide/authorizing-direct-aws.html) and, with a bit of a hard think, I realized that yes, that would in fact solve my problem. What I gleaned from it was that once I could treat each machine in my lab as a "thing" in IoT, I could provide each of them with an X509.1 certificate that they could use to get credentials to act in other parts of my account.
 
-I\'ve been a big fan of Terraform for infrastructure automation, so I proceeded to whip up a piece of Terraform that did this for me. First, I needed a device role for the IoT credential provider, that could assume roles in my account:
+I've been a big fan of Terraform for infrastructure automation, so I proceeded to whip up a piece of Terraform that did this for me. First, I needed a device role for the IoT credential provider, that could assume roles in my account:
 
 ``` terraform
 # define a policy that allows the IoT thing to assume a role.
@@ -56,7 +56,7 @@ resource "aws_iam_role" "certbot-dns-update" {
 }
 ```
 
-It was pretty important to me that this role only have limited access in my account. I didn\'t even want it to be able to touch general DNS records, only the LAN subdomain that I want a wildcard for. This zone doesn\'t contain actual DNS records for my LAN domain, but my top level domain delegates to it. .
+It was pretty important to me that this role only have limited access in my account. I didn't even want it to be able to touch general DNS records, only the LAN subdomain that I want a wildcard for. This zone doesn't contain actual DNS records for my LAN domain, but my top level domain delegates to it. .
 
 ``` terraform
 data "aws_route53_zone" "lan" {
@@ -126,7 +126,7 @@ module "iot-hosts" {
 }
 ```
 
-The last step here is to output some of the information I just found. This\'ll be used in the Ansible steps I document below, which will use this data to configure each host.
+The last step here is to output some of the information I just found. This'll be used in the Ansible steps I document below, which will use this data to configure each host.
 
 ``` terraform
 data "aws_iot_endpoint" "credentials" {
@@ -152,9 +152,9 @@ resource "local_file" "tf_ansible_vars_file_new" {
 
 # Host configuration using Terraform
 
-This is the part where we create the certificate that we\'ll use to turn our home lab devices into IoT things. This is *not* a pretty, polished Terraform module; it\'s a single-file module that does the bare minimum to create a thing, and then write out its client certificate in a place that Ansible will search in order to install it.
+This is the part where we create the certificate that we'll use to turn our home lab devices into IoT things. This is *not* a pretty, polished Terraform module; it's a single-file module that does the bare minimum to create a thing, and then write out its client certificate in a place that Ansible will search in order to install it.
 
-There are two things to note in this: first is the `resource "aws_iot_thing" "host"` section, where we slugify the hostname so that IoT allows it. Second is the `resource "local_file` pair of resources. These write out the keys you\'ll be installing later. The output here *should not be checked into revision control*. You can configure the path for these in the module call, above. I\'ve got that path added to `.gitignore`.
+There are two things to note in this: first is the `resource "aws_iot_thing" "host"` section, where we slugify the hostname so that IoT allows it. Second is the `resource "local_file` pair of resources. These write out the keys you'll be installing later. The output here *should not be checked into revision control*. You can configure the path for these in the module call, above. I've got that path added to `.gitignore`.
 
 ``` terraform
 variable "hostname" {
@@ -224,11 +224,11 @@ resource "local_file" "device-cert" {
 
 # Using Ansible to turn a machine into an IoT thing
 
-I created an Ansible role \-- `iot-thing` \-- that does this, that I can associate with any host in my inventory. It\'s a simple enough role, that defines an `iot` user that owns a restricted folder that contains the host certificate, and writes out credentials to a less-restricted folder that can be read by any user in the `iot-credentials` group.
+I created an Ansible role \-- `iot-thing` \-- that does this, that I can associate with any host in my inventory. It's a simple enough role, that defines an `iot` user that owns a restricted folder that contains the host certificate, and writes out credentials to a less-restricted folder that can be read by any user in the `iot-credentials` group.
 
-I was considering breaking it down into smaller bits, but I hope it\'s pretty simple. The first section loads the `tf_ansible_vars_file.yml` that was written out above, to get the credential provider endpoint and role. After, we create the `iot` user and its groups. Laying out the folders is important, after; the iot certificate needs to be in a place that only the `iot` user can read, but the credentials need to be shared with the group. We use the sticky bit to manage that.
+I was considering breaking it down into smaller bits, but I hope it's pretty simple. The first section loads the `tf_ansible_vars_file.yml` that was written out above, to get the credential provider endpoint and role. After, we create the `iot` user and its groups. Laying out the folders is important, after; the iot certificate needs to be in a place that only the `iot` user can read, but the credentials need to be shared with the group. We use the sticky bit to manage that.
 
-Lastly, we install the systemd unit that refreshes the credentials and the timer that invokes it every half hour (to match our one hour credential expiry; we don\'t want to be too aggressive, but we also need some freshness.)
+Lastly, we install the systemd unit that refreshes the credentials and the timer that invokes it every half hour (to match our one hour credential expiry; we don't want to be too aggressive, but we also need some freshness.)
 
 ## `tasks/main.yml`
 
@@ -415,11 +415,11 @@ WantedBy=timers.target
 
 ## `files/update-credentials.sh`
 
-This is the meat of the credential retrieval tool. It uses CURL to call the `IOT_ENDPOINT` using a role alias/thing-specific set of headers and URL construction. What it gets back is a json document containing the credentials for this \"Thing\" lasting as long as we\'ve allowed in the resource definitions above.
+This is the meat of the credential retrieval tool. It uses CURL to call the `IOT_ENDPOINT` using a role alias/thing-specific set of headers and URL construction. What it gets back is a json document containing the credentials for this "Thing" lasting as long as we've allowed in the resource definitions above.
 
 It then uses `jq` to extract the keys, and write them into a credentials file that the AWS SDK can be configured to use (and will be, in part 2!).
 
-All the paths in here are hardcoded to their final locations, but if (when?) I generalize this as an ansible-galaxy module, they\'ll probably be configurable.
+All the paths in here are hardcoded to their final locations, but if (when?) I generalize this as an ansible-galaxy module, they'll probably be configurable.
 
 ``` bash
 #!/usr/bin/env bash
@@ -453,8 +453,8 @@ mv $CREDENTIAL_FILE.tmp $CREDENTIAL_FILE
 chmod 640 "$CREDENTIAL_FILE" "$CREDENTIAL_JSON"
 ```
 
-# Where are We? What\'s Next?
+# Where are We? What's Next?
 
-By the time you get here, you have a few things: One, you have AWS IoT \"things\" that are 1:1 with your homelab hosts. Each one is configured to be able to provide short-lived credentials for accessing specific other AWS resources, in this case a DNS subdomain zone that can be polled for ACME challenges. The other thing you have is a simple systemd-invoked timer that will refresh your host-specific credentials using the keys you generated when creating the thing.
+By the time you get here, you have a few things: One, you have AWS IoT "things" that are 1:1 with your homelab hosts. Each one is configured to be able to provide short-lived credentials for accessing specific other AWS resources, in this case a DNS subdomain zone that can be polled for ACME challenges. The other thing you have is a simple systemd-invoked timer that will refresh your host-specific credentials using the keys you generated when creating the thing.
 
-Next, well, once you\'ve got all of this put together, the next step is to wire up letsencrypt\'s certbot to use these credentials to answer ACME\'s DNS challenge, and install the certificates. That\'ll be in Part 2.
+Next, well, once you've got all of this put together, the next step is to wire up letsencrypt's certbot to use these credentials to answer ACME's DNS challenge, and install the certificates. That'll be in Part 2.

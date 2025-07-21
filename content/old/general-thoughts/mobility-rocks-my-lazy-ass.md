@@ -8,6 +8,6 @@ status: draft
 
 I gots a laptop! ;)
 
-Okay, colour me fourteen shades of enthused about this. It\'s not quite the godbox i drool over, but it\'s mobile, it\'s powerful, it\'s colourful, and it\'s ours! :)
+Okay, colour me fourteen shades of enthused about this. It's not quite the godbox i drool over, but it's mobile, it's powerful, it's colourful, and it's ours! :)
 
-If i needed another sign that Char\'s the gal for me, the fact that she was as enthusiastic about this as i am was more than enough confirmation for me\... Can\'t go wrong - geek chick and cute, to boot!
+If i needed another sign that Char's the gal for me, the fact that she was as enthusiastic about this as i am was more than enough confirmation for me\... Can't go wrong - geek chick and cute, to boot!

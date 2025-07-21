@@ -31,7 +31,7 @@ Third, and now moving to a larger scale, the third part of the Lord of
 the Rings came out, and i was just... awed. It was so beautiful, so
 perfect. Who would have thought that a story of that scope and ambition
 could have been brought to the screen so well and so fully, leaving my
-imagination \_stimulated\_, not stifled by it.
+imagination _stimulated_, not stifled by it.
 
 And fourth, if i had to choose one news item that truly was significant
 to me, there was this:

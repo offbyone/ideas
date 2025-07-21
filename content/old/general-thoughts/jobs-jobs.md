@@ -6,9 +6,9 @@ tags: humour, internet, work
 slug: jobs-jobs
 status: draft
 
-I\'m in a particularly bad mood, this evening. As a consequence of some poor planning, on my part and that of others, I\'m at loose ends for the evening, every plan I had \-- in sequence \-- having become obsolete in some fashion or other.
+I'm in a particularly bad mood, this evening. As a consequence of some poor planning, on my part and that of others, I'm at loose ends for the evening, every plan I had \-- in sequence \-- having become obsolete in some fashion or other.
 
-This is primarily due to work, today and yesterday. This isn\'t a condemnation of my job, by any means; that\'s still excellent. Rather, I blame [WebSphere](http://www-306.ibm.com/software/websphere/). More specifically, I blame certain [extension methods for its security](http://publib.boulder.ibm.com/infocenter/wasinfo/v6r0/index.jsp?topic=/com.ibm.websphere.nd.doc/info/ae/ae/tsec_devextsec.html) infrastructure that are rendering me insensible.
+This is primarily due to work, today and yesterday. This isn't a condemnation of my job, by any means; that's still excellent. Rather, I blame [WebSphere](http://www-306.ibm.com/software/websphere/). More specifically, I blame certain [extension methods for its security](http://publib.boulder.ibm.com/infocenter/wasinfo/v6r0/index.jsp?topic=/com.ibm.websphere.nd.doc/info/ae/ae/tsec_devextsec.html) infrastructure that are rendering me insensible.
 
 Ah well. Such is life.
 

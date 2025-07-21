@@ -6,6 +6,6 @@ tags: batshitinsane, dislocation, fear, skydiving
 slug: wiffle-waffle-and-no-useful-information
 status: draft
 
-So, given that it\'s \-- unfortunately \-- entirely up to me, I have decided.
+So, given that it's \-- unfortunately \-- entirely up to me, I have decided.
 
-Next weekend, weather permitting, I\'ll be doing #26.
+Next weekend, weather permitting, I'll be doing #26.

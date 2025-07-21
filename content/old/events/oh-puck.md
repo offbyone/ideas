@@ -10,6 +10,6 @@ So, no tickets for me.
 
 Mere seconds (about two) after the seat reservation system came online, I clicked through and got\... denied.
 
-I\'d use a hockey metaphor, here, but none seem to be coming to mind. And they\'re all goofy anyway.
+I'd use a hockey metaphor, here, but none seem to be coming to mind. And they're all goofy anyway.
 
-So, I\'ll have to wait to see another playoff game, I guess. Bummer.
+So, I'll have to wait to see another playoff game, I guess. Bummer.

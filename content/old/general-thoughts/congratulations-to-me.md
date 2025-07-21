@@ -8,4 +8,4 @@ status: draft
 
 Today marks the three-year anniversary for Char and i. I just wanted to tell everyone out there that.
 
-Damn, i\'m a lucky guy.
+Damn, i'm a lucky guy.

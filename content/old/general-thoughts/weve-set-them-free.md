@@ -8,6 +8,6 @@ status: draft
 
 Does that mean we *want* them to come back?
 
-If you\'re not sure what I mean, I\'m referring to the [travels of my father and sister](http://www.offlineblog.com/morruz/), whom I have entreated to provide a web-based journal of their experiences. ([Matt](http://www.offlineblog.com/mildillson/), can you vet. that last sentence for structural correctness? I got fancy, and it seems subtly wrong, somehow).
+If you're not sure what I mean, I'm referring to the [travels of my father and sister](http://www.offlineblog.com/morruz/), whom I have entreated to provide a web-based journal of their experiences. ([Matt](http://www.offlineblog.com/mildillson/), can you vet. that last sentence for structural correctness? I got fancy, and it seems subtly wrong, somehow).
 
-Anyway, the site is hosted beside this one, and is named [Morruz](http://www.offlineblog.com/morruz/). Clicky on any of the obvious links in this post to get there. In the instance that links are not clear (the style of my page doesn\'t do a good job of highlighting them, a shortcoming that I plan to rectify One Of These Days) then\... well, hunt.
+Anyway, the site is hosted beside this one, and is named [Morruz](http://www.offlineblog.com/morruz/). Clicky on any of the obvious links in this post to get there. In the instance that links are not clear (the style of my page doesn't do a good job of highlighting them, a shortcoming that I plan to rectify One Of These Days) then\... well, hunt.

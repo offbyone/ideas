@@ -6,6 +6,6 @@ tags: school, stress
 slug: drain
 status: draft
 
-My god, I\'m tired.
+My god, I'm tired.
 
 I want this school year to be over.

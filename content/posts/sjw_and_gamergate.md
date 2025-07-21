@@ -10,9 +10,9 @@ status: published
 
 Disclaimer: I have always had a bit of reflexive distaste for the SJW movement. Complaint as performance irritates me, and there is a thread \-- maybe a real one, maybe one I perceive \-- of that running through much of the SJW movement on the social media where the very most recent SJW movement took its roots. I have even fairly recently been more inclined to laugh at the antics of /r/tumblrinaction or to nod along in vague agreement with parts of the MRA manifestos, or to observe the circular firing squad of the left line up more violently against its nearest allies instead of focusing on what I thought were common enemies.
 
-I can\'t do that any more.
+I can't do that any more.
 
-Those movements are toxic at their core, and I *thank* GamerGate for showing me the full breadth and scope of it. If people who claim to have the same motivations as I do are turning them into these assaults on women in gaming, then perhaps I need to reexamine the principles that led them there. I am not a misogynist at heart, although I\'d be willing to bet I\'ve said misogynist things before.
+Those movements are toxic at their core, and I *thank* GamerGate for showing me the full breadth and scope of it. If people who claim to have the same motivations as I do are turning them into these assaults on women in gaming, then perhaps I need to reexamine the principles that led them there. I am not a misogynist at heart, although I'd be willing to bet I've said misogynist things before.
 
 And maybe even the performance aspect is worth revisiting. Is it performance art when a drowning person flails their arms for attention?
 

@@ -6,6 +6,6 @@ tags: unhappy
 slug: no
 status: draft
 
-No, i\'m not having a good day. Or week.
+No, i'm not having a good day. Or week.
 
-And no, i\'m not going to talk about it.
+And no, i'm not going to talk about it.

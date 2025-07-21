@@ -10,7 +10,7 @@ Summary: Transmetropolitan's take on how we treat the past
 There's a comic book called _Transmetropolitan_... a book for which
 the words "comic book" are insufficient to convey the quality of the
 story and writing that its author, Warren Ellis, has put into it. It's
-one of those rare books that I can pick up and re-read \_any\_ time,
+one of those rare books that I can pick up and re-read _any_ time,
 although it's difficult to read only part of it. I want to sit down and
 absorb the whole story in one throw, every time.
 

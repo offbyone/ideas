@@ -6,6 +6,6 @@ tags: asides, meta
 slug: on-a-lighter-note
 status: draft
 
-It seems that I\'ve hit the 10,000-spam mark, sometime last week.
+It seems that I've hit the 10,000-spam mark, sometime last week.
 
-Wow, that\'s depressing. You guys don\'t even keep up with the spammers :)
+Wow, that's depressing. You guys don't even keep up with the spammers :)

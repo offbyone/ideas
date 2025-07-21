@@ -8,4 +8,4 @@ status: draft
 
 Ever have that feeling?
 
-I\'m just waiting for something to pop. I know it\'s coming, although I don\'t know what it is, or when it\'ll happen, but it\'s coming.
+I'm just waiting for something to pop. I know it's coming, although I don't know what it is, or when it'll happen, but it's coming.

@@ -6,6 +6,6 @@ tags: internet, rants
 slug: hiding-from-the-internet
 status: draft
 
-I think that tomorrow I\'ll just \... avoid .. the internet. The place turns into a pile of utter shit once per year, on 1 April, as every two-bit dumb shit gets the mistaken impression that we all just stop caring about anything at all, and decides that pink site redesigns and fake album releases are actually *funny*.
+I think that tomorrow I'll just \... avoid .. the internet. The place turns into a pile of utter shit once per year, on 1 April, as every two-bit dumb shit gets the mistaken impression that we all just stop caring about anything at all, and decides that pink site redesigns and fake album releases are actually *funny*.
 
 Asshats.

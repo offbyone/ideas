@@ -8,11 +8,11 @@ email: offline@offby1.net
 status: published
 summary: A relatively simple way to automate locking your pip-tools requirements using direnv
 
-I have been experimenting with using [pip-tools](https://github.com/jazzband/pip-tools/) to manage my python project dependencies. If you\'re not familiar with it, I encourage you to read Hynek Schlawack\'s excellent [introduction to dependency management in Python](https://hynek.me/articles/python-app-deps-2018/) which introduces it and offers some comparisons to other alternatives like Poetry and Pipenv.
+I have been experimenting with using [pip-tools](https://github.com/jazzband/pip-tools/) to manage my python project dependencies. If you're not familiar with it, I encourage you to read Hynek Schlawack's excellent [introduction to dependency management in Python](https://hynek.me/articles/python-app-deps-2018/) which introduces it and offers some comparisons to other alternatives like Poetry and Pipenv.
 
-The simple explanation, though, is that pip-tools offers two commands: `pip-compile` and `pip-sync` that work to keep a virtualenv\'s dependencies both reproducible and in sync with the expressed requirements. This is done by having the developer edit a `requirements.in` file, which is compiled into `requirements.txt`, and then synced into the project virtualenv.
+The simple explanation, though, is that pip-tools offers two commands: `pip-compile` and `pip-sync` that work to keep a virtualenv's dependencies both reproducible and in sync with the expressed requirements. This is done by having the developer edit a `requirements.in` file, which is compiled into `requirements.txt`, and then synced into the project virtualenv.
 
-At the same time as I\'ve been on this kick, I\'ve also been trying out [direnv](https://direnv.net), which I am *very* late to the party on. Direnv is a tool for managing per-directory (or directory tree) environment variables, evaluating a bash script in a limited interpreter to set custom environment variables in fish, zsh, or bash shells. One of its highlights is its useful stdlib, including a great python + virtualenv integration:
+At the same time as I've been on this kick, I've also been trying out [direnv](https://direnv.net), which I am *very* late to the party on. Direnv is a tool for managing per-directory (or directory tree) environment variables, evaluating a bash script in a limited interpreter to set custom environment variables in fish, zsh, or bash shells. One of its highlights is its useful stdlib, including a great python + virtualenv integration:
 
 ``` bash
 layout python python3.9
@@ -43,7 +43,7 @@ $ pip-sync requirements.txt
 Successfully installed click-7.1.2
 ```
 
-This is pretty easy\... but what if you could skip all of these manual steps? Direnv has a way: custom hooks in `~/.config/direnv/direnvrc` that you can reference in your `.envrc` files. Here\'s how I manage my pip-compile automation:
+This is pretty easy\... but what if you could skip all of these manual steps? Direnv has a way: custom hooks in `~/.config/direnv/direnvrc` that you can reference in your `.envrc` files. Here's how I manage my pip-compile automation:
 
 ``` bash
 function use_pip-tools() {
@@ -102,4 +102,4 @@ Successfully installed certifi-2020.4.5.2 chardet-3.0.4 idna-2.9 requests-2.23.0
 direnv: export +VIRTUAL_ENV ~PATH
 ```
 
-And voila! Every time you update your `requirements.in` your virtualenv will resync automatically. Also, any time your `requirements.in` file is newer than the compiled one, it\'ll re-run this too.
+And voila! Every time you update your `requirements.in` your virtualenv will resync automatically. Also, any time your `requirements.in` file is newer than the compiled one, it'll re-run this too.

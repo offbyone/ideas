@@ -8,14 +8,14 @@ status: draft
 
 Odds are, Beau should not be allowed to see this link: [We Are Your Friends](/images/we_are_your_friends.mov)
 
-It\'s video, so don\'t bother, on a slow connection.
+It's video, so don't bother, on a slow connection.
 
 \### Update:
 
-The file at the original location was moved, so this Youtube link has it. If I find the better version again, I\'ll upload it and host it here.
+The file at the original location was moved, so this Youtube link has it. If I find the better version again, I'll upload it and host it here.
 
 [Justice vs. Simian: We Are Your Friends](http://youtube.com/watch?v=6zo1-XlazvY)
 
 \### Update again
 
-The link is fixed, it\'s a local file now. Will work \'til doomsday.
+The link is fixed, it's a local file now. Will work 'til doomsday.

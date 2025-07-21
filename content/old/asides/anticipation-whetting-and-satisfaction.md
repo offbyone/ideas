@@ -12,4 +12,4 @@ W: Found a nifty site called [Luxist](http://www.luxist.com/) that blogs the *th
 
 S: Against all odds, my iPod works again!
 
-If you could see me, I couldn\'t claim to be dancing a merry jig. Since you can\'t, I am.
+If you could see me, I couldn't claim to be dancing a merry jig. Since you can't, I am.

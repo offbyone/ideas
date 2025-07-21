@@ -8,4 +8,4 @@ status: draft
 
 School is hitting me hard today. Lots due, lots of work.
 
-Hope you\'re all having as much fun as I am! :)
+Hope you're all having as much fun as I am! :)

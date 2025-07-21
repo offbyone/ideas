@@ -6,15 +6,15 @@ tags: humour, internet, interview, Sylvester Stallone
 slug: found-on-the-internets
 status: draft
 
-Amazingly enough, despite the fact that he talks like he\'s got a mouthful of marbles, Sylvester Stallone makes an excellent interviewee\... by email, at least.
+Amazingly enough, despite the fact that he talks like he's got a mouthful of marbles, Sylvester Stallone makes an excellent interviewee\... by email, at least.
 
-Ain\'t it Cool News has a \_long\_ series consisting of fans asking Sly questions, and some of the answers are just comedy gold, and \_not\_ because I\'m laughing at him, because I\'m laughing \_with\_ him, at the questioners.
+Ain't it Cool News has a _long_ series consisting of fans asking Sly questions, and some of the answers are just comedy gold, and _not_ because I'm laughing at him, because I'm laughing _with_ him, at the questioners.
 
-You\'ll have to check out the whole set, but here\'s a sample answer:
+You'll have to check out the whole set, but here's a sample answer:
 
 | \>\> Please reconsider writing your autobiography! If not, would you consider writing a sequel
-| \>\> to \'Sly Moves\' which would focus primarily on mental health & attitude instead of physical
-| \>\> health? I\'m picturing a Stallone version of \'The Power of Positive Thinking\' - what do you think?
+| \>\> to 'Sly Moves' which would focus primarily on mental health & attitude instead of physical
+| \>\> health? I'm picturing a Stallone version of 'The Power of Positive Thinking' - what do you think?
 | \>\>
 | \>\> curiousvinnie
 | \>\> Mahwah, NJ
@@ -39,6 +39,6 @@ Find the rest:
 | \[Round Twelve\](<http://www.aintitcool.com/node/30952>)
 | \[Round Thirteen\](<http://www.aintitcool.com/node/30965>)
 
-Can\'t say that you\'ll read them all, but there are some gems in there.
+Can't say that you'll read them all, but there are some gems in there.
 
-(\_PS - apologies for the silly quote layout; I\'ll be fixing that sometime soon\_)
+(\_PS - apologies for the silly quote layout; I'll be fixing that sometime soon\_)

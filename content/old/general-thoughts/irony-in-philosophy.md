@@ -6,7 +6,7 @@ tags: intellectual property, internet, privacy, rants, school
 slug: irony-in-philosophy
 status: draft
 
-I\'m looking at the front matter of one of my professors\' \[weblog\](<http://www.arts.ualberta.ca/~wcooper/graymatter/index.html>), which closely associates \[Che Guevara\]([http://en.wikipedia.org/wiki/Che\\\_Guevara](http://en.wikipedia.org/wiki/Che\_Guevara)) with the \[Free Culture\](<http://www.freeculture.org/>) movement.
+I'm looking at the front matter of one of my professors' \[weblog\](<http://www.arts.ualberta.ca/~wcooper/graymatter/index.html>), which closely associates \[Che Guevara\]([http://en.wikipedia.org/wiki/Che_Guevara](http://en.wikipedia.org/wiki/Che_Guevara)) with the \[Free Culture\](<http://www.freeculture.org/>) movement.
 
 Does anyone else see anything ironic in that? Rabid communist/socialist as an icon of Free Culture?
 

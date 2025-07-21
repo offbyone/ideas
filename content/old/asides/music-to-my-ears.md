@@ -6,7 +6,7 @@ tags: asides, internet, media
 slug: music-to-my-ears
 status: draft
 
-If you\'re at all into post-rock (pretentious wankery, in other words), [Thee Silver Mt. Zionist](http://www.livejournal.com/users/charlatantric/) is a good little blog to check out. Very pleasant, nice-sounding music along the lines of Godspeed! You Black Emperor and Sigur Ros.
+If you're at all into post-rock (pretentious wankery, in other words), [Thee Silver Mt. Zionist](http://www.livejournal.com/users/charlatantric/) is a good little blog to check out. Very pleasant, nice-sounding music along the lines of Godspeed! You Black Emperor and Sigur Ros.
 
 Well, some of it is.
 

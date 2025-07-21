@@ -10,6 +10,6 @@ As seen [here](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/L
 
 So.
 
-Let\'s see\... an ISP will (if this passes) have to provide detailed information about any subscriber to the police, \_without a warrant\_? What the hell?
+Let's see\... an ISP will (if this passes) have to provide detailed information about any subscriber to the police, \_without a warrant\_? What the hell?
 
-Words fail me, not least due to the degree that I\'m tired. But I hope that you can see the way I do on this one \-- this is just flat-out wrong.
+Words fail me, not least due to the degree that I'm tired. But I hope that you can see the way I do on this one \-- this is just flat-out wrong.

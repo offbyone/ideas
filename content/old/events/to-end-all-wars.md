@@ -6,7 +6,7 @@ tags: events, rants
 slug: to-end-all-wars
 status: draft
 
-It wasn\'t, although the hope was there. Given the fact that in Canada we have [only six WWI veterans left alive](http://www.news.gc.ca/cfmx/CCP/view/en/index.cfm?articleid=119219), it makes me wonder how much more quickly we\'ll forget the lessons of that first world war now?
+It wasn't, although the hope was there. Given the fact that in Canada we have [only six WWI veterans left alive](http://www.news.gc.ca/cfmx/CCP/view/en/index.cfm?articleid=119219), it makes me wonder how much more quickly we'll forget the lessons of that first world war now?
 
 Although WWII casts a longer shadow over my generation, the first war was in its time considered to be so horrific that no one would ever choose to war again.
 

@@ -9,13 +9,13 @@ status: published
 summary: Exposing web APIs on my tailnet to the world
 toot: https://wandering.shop/@offby1/109898670642861642
 
-I\'ve become a huge fan of [Tailscale](https://tailscale.com/) as a VPN / software-defined network for my homelab. They\'ve even introduced a really fantastic new alpha feature \"Funnels\" that lets you expose a service to the internet at `https://<your-hostname>.<your-tailnet>`. It\'s really cool\... **but** the URL you get is forever tied to Tailscale, instead of being on your own domain.
+I've become a huge fan of [Tailscale](https://tailscale.com/) as a VPN / software-defined network for my homelab. They've even introduced a really fantastic new alpha feature "Funnels" that lets you expose a service to the internet at `https://<your-hostname>.<your-tailnet>`. It's really cool\... **but** the URL you get is forever tied to Tailscale, instead of being on your own domain.
 
-Now, there are ways around this; I could, for example, have a `CNAME` that points to the tailnet address. That\'d be the *easy* way. Instead, what I built (and it\'s not super complicated!) is a reverse proxy living in a cloud provider, with a dedicated public IP, that acts as a bridge to my tailnet.
+Now, there are ways around this; I could, for example, have a `CNAME` that points to the tailnet address. That'd be the *easy* way. Instead, what I built (and it's not super complicated!) is a reverse proxy living in a cloud provider, with a dedicated public IP, that acts as a bridge to my tailnet.
 
 # What are the goals, here?
 
-Why am I even doing this? Well, I don\'t like the idea of punching open ports in my firewall, especially not for every random idea I want to host. Ideally, I want to use the standard HTTPS port, too, for everything. I *could* do this using CNAMEs for my home network address, but my ISP doesn\'t give me a static IP, and then won\'t even sell me one.
+Why am I even doing this? Well, I don't like the idea of punching open ports in my firewall, especially not for every random idea I want to host. Ideally, I want to use the standard HTTPS port, too, for everything. I *could* do this using CNAMEs for my home network address, but my ISP doesn't give me a static IP, and then won't even sell me one.
 
 This solution gives me a static public IP, an easy way to add new endpoints on standard HTTP ports, and no need to punch a hole in the house firewall, since tailscale provides secure transport between here and that proxy.
 
@@ -33,7 +33,7 @@ This solution uses 5 tools:
 
 ## The server itself
 
-On the server front, there isn\'t a lot to say here; I don\'t anticipate a heavy amount of traffic on this, since it\'s only going to be used for personal instances of [Fediverse](https://fediverse.party/) applications\[ref\]Expect a second post shortly on how I set up [Bookwyrm](https://joinbookwyrm.com/) using this\[/ref\] and other tiny web services that I feel the need to share with others. So, I picked the `Standard_A1_v2` VM size from Azure\[ref\]It was the cheapest I could find there\[/ref\]. Interestingly, that constrained my choices of region quite a bit; a lot of regions had no capacity for it. So, my first step was to find out which regions *did* have it:
+On the server front, there isn't a lot to say here; I don't anticipate a heavy amount of traffic on this, since it's only going to be used for personal instances of [Fediverse](https://fediverse.party/) applications\[ref\]Expect a second post shortly on how I set up [Bookwyrm](https://joinbookwyrm.com/) using this\[/ref\] and other tiny web services that I feel the need to share with others. So, I picked the `Standard_A1_v2` VM size from Azure\[ref\]It was the cheapest I could find there\[/ref\]. Interestingly, that constrained my choices of region quite a bit; a lot of regions had no capacity for it. So, my first step was to find out which regions *did* have it:
 
 ``` shell-session
 $ az vm list-skus --size Standard_A1
@@ -70,7 +70,7 @@ pro-22_04-lts
 pro-22_04-lts-gen2
 ```
 
-(A note on generation; choosing a -gen2 image forces you on to the gen 2 hypervisor for Azure, which apparently the VM SKU I chose didn\'t support. So\... don\'t just try gen2 without consideration.)
+(A note on generation; choosing a -gen2 image forces you on to the gen 2 hypervisor for Azure, which apparently the VM SKU I chose didn't support. So\... don't just try gen2 without consideration.)
 
 In the end, I had in hand a VM size, Image SKU, and region. On to terraform! I stared by copying the [Public IP example](https://github.com/hashicorp/terraform-provider-azurerm/tree/main/examples/virtual-machines/linux/public-ip) from the terraform provider docs, with a few changes, mainly in the VM definition:
 
@@ -106,11 +106,11 @@ resource "azurerm_linux_virtual_machine" "main" {
 }
 ```
 
-Notable things in this block are that I disabled ssh with a password, provided my own RSA public key to the instance (Azure doesn\'t support ed25519 keys for some reason), and set the instance size and source image.
+Notable things in this block are that I disabled ssh with a password, provided my own RSA public key to the instance (Azure doesn't support ed25519 keys for some reason), and set the instance size and source image.
 
 ## The Software
 
-I\'m going to skip the Ansible part of my setup, because it\'s got a lot of other complexity that doesn\'t matter here, and just dig into how I installed the two key software components on the host.
+I'm going to skip the Ansible part of my setup, because it's got a lot of other complexity that doesn't matter here, and just dig into how I installed the two key software components on the host.
 
 First, install tailscale. This follows [their instructions](https://tailscale.com/kb/1031/install-linux/) more or less to a T:
 
@@ -121,13 +121,13 @@ $ sudo apt-get update
 $ sudo apt-get install tailscale
 ```
 
-I set up the tailscale daemon so the adminuser could operate it, and requested the `border` tag, which I\'d pre-created in my ACL. The Tailnet section, below, will cover that aspect.
+I set up the tailscale daemon so the adminuser could operate it, and requested the `border` tag, which I'd pre-created in my ACL. The Tailnet section, below, will cover that aspect.
 
 ``` shell-session
 $ tailscale up --operator adminuser --advertise-tags tag:border
 ```
 
-Next, I installed Caddy, again following the [developer\'s instructions](https://caddyserver.com/docs/install#debian-ubuntu-raspbian):
+Next, I installed Caddy, again following the [developer's instructions](https://caddyserver.com/docs/install#debian-ubuntu-raspbian):
 
 ``` shell-session
 $ sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https
@@ -137,15 +137,15 @@ $ sudo apt update
 $ sudo apt install caddy
 ```
 
-This installs a caddy systemd service, a default configuration, and sets up Caddy with http validation. While I\'ve written [a post about getting LetsEncrypt to work with DNS]({filename}2021-10-06-automating-letsencrypt-route53-using-aws-iot.md), we won\'t need that here, since HTTP validation will work just fine; this server, unlike the rest of my homelab, will be on the internet.
+This installs a caddy systemd service, a default configuration, and sets up Caddy with http validation. While I've written [a post about getting LetsEncrypt to work with DNS]({filename}2021-10-06-automating-letsencrypt-route53-using-aws-iot.md), we won't need that here, since HTTP validation will work just fine; this server, unlike the rest of my homelab, will be on the internet.
 
 The most important line of the caddyfile is this one:
 
     import /etc/caddy/sites-enabled.d/*.conf
 
-`/etc/caddy/sites-enabled.d/` is where we\'ll be putting each reverse proxy configuration.
+`/etc/caddy/sites-enabled.d/` is where we'll be putting each reverse proxy configuration.
 
-My initial goal in building this setup was to create [my Bookwyrm instance](https://bookwyrm.offby1.net/) so, I\'ll set that up. First, I\'ll make the site *available* by putting a configuration for it in `/etc/caddy/sites-available.d/` (this is a common pattern; define sites that are available, and then link them into the enabled directory to turn them \"on\"):
+My initial goal in building this setup was to create [my Bookwyrm instance](https://bookwyrm.offby1.net/) so, I'll set that up. First, I'll make the site *available* by putting a configuration for it in `/etc/caddy/sites-available.d/` (this is a common pattern; define sites that are available, and then link them into the enabled directory to turn them "on"):
 
 ``` caddyfile
 bookwyrm.offby1.net {
@@ -157,7 +157,7 @@ bookwyrm.offby1.net {
 }
 ```
 
-The IP and port there are coming from my tailnet; they won\'t apply to you, but they\'re relevant in the tailscale configuration.
+The IP and port there are coming from my tailnet; they won't apply to you, but they're relevant in the tailscale configuration.
 
 Once that file is created, link it in to sites-enabled.d and reload caddy:
 
@@ -169,9 +169,9 @@ $ sudo systemctl reload caddy
 
 ## Configuring Tailscale
 
-This host will be on the internet, with all the attendant risks. While you could give it unfettered access to your tailnet, I don\'t recommend it. Instead, I defined some minimal ACL rules that allow it only access to the specific tailnet hosts and ports that my services are running on. For this example, my tailscale machine name is \"bastion-vm\"
+This host will be on the internet, with all the attendant risks. While you could give it unfettered access to your tailnet, I don't recommend it. Instead, I defined some minimal ACL rules that allow it only access to the specific tailnet hosts and ports that my services are running on. For this example, my tailscale machine name is "bastion-vm"
 
-On the [Tailscale ACL admin page](https://login.tailscale.com/admin/acls), you want three things. First, you want to have a named host for this VM (why this doesn\'t come from Tailscale DNS, I\'ll never know!).
+On the [Tailscale ACL admin page](https://login.tailscale.com/admin/acls), you want three things. First, you want to have a named host for this VM (why this doesn't come from Tailscale DNS, I'll never know!).
 
 ``` json
 "hosts": {
@@ -180,7 +180,7 @@ On the [Tailscale ACL admin page](https://login.tailscale.com/admin/acls), you w
 }
 ```
 
-You\'ll want a test that makes sure the bastion is limited, but able to access what it needs, and that it can\'t be used to ssh freely around your tailnet:
+You'll want a test that makes sure the bastion is limited, but able to access what it needs, and that it can't be used to ssh freely around your tailnet:
 
 ``` json
 "tests": [
@@ -214,7 +214,7 @@ Lastly, enable the ACL too:
 
 The last thing to do is to set up DNS. I use AWS Route53 for my DNS, so all of the records are there. Rather than copy the public IP over from Azure to it, I take advantage of the ability of Terraform to interact with multiple cloud providers. The `bastion-pip` and `bastion-resources` names in the data below refer to the public IP resource name and group that the public IP server example defined.
 
-I created a `bastion.offby1.net` A record, which is the default server for the bastion, and then defined a `CNAME` for bookwyrm. I\'m \... honestly not sure it\'s the best way. Should I have created an A record for the subsite? I don\'t know; please feel free to tell me in the comments :D
+I created a `bastion.offby1.net` A record, which is the default server for the bastion, and then defined a `CNAME` for bookwyrm. I'm \... honestly not sure it's the best way. Should I have created an A record for the subsite? I don't know; please feel free to tell me in the comments :D
 
 ``` terraform
 terraform {

@@ -6,9 +6,9 @@ tags: intellectual property, internet, media, privacy, rants
 slug: chiseling-away
 status: draft
 
-Just because I figure it\'s been a while, a friend of mine passed me \"this\":http://www.hackcanada.com/canadian/freedom/barwatch/barwatch.html just a moment ago.
+Just because I figure it's been a while, a friend of mine passed me "this":http://www.hackcanada.com/canadian/freedom/barwatch/barwatch.html just a moment ago.
 
-Now, I know that you all aren\'t exactly heavy duty Edmonton area barhounds, but this still might raise your hackles a bit.
+Now, I know that you all aren't exactly heavy duty Edmonton area barhounds, but this still might raise your hackles a bit.
 
 Read it, and then be careful going to these bars:
 
@@ -34,9 +34,9 @@ Edmonton
 
 </li>
 
-- Diamonds Gentlemen\'s Club, 4635 Gateway Blvd, (780) 428-2527
+- Diamonds Gentlemen's Club, 4635 Gateway Blvd, (780) 428-2527
 - Iron Horse, 8101 103 St, (780) 438-1907
-- Nashville\'s Electric Roadhouse, 2557 WEM 8770-170 St, (780) 489-1330
+- Nashville's Electric Roadhouse, 2557 WEM 8770-170 St, (780) 489-1330
 - Rum Jungle, 2687-8882 170 St. West Edmonton Mall, (780) 486-9494
 - The Joint Nightlife, 8882-170 St. West Edmonton Mall, (780) 486-3013
 - Tonic After Dark, 9920 - 62 Avenue, (780) 408-2877
@@ -67,4 +67,4 @@ Vancouver
 </ul>
 </ul>
 
-If you notice another one, let me know and I\'ll pass it on too.
+If you notice another one, let me know and I'll pass it on too.

@@ -12,4 +12,4 @@ Apparently the previous owners of the house (or the last Telus repairman in here
 
 Wankers.
 
-Anyway, our number hasn\'t changed. And now, it works!
+Anyway, our number hasn't changed. And now, it works!

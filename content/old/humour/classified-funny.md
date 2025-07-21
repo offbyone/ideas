@@ -6,11 +6,11 @@ tags: aggro, craigslist
 slug: classified-funny
 status: draft
 
-Apropos of nothing, here\'s a few funny Craigslist postings, culled from Metafilter:
+Apropos of nothing, here's a few funny Craigslist postings, culled from Metafilter:
 
 \[Hey, Crackhead\](<http://www.craigslist.org/about/best/sfo/27499971.html>)
 
-\[Cement Block, \$1\]([http://farm3.static.flickr.com/2416/2201688044\\\_b9a72418e2\\\_o.jpg](http://farm3.static.flickr.com/2416/2201688044\_b9a72418e2\_o.jpg))
+\[Cement Block, \$1\]([http://farm3.static.flickr.com/2416/2201688044_b9a72418e2_o.jpg](http://farm3.static.flickr.com/2416/2201688044_b9a72418e2_o.jpg))
 
 \[Thank You Donkey Porn\](<http://www.craigslist.org/about/best/wdc/90359106.html>)
 
@@ -18,6 +18,6 @@ Apropos of nothing, here\'s a few funny Craigslist postings, culled from Metafil
 
 \[I Have a Hot Tub\](<http://reddit.com/info/2g7eq/comments/c2g8wz>)
 
-\[Why Doesn\'t He Want Me\](<http://www.craigslist.org/about/best/wdc/55958204.html>)
+\[Why Doesn't He Want Me\](<http://www.craigslist.org/about/best/wdc/55958204.html>)
 
 Of course you could just read the original \[Metafilter thread\](<http://www.metafilter.com/69059/Possibly-the-best-Craigslist-post-ever>)\...

@@ -6,6 +6,6 @@ tags: sex
 slug: tooting-my-own-horn
 status: draft
 
-I would like to take this opportunity to brag that I am going to enjoy an evening in front of a flickering fire with a really sexy woman who will be making me a \_very\_ happy man.
+I would like to take this opportunity to brag that I am going to enjoy an evening in front of a flickering fire with a really sexy woman who will be making me a _very_ happy man.
 
-Damn, it\'s good to be me!
+Damn, it's good to be me!

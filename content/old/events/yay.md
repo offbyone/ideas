@@ -6,4 +6,4 @@ tags: events
 slug: yay
 status: draft
 
-She\'s back!!!
+She's back!!!

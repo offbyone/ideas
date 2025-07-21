@@ -10,9 +10,9 @@ status: draft
 
 Choice Quote:
 
-> \_Now is a bad time to do it\_
+> _Now is a bad time to do it_
 >
-> | Now is \*always\* a bad time to do it.
+> | Now is *always* a bad time to do it.
 > | Do it anyway.
 
 I can only sit by and hope\...

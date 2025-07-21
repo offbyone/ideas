@@ -6,9 +6,9 @@ tags: history, Remembrance Day
 slug: never-again
 status: draft
 
-As is \*de-rigeur\* for this weblog, it\'s that time of year again, or it will be tomorrow.
+As is *de-rigeur* for this weblog, it's that time of year again, or it will be tomorrow.
 
-I\'m reasonably certain that there\'s some kind of nationwide moment of silence, but I intend to have my own.
+I'm reasonably certain that there's some kind of nationwide moment of silence, but I intend to have my own.
 
 Remember:
 

@@ -6,9 +6,9 @@ tags: blame, finger-pointing, media, rants, society, voyeurism
 slug: how-will-you-react
 status: draft
 
-What\'s next?
+What's next?
 
-We\'ve all heard about the \[shootings at Virginia Tech\]([http://en.wikipedia.org/wiki/Virginia\\\_Tech\\\_massacre](http://en.wikipedia.org/wiki/Virginia\_Tech\_massacre)), and now more information is going to come out, leading to a wave of media speculation, blog postings (my bad), and calls for emotionally-driven action.
+We've all heard about the \[shootings at Virginia Tech\]([http://en.wikipedia.org/wiki/Virginia_Tech_massacre](http://en.wikipedia.org/wiki/Virginia_Tech_massacre)), and now more information is going to come out, leading to a wave of media speculation, blog postings (my bad), and calls for emotionally-driven action.
 
 So, how will you react?
 
@@ -16,7 +16,7 @@ Will you use this incident as a stalking horse for your issue of choice, as the 
 
 Will you demand immediate, emotion-fueled legislation aimed at preventing another event \_just like this\_, forgetting that almost every other tragedy will be very little like this one?
 
-Will you point your finger at everyone, demanding that someone who is alive and can \_feel\_ your revenge take some part of the fall?
+Will you point your finger at everyone, demanding that someone who is alive and can _feel_ your revenge take some part of the fall?
 
 Will you forget, next time, that none of the quick fixes you demanded this time made a difference?
 

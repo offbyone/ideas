@@ -21,19 +21,19 @@ status: published
 
 \### Usage
 
-| The plugin doesn\'t ship configured to work with your IM service out of the box,
-| obviously, so it won\'t do too much until you enter your password and username
+| The plugin doesn't ship configured to work with your IM service out of the box,
+| obviously, so it won't do too much until you enter your password and username
 | into the \`Jabber Notifications\` plugin page in the Plugins section of the
 | Azureus configuration dialog.
 
-| At that point, you\'ll receive the notifications you\'d expect from the UI. Note
+| At that point, you'll receive the notifications you'd expect from the UI. Note
 | that not all notifications are fully supported at this time.
 
 \#### Security Notice
 
 | The password is stored in plain text in the configuration, regrettably \-- I need
-| to pass it through to the chat service, and I don\'t know any safer way to do that.
-| At some point I\'ll allow the option of storing it in some simple hashed way, or
+| to pass it through to the chat service, and I don't know any safer way to do that.
+| At some point I'll allow the option of storing it in some simple hashed way, or
 | to enter it on startup.
 
 \### Limitations
@@ -55,7 +55,7 @@ Not all notifications are implemented.
 | - UI enhancements in the configuration dialog
 | - Fixed some potential error conditions during Azureus shutdown
 | - 1.0.2
-| - Renamed the plugin to \'azjabber\' from \'com.aimedia.azjabber\'
+| - Renamed the plugin to 'azjabber' from 'com.aimedia.azjabber'
 | - 1.0.3
 | - Fixed a few NPE conditions in the logging of messages.
 | - Added a button to access the plugin configuration from the log view.

@@ -6,8 +6,8 @@ tags: internet
 slug: urgh
 status: draft
 
-For the last couple of weeks, this whole \"internet\" thing has been an unending series of disconnections and hassles.
+For the last couple of weeks, this whole "internet" thing has been an unending series of disconnections and hassles.
 
-I\'m right ticked.
+I'm right ticked.
 
-I\'d like to make it clear right now: Technology sucks.
+I'd like to make it clear right now: Technology sucks.

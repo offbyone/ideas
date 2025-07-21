@@ -8,7 +8,7 @@ status: draft
 
 ![Poppy and barbed wire](/images/poppy.gif)Because too many people choose to forget.
 
-Because it\'s not fashionable to remember.
+Because it's not fashionable to remember.
 
 Because of the people who died to protect the freedom to mock them.
 

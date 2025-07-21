@@ -12,4 +12,4 @@ I disagree with China in so many things, from both political and ethical positio
 
 I hope that Lt. Col. Yang Liwei lands safely at the end of his flight and that they continue to pursue this course. If they do, it will hopefully act as a goad, driving the space program in the US forward.
 
-Perhaps now, in the same spirit that drove them during the cold war, the US will finally start putting money into space again. I can dream, can\'t i?
+Perhaps now, in the same spirit that drove them during the cold war, the US will finally start putting money into space again. I can dream, can't i?

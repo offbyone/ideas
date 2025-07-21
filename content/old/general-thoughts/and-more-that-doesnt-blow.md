@@ -10,4 +10,4 @@ Found out that my PC will live. Happy.
 
 Found out other things\... not so happy.
 
-However, I did (of all things) make the Dean\'s honour roll for science. This would be me, bragging. Yay!
+However, I did (of all things) make the Dean's honour roll for science. This would be me, bragging. Yay!

@@ -50,4 +50,4 @@ The plugin itself can also be downloaded here:
 
 \### Issue Tracking
 
-If you find bugs, and I expect you will, or you want new features, I have an issue tracker for this plugin at \[<http://offby1.no-ip.org:8080/browse/AZSTOP>\](<http://offby1.doesntexist.com:8080/browse/AZSTOP>) (The URL is subject to change, so if you can\'t get to it at that address, check back here for new information)
+If you find bugs, and I expect you will, or you want new features, I have an issue tracker for this plugin at \[<http://offby1.no-ip.org:8080/browse/AZSTOP>\](<http://offby1.doesntexist.com:8080/browse/AZSTOP>) (The URL is subject to change, so if you can't get to it at that address, check back here for new information)

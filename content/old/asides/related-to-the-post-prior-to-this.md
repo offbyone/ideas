@@ -8,4 +8,4 @@ status: draft
 
 The annual \[Jefferson Muzzle\](<http://www.tjcenter.org/past2005.html>) awards for 2005 came out a short time ago.
 
-From the FCC to the MPAA, with stops at high schools and the Republican/Democrat conventions in between. It\'d be funny if it weren\'t true. As it is, it makes me want to cry.
+From the FCC to the MPAA, with stops at high schools and the Republican/Democrat conventions in between. It'd be funny if it weren't true. As it is, it makes me want to cry.
