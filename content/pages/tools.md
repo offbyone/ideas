@@ -19,6 +19,7 @@ Status: published
 🔐 Password Management: [1Password](https://1password.com/)  
 🧑‍💻 Code Editor: [Emacs](https://www.gnu.org/software/emacs/)  
 🗃️ Version Control: [Magit](https://magit.vc)  
+🗃️ Version Control: [Jujutsu](https://jj-vcs.github.io/jj/latest/)  
 🐚 Terminal: [iTerm2](https://iterm2.com)  
 ✈️ VPN: [Tailscale](https://tailscale.com)  
 📨 Mail Client: [MailMate](https://freron.com/) (Gmail only)  
