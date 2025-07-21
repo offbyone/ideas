@@ -6,7 +6,7 @@ tags: bike, birthday, commuting, work
 slug: on-wheels
 status: draft
 
-For my birthday I got me one of \[these\](<http://www2.trekbikes.com/bikes/bike.php?bikeid=1034060&f=21>), and I'm using it to bike to work.
+For my birthday I got me one of [these](http://www2.trekbikes.com/bikes/bike.php?bikeid=1034060&f=21), and I'm using it to bike to work.
 
 That's quite a workout, I kid ye not.
 

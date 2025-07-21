@@ -10,4 +10,4 @@ Had a great time with Eric and company at his bachelor party last night. This on
 
 I did, however, oversleep a bit this morning. I blame the fact that I've not topped 6 hours of sleep in any night for around a month, which is probably not doing my body any good whatsoever.
 
-In other news, Mother's day is coming, and I'm pretty stoked: \_I remembered\_! ;)
+In other news, Mother's day is coming, and I'm pretty stoked: _I remembered_! ;)

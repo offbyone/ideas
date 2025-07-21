@@ -20,6 +20,6 @@ Culture: The hotel powers down all of its outlets when I'm not in the room. Hous
 
 I don't know how significant this is, really. I've covered it on my traveling weblog before, but there is something fundamentally dislocating about this kind of distance. I'm at best an indifferent traveler, preferring to be at home where all of my comforts are. It's made more interesting by the fact that I'm in the middle of no small amount of upheaval on the home front.
 
-For the last few who haven't heard, we got the house, and will be moving into our very own home on January 23rd. We have, then, four months to prepare it for the arrival of \[STRIKEOUT:the\]our baby. Luckily, there's not a lot that needs doing in a hurry, it's pretty much ready.
+For the last few who haven't heard, we got the house, and will be moving into our very own home on January 23rd. We have, then, four months to prepare it for the arrival of [STRIKEOUT:the]our baby. Luckily, there's not a lot that needs doing in a hurry, it's pretty much ready.
 
 Those of you who read this are probably already aware of my feelings on the subject, but they bear repeating: We don't plan to become one of those couples with no life other than our child. Our friends are infinitely precious to us, and we'll be doing our damnedest to ensure that we remember that in the years to come. We're moving, which makes it harder (as I said in a comment on the last post) but that just means that when I meet Mel for coffee in the morning it's a bit more of a detour for me ;)

@@ -20,7 +20,7 @@ How is this related?
 
 Read child rearing books produced in the last several years (up to twenty, say). They share a common theme - Be your child's *friend*. Apparently , it's harmful to a child's self esteem if they aren't equal partners in the decision making process, and so they won't grow up as full, self-actualized adults if you don't pander to their childish demands in their youth.
 
-And then, when a parent tries to exercise what shreds of authority that they have left with their children, imagine how a teenager, raised as an 'equal', feels when their pa\[l\|rent\] suddenly tells them that they can't do something.
+And then, when a parent tries to exercise what shreds of authority that they have left with their children, imagine how a teenager, raised as an 'equal', feels when their pa[l\|rent] suddenly tells them that they can't do something.
 
 It's funny, but i don't think this way works. Just look at kids these days. Hell, look at kids *my* age. We're overall a pretty pathetic lot. And unless there's a shift in the direction of society as a whole, it's just gonna get worse.
 

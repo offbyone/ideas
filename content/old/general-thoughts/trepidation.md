@@ -18,4 +18,4 @@ In other news, the new mac is pretty cool. I've got it hooked up to the old moni
 
 Nifty, I say. Nifty.
 
-All in all, I can see a few rough spots \-- mostly in the area of video playback and re-paying for games I already bought \-- but on the whole it's great. Takes some serious getting used to, though. Where the hell are all of the keyboard shortcuts? ;)
+All in all, I can see a few rough spots -- mostly in the area of video playback and re-paying for games I already bought -- but on the whole it's great. Takes some serious getting used to, though. Where the hell are all of the keyboard shortcuts? ;)

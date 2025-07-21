@@ -23,7 +23,7 @@ If you know Tailscale you might be asking yourself right now "why didn't he use 
 
 # How I Didn't Do It
 
-I decided a natural way to go about this would be to make a Docker iamge that contained the Tailscale proxy and the service, where the proxy would be installed and running alongside the supported service. That took way more time than you'd hope to get working, and actually came with a few frustrating hurdles that eventually soured me on the process\[ref\]Hey, did you know that there are no Linux/ARMv7 builds for the cryptography Python library? Did you also know that building that wheel can take over an hour on a GitHub action runner? I sure do\![/ref\].
+I decided a natural way to go about this would be to make a Docker iamge that contained the Tailscale proxy and the service, where the proxy would be installed and running alongside the supported service. That took way more time than you'd hope to get working, and actually came with a few frustrating hurdles that eventually soured me on the process[ref]Hey, did you know that there are no Linux/ARMv7 builds for the cryptography Python library? Did you also know that building that wheel can take over an hour on a GitHub action runner? I sure do\![/ref].
 
 The reasons I moved on from this approach were a combination of "I didn't want to maintain a service manager in Docker" (supervisor did the job, but it always felt clunky) and "cramming service and proxy together in the container made for grotty build logic and weird versioning".
 

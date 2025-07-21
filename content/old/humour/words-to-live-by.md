@@ -23,5 +23,5 @@ Anyway\... I'm not gonna give it away or offend by putting it here. But it's fun
 > In fact, I think that the letters in last week's column, concerning straight men doing things like sucking themselves, eating their own come, and being fucked with strap-ons, all have to do with men wanting to be dominated. I don't necessarily mean a full-on, tied-to-the-wall-and-fucked-up-the-ass-while-clothespins-are-gripping-your-nipples kinda thing, but it's true that some people (including me somewhat) are turned on by an element of embarrassment or humiliation.
 >
 > | *Finally, like many men, I found that the second I actually came, this thing I had been fantasizing about 'being "forced" to swallow my own come' struck me as not nearly as good an idea as it was the second before I came.*
-> | \--
+> | --
 > | My Two Cents, as printed in "Savage Love"

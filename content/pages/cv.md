@@ -23,9 +23,9 @@ He/Him
 
 **Software Lifecycle**: Git, AWS internal tools, Github, CodeDeploy
 
-**Cloud Services**: AWS\[ref\]I certainly hope so\![/ref\], Docker
+**Cloud Services**: AWS[ref]I certainly hope so\![/ref], Docker
 
-**Tools**: Emacs, Git\[ref\]Again, I certainly hope so\![/ref\], [my tools category here]({category}tools)
+**Tools**: Emacs, Git[ref]Again, I certainly hope so\![/ref], [my tools category here]({category}tools)
 
 ### Present Employment
 
@@ -59,7 +59,7 @@ Senior Software Engineer. Expertise in build systems, Python, deployment safety.
 - Primary global point of contact and evangelist for python's use as a development language within Amazon.
 - Designed the interpreter dependency model used by Python, Ruby, NodeJS, and Java developers at Amazon. This allowed a rapid response to newly-discovered vulnerability reports by all of Amazon.
 - Part of the cross-AWS incident call leader rotation. Notable recent incidents include the response to Log4Shell.
-- Curator of Amazon's first party codebase\[ref\]This one is sort of hard to explain without a tonne of Amazon-specific context. Suffice to say we have a very large codebase with a complex history, and ensuring that all of the code in use meets a high bar for security and availability is its own special job.\[/ref\].
+- Curator of Amazon's first party codebase[ref]This one is sort of hard to explain without a tonne of Amazon-specific context. Suffice to say we have a very large codebase with a complex history, and ensuring that all of the code in use meets a high bar for security and availability is its own special job.[/ref].
 - 3 issued patents for network configuration management.
   - US 9992064 B1 - Network Device Configuration Deployment Pipeline
   - US 9893940 B1 - Topologically Aware Network Device Configuration
@@ -70,14 +70,14 @@ Senior Software Engineer. Expertise in build systems, Python, deployment safety.
 **Advanis**
 
 - Automated deployment for web applications, marketing surveys, and telephony applications.
-- ActionScript/Flex/PHP web application development\[ref\]It was both better and worse than you'd think\![/ref\].
+- ActionScript/Flex/PHP web application development[ref]It was both better and worse than you'd think\![/ref].
 - System automation with Python/Fabric.
 
 #### 2005 - June 2009 - Intern and FTE Banking and Messaging Software
 
 **Core360**
 
-- Migration from CVS to SVN\[ref\]I know, right?! I was so young\...\[/ref\].
+- Migration from CVS to SVN[ref]I know, right?! I was so young\...[/ref].
 - Maintain and extend a nightly autobuild system.
 - Coded and maintained J2EE and legacy C services for B2B messaging systems.
 

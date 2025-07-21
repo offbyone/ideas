@@ -6,7 +6,7 @@ tags: family, memory lane
 slug: downtime
 status: draft
 
-As has been posted to \[char's weblog\](<http://www.livejournal.com/users/xraystar/>) in the near past, I'm back in GP for the week. It's kind of interesting - i've been going out of my way to be a bit more sociable than i usually am on these visits, and oddly enough, I'm liking it.
+As has been posted to [char's weblog](http://www.livejournal.com/users/xraystar/) in the near past, I'm back in GP for the week. It's kind of interesting - i've been going out of my way to be a bit more sociable than i usually am on these visits, and oddly enough, I'm liking it.
 
 Which is, given my antipathy to the place, fairly peculiar in and of itself.
 

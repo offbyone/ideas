@@ -15,6 +15,6 @@ I didn't find anything obvious that could do the job, but I *did* realize that b
 
 This is it: [offbyone/tailscale-s3-proxy](https://github.com/offbyone/tailscale-s3-proxy).
 
-It's not complicated, thanks to Go's tools to merge a custom network listener \-- thanks, tailscale! \-- and the adapter from `fs.FS` to `http.FileSystem`. I almost feel like I didn't really do the work, honestly, but I can't find any extant code that does this.
+It's not complicated, thanks to Go's tools to merge a custom network listener -- thanks, tailscale! -- and the adapter from `fs.FS` to `http.FileSystem`. I almost feel like I didn't really do the work, honestly, but I can't find any extant code that does this.
 
 Now, I'm hoping someone can read this and recommend to me a viable release process; I *can* build it myself, and just toss the binary around (and I will!) but I really would love to have this better-packaged. Suggestions? Keep in mind, I am a *total* go newb.

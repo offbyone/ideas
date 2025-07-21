@@ -12,7 +12,7 @@ Anyway, I am still hating this. I like the house and would rather stay, but the 
 
 Hope you all have a good weekend. As for me, on top of all of this, it's back to class on Monday.
 
-Oh, and some (possibly) good news, too! I had an interview with \[ACI Worldwide\](<http://www.aciworldwide.com/>)'s e-Courier development wing for an internship position, and they seemed to be fairly pleased with me. I should know by Friday whether I got it or not. W00t!
+Oh, and some (possibly) good news, too! I had an interview with [ACI Worldwide](http://www.aciworldwide.com/)'s e-Courier development wing for an internship position, and they seemed to be fairly pleased with me. I should know by Friday whether I got it or not. W00t!
 
 \### Update
 

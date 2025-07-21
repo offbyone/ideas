@@ -33,21 +33,21 @@ The plugin itself can also be downloaded here:
 | - Obligatory total rewrite.
 
 | - 2.0.0 Alpha 2
-| - \[AZSTOP-4\](<http://offby1.no-ip.org:8080/browse/AZSTOP-4>) - it helps if the download listener is actually initialized.
-| - \[AZSTOP-5\](<http://offby1.no-ip.org:8080/browse/AZSTOP-5>) - fixed some message strings not being valid
+| - [AZSTOP-4](http://offby1.no-ip.org:8080/browse/AZSTOP-4) - it helps if the download listener is actually initialized.
+| - [AZSTOP-5](http://offby1.no-ip.org:8080/browse/AZSTOP-5) - fixed some message strings not being valid
 
 | - 2.0.0 Alpha 3
-| - \[AZSTOP-6\](<http://offby1.no-ip.org:8080/browse/AZSTOP-6>) - Fixed issue with multiple selections breaking the menu.
+| - [AZSTOP-6](http://offby1.no-ip.org:8080/browse/AZSTOP-6) - Fixed issue with multiple selections breaking the menu.
 
 | - 2.0.0 Beta 1
-| - \[AZSTOP-8\](<http://offby1.no-ip.org:8080/browse/AZSTOP-8>) - Fixed failure to check if a torrent was stopped before trying to stop it.
+| - [AZSTOP-8](http://offby1.no-ip.org:8080/browse/AZSTOP-8) - Fixed failure to check if a torrent was stopped before trying to stop it.
 
 | - 2.0.0 Beta 2
-| - \[AZSTOP-13\](<http://offby1.no-ip.org:8080/browse/AZSTOP-13>), \[AZSTOP-14\](<http://offby1.no-ip.org:8080/browse/AZSTOP-14>) - fixed incorrect start values for seed stop actions
+| - [AZSTOP-13](http://offby1.no-ip.org:8080/browse/AZSTOP-13), [AZSTOP-14](http://offby1.no-ip.org:8080/browse/AZSTOP-14) - fixed incorrect start values for seed stop actions
 
 | - 2.0.2
 | - Oh, so much. Hopefully this works for you all.
 
 \### Issue Tracking
 
-If you find bugs, and I expect you will, or you want new features, I have an issue tracker for this plugin at \[<http://offby1.no-ip.org:8080/browse/AZSTOP>\](<http://offby1.doesntexist.com:8080/browse/AZSTOP>) (The URL is subject to change, so if you can't get to it at that address, check back here for new information)
+If you find bugs, and I expect you will, or you want new features, I have an issue tracker for this plugin at [<http://offby1.no-ip.org:8080/browse/AZSTOP>](<http://offby1.doesntexist.com:8080/browse/AZSTOP>) (The URL is subject to change, so if you can't get to it at that address, check back here for new information)

@@ -6,7 +6,7 @@ tags: asides, media
 slug: and-ashes
 status: draft
 
-\[Char\](<http://xraystar.livejournal.com>) and I are, more or less, settling in. We've still got a state of total chaos in the kitchen, but things are coming together. I predict a lot of money spend @ Ikea over the next month, organizing the limited space in our cooking area. All told, though, it'll work out nicely. Apparently, tomorrow is my day to clean out the cat poop, if the lady's chore list is to be believed. So, I'll get started on the right foot, I guess.
+[Char](<http://xraystar.livejournal.com>) and I are, more or less, settling in. We've still got a state of total chaos in the kitchen, but things are coming together. I predict a lot of money spend @ Ikea over the next month, organizing the limited space in our cooking area. All told, though, it'll work out nicely. Apparently, tomorrow is my day to clean out the cat poop, if the lady's chore list is to be believed. So, I'll get started on the right foot, I guess.
 
 Other things are\... not so good.
 

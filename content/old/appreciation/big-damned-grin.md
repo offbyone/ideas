@@ -8,7 +8,7 @@ status: draft
 
 Uhm\... I don't know how to put this without sounding like a total sap, but\...
 
-\[Char\](<http://xraystar.livejournal.com>) is probably the bestest, most wonderful person in the whole world, \_bar none\_.
+[Char](http://xraystar.livejournal.com) is probably the bestest, most wonderful person in the whole world, _bar none_.
 
 Just\...
 

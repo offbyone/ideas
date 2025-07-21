@@ -6,9 +6,9 @@ tags: accomodations, char, future, housing market, stress
 slug: big-steps
 status: draft
 
-So, Char and I are \-- by virtue of the conditions of our current residence \-- about to embark on a second\... _adventure_. We're buying a house. Together. Like real adults, with real responsibilities. This falls firmly into the scary end of the spectrum.
+So, Char and I are -- by virtue of the conditions of our current residence -- about to embark on a second\... _adventure_. We're buying a house. Together. Like real adults, with real responsibilities. This falls firmly into the scary end of the spectrum.
 
-I wrote the first part of this post with something firmly in mind, but for the life of me I can't recall what that was. It's worth noting, though, that blogging on an iPhone is not as effective as on a computer. It's slower, by far, for one, and it's a pain in the ass to do _italics_ or \**bold*\* text.
+I wrote the first part of this post with something firmly in mind, but for the life of me I can't recall what that was. It's worth noting, though, that blogging on an iPhone is not as effective as on a computer. It's slower, by far, for one, and it's a pain in the ass to do _italics_ or **bold** text.
 
 Anyway, house shopping.
 

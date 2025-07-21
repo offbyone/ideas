@@ -8,6 +8,6 @@ status: draft
 
 Following up on my previous musings:
 
-\[Toys R Us has tramp stamps\](<http://www.cockeyed.com/citizen/lowerback/lowerback.shtml>)
+[Toys R Us has tramp stamps](http://www.cockeyed.com/citizen/lowerback/lowerback.shtml)
 
-\[Where has all the pubic hair gone?\]([http://www.phillymag.com/articles/pretty_babies/page1](http://www.phillymag.com/articles/pretty_babies/page1))
+[Where has all the pubic hair gone?]([http://www.phillymag.com/articles/pretty_babies/page1](http://www.phillymag.com/articles/pretty_babies/page1))

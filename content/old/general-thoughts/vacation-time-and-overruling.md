@@ -8,7 +8,7 @@ status: draft
 
 Well, the vacation thing I mentioned is this:
 
-Two days ago, there was a general announcement that the coming long weekend would be three days off for the whole crew \-- lock, stock and barrel we were shutting down to get some required time off.
+Two days ago, there was a general announcement that the coming long weekend would be three days off for the whole crew -- lock, stock and barrel we were shutting down to get some required time off.
 
 Yesterday, Ron, the owner of the company, called up from California, called the job foreman a "lame fuck" and decreed that the shutdown not occur.
 

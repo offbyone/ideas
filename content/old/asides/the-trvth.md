@@ -10,4 +10,4 @@ status: draft
 | \> The second-rate mind is only happy when it is thinking with the minority.
 | \> The first-rate mind is only happy when it is thinking.
 
-\_A.A. Milne\_
+_A.A. Milne_

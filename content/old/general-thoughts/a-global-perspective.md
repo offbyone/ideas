@@ -6,7 +6,7 @@ tags: doodads, perspective, software, space
 slug: a-global-perspective
 status: draft
 
-Nothing political, just something that any mac users reading this might like: \[EarthDesk\](<http://www.xericdesign.com/earthdesk.php>).
+Nothing political, just something that any mac users reading this might like: [EarthDesk](http://www.xericdesign.com/earthdesk.php).
 
 Actually, on reading, it's a Windows app, too, so all of you can use it :)
 
@@ -14,4 +14,4 @@ I'm not usually a fan of the pointless graphical doodads, but this one is pretty
 
 Pretty slick.
 
-I don't know how long I'll be using my copy, but since I got it for free (and \[legally\](<http://www.macheist.com>), too!) it might last for a bit.
+I don't know how long I'll be using my copy, but since I got it for free (and [legally](http://www.macheist.com), too!) it might last for a bit.

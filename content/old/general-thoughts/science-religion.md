@@ -8,7 +8,7 @@ status: draft
 
 Argh.
 
-I'm writing this from my comparative literature class where we're discussing \_Calculating God\_ as this weeks book. Right now i'm in the process of trying to explain why science is not a religion. I'm getting a bit of resistance from the class. The argument to that effect is that science is equivalent to religion in the sense that both are nothing more than roughly equivalent worldviews that simply draw different conclusions in the pursuit of knowledge.
+I'm writing this from my comparative literature class where we're discussing _Calculating God_ as this weeks book. Right now i'm in the process of trying to explain why science is not a religion. I'm getting a bit of resistance from the class. The argument to that effect is that science is equivalent to religion in the sense that both are nothing more than roughly equivalent worldviews that simply draw different conclusions in the pursuit of knowledge.
 
 There appears to be a fundamental confusion about how scientists reject theories. The claim is that science is based wholly on beliefs much the same as religion. Rather, science is based on explanations, which are accepted or rejected based on their ability to explain something in the real world.
 

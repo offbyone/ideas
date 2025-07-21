@@ -8,7 +8,7 @@ status: draft
 
 A few weeks ago, I purchased a license for [OmniWeb 5.5](http://www.omnigroup.com/applications/omniweb/) during its beta phase. I became aware of it a couple of years ago, when it became the darling of the mac-using contingent of the Software Systems group at the U of A, mainly due to its polished user experience and stability.
 
-I have not been so enamoured of it, I have to regretfully confess, and I have \-- reluctantly, since I *paid* for it \-- returned to the arms of [Camino](http://www.caminobrowser.org/).
+I have not been so enamoured of it, I have to regretfully confess, and I have -- reluctantly, since I *paid* for it -- returned to the arms of [Camino](http://www.caminobrowser.org/).
 
 OmniWeb is pretty decent, with more than a few nice [features](http://www.omnigroup.com/applications/omniweb/gallery/) built in: It's tabbed browser model includes a thumbnail-sized preview of the page in the tab, so that you can see where you're going. It uses a modified version of the Apple WebKit, which means that it behaves in ways very similar to Safari, including using true Cocoa widgets for web page input. This is a selling point because much of OSX's user experience stems from the system-wide integration of applications and services, all of which depend on the builtin behaviour of the UI widgets.
 

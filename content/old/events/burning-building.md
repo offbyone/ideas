@@ -14,7 +14,7 @@ But I digress.
 
 So, one of the 19th-floor penthouse suites was aflame in a serious way. Fire licking at the roof, smoke sheeting out. I wish I had a camera. Or, for that matter, apartment insurance.
 
-I'm pretty pleased with the fire department \-- less than one hour from alarm to all clear.
+I'm pretty pleased with the fire department -- less than one hour from alarm to all clear.
 
 Nifty stuff, this whole "Fire" thing.
 

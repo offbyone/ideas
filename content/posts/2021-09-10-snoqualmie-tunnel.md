@@ -15,4 +15,4 @@ The tunnel is super easy to find, although Google's directions took me into some
 
 It's hard to overstate just how dark it is in there, when you're in the middle of it and the only light is a tiny patch of sunlight over a mile away. I turned off my helmet and bike lights and just sat there in the black for a minute, and my eyes kept firing off little flashes of visual noise just to fill in the gaps. It wasn't quiet \-- there's a constant sound of air moving, water dripping, and even the sound of I-90 a couple of miles away, but it was dark and deep, and I loved it. I kind of want to go back at night some time and see it in true darkness.
 
-At some point next summer, I'm going to need to either ride up there and back \-- if I get *really* fit \-- or have Helen drop me off at the top and I'll ride home \-- far more likely \-- down the rail trail. It's really beautiful.
+At some point next summer, I'm going to need to either ride up there and back -- if I get *really* fit -- or have Helen drop me off at the top and I'll ride home -- far more likely -- down the rail trail. It's really beautiful.

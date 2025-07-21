@@ -8,7 +8,7 @@ status: draft
 
 Well, this might be fun. A bit of link-hopping late last night has left me thinking\...
 
-What the sexes _really_ need is \[a little bit\](<http://niceguy.dearingfilm.com/index.php> "NiceGuy's Women Suck Page!") of \[misogyny\](<http://www.misanthropic-bitch.com/> "The Misanthropic Bitch") and \...
+What the sexes _really_ need is [a little bit](http://niceguy.dearingfilm.com/index.php> "NiceGuy's Women Suck Page!") of [misogyny](http://www.misanthropic-bitch.com/> "The Misanthropic Bitch") and \...
 
 Hm.
 
@@ -24,4 +24,4 @@ _It's funny_. **Laugh**.
 
 \### Update
 
-On reflection, \[this\](<http://www.despair.com/demotivators/dysfunction.html>) would seem to be a good comment, wouldn't it?
+On reflection, [this](http://www.despair.com/demotivators/dysfunction.html) would seem to be a good comment, wouldn't it?

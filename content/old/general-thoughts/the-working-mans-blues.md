@@ -6,7 +6,7 @@ tags: work
 slug: the-working-mans-blues
 status: draft
 
-Thanks again to the inexorable crunch of school and life expenses, i find myself once more employed. \[company name deleted because i'm paranoid ;)\], with the kind heart typically found in massive corporations, has kindly taken me back into its bosom in order that i might continue to feed myself :)
+Thanks again to the inexorable crunch of school and life expenses, i find myself once more employed. [company name deleted because i'm paranoid ;)], with the kind heart typically found in massive corporations, has kindly taken me back into its bosom in order that i might continue to feed myself :)
 
 Oooo, fun.
 

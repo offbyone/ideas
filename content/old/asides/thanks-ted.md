@@ -6,7 +6,7 @@ tags: atheism, dawkins, entertainment, media, meme, musings, politics, science, 
 slug: thanks-ted
 status: draft
 
-\[Aaron\](<http://www.spaz.ca>) mentioned \[TED\](<http://www.ted.com/>) to me some time ago as an interesting place to go for talks about the world; technology, science, economics, politics.
+[Aaron](http://www.spaz.ca) mentioned [TED](http://www.ted.com/) to me some time ago as an interesting place to go for talks about the world; technology, science, economics, politics.
 
 I finally got around to checking it out, and I have to admit, there's a lot there.
 

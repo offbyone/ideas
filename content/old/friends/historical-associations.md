@@ -18,7 +18,7 @@ There's a scattering of loose acquaintances throughout elementary and junior hig
 
 Eric\... How to explain Eric? This was the first friendship I ever flat-out ended. Eric could be a good guy, but mostly he was\... Well, I didn't like the person I was when he was around. It's hard to quantify. He did some bad things to someone that was a close family friend, and that more or less ended things right there. I'm curious where he's at, now. I haven't heard anything about him in years. I can only hope that, flawed as his father may have been, he takes after dad and not his mother.
 
-Dennis and DJ \-- Never really close. See Daniel, above, for the nature of this friendship. Still, they were good guys. I've bumped into both of them a couple of times since graduating, and I gather they're doing well. It's been probably five years since I saw either of them, but I still wonder.
+Dennis and DJ -- Never really close. See Daniel, above, for the nature of this friendship. Still, they were good guys. I've bumped into both of them a couple of times since graduating, and I gather they're doing well. It's been probably five years since I saw either of them, but I still wonder.
 
 Ryan was a pain in the ass. We lived together for a while, but he was \... well, he was like me, sans moral compass. Which is not to say I was perfect those days, either, but all the same, I had an idea that some of the things I was doing were wrong. When it came to respect for others' property, he's about as low as it goes.
 

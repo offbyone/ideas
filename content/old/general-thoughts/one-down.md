@@ -6,7 +6,7 @@ tags: school
 slug: one-down
 status: draft
 
-Well, much like \[mel\]([http://www.livejournal.com/users/fossil_human/1383.html](http://www.livejournal.com/users/fossil_human/1383.html)) posted, day one is done.
+Well, much like [mel]([http://www.livejournal.com/users/fossil_human/1383.html](http://www.livejournal.com/users/fossil_human/1383.html)) posted, day one is done.
 
 Day two, interestingly enough, doesn't start until 2 PM :)
 

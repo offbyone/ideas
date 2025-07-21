@@ -16,7 +16,7 @@ On the one hand, they've been excoriated for failing to act quickly enough to th
 
 On the other hand, in the years since then, as the intelligence community has been more paranoid about their data, and more forthcoming with warnings and notifications, they've been torn apart in the media for being fearmongers and accused of using alert levels as a political tool.
 
-So, if you're the government of the US of A, and you see information that \-- viewed as a series of connected events over a span of several years \-- strongly suggests upcoming attacks, and this happens to tie together during a political convention, what do you do?
+So, if you're the government of the US of A, and you see information that -- viewed as a series of connected events over a span of several years -- strongly suggests upcoming attacks, and this happens to tie together during a political convention, what do you do?
 
 [![Damned if you do](http://www.offlineblog.com/images/arial.gif)](http://www.thestate.com/mld/state/news/opinion/)
 

@@ -12,7 +12,7 @@ Some favourites:
 
 ![Ubiquitous Surveillance Warning](http://offby1.files.wordpress.com/2006/10/ubiquitioussurveillancewarning.jpg)
 
-This is the scary one \-- it should probably be posted in most banks, office buildings, *my* building, and Britain.
+This is the scary one -- it should probably be posted in most banks, office buildings, *my* building, and Britain.
 
 ![Nonstandard Spacetime Warning](http://offby1.files.wordpress.com/2006/10/nonstandardspacetimewarning.jpg)
 

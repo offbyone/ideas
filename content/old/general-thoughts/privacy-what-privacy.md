@@ -12,7 +12,7 @@ Fortuny, looking at [Craigslist](https://www.craigslist.org), observed this, and
 
 At [waxy.org](http://www.waxy.org/), there are at the very least two fairly serious potential _legal_ ramifications to Fortuny's actions ([Sex Baiting Prank on Craigslist](http://www.waxy.org/archive/2006/09/08/sex_bait.shtml)), having to do with the exposure of private information, and deliberate attempts to cause distress. These pale, however, beside the ethical and moral ramifications. Fortuny's stated aim with this was to "push buttons", and at this he's succeeded. He's also succeeded in causing at least one separation (no citation, sadly, except a peripheral mention in the Waxy article) and no small amount of distress to parties involved. Moreover, he's spawned a [copycat](http://rfjason.livejournal.com/413727.html?thread=7818015#t7818015) already.
 
-So, the question that's worth asking \-- and is well asked at the Wired blog that pointed me at this \-- is, for those who are thinking\... "well, they got what they deserved, trolling for sex on the internet", is this thought experiment:
+So, the question that's worth asking -- and is well asked at the Wired blog that pointed me at this -- is, for those who are thinking\... "well, they got what they deserved, trolling for sex on the internet", is this thought experiment:
 
 > What if it the Craig's List posting was about:
 >
@@ -37,7 +37,7 @@ So, the question that's worth asking \-- and is well asked at the Wired blog tha
 >
 > And what's your justification for choosing what kind of people are reprehensible enough to you that their private lives should be splayed on the internet for anyone, from family to friends to co-workers to acquaintances to their bosses, to see?
 
-*\`\--from Wired 27B Stroke 6 \<http://blog.wired.com/27BStroke6/index.blog?entry_id=1553813\>\`\__*
+*\`--from Wired 27B Stroke 6 \<http://blog.wired.com/27BStroke6/index.blog?entry_id=1553813\>\`\__*
 
 So, tempest in a teapot? Violation on a par with rape? Just short of? Sadistic action of a man-child? Sociopathic cruelty?
 

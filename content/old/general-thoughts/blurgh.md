@@ -14,7 +14,7 @@ I could be working on "cron-o-meter":http://cronometer.sourceforge.net/, and in 
 
 I could be working on learning Perl, but for some reason the language just bores me.
 
-I could be working on my "Azureus plugins":http://azureus.sourceforge.net/plugin_details.php?plugin=autocat, but \-- again \-- no motivation.
+I could be working on my "Azureus plugins":http://azureus.sourceforge.net/plugin_details.php?plugin=autocat, but -- again -- no motivation.
 
 I could be reading a book, but I don't have a powerful desire to do so at the moment.
 

@@ -33,7 +33,7 @@ This solution uses 5 tools:
 
 ## The server itself
 
-On the server front, there isn't a lot to say here; I don't anticipate a heavy amount of traffic on this, since it's only going to be used for personal instances of [Fediverse](https://fediverse.party/) applications\[ref\]Expect a second post shortly on how I set up [Bookwyrm](https://joinbookwyrm.com/) using this\[/ref\] and other tiny web services that I feel the need to share with others. So, I picked the `Standard_A1_v2` VM size from Azure\[ref\]It was the cheapest I could find there\[/ref\]. Interestingly, that constrained my choices of region quite a bit; a lot of regions had no capacity for it. So, my first step was to find out which regions *did* have it:
+On the server front, there isn't a lot to say here; I don't anticipate a heavy amount of traffic on this, since it's only going to be used for personal instances of [Fediverse](https://fediverse.party/) applications[ref]Expect a second post shortly on how I set up [Bookwyrm](https://joinbookwyrm.com/) using this[/ref] and other tiny web services that I feel the need to share with others. So, I picked the `Standard_A1_v2` VM size from Azure[ref]It was the cheapest I could find there[/ref]. Interestingly, that constrained my choices of region quite a bit; a lot of regions had no capacity for it. So, my first step was to find out which regions *did* have it:
 
 ``` shell-session
 $ az vm list-skus --size Standard_A1

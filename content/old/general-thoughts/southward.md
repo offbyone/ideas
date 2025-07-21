@@ -10,7 +10,7 @@ I've been keeping an eye on the southern neighbor these days; the election comin
 
 Okay, well, maybe if they paid me a _lot_.
 
-It's the last epithet that concerns me, though; I expect grasping, and opportunistic is synonymous with 'career politician'. The persistent failure of vision, however, is scary; they can't see past their clawing to the top to acknowledge the wounds they're inflicting on themselves in the process. And \[Bob\](<http://www.subgenius.com/>) forfend that we suggest that the process is flawed, that's frankly unamerican.
+It's the last epithet that concerns me, though; I expect grasping, and opportunistic is synonymous with 'career politician'. The persistent failure of vision, however, is scary; they can't see past their clawing to the top to acknowledge the wounds they're inflicting on themselves in the process. And [Bob](<http://www.subgenius.com/>) forfend that we suggest that the process is flawed, that's frankly unamerican.
 
 I know, I know, I devote too much thought to this for someone who doesn't even live within the borders, let alone have a right to vote there, but the US elections are merely a logical endpoint (not the _only_ logical endpoint, mind) of the particular form of representative democracy that is so widely believed to be the one, true way. I know I'm going a bit off-message for myself here, but I blame a combination of my usual bugbear (the unending manipulable and moronic voting public) and a new beast: Corporate finance.
 

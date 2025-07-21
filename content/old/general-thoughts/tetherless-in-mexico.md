@@ -8,7 +8,7 @@ status: draft
 
 Well, it so happens that if I sit out on our balcony in the resort, I actually piggyback the wireless connection (poorly-secured) of someone in the neighborhood. They're not very security-conscious (their router has the default password, a bad idea in general) but I'm grateful for it.
 
-It's hot here, but friendly. The crowd is almost 100% older than \[Char\](<http://xraystar.livejournal.com/>) and I \-- mostly yuppies and retirees \-- but I'm an old man at heart, so I fit right in :)
+It's hot here, but friendly. The crowd is almost 100% older than [Char](http://xraystar.livejournal.com/) and I -- mostly yuppies and retirees -- but I'm an old man at heart, so I fit right in :)
 
 I'm going to take it lazy. Reading is going to be the thing I do most of, I think. That, and sunburn.
 

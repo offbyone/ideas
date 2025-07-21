@@ -10,7 +10,7 @@ It's fitting that the quote on my homepage's title bar, as I started to post thi
 
 People who know me know well that I'm a geek, and as such I have many of the canonical traits that define 'geek'. I'm oriented towards strict, quantitative judgments and I prefer things that fit neatly into categories.
 
-I'd like to show you two lists, as seen on a site called \[Coding Horror\](<http://www.codinghorror.com/>):
+I'd like to show you two lists, as seen on a site called [Coding Horror](http://www.codinghorror.com/):
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Traditional**                                                                                                                                                                           **Alphanum**

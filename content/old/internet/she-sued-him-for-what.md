@@ -6,11 +6,11 @@ tags: drugs, law, news, responsibility
 slug: she-sued-him-for-what
 status: draft
 
-Well, by this time I'm sure that all of us have heard of, and been outraged by, the story of \[Sandra Bergen\](<http://news.bbc.co.uk/2/hi/americas/7180379.stm>), the Saskatchewan woman who sued her dealer when the methamphetamines that she overdosed on left her in a coma.
+Well, by this time I'm sure that all of us have heard of, and been outraged by, the story of [Sandra Bergen](http://news.bbc.co.uk/2/hi/americas/7180379.stm), the Saskatchewan woman who sued her dealer when the methamphetamines that she overdosed on left her in a coma.
 
-(She's got a website, by the way: \[Meth Today\](<http://www.methtoday.com/>). Very\... irritating web design, leaving aside any other cause for complaint.)
+(She's got a website, by the way: [Meth Today](http://www.methtoday.com/). Very\... irritating web design, leaving aside any other cause for complaint.)
 
-My initial reaction was a resigned disgust so intense that I couldn't even get disgusted by it. I saw the headline, blinked once, and went on with my day, secure in the fact that at least _I_ am not so pathetically stupid nor incapable of taking responsibility for my actions. Nor, in the main, has that sentiment changed; this sad individual \_made bad choices\_ that led her to pain. However, I've questioned this a bit today, enroute to that final conclusion, and I thought I'd share my thoughts, such as they are.
+My initial reaction was a resigned disgust so intense that I couldn't even get disgusted by it. I saw the headline, blinked once, and went on with my day, secure in the fact that at least _I_ am not so pathetically stupid nor incapable of taking responsibility for my actions. Nor, in the main, has that sentiment changed; this sad individual _made bad choices_ that led her to pain. However, I've questioned this a bit today, enroute to that final conclusion, and I thought I'd share my thoughts, such as they are.
 
 There's a lot of questions about addiction and its position as an illness; whether an addict is responsible for their actions, or if they should be treated as being sick and preyed upon. I fall on the former side of the fence, and have for most \-- if not all \-- of my adult life. Coming from the other side in this, however, is the argument that there are _already_ criminal responsibilities in this matter, and that this woman was guilty of those crimes, but that the _civil_ responsibility should be shared between her and her procurer.
 

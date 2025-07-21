@@ -30,4 +30,4 @@ L3 is where IP sits. For those not in the know, IP is the backbone of TCP/IP, wh
 
 And so on\...
 
-If your eyes are glazing over, don't feel bad \-- that's my whole complaint with the course! ;)
+If your eyes are glazing over, don't feel bad -- that's my whole complaint with the course! ;)

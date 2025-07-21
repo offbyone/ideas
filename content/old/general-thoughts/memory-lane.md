@@ -18,6 +18,6 @@ This one time, at swim club\...
 
 Heh. No, wrong tone\... too pop-culture.
 
-It's pretty simple, really. I wasn't friends, to speak of, with any of the Piranhas. I was shy, awkward, and had the most amazing crush on at least two of them, which only exacerbated any and all awkwardness I had (and I had a _lot_ of it). I was, then as now, stubborn, and ill-disposed to let insults pass, and during one heated argument in the shower with one Michael O'Connor, the bugger actually \**pissed*\* on me.
+It's pretty simple, really. I wasn't friends, to speak of, with any of the Piranhas. I was shy, awkward, and had the most amazing crush on at least two of them, which only exacerbated any and all awkwardness I had (and I had a _lot_ of it). I was, then as now, stubborn, and ill-disposed to let insults pass, and during one heated argument in the shower with one Michael O'Connor, the bugger actually **pissed** on me.
 
 That experience sums up my life up to college in a nutshell.

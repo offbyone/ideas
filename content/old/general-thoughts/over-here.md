@@ -6,4 +6,4 @@ tags: morruz, travel
 slug: over-here
 status: draft
 
-Check out \[Morruz\](<http://www.offlineblog.com/morruz>) for the next few weeks; I'll be posting there in preference to here, whilst traveling.
+Check out [Morruz](http://www.offlineblog.com/morruz) for the next few weeks; I'll be posting there in preference to here, whilst traveling.

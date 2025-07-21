@@ -16,6 +16,6 @@ Here's something that I will do my damnedest to teach my child: Just because you
 >
 > "If you put in all the effort you have and get a C, what is the point?" he added. "If someone goes to every class and reads every chapter in the book and does everything the teacher asks of them and more, then they should be getting an A like their effort deserves. If your maximum effort can only be average in a teacher's mind, then something is wrong."
 
-\[[cite](http://www.nytimes.com/2009/02/18/education/18college.html?_r=2)\] *emphasis mine*
+[[cite](http://www.nytimes.com/2009/02/18/education/18college.html?_r=2)] *emphasis mine*
 
 Mr. Greenwood, you are correct in one thing: Something *is* wrong. It's not what you think it is, but you got at least part of that right. I'd grade that thought a D.

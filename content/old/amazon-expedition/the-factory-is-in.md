@@ -10,4 +10,4 @@ C and I have landed in our new place. It's an older place in an older neighborho
 
 So, the layout is sweet, in my opinion. It's got a tiny kitchen, though, which is likely not to thrill \@DarwinsMom. For now, though, it's home. Darwin's room is just bloody adorable. I'd take pictures, but he's sleeping like, well, a baby. Another time, perhaps.
 
-Right now, Char and I are chilling out with some local beer (Red Hook IPA \-- Char considers it a pale shadow of a good Lagunitas) and Netflix.
+Right now, Char and I are chilling out with some local beer (Red Hook IPA -- Char considers it a pale shadow of a good Lagunitas) and Netflix.

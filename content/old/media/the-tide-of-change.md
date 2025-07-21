@@ -14,7 +14,7 @@ A few selected, somewhat spoilerish vignettes follow: Baxter describes the comet
 
 He skips over some of the evolution of mankind's evolution that i would have expected to dominate any such story; the tale is almost exclusively focused on consciousness and migration, instead of tool-building. Fire simply becomes part of the story, between one epoch and the next. Opposable thumbs as well, and starting to walk upright is barely touched upon. Instead, the story is focused on the pressures that changed populations, the forces that shaped the creatures into the dominant species and brought them low again.
 
-The ending \-- the last 150 pages or so \-- is tragic and yet still plausible. I wanted to cry when it ended, with the last primate to roam coming to the edge of a sea and giving up hope, returning to her symbiotic home and resting, never to wake, as the last of the primates on earth die around her.
+The ending -- the last 150 pages or so -- is tragic and yet still plausible. I wanted to cry when it ended, with the last primate to roam coming to the edge of a sea and giving up hope, returning to her symbiotic home and resting, never to wake, as the last of the primates on earth die around her.
 
 I wish I could properly explain what grabs me about this book. I know that the explanation for why there were no cats post-humanity really touched me, the way we have bred the traits that would allow them to be the hunters they once were right out of the species in favour of cuteness and soft fur. The learning of trade was another aspect, as was the death \-- alone and still uncomprehending \-- of the world's last Neanderthal (sp?).
 

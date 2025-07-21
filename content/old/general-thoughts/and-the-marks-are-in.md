@@ -14,7 +14,7 @@ Final grade back across the board:
 | * STAT 221: B
 | * PSYC 104: B+
 
-The last one is the most depressing of the lot - if i did a B+, why were there people struggling in that course? This is fscking _university_, for pete's sake. What place do \*multiple choice exams\* have at this level?
+The last one is the most depressing of the lot - if i did a B+, why were there people struggling in that course? This is fscking _university_, for pete's sake. What place do *multiple choice exams* have at this level?
 
 Damn.
 

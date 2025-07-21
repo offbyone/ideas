@@ -8,7 +8,7 @@ status: draft
 
 And it's not anyone specific, so don't start worrying and/or asking.
 
-Have any of you ever noticed that it's only rarely \-- if at all \-- that we have the same impact on the lives of those that affect us most?
+Have any of you ever noticed that it's only rarely -- if at all -- that we have the same impact on the lives of those that affect us most?
 
 It seems to me that the people that matter to us are frequently focused on other things. And i wonder why that is \-- is it a causal relationship, do they affect us _because_ they are focused elsewhere? Do we by default pursue those whose interests lie in spheres that only tangentially intersect our own? And why?
 

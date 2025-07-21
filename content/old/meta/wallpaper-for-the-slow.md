@@ -8,7 +8,7 @@ status: draft
 
 Sorry, Dad, I looked at the sizes and decided that it wasn't TOO bad to use this theme.
 
-For faster loading, if anyone feels that this loads too slow, pick a wallpaper that's tiled (from the row of squares on the top of the page, below the title) \-- as of this writing, there's just one, a grey stripes sort of dealie.
+For faster loading, if anyone feels that this loads too slow, pick a wallpaper that's tiled (from the row of squares on the top of the page, below the title) -- as of this writing, there's just one, a grey stripes sort of dealie.
 
 Those load faster, and it should persist between visits. If it doesn't, well, uhm\...
 

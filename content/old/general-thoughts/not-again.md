@@ -6,7 +6,7 @@ tags: sleep, work
 slug: not-again
 status: draft
 
-I'm sitting here in my basement writing this as all around me falls what looks to be another biblical downpour. I'm listening to both Metallica and the sound of rain falling outside \-- since I can hear the latter even over the former.
+I'm sitting here in my basement writing this as all around me falls what looks to be another biblical downpour. I'm listening to both Metallica and the sound of rain falling outside -- since I can hear the latter even over the former.
 
 I'm beginning to think that I won't be working tomorrow :)
 

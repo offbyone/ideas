@@ -12,6 +12,6 @@ Anyway, I'm bored. Char's outta town, for those that aren't paying attention, th
 
 Blah.
 
-If the weather gets good, at least I can go skydiving this weekend, having been unable to last week (sorry to disappoint, Dad \-- I was at the library getting books for the Phil250 paper that was due, well, today).
+If the weather gets good, at least I can go skydiving this weekend, having been unable to last week (sorry to disappoint, Dad -- I was at the library getting books for the Phil250 paper that was due, well, today).
 
 We'll see.

@@ -6,7 +6,7 @@ tags: school
 slug: irk
 status: draft
 
-I spent almost 8 hours yesterday fighting with what _should_ have been a ridiculously simple algorithm for \[heuristic search\]([http://en.wikipedia.org/wiki/A-star_search_algorithm](http://en.wikipedia.org/wiki/A-star_search_algorithm)) that steadfastly refused to come together. After damn near pitching the laptop through a wall in sheer frustration, I sat down, ripped out the whole of the algorithm and started over, changing some assumptions.
+I spent almost 8 hours yesterday fighting with what _should_ have been a ridiculously simple algorithm for [heuristic search]([http://en.wikipedia.org/wiki/A-star_search_algorithm](http://en.wikipedia.org/wiki/A-star_search_algorithm)) that steadfastly refused to come together. After damn near pitching the laptop through a wall in sheer frustration, I sat down, ripped out the whole of the algorithm and started over, changing some assumptions.
 
 Contrary to the name of the site, I was *not* off by one in any of my calculations \-- That's an error that is, thankfully, largely behind me. However, I had been approaching the problem with one assumption that didn't hold for the search, and it cost me. Now, though, all is well on the western front and I think I even feel better.
 

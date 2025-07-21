@@ -6,7 +6,7 @@ tags: batshitinsane, forums, lamer, nerds
 slug: oh-wow
 status: draft
 
-\[ICBM\](<http://www.collegehumor.com/video:1771556>).
+[ICBM](http://www.collegehumor.com/video:1771556).
 
 _Thank_ you, MetaFilter.
 

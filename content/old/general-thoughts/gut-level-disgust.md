@@ -6,7 +6,7 @@ tags: asshole, free speech, hypocrisy, idiocy, privacy, rants
 slug: gut-level-disgust
 status: draft
 
-From \[The Crimson\](<http://www.thecrimson.com> "The Harvard Crimson Online"), with selected quotes and commentary from \[this article\](<http://www.thecrimson.com/article.aspx?ref=274155> "Ruined Snow Penis Stimulates Debate"):
+From [The Crimson](http://www.thecrimson.com> "The Harvard Crimson Online"), with selected quotes and commentary from [this article](http://www.thecrimson.com/article.aspx?ref=274155> "Ruined Snow Penis Stimulates Debate"):
 
 About two weeks ago, some students at Harvard, members of the Harvard Crew team, led by Michael J. Skey, erected (pun intended, and not original) a 9-foot snow phallus. Hours later, the sculpture was torn down by Amy E. Keel, a self-proclaimed feminist.
 
@@ -29,10 +29,10 @@ Leading a statement with a self-identifying phrase like that, then following it 
 | \>1:30 a.m. the morning after it was built.
 | \>
 | \>"A few people came out and crowded me with their bodies and one person shoved me away from
-| \>the penis," she said. "It was gendered violence, because \[their comments\] were said in the context of
+| \>the penis," she said. "It was gendered violence, because [their comments] were said in the context of
 | \>our gender and accompanied by aggressive actions toward us."
 
-Another logical fallacy: Gendered violence? How about this situation: You have two extremely self-righteous \[insert any group here\] with only \[said group's visible identifying characteristics\] in common. These people are destroying the works of someone else's art. Given that self-righteousness provokes anger in most people, the more so when it's directed specifically _at_ the group being so provoked, is it any surprise that they may have responded impolitely, and focused on the \[group\]'s \[common trait\]ness?
+Another logical fallacy: Gendered violence? How about this situation: You have two extremely self-righteous [insert any group here] with only [said group's visible identifying characteristics] in common. These people are destroying the works of someone else's art. Given that self-righteousness provokes anger in most people, the more so when it's directed specifically _at_ the group being so provoked, is it any surprise that they may have responded impolitely, and focused on the [group]'s [common trait]ness?
 
 Here's a tip, Amy, though i doubt you'd read anything critical of your position. It's not gendered violence. Anyone of any gender with the attitude you have - the "I'm a victim, so i can tear down things that make me uncomfortable" position that you take - would have been attacked on the same basis. Your attitude is contemptible and demeans the positions of real feminists everywhere.
 
@@ -54,7 +54,7 @@ Last quote:
 
 Here's the one that _really_ stokes my anger. Especially on one of the leading _intellectual_ campuses in the US. Funny, i seem to remember something in the articles of governance of the US, something\... fundamental. Oh, yes! That's the thing! "Freedom of speech", isn't it? Funny how, in the heat of the moment, ms. Keel decided that her taking offense not only freed her from the burdens of respecting the handiwork of others, but also the obligation to permit views and images that she, herself, does not like to continue to be seen and heard.
 
-With attitudes like that, Ms. Keel is going to find herself a great government job in the \[republican/democrat\] team stifling citizen dissent. I suspect that she and John Ashcroft would get along famously. (Note: I don't actually give a damn here, but i'd be willing to bet Ms. Keel does, and probably hates that sanctimonious prick the same way i do, albeit for different reasons.)
+With attitudes like that, Ms. Keel is going to find herself a great government job in the [republican/democrat] team stifling citizen dissent. I suspect that she and John Ashcroft would get along famously. (Note: I don't actually give a damn here, but i'd be willing to bet Ms. Keel does, and probably hates that sanctimonious prick the same way i do, albeit for different reasons.)
 
 The similiarity is more than skin deep.
 

@@ -8,7 +8,7 @@ status: draft
 
 I had a basic-model weekend. I even slept in, yesterday, which doesn't really happen too often.
 
-"Aaron":http://www.spaz.ca/ and I plugged away at "CRON-O-METER":http://cronometer.sourceforge.net/ (Don't expect too much there \-- we haven't done a site yet) in a few geeky ways. We're getting close to the point where we can deliver something that actually works, which will be nice to have.
+"Aaron":http://www.spaz.ca/ and I plugged away at "CRON-O-METER":http://cronometer.sourceforge.net/ (Don't expect too much there -- we haven't done a site yet) in a few geeky ways. We're getting close to the point where we can deliver something that actually works, which will be nice to have.
 
 Die Nasty ends tonight, for the season at least, which is likely to result in shenanigans.
 

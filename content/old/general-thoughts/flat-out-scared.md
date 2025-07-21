@@ -6,7 +6,7 @@ tags: school
 slug: flat-out-scared
 status: draft
 
-I talked to the \[U of A Registrar\](<http://www.registrar.ualberta.ca/>) today about my application for admission \-- the one that has been accepted for pretty much every other student in my class. You know, the ones whose cumulative marks fall short of mine?
+I talked to the [U of A Registrar](http://www.registrar.ualberta.ca/) today about my application for admission -- the one that has been accepted for pretty much every other student in my class. You know, the ones whose cumulative marks fall short of mine?
 
 They seem to have "lost" the file.
 

@@ -12,7 +12,7 @@ See the above title, if you're really curious. Thanks to the wonders of the blin
 
 What could possibly be better? :)
 
-\--
+--
 
 If anyone is wondering, by the way, the reason the site was down last night and early today was _not_, as I had originally suspected, the fault of the server, but rather it was my fault for messing with the URL rewrite rules and generally causing a really nasty mess of both my site and :matt:'s.
 

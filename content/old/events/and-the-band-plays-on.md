@@ -6,7 +6,7 @@ tags: future, meta, pregnancy
 slug: and-the-band-plays-on
 status: draft
 
-Well, it looks like I've got more reason to write than ever before. And I thought that \_going back to school\_ was going to be a big deal and worth writing about. If only I'd known\...
+Well, it looks like I've got more reason to write than ever before. And I thought that _going back to school_ was going to be a big deal and worth writing about. If only I'd known\...
 
 So, for the one of you still reading this that doesn't already know \--and I suspect that my readership has fallen to zero at this point \-- I'm going to be having a baby. Char and I will become parents on or around May 23 next year (if Ali has her way, it'll be May 22, but I don't know that we'll be _that_ obedient).
 

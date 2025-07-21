@@ -16,6 +16,6 @@ Well, there's not a lot to bring up, really. My company just held its annual kic
 
 Other than that, I was almost tapped for some business travel, but the trouble I would have been shooting up and expired on its own. I hope that I'll see some travel over the course of the internship, and Steve has suggested that he'll put me on the shortlist for travel.
 
-I finally put a dent in the \[CRONOMETER\](<http://cronometer.sourceforge.net/>) work that I was dawdling on.
+I finally put a dent in the [CRONOMETER](http://cronometer.sourceforge.net/) work that I was dawdling on.
 
-In other news: Not news, really, but a link to another friend of mine is going in the sidebar. Warning. He's geekier than the rest put togeth\... okay, no. He fits right in: \[M. Edwards\](<http://www.walledcity.ca/~medwards/blog>)
+In other news: Not news, really, but a link to another friend of mine is going in the sidebar. Warning. He's geekier than the rest put togeth\... okay, no. He fits right in: [M. Edwards](http://www.walledcity.ca/~medwards/blog)

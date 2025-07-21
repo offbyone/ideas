@@ -14,7 +14,7 @@ Char and I have been doing well, thanks for asking.
 
 I've seen some pretty funny theatre in the last 24 hours, and a well-written play not too long before. The former is, of course, [Die Nasty](http://www.die-nasty.com/), and the latter is a [Stuart Lemoine](http://www.varsconatheatre.com/teatro/home.html) piece called [The Velvet Shock](http://www.vueweekly.com/articles/default.aspx?i=3340). The play was enjoyable. A bit dark in humour, which I like, and with a hint of a happy, romantic ending. And a talented cast, bolstered in no small part by a skilled (and attractive!) supporting actress in the role of the niece.
 
-I've come to a conclusion that, practically speaking, there is one thing that irks me more than anything else when dealing with friends. I don't mind if plans change, and someone can't do something with me that was planned. That's cool. But in this age of mobile and ubiquitous communication, for christ's sake, *call* me. Just dial a damned number and say "Sorry, Chris, I can't make it to \[thing\]." Is it that bloody hard?
+I've come to a conclusion that, practically speaking, there is one thing that irks me more than anything else when dealing with friends. I don't mind if plans change, and someone can't do something with me that was planned. That's cool. But in this age of mobile and ubiquitous communication, for christ's sake, *call* me. Just dial a damned number and say "Sorry, Chris, I can't make it to [thing]." Is it that bloody hard?
 
 Grrr\...
 

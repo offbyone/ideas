@@ -10,7 +10,7 @@ Current events have, as i'm sure all of you know, gotten very interesting on the
 
 The problem is, i don't feel like talking about them. At least, not the way i usually do. Why? Because i'm missing my universal foil. Somehow, it's just not the same to yak about these things with even the more interesting and well-spoken/thought people in my life (To whomever is reading this: If you have ever talked with me about this, you're on the list).
 
-So, i did something that i do pretty rarely the other day.. It may not have been all that much, but i attempted an apology/reconciliation with Jamie. At least, i tried one insofar as i feel i owe an apology, which only goes so far. (What's this about? \[This\](/backlog/2002/12/01/dot-dot-dot/)
+So, i did something that i do pretty rarely the other day.. It may not have been all that much, but i attempted an apology/reconciliation with Jamie. At least, i tried one insofar as i feel i owe an apology, which only goes so far. (What's this about? [This](/backlog/2002/12/01/dot-dot-dot/)
 
 Anyway, i sent off an e-mail that consisted, essentially, of "Well, i think you were a prick, but i was an asshole too, so here i am, apologizing for the ways in which i was an asshole"
 

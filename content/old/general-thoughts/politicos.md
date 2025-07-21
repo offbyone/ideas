@@ -6,7 +6,7 @@ tags: school
 slug: politicos
 status: draft
 
-For those of you who don't know what it is, CMPT-272 is a course formally entitled \_Formal Systems and Logic for Computer Science\_. Basically, at the earlier stages, it consists of simple \`p implies q\` sorts of statements that basically make it, well, dull.
+For those of you who don't know what it is, CMPT-272 is a course formally entitled _Formal Systems and Logic for Computer Science_. Basically, at the earlier stages, it consists of simple \`p implies q\` sorts of statements that basically make it, well, dull.
 
 Or it would be, if it weren't for one of the more entertaining profs i've ever had for this sort of course.
 

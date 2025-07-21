@@ -8,7 +8,7 @@ status: draft
 
 Well, well.
 
-Persuant to my \[post about the Canadian DMCA\](/backlog/2007/12/08/rights-you-dont-want-those/) it appears that the \[legislation has been pulled\](<http://www.michaelgeist.ca/content/view/2459/1/>) and will not be enacted in its current form.
+Persuant to my [post about the Canadian DMCA](/backlog/2007/12/08/rights-you-dont-want-those/) it appears that the [legislation has been pulled](http://www.michaelgeist.ca/content/view/2459/1/) and will not be enacted in its current form.
 
 It's hard to say why without the power of telepathy, but I would imagine that the widespread public outcry over the effects of the law can't have hurt.
 

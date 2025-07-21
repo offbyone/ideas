@@ -16,4 +16,4 @@ I don't know for sure why this disparity exists. Perhaps it's because artists, i
 
 Perhaps it's because capturing the sight of a sunrise would be so hard. It's a very dynamic, energetic kind of view. Like a sunset, there's a feeling of stillness, but it's a one that's poised for action. Predatory, even\... The day is crouched just over the horizon, in the way that a hunting cat freezes just before taking its prey.
 
-The colours are harder to express, too \-- they're the same colours you see all day, but with a rim of brightness around them that can't really be compared to anything you see during the day. A halo of silver or yellow that brings them into sharp relief.
+The colours are harder to express, too -- they're the same colours you see all day, but with a rim of brightness around them that can't really be compared to anything you see during the day. A halo of silver or yellow that brings them into sharp relief.

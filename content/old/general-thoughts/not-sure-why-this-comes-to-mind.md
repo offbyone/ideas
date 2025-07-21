@@ -10,7 +10,7 @@ In a posting on slashdot about "tired.com":http://www.tired.com (via [Slate](htt
 
 It's funny that \-- despite the advances in labour-saving technologies \--the amount of time and effort we put into maintaining ourselves in a lifestyle of any kind has increased steadily. There was a time, and it's not too terribly long ago, that \-- for example \-- six children could be raised with only one full time income (although I'd be willing to bet that Grandma was doing some kind of work on the side. Care to elaborate, Dad?).
 
-Now, in order to \_own a house\_, it's not required that both parties work, but it's pretty close. And if you want to have kids, unless you happen to be in the lucky upper 10% of the income demographics, good luck affording it.
+Now, in order to _own a house_, it's not required that both parties work, but it's pretty close. And if you want to have kids, unless you happen to be in the lucky upper 10% of the income demographics, good luck affording it.
 
 What happened to the future wherein we would all be free to pursue intellectual improvements? The future of leisure, as our advancements (as a species, through our technology) liberated us from menial labour?
 
@@ -20,7 +20,7 @@ The thing about a life free from labour is that the part of me that believes str
 
 That's just one hiccup.
 
-The cynic in me suspects that the failure of our labour-reduction dreams stems more from wanting more than it does from anything else. Some exceptions may apply, most notably in housework; does anything \--anything \_at all\_ \-- in your housework arsenal _really_ reduce the amount of time you spend cleaning? Still, in the rest of life, we want more and more. We've been raised to go for the best we can get, even if we don't necessarily deserve it. Witness, for example, the ridiculous salaries paid to cleaning staff in hospitals.
+The cynic in me suspects that the failure of our labour-reduction dreams stems more from wanting more than it does from anything else. Some exceptions may apply, most notably in housework; does anything \--anything _at all_ \-- in your housework arsenal _really_ reduce the amount of time you spend cleaning? Still, in the rest of life, we want more and more. We've been raised to go for the best we can get, even if we don't necessarily deserve it. Witness, for example, the ridiculous salaries paid to cleaning staff in hospitals.
 
 The aforementioned cynic has another idea, too, one that's even less popular. There are people who are by nature or inclination flat-out incapable of intellectual pursuits. For one reason or another, be it blatant stupidity, simple ignorance, or plain old apathy, they are unable or unwilling to turn their minds to anything more challenging than remembering what time and channel Canadian Idol is on. These people are ill-suited to anything beyond tossing garbage or toting heavy chunks of pipe around. So what would we do with them, in this hypothetical society of plenty? Would they simply sit and soak up the largesse that surrounds them, supported by the strength of other intellects?
 

@@ -26,19 +26,19 @@ You'll have to check out the whole set, but here's a sample answer:
 
 Find the rest:
 
-| \[Round One\](<http://www.aintitcool.com/node/30861>)
-| \[Round Two\](<http://www.aintitcool.com/node/30865>)
-| \[Round Three\](<http://www.aintitcool.com/node/30869>)
-| \[Round Four\](<http://www.aintitcool.com/node/30877>)
-| \[Round Five\](<http://www.aintitcool.com/node/30899>)
-| \[Round Six\](<http://www.aintitcool.com/node/30904>)
-| \[Round Seven\](<http://www.aintitcool.com/node/30919>)
-| \[Round Eight\](<http://www.aintitcool.com/node/30927>)
-| \[Rounds Nine and Ten\](<http://www.aintitcool.com/node/30932>)
-| \[Round Eleven\](<http://www.aintitcool.com/node/30943>)
-| \[Round Twelve\](<http://www.aintitcool.com/node/30952>)
-| \[Round Thirteen\](<http://www.aintitcool.com/node/30965>)
+| [Round One](http://www.aintitcool.com/node/30861)
+| [Round Two](http://www.aintitcool.com/node/30865)
+| [Round Three](http://www.aintitcool.com/node/30869)
+| [Round Four](http://www.aintitcool.com/node/30877)
+| [Round Five](http://www.aintitcool.com/node/30899)
+| [Round Six](http://www.aintitcool.com/node/30904)
+| [Round Seven](http://www.aintitcool.com/node/30919)
+| [Round Eight](http://www.aintitcool.com/node/30927)
+| [Rounds Nine and Ten](http://www.aintitcool.com/node/30932)
+| [Round Eleven](http://www.aintitcool.com/node/30943)
+| [Round Twelve](http://www.aintitcool.com/node/30952)
+| [Round Thirteen](http://www.aintitcool.com/node/30965)
 
 Can't say that you'll read them all, but there are some gems in there.
 
-(\_PS - apologies for the silly quote layout; I'll be fixing that sometime soon\_)
+(_PS - apologies for the silly quote layout; I'll be fixing that sometime soon_)

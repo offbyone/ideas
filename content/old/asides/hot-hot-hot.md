@@ -10,7 +10,7 @@ But, of course, you know that.
 
 What you don't know is that\... um\...
 
-Let's see. In the spirit of the \[Facebook\](<http://www.facebook.com/>) thingy, how about a few things you don't know about me?
+Let's see. In the spirit of the [Facebook](http://www.facebook.com/) thingy, how about a few things you don't know about me?
 
 | 1. I have a soft spot for sappy romantic movies (_not_ comedies).
 | 2. For all that I'm a private person, I love it when people randomly visit.

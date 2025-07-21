@@ -14,7 +14,7 @@ I believe in the rights of the individual.
 
 But I am starting to wonder about the domains in which those rights are exercised. Is it supportive of individual rights to permit corporate entities the same rights as actual people?
 
-This comes about from reading a book on privacy issues \-- \_Database Nation\_ \-- which enumerates a lot of abuses of the increasingly-connected and documented world we have created for ourselves. Now, I know I'm not the first person to read a book like that and say "Oh noes! How can I hide my \[porn\](<http://www.literotica.com/stories/>) habit now?!" but I do see some truth in his statements about how the right to privacy might be protected.
+This comes about from reading a book on privacy issues \-- _Database Nation_ \-- which enumerates a lot of abuses of the increasingly-connected and documented world we have created for ourselves. Now, I know I'm not the first person to read a book like that and say "Oh noes! How can I hide my [porn](<http://www.literotica.com/stories/>) habit now?!" but I do see some truth in his statements about how the right to privacy might be protected.
 
 The problem is, I don't necessarily accept that there _is_ a right to privacy, per se.
 
@@ -22,4 +22,4 @@ Anyway, assuming that there is, I'm not sure who is less qualified to protect it
 
 It's ucky.
 
-Anyway, \[Char\](<http://xraystar.livejournal.com/>) complained about a lack of posting, so I figured I'd polish off this draft. So there.
+Anyway, [Char](http://xraystar.livejournal.com/) complained about a lack of posting, so I figured I'd polish off this draft. So there.

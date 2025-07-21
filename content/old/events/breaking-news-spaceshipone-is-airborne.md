@@ -12,10 +12,10 @@ May this bring in an era of private and public flight to the stars for the avera
 
 To me, at least, this is probably one of the best news events of the last year or more. One small step for [Man](http://www.space.com/missionlaunches/SS1_pilot_040620.html)\...
 
-(See \[MeFi\](<http://www.metafilter.com/mefi/33838>) for more)
+(See [MeFi](http://www.metafilter.com/mefi/33838) for more)
 
 # Update
 
-As of this writing, the SpaceShipOne \[has landed\](<http://www.msnbc.msn.com/id/5261571/>) safely. Next stop, re-use and re-launch.
+As of this writing, the SpaceShipOne [has landed](http://www.msnbc.msn.com/id/5261571/) safely. Next stop, re-use and re-launch.
 
 It's a big one, folks. This is a big, big event.

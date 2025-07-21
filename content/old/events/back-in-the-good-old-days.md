@@ -6,7 +6,7 @@ tags: events, media, rants
 slug: back-in-the-good-old-days
 status: draft
 
-This isn't really in reference to anything specific, but as a side-effect of following this "Rathergate" thing (on \[instapundit\](<http://instapundit.com/archives/017876.php>), among others) I came across \[this comparison\](<http://hughhewitt.com/index.htm#postid911>) to Johnson & Johnson's handling of a poisoned Tylenol scare.
+This isn't really in reference to anything specific, but as a side-effect of following this "Rathergate" thing (on [instapundit](<http://instapundit.com/archives/017876.php>), among others) I came across [this comparison](<http://hughhewitt.com/index.htm#postid911>) to Johnson & Johnson's handling of a poisoned Tylenol scare.
 
 Now, read that article, and then tell me: Can you imagine _any_ company doing that now?
 

@@ -6,4 +6,4 @@ tags: cats, char
 slug: also-4
 status: draft
 
-In a much sillier vein: \[Fat cat in a short coat\](<http://hookersnjunkies.net/2008/01/08/in-the-spirit-of-the-last-post>)
+In a much sillier vein: [Fat cat in a short coat](http://hookersnjunkies.net/2008/01/08/in-the-spirit-of-the-last-post)

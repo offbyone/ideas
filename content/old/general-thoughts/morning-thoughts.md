@@ -10,11 +10,11 @@ status: draft
 
 I've had a geeky week, so far, consisting of (wait for it\...) re-organizing my \$HOME dir on the school, work, and home systems to, well\...
 
-It's geeky and it involves \[subversion\](<http://subversion.tigris.org>), one of the most useful tools in _any_ programmer's arsenal.
+It's geeky and it involves [subversion](http://subversion.tigris.org), one of the most useful tools in _any_ programmer's arsenal.
 
 School has started back up, for those who are doing it, and I've made arrangements to take a course come January, and come May. This will have the benefit of allowing me to pursue part time work with the company I'm interning at, and maybe not be living from paycheque to paycheque (or at least not so obviously) while I finish the degree.
 
-I keep reading the stuff \[Simon\](<http://vernondalhart.livejournal.com>) posts and thinking\... I should start talking about that on here. The problem is that, like what he writes, my interests are a bit difficult to communicate. Would it mean anything to anyone to hear that I tracked down a bug in some data to XML serializing code that was causing the character set on e-mail messages to be misrepresented?
+I keep reading the stuff [Simon](<http://vernondalhart.livejournal.com>) posts and thinking\... I should start talking about that on here. The problem is that, like what he writes, my interests are a bit difficult to communicate. Would it mean anything to anyone to hear that I tracked down a bug in some data to XML serializing code that was causing the character set on e-mail messages to be misrepresented?
 
 I thought not. But it was nifty.
 

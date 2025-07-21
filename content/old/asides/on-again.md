@@ -8,7 +8,7 @@ status: draft
 
 Finally, a working primary PC.
 
-I've missed having this all going, and as such I plan to enjoy my newly-functional technological marvel. However, this weekend, at least, I have more old-fashioned plans on my docket. Specifically, I intend to read a bunch whilst curled up on the couch with my \[Charling\](<http://www.livejournal.com/users/xraystar>), who is returned from her travels.
+I've missed having this all going, and as such I plan to enjoy my newly-functional technological marvel. However, this weekend, at least, I have more old-fashioned plans on my docket. Specifically, I intend to read a bunch whilst curled up on the couch with my [Charling](<http://www.livejournal.com/users/xraystar>), who is returned from her travels.
 
 I bought her a copy of the newest \$HYPED_BOOK this morning, which she's going to read before I dive into it.
 

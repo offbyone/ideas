@@ -12,7 +12,7 @@ A quick sum-up:
 
 | Work: Active, rewarding, and busy.
 | Friends: Hanging out with a bit more, which is good.
-| School: Really iffy on Philosophy 250 \-- this is some wonky stuff, if you ask me.
+| School: Really iffy on Philosophy 250 -- this is some wonky stuff, if you ask me.
 
 The world: Fucked, man. Hypocrisy in Congress down south, media shutdown up here\...
 

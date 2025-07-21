@@ -40,9 +40,9 @@ MD5: 0bcff6c2b2864843c7d3773645e4a428
 | - The rules are now stored as properties, making it (slightly) easier to
 | modify them by hand without the UI.
 | - Autocat no longer overwrites user-selected categories if that is the desired
-| behaviour (\[ACAT-5\](<http://offby1.no-ip.org:8080/browse/ACAT-5>))
+| behaviour ([ACAT-5](http://offby1.no-ip.org:8080/browse/ACAT-5))
 
 \## Issue Tracking
 
 | If you have a bug or feature request, feel free to submit an issue report at my issue tracker:
-| \[<http://offby1.no-ip.org:8080/browse/ACAT>\](<http://offby1.no-ip.org:8080/browse/ACAT>) (URL subject to change, always use this page to access it)
+| [http://offby1.no-ip.org:8080/browse/ACAT](http://offby1.no-ip.org:8080/browse/ACAT) (URL subject to change, always use this page to access it)

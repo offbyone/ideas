@@ -20,21 +20,21 @@ It's been an exciting few days for those of us that felt that our Liberal overlo
 
 For those of you that don't follow this sort of thing with the degree of interest that I do, here's a few especially pertinent links:
 
-| - \[Brault alleged donations to Liberals linked to sponsorship work\](<http://www.cbc.ca/story/canada/national/2005/04/07/domery-ban050407.html>)
-| - \[Ban partly lifted, sponsorship details revealed\]([http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1112800598471_30/?hub=TopStories](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1112800598471_30/?hub=TopStories))
-| - \[Jean Brault's Testimony\]([http://www.cbc.ca/news/background/groupaction/brault_testimony.html](http://www.cbc.ca/news/background/groupaction/brault_testimony.html))
-| - \[Federal Sponsorship Scandal\](<http://www.cbc.ca/news/background/groupaction/>)
+| - [Brault alleged donations to Liberals linked to sponsorship work](http://www.cbc.ca/story/canada/national/2005/04/07/domery-ban050407.html)
+| - [Ban partly lifted, sponsorship details revealed]([http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1112800598471_30/?hub=TopStories](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1112800598471_30/?hub=TopStories))
+| - [Jean Brault's Testimony]([http://www.cbc.ca/news/background/groupaction/brault_testimony.html](http://www.cbc.ca/news/background/groupaction/brault_testimony.html))
+| - [Federal Sponsorship Scandal](http://www.cbc.ca/news/background/groupaction/)
 
-Note that most of the above links are to the \[CBC(Canadian Broadcasting Corporation)\](<http://www.cbc.ca/>) with whom I am frequently displeased. They are doing a phenonmenal job \-- at least online, since I don't watch the TV news \-- of covering this, so kudos to them.
+Note that most of the above links are to the [CBC(Canadian Broadcasting Corporation)](http://www.cbc.ca/) with whom I am frequently displeased. They are doing a phenonmenal job -- at least online, since I don't watch the TV news -- of covering this, so kudos to them.
 
 Other links in the roundup:
 
-| - \[Conservatives rally the troops\](<http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050409/GOMERYPOLIT09/National/Idx>)
-| - \[English Canadians dial in their anger over allegations\](<http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050409/GOMERYTRANS09/National/Idx>) (I'd like to see the reaction of french canadians, too, since this did happen in Quebec)
-| - \[Cash Opened Doors\](<http://www.canoe.ca/NewsStand/EdmontonSun/News/2005/04/09/989281-sun.html>)
-| - \[Ban on volatile testimony largely lifted\](<http://www.theglobeandmail.com/servlet/story/RTGAM.20050406.wbanlift0407/BNStory/National%22>)
-| - \[A Blog Written From Minneapolis Rattles Canada's Liberal Party\](<http://www.nytimes.com/2005/04/07/international/americas/07canada.html?ei=5090&en=fe1785ef395f82d0&ex=1270526400&adxnnl=1&partner=rssuserland&adxnnlx=1113059016-klWwEeghR+EbOZEUk1iKNw>) (registration required)
-| - \[Poll finds public support for Liberals slipping\]([http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1113002041945_16/?hub=TopStories](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1113002041945_16/?hub=TopStories))
-| - \[Ex-PM's staff took payoffs\](<http://www.canoe.ca/NewsStand/OttawaSun/News/2005/04/09/989217-sun.html>)
+| - [Conservatives rally the troops](http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050409/GOMERYPOLIT09/National/Idx)
+| - [English Canadians dial in their anger over allegations](http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050409/GOMERYTRANS09/National/Idx) (I'd like to see the reaction of french canadians, too, since this did happen in Quebec)
+| - [Cash Opened Doors](http://www.canoe.ca/NewsStand/EdmontonSun/News/2005/04/09/989281-sun.html)
+| - [Ban on volatile testimony largely lifted](http://www.theglobeandmail.com/servlet/story/RTGAM.20050406.wbanlift0407/BNStory/National%22)
+| - [A Blog Written From Minneapolis Rattles Canada's Liberal Party](http://www.nytimes.com/2005/04/07/international/americas/07canada.html?ei=5090&en=fe1785ef395f82d0&ex=1270526400&adxnnl=1&partner=rssuserland&adxnnlx=1113059016-klWwEeghR+EbOZEUk1iKNw) (registration required)
+| - [Poll finds public support for Liberals slipping]([http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1113002041945_16/?hub=TopStories](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1113002041945_16/?hub=TopStories))
+| - [Ex-PM's staff took payoffs](http://www.canoe.ca/NewsStand/OttawaSun/News/2005/04/09/989217-sun.html)
 
 Take some time. This is our elected government here.

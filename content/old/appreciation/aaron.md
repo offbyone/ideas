@@ -20,6 +20,6 @@ A sense of humour. Really, I'd try to describe it, but I'd have to have a better
 
 Aaron is one of the class of friends that I have that I wish I saw more of. Due to a combination of my own limited social energy and time, not to mention his numerous interests and work, I see him far too rarely for the enjoyment I get out of the visits. This isn't limited just to him, there's a fair number of friends that I find this happens with, and I think I'm lessened by it. I hope to remedy this, but then I've hoped to remedy it for years in many instances. I don't have a lot of hope of success.
 
-I guess one last thing \-- I owe Aaron a huge debt of gratitude (and dinner! Let us not forget dinner!) for helping me out when the basement flooded. Since I was phoning in order of proximity, he came up relatively early, and took time out of his own plans to help out.
+I guess one last thing -- I owe Aaron a huge debt of gratitude (and dinner! Let us not forget dinner!) for helping me out when the basement flooded. Since I was phoning in order of proximity, he came up relatively early, and took time out of his own plans to help out.
 
 What more can a guy ask for in a friend?

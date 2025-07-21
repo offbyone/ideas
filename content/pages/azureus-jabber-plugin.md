@@ -31,7 +31,7 @@ status: published
 
 \#### Security Notice
 
-| The password is stored in plain text in the configuration, regrettably \-- I need
+| The password is stored in plain text in the configuration, regrettably -- I need
 | to pass it through to the chat service, and I don't know any safer way to do that.
 | At some point I'll allow the option of storing it in some simple hashed way, or
 | to enter it on startup.
@@ -44,8 +44,8 @@ Not all notifications are implemented.
 
 \### Contact
 
-| The plugin has a page at \[<http://www.offlineblog.com/projects/azureus-jabber-plugin>\](<http://www.offlineblog.com/projects/azureus-jabber-plugin>)
-| for comment. Bug reports can be entered here: \[OffByOne JIRA\](<http://offby1.no-ip.org:8080/browse/AZIM>)
+| The plugin has a page at [http://www.offlineblog.com/projects/azureus-jabber-plugin](http://www.offlineblog.com/projects/azureus-jabber-plugin)
+| for comment. Bug reports can be entered here: [OffByOne JIRA](http://offby1.no-ip.org:8080/browse/AZIM)
 
 \### Version History
 
@@ -62,10 +62,10 @@ Not all notifications are implemented.
 | - 1.0.4
 | - Added reconnection logic
 
-| If you have not received this file either from \[<http://azureus.sourceforge.net/>\](<http://azureus.sourceforge.net/>)
-| or \[<http://offlineblog.com/>\](<http://offlineblog.com/>) I would suggest that you do so, since anyone could
+| If you have not received this file either from [http://azureus.sourceforge.net/](http://azureus.sourceforge.net/)
+| or [http://offlineblog.com/](http://offlineblog.com/) I would suggest that you do so, since anyone could
 | have done anything with it. There will always be a current version at
-| \[<http://www.offlineblog.com/?dl=azjabber-current.zip>\](<http://www.offlineblog.com/?dl=azjabber-current.zip>)
+| [http://www.offlineblog.com/?dl=azjabber-current.zip](http://www.offlineblog.com/?dl=azjabber-current.zip)
 
 Enjoy!
 

@@ -8,7 +8,7 @@ status: draft
 
 Wow. That was a pain.
 
-About a week and a half ago, we were given what seemed to be a relatively straightforward assignment in CMPT229. Nothing fancy, just implement a \[doubly linked list\](<http://www.instantweb.com/D/dictionary/foldoc.cgi?doubly+linked+list>) in assembler.
+About a week and a half ago, we were given what seemed to be a relatively straightforward assignment in CMPT229. Nothing fancy, just implement a [doubly linked list](http://www.instantweb.com/D/dictionary/foldoc.cgi?doubly+linked+list) in assembler.
 
 This would be easier, but then there's the whole _assembler_ part of that statement.
 

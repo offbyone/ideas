@@ -10,7 +10,7 @@ status: draft
 
 A very interesting article over at "This Magazine":http://www.thismagazine.ca which does an excellent job of summing up and slapping down the anticonsumerist movement that is so prevalent today.
 
-I suppose I should \[link it\](<http://www.thismagazine.ca/issues/2002/11/rebelsell.php>). And, realistically, also the inevitable accompanying \[Metafilter discussion\](<http://www.metafilter.com/mefi/37751>).
+I suppose I should [link it](http://www.thismagazine.ca/issues/2002/11/rebelsell.php). And, realistically, also the inevitable accompanying [Metafilter discussion](http://www.metafilter.com/mefi/37751).
 
 I haven't really hit the MeFi talk on it yet because I wanted to write down my own opinions before they are informed by those of others, but I did glance at the upper part of the responses, and one really jumped out at me:
 

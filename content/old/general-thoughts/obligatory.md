@@ -6,7 +6,7 @@ tags: beer, family, food
 slug: obligatory
 status: draft
 
-The Christmas season is past, now begins the age of \_Boxing Week\_.
+The Christmas season is past, now begins the age of _Boxing Week_.
 
 Scary thought, this, although Char is going out today with my mother to brave the hells that are malls and big-box stores in order to\... You know what, i'm not even sure _what_ they're after.
 

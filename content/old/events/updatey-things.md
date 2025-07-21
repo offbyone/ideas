@@ -23,7 +23,7 @@ That last one doesn't seem like it belongs in that order, does it? Except when y
 
 Work is going well. I'm actively contributing to the big project we're working on, putting together snippets of code for a tools library. It's satisfying, sometimes. Other times it feels like I know Nothing At All about the job, and am going to demonstrate my incompetence in some hyperdramatic fashion. Still, it's mostly good.
 
-\[Char\](<http://xraystar.livejournal.com>) is a sweetie.
+[Char](http://xraystar.livejournal.com) is a sweetie.
 
 How do you all like _this_ look for the site? After Char commented about some difficulties commenting with the pinup layout, I moved over to this. I like it decently, although I can think of a few tweaks I'd like to make. Maybe later\...
 
