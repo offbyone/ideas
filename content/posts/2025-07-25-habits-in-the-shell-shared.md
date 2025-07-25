@@ -14,7 +14,7 @@ I adopted the basic idea immediately -- putting the habits in `~/.local/share/ha
 
 But...
 
-I wanted it to be shared between my machines, instead of being per-machine. That meant I needed to do some more work to tie it into [chezmoi](https://chezmoi.io/). This post covers that. I'll be using chezmoi's `run_onchange_` script support here, to adapt Judy's idea.
+I wanted it to be shared between my machines, instead of being per-machine. That meant I needed to do some more work to tie it into [chezmoi](https://chezmoi.io/). This post covers that. I'll be using chezmoi's [`run_onchange_` script support](https://www.chezmoi.io/user-guide/use-scripts-to-perform-actions/#clear-the-state-of-all-run_onchange_-and-run_once_-scripts), to adapt Mark's idea.
 
 Here's what I have in chezmoi's `dot_local/share/habits/` directory:
 
