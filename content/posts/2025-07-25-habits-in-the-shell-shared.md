@@ -6,7 +6,8 @@ Category: tools
 Author: Chris Rose
 Email: offline@offby1.net
 Status: published
-Summary: Summarize this
+Toot: https://wandering.shop/@offby1/114915020091223294
+Summary: Sharing shell tools habits between all of my hosts using chezmoi, building on a fantastic post by Mark
 
 [A post I saw today](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/) about "using `fortune` to remind me of the shell tools I have installed, instead of the old ones I use by reflex" got me really excited by the idea of the reminders. 
 
