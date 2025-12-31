@@ -27,6 +27,9 @@ prepare_fonts:
 build settings="pelicanconf.py": prepare_fonts
   uv run pelican --fatal=errors -s {{settings}} -o output content
 
+debug settings="pelicanconf.py": prepare_fonts
+  uv run pelican --fatal=errors -s {{settings}} -o output content --debug
+
 generate: (build "publishconf.py")
 
 generate-dev: build
@@ -59,10 +62,10 @@ setup-gha: install-deps
 deps: compile-deps install-deps
 
 plan:
-    terraform plan -out plan.just
+    tofu plan -out plan.just
 
 apply:
-    terraform apply plan.just
+    tofu apply plan.just
 
 new_post:
   uv run invoke new-post

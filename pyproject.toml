@@ -1,7 +1,8 @@
 [project]
 name = "offby1.website"
 description = "My website"
-requires-python = "~= 3.13"
+# Pillow doesn't work with 3.14 on CI yet
+requires-python = ">= 3.13, < 3.14"
 keywords = [
   "pelican",
   "blog",
@@ -38,6 +39,7 @@ dependencies = [
     "boto3~=1.35",
     "click~=8.1",
     "aws-log-parser~=2.4",
+    "pelican-myst-reader>=1.4.0",
 ]
 
 [tool.uv]

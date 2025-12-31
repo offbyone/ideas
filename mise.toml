@@ -1,4 +1,3 @@
 [tools]
 node = "22"
-python = "3.11"
-terraform = "latest"
+opentofu = "1.10.7"

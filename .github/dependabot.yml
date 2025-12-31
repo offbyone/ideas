@@ -16,6 +16,8 @@ updates:
           - "*"
         exclude-patterns:
           - "pelican*"
+    cooldown:
+      default-days: 7
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
@@ -26,3 +28,5 @@ updates:
       dependecies:
         patterns:
           - "*"
+    cooldown:
+      default-days: 7
