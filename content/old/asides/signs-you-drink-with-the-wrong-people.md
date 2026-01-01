@@ -11,7 +11,7 @@ tags:
 author: offby1
 status: draft
 ---
-Odds are, Beau should not be allowed to see this link: [We Are Your Friends]({static}/images/we_are_your_friends.mov)
+Odds are, Beau should not be allowed to see this link: [We Are Your Friends]({static}/images/2006-11-05/we_are_your_friends.mp4)
 
 It's video, so don't bother, on a slow connection.
 

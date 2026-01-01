@@ -7,7 +7,7 @@ tags: rants
 author: offby1
 status: draft
 ---
-![image0]({static}/images/poppy.gif)This is something that bugs me a lot. And it's getting worse, as i see it.
+![image0]({static}/images/poppy.jpg)This is something that bugs me a lot. And it's getting worse, as i see it.
 
 Today is Remembrance Day.
 

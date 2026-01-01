@@ -11,4 +11,4 @@ status: draft
 ---
 From the net.humour namespace:
 
-![nslookup beat.down.com](http://offby1.files.wordpress.com/2006/09/punch_over_tcp_ip.gif)
+![nslookup beat.down.com](/images/2006-09-01/punch_over_tcp_ip.gif)
