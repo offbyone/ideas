@@ -266,7 +266,7 @@ def new_post(c, title=None, post_type="md"):
             dedent(
                 f"""\
         Title: {title_string}
-        Slug: { slugify(title_string) }
+        Slug: {slugify(title_string)}
         Date: {datetime.datetime.now().isoformat()}
         Tags:
         Category: CATEGORY

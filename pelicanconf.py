@@ -132,7 +132,17 @@ for p in Path("node_modules").resolve().glob("**/*min.js"):
     WEBASSETS_SOURCE_PATHS.append(str(p.parent))
 
 WEBASSETS_CONFIG = [
-    ("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")])
+    ("SASS_LOAD_PATHS", [str(Path(__file__).parent.resolve() / "node_modules")]),
+    # Silence SASS deprecation warnings from dependencies like @primer/css
+    # These use deprecated @import syntax which we can't control
+    ("SASS_BIN", "sass"),
+    (
+        "SASS_EXTRA_ARGS",
+        (
+            "--silence-deprecation=import",
+            "--silence-deprecation=global-builtin",
+        ),
+    ),
 ]
 WEBASSETS_BUNDLES = [
     (
@@ -204,7 +214,7 @@ THEMES_I_LIKE = [
 
 IGNORE_FILES = [".#&", "flycheck_*", "flymake_*"]
 
-REPOSITORY_ROOT = f"file://{ Path(__file__).parent.resolve() }/{ PATH }"
+REPOSITORY_ROOT = f"file://{Path(__file__).parent.resolve()}/{PATH}"
 EDIT_CONTENT_URL = "https://github.com/offbyone/ideas/edit/main/{file_path}"
 
 MARKDOWN = {

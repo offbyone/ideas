@@ -124,6 +124,8 @@ lint-terraform:
     exit 0
   fi
   tofu fmt -check -recursive .
+  # Initialize terraform before validation
+  tofu init -backend=false
   tofu validate
 
 lint-rst:
