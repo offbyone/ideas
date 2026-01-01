@@ -1,11 +1,16 @@
-Title: Yes, i'm still alive
-date: 2003-02-05 06:45
-author: offby1
-category: General Thoughts
-tags: ping, school, space, tragedy
+---
+title: Yes, i'm still alive
 slug: yes-im-still-alive
+date: "2003-02-05 06:45"
+category: General Thoughts
+tags:
+  - ping
+  - school
+  - space
+  - tragedy
+author: offby1
 status: draft
-
+---
 It's just that i haven't had anything to say.
 
 The whole Columbia thing is still a bit depressing. I've been roaming about in a bit of a fog, which isn't a good thing, given that i have a midterm on Friday. A fairly hard one, as well.

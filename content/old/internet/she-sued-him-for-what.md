@@ -1,11 +1,16 @@
-Title: She sued him for WHAT?
-date: 2008-01-14 19:28
-author: offby1
-category: Internet, Media, Rants
-tags: drugs, law, news, responsibility
+---
+title: She sued him for WHAT?
 slug: she-sued-him-for-what
+date: "2008-01-14 19:28"
+category: Internet, Media, Rants
+tags:
+  - drugs
+  - law
+  - news
+  - responsibility
+author: offby1
 status: draft
-
+---
 Well, by this time I'm sure that all of us have heard of, and been outraged by, the story of [Sandra Bergen](http://news.bbc.co.uk/2/hi/americas/7180379.stm), the Saskatchewan woman who sued her dealer when the methamphetamines that she overdosed on left her in a coma.
 
 (She's got a website, by the way: [Meth Today](http://www.methtoday.com/). Very\... irritating web design, leaving aside any other cause for complaint.)

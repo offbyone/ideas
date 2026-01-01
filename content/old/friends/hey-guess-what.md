@@ -1,11 +1,15 @@
-Title: Hey, guess what!
-date: 2005-11-05 10:21
-author: offby1
-category: Friends, General Thoughts, Projects
-tags: friends, projects, work
+---
+title: Hey, guess what!
 slug: hey-guess-what
+date: "2005-11-05 10:21"
+category: Friends, General Thoughts, Projects
+tags:
+  - friends
+  - projects
+  - work
+author: offby1
 status: draft
-
+---
 I'm not dead, after all.
 
 Yes, yes\... I'm lazy. It seems that I start a lot of posts with apologies for the silence.

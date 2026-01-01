@@ -1,11 +1,15 @@
-Title: Airborne
-date: 2004-06-21 07:43
-author: offby1
-category: Events, General Thoughts, Media
-tags: events, media, space
+---
+title: Airborne
 slug: breaking-news-spaceshipone-is-airborne
+date: "2004-06-21 07:43"
+category: Events, General Thoughts, Media
+tags:
+  - events
+  - media
+  - space
+author: offby1
 status: draft
-
+---
 As of 10:11 AM Eastern Time, [SpaceShipOne is airborne](http://www.space.com/missionlaunches/SS1_airborne_040621.html) as the first non-governmental space shot.
 
 May this bring in an era of private and public flight to the stars for the average joe.

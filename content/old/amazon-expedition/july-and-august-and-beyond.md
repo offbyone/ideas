@@ -1,10 +1,11 @@
-Title: July and August (And Beyond)
-date: 2011-08-24 10:20
-author: offby1
-category: amazon
+---
+title: July and August (And Beyond)
 slug: july-and-august-and-beyond
+date: "2011-08-24 10:20"
+category: amazon
+author: offby1
 status: published
-
+---
 New house, huh.
 
 By now more than a few people who will be seeing this post have seen the house. It's nice. Really! Please, come and visit! We've more or less settled in, and have been getting out into the neighborhood. There are some fantastic little shops and eateries in the area, which is not really surprising given that we're straddling the line between two of Seattle's funky neighborhoods.

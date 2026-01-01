@@ -1,11 +1,17 @@
-Title: Grab bag
-date: 2004-04-23 17:34
-author: offby1
-category: General Thoughts
-tags: academia, free speech, philosophy, school, truth
+---
+title: Grab bag
 slug: grab-bag
+date: "2004-04-23 17:34"
+category: General Thoughts
+tags:
+  - academia
+  - free speech
+  - philosophy
+  - school
+  - truth
+author: offby1
 status: draft
-
+---
 I am obliged, upon actually tasting it in a quiet setting, to reverse my long-held distaste for Big Rock Traditional Ale. It is, in fact, quite tasty.
 
 Also, [this](http://techcentralstation.com/042304C.html) essay on academia and truth may be of interest to A) anyone who teaches amongst my readership (all of one person, as far as i know) and B) anyone that learns (Many, many more)

@@ -1,11 +1,12 @@
-Title: Norm was a poor followup
-date: 2005-07-31 16:24
-author: offby1
+---
+title: Norm was a poor followup
+slug: norm-was-a-poor-followup
+date: "2005-07-31 16:24"
 category: Friends, General Thoughts
 tags: friends
-slug: norm-was-a-poor-followup
+author: offby1
 status: draft
-
+---
 Weekend update:
 
 Just got back from a place called "Wayne":http://www.ghosttowns.com/canada/alberta/wayne.html where somebody has managed to put together arguably the most gruelling "disc golf":http://members.shaw.ca/discgolf/ "course":http://68.151.176.137/tours/Drumheller04-JasonRatke/index.html (that last link may vanish abruptly) I've ever played.

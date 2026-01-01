@@ -1,9 +1,12 @@
-Title: 1.0!
-date: 2004-11-09 08:36
-author: offby1
-category: Events, Internet
-tags: events, internet
+---
+title: 1.0!
 slug: firefox-goes-1-0
+date: "2004-11-09 08:36"
+category: Events, Internet
+tags:
+  - events
+  - internet
+author: offby1
 status: draft
-
+---
 [![Get Firefox!](http://www.offlineblog.com/images/firefox-rgb.jpg)](http://www.getfirefox.com/)

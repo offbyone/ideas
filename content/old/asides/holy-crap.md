@@ -1,11 +1,15 @@
-Title: Holy crap
-date: 2005-11-16 15:04
-author: offby1
-category: Asides, General Thoughts, Projects
-tags: asides, projects, work
+---
+title: Holy crap
 slug: holy-crap
+date: "2005-11-16 15:04"
+category: Asides, General Thoughts, Projects
+tags:
+  - asides
+  - projects
+  - work
+author: offby1
 status: draft
-
+---
 I forgot I even had this site.
 
 Heh

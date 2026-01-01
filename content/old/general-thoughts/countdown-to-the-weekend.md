@@ -1,11 +1,12 @@
-Title: Countdown to the weekend
-date: 2004-05-20 21:41
-author: offby1
+---
+title: Countdown to the weekend
+slug: countdown-to-the-weekend
+date: "2004-05-20 21:41"
 category: General Thoughts
 tags: work
-slug: countdown-to-the-weekend
+author: offby1
 status: draft
-
+---
 From when I sit now, it's only 22 hours before I can get my sorry ass back to town and into the welcoming arms of my lovely ladyfriend.
 
 From when I sit now, it's only 42 hours until I start seeing friends I haven't gotten to socialize with in ages, or so it seems.

@@ -1,11 +1,15 @@
-Title: Moods
-date: 2002-12-21 05:40
-author: offby1
-category: General Thoughts
-tags: asshole, char, introspection
+---
+title: Moods
 slug: moods
+date: "2002-12-21 05:40"
+category: General Thoughts
+tags:
+  - asshole
+  - char
+  - introspection
+author: offby1
 status: draft
-
+---
 This is directed mostly towards anyone that knows me personally, which is, last time i checked, anyone who reads this site - it's not like i have a broad readership.
 
 I've been trying to figure out why i'm so short-tempered of late. This isn't a new thing, but i kind of had it brought home to me how serious it was just this morning. I've been snappy, touchy, and generally suspicious of the motivations of someone whom i should be implicitly trustful of, and it's not fair to her. So, now i want to figure out why.

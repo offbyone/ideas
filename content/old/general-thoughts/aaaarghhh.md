@@ -1,11 +1,15 @@
-Title: Aaaarghhh!
-Date: 2004-01-04 13:00
-Author: offby1
-Category: society
-Tags: intellectual property, privacy, Rants
-Slug: aaaarghhh
-Status: draft
-
+---
+title: Aaaarghhh!
+slug: aaaarghhh
+date: "2004-01-04 13:00"
+category: society
+tags:
+  - intellectual property
+  - privacy
+  - Rants
+author: offby1
+status: draft
+---
 The author of a piece of software that i have used in the past to work
 on this site -- [TopStyle](http://www.bradsoft.com/topstyle/index.asp)
 -- wrote a fairly thought-provoking

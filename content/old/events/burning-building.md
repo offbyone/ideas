@@ -1,11 +1,12 @@
-Title: Burning Building
-date: 2006-02-10 22:22
-author: offby1
+---
+title: Burning Building
+slug: burning-building
+date: "2006-02-10 22:22"
 category: Events, General Thoughts
 tags: events
-slug: burning-building
+author: offby1
 status: draft
-
+---
 Interesting\...
 
 Char and I, sitting in our apartment, noticed a strange siren from outside the door. Turns out our building isn't really all that well-equipped with loud fire alarms. Not that I mind; I'd notice them. Char, however, would not, if she were sleeping\...

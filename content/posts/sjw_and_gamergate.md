@@ -1,13 +1,16 @@
-Title: Why I stand with the SJW crowd, even though they get it wrong sometimes.
+---
+title: Why I stand with the SJW crowd, even though they get it wrong sometimes.
 slug: on-gamergate-and-sjw
-date: 2014-10-11 08:30
+date: "2014-10-11 08:30"
 category: society
-tags: gamers, feminism
+tags:
+  - gamers
+  - feminism
 author: Chris Rose
 email: offline@offby1.net
 summary: Too late; you stand with rape apologists, literal nazis, threateners of murder. The burden of proof is on you.
 status: published
-
+---
 Disclaimer: I have always had a bit of reflexive distaste for the SJW movement. Complaint as performance irritates me, and there is a thread \-- maybe a real one, maybe one I perceive \-- of that running through much of the SJW movement on the social media where the very most recent SJW movement took its roots. I have even fairly recently been more inclined to laugh at the antics of /r/tumblrinaction or to nod along in vague agreement with parts of the MRA manifestos, or to observe the circular firing squad of the left line up more violently against its nearest allies instead of focusing on what I thought were common enemies.
 
 I can't do that any more.

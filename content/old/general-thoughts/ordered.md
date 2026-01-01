@@ -1,11 +1,18 @@
-Title: Ordered
-date: 2007-12-16 15:32
-author: offby1
-category: General Thoughts
-tags: arrogance, assholes, blinders, geeky, ideology, programming
+---
+title: Ordered
 slug: ordered
+date: "2007-12-16 15:32"
+category: General Thoughts
+tags:
+  - arrogance
+  - assholes
+  - blinders
+  - geeky
+  - ideology
+  - programming
+author: offby1
 status: draft
-
+---
 It's fitting that the quote on my homepage's title bar, as I started to post this, was "Against stupidity the very gods themselves contend in vain".
 
 People who know me know well that I'm a geek, and as such I have many of the canonical traits that define 'geek'. I'm oriented towards strict, quantitative judgments and I prefer things that fit neatly into categories.

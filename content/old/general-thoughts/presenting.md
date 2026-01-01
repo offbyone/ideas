@@ -1,11 +1,16 @@
-Title: Presenting
-date: 2006-12-05 21:18
-author: offby1
-category: General Thoughts
-tags: deadlines, exams, presentation, websphere
+---
+title: Presenting
 slug: presenting
+date: "2006-12-05 21:18"
+category: General Thoughts
+tags:
+  - deadlines
+  - exams
+  - presentation
+  - websphere
+author: offby1
 status: draft
-
+---
 Two times in the last week I've had to do class presentation, and although I can't speak for the actual _skill_ that I have, I do seem to have a knack for talking.
 
 Which, come to think of it, might come as no surprise :)

@@ -1,11 +1,14 @@
-Title: A black day
-Date: 2003-02-01 09:29
-Author: offby1
-Category: contemplation
-Tags: events, space
-Slug: a-black-day
-Status: published
-
+---
+title: A black day
+slug: a-black-day
+date: "2003-02-01 09:29"
+category: contemplation
+tags:
+  - events
+  - space
+author: offby1
+status: published
+---
 About two hours ago, as i write this, the NASA space shuttle Columbia
 lost contact with mission control while coming in for a landing. As of
 this writing, it is known ([CNN

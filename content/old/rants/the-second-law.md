@@ -1,11 +1,12 @@
-Title: The Second Law
-date: 2003-04-12 20:37
-author: offby1
+---
+title: The Second Law
+slug: the-second-law
+date: "2003-04-12 20:37"
 category: Rants
 tags: rants
-slug: the-second-law
+author: offby1
 status: draft
-
+---
 Basically, what the FSCK are people thinking when they pick up the goddamned phone?!
 
 As a dedicated (read: indentured) employee of \$COMPANY_NAME, i get the distinct pleasure of answering the phone to people (and i use the term loosely) who only recently took the evolutionary steps necessary to stand on their hind legs and reach the phone. It's jobs like mine that provide evidence that the human evolutionary journey is only barely begun.

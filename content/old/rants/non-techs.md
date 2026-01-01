@@ -1,11 +1,12 @@
-Title: Non-techs
-date: 2004-03-10 07:25
-author: offby1
+---
+title: Non-techs
+slug: non-techs
+date: "2004-03-10 07:25"
 category: Rants
 tags: rants
-slug: non-techs
+author: offby1
 status: draft
-
+---
 There's a "discussion":http://slashdot.org/article.pl?sid=04/03/09/2134215 going on on one of the forums I frequent for tech news and debate, and it's a bit interesting. It's about "protecting our parents' PCs" from the viruses, adware, and general nastiness of the net. The attitudes being espoused on there make for an interesting read.
 
 Basically, the trend is something like this: Either A) "I don't do Windows," B) "I installed \$(GEEK_OS) on their PC. Now, they can't run viruses. Or, for that matter, anthing *else*," or C) "I tell them to ask their friends/other children."

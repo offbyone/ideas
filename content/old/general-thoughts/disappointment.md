@@ -1,11 +1,16 @@
-Title: Disappointment
-date: 2004-02-20 08:58
-author: offby1
-category: General Thoughts
-tags: disappointment, memory lane, primitive superstition, religion
+---
+title: Disappointment
 slug: disappointment
+date: "2004-02-20 08:58"
+category: General Thoughts
+tags:
+  - disappointment
+  - memory lane
+  - primitive superstition
+  - religion
+author: offby1
 status: draft
-
+---
 I had a peculiarly disappointing day yesterday. Not the whole day, but a part of it really shook my faith in the ability of people to grow in a positive direction.
 
 I took a bit of time to look up one of my old classmates, call him D for the sake of anonymity. D was one of the people that i attended school with from the beginning through to grad, and I remember always having a fair amount of respect for his native intelligence. We were never great friends, but he wasn't one of my principal tormentors either.

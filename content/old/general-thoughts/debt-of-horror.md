@@ -1,11 +1,12 @@
-Title: Debt of Horror
-date: 2003-02-12 06:48
-author: offby1
+---
+title: Debt of Horror
+slug: debt-of-horror
+date: "2003-02-12 06:48"
 category: General Thoughts
 tags: school
-slug: debt-of-horror
+author: offby1
 status: draft
-
+---
 There's an [article](http://story.news.yahoo.com/news?tmpl=story2&cid=127&e=7&u=/030211/7/38rtp.html) currently making the rounds of the [discussion](http://www.kuro5hin.org/story/2003/2/11/174223/554) [sites](http://www.metafilter.com/comments.mefi/23490) that touches pretty close to the heart with me, for what i think should be self-evident reasons.
 
 I'm staring a staggering debt load in the face much like the people who are responding to the article, and the writer of the same. And, i'm not even in the US - Canadian universities are supposed to be less expensive to the average student. I'm looking, though, at about \$30,000 CDN debt by the time i finish my undergrad degree, and the more i learn, the more i become interested in a Masters - which would add, oh, another \$15,000 or so, as i understand it. Now, bear in mind that these values are nothing more than estimates on my part, but also bear in mind that tuitions haven't gone down in as long as i can remember.

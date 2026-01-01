@@ -1,11 +1,12 @@
-Title: In other news
-date: 2004-05-30 08:58
-author: offby1
+---
+title: In other news
+slug: in-other-news
+date: "2004-05-30 08:58"
 category: Meta
 tags: meta
-slug: in-other-news
+author: offby1
 status: draft
-
+---
 There's been a small change to the weblog, which I assume you have noticed.
 
 New software, new toys. Should be easier for me to work with, but I do ask that you users please accept the small glitches (and generally bland look) that will accompany any new site design until I get it all straigtened out.

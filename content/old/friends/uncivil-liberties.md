@@ -1,11 +1,18 @@
-Title: Uncivil "Liberties"
-date: 2002-12-23 14:29
-author: offby1
-category: Friends, General Thoughts, Internet, Rants
-tags: freedom, friends, internet, rants, school, security theatre
+---
+title: Uncivil "Liberties"
 slug: uncivil-liberties
+date: "2002-12-23 14:29"
+category: Friends, General Thoughts, Internet, Rants
+tags:
+  - freedom
+  - friends
+  - internet
+  - rants
+  - school
+  - security theatre
+author: offby1
 status: draft
-
+---
 I was doing my morning perusal of [Metafilter](http://www.metafilter.com/comments.mefi/22481), and i came upon [this little gem](http://www.lewrockwell.com/orig3/monahan1.html). It's a bit early to see what direction the discussion is going, because it's only just been posted, but i have to admit, this incident is pretty disturbing.
 
 Now, of course, in any instance where one person is mistreated by another, there are the usual three sides to the story. Obviously, we're not really going to see either of the other two, here. That being said\... What the fsck is going on down south? Bear in mind, i am one of the *least* anti-american people i know - i love the system that they supposedly have there, and generally approve of the nature of their government. But this\... this is scary. Has it really reached such a pass that a person can't express displeasure over his treatment at the hands of security? What ever happened to the freedoms that used to be treated as givens by the american (and, make note, i refer - as in all cases -to both USians and Canadians with this moniker) people?

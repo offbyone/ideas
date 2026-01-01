@@ -1,13 +1,17 @@
-Title: Suppressing "use flake" in nix fan .envrc files
-Slug: suppressing-use-flake-in-nix-fan-envrc-files
-Date: 2025-06-26T20:51:14.762573
-Tags: petpeeve, direnv, nix
-Category: tools
-Author: Chris Rose
-Email: offline@offby1.net
-Status: published
-Summary: Are you annoyed by direnv-using nix fans committing .envrc files with "use flake" in them? Is this an overly specific complaint turned into a blog post? Is there a solution to your very specific problem within? 
-
+---
+title: Suppressing "use flake" in nix fan .envrc files
+slug: suppressing-use-flake-in-nix-fan-envrc-files
+date: 2025-06-26 20:51:14.762573
+category: tools
+tags:
+  - petpeeve
+  - direnv
+  - nix
+author: Chris Rose
+email: offline@offby1.net
+summary: Are you annoyed by direnv-using nix fans committing .envrc files with "use flake" in them? Is this an overly specific complaint turned into a blog post? Is there a solution to your very specific problem within?
+status: published
+---
 This'll be short, but sweet[ref]Actually, pretty salty[/ref]:
 
 1. I often check out open source projects with the intent to read their code or sometimes contribute small changes.
@@ -18,14 +22,14 @@ This'll be short, but sweet[ref]Actually, pretty salty[/ref]:
 
 It's that last bit that really chafes me; I don't use nix, and I'm not likely ever to -- it's really invasive to install on macOS, and never really clicked for me. When these `.envrc` files are present, I get the lovely experience of seeing one of these two outputs every time I chdir to a package written by one of these nix fans:
 
-```shellsession
+```shell-session
 $ cd some-project
 direnv: error /Users/offby1/projects/some-project/.envrc is blocked. Run `direnv allow` to approve its content
 ```
 
 Or, if I allow it:
 
-```shellsession
+```shell-session
 $ cd some-project
 $ direnv allow
 direnv: loading ~/projects/some-project/.envrc
@@ -39,7 +43,7 @@ So, first up, if you do that, [*stop*](https://wandering.shop/@offby1/1147532695
 
 But, since they likely won't do so, here's something as a direnv user you can do to mitigate it; create your own `use_flake()` function in `~/.config/direnv/direnvrc`:
 
-```shell
+```bash
 use_flake() {
     log_status "No, I don't think I will 'use flake', thank you!"
     

@@ -1,12 +1,13 @@
-Title: Lest their sacrifices be forgotten.
-date: 2004-11-11 10:42
-author: offby1
+---
+title: Lest their sacrifices be forgotten.
+slug: lest-their-sacrifices-be-forgotten
+date: "2004-11-11 10:42"
 category: Events
 tags: events
-slug: lest-their-sacrifices-be-forgotten
+author: offby1
 status: draft
-
-![Poppy and barbed wire](/images/poppy.gif)Because too many people choose to forget.
+---
+![Poppy and barbed wire]({static}/images/poppy.gif)Because too many people choose to forget.
 
 Because it's not fashionable to remember.
 

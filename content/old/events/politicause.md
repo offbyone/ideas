@@ -1,11 +1,19 @@
-Title: Politicause
-date: 2005-12-08 09:11
-author: offby1
-category: Events, General Thoughts, Internet, Media, Rants
-tags: events, fairness, green party, internet, media, politics, rants
+---
+title: Politicause
 slug: politicause
+date: "2005-12-08 09:11"
+category: Events, General Thoughts, Internet, Media, Rants
+tags:
+  - events
+  - fairness
+  - green party
+  - internet
+  - media
+  - politics
+  - rants
+author: offby1
 status: draft
-
+---
 I want to second [Char's](http://www.livejournal.com/users/xraystar/41465.html) mention of the [Green Party of Canada's petition](http://www.petition.greenparty.ca/en/) to be included in national debates. Political discourse in this country needs to include *all* of the parties that are in the running, even if they are just nascent entities on the political stage.
 
 How are voters supposed to make informed choices, if all of the reasonable alternatives -- plus the NDP -- aren't allowed to present their platforms?

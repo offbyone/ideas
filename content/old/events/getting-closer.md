@@ -1,12 +1,20 @@
-Title: Getting Closer
-date: 2007-02-12 20:31
-author: offby1
-category: Events, Friends
-tags: japan, projects, school, time, vacation, websphere, work
+---
+title: Getting Closer
 slug: getting-closer
+date: "2007-02-12 20:31"
+category: Events, Friends
+tags:
+  - japan
+  - projects
+  - school
+  - time
+  - vacation
+  - websphere
+  - work
+author: offby1
 status: draft
-
-I've got only three days before Ms. Charlotte and I take off into the blue yonder, across the pacific (a first, at least as far as reaching the other side goes \-- Hawaii doesn't count) to Japan, where we'll be roaming around and posting pictures (over at [Morruz](<http://www.offlineblog.com/morruz>)), as per SOP).
+---
+I've got only three days before Ms. Charlotte and I take off into the blue yonder, across the pacific (a first, at least as far as reaching the other side goes \-- Hawaii doesn't count) to Japan, where we'll be roaming around and posting pictures (over at [Morruz](http://www.offlineblog.com/morruz)), as per SOP).
 
 I've got just about everything taken care of, on this end; I've finished (as far as I'm going to) my paper for Cmput 401, I've got most of the written assignment for 414 finished, and a deferral on my 3000-word essay to a week after I get back.
 

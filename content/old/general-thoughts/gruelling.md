@@ -1,11 +1,12 @@
-Title: Gruelling
-date: 2003-11-18 22:54
-author: offby1
+---
+title: Gruelling
+slug: gruelling
+date: "2003-11-18 22:54"
 category: General Thoughts
 tags: school
-slug: gruelling
+author: offby1
 status: draft
-
+---
 Wow. That was a pain.
 
 About a week and a half ago, we were given what seemed to be a relatively straightforward assignment in CMPT229. Nothing fancy, just implement a [doubly linked list](http://www.instantweb.com/D/dictionary/foldoc.cgi?doubly+linked+list) in assembler.

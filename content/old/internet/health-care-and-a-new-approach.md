@@ -1,11 +1,14 @@
-Title: Approaching Health in a New Way
-date: 2004-07-05 07:32
-author: offby1
-category: Internet, Rants
-tags: internet, rants
+---
+title: Approaching Health in a New Way
 slug: health-care-and-a-new-approach
+date: "2004-07-05 07:32"
+category: Internet, Rants
+tags:
+  - internet
+  - rants
+author: offby1
 status: draft
-
+---
 Metafilter has linked an article about the rising costs of healthcare in the USA, one that \-- like several things I've read recently \-- raises some uncomfortable questions about privately-insured healthcare. [Feel free to read it](http://www.metafilter.com/mefi/34131) and \... well, it's interesting.
 
 A notable quote in it: "I'm beginning to think that running a risk-pool that actually protects its members and running a risk-pool for profit are diametrically opposed endeavors."

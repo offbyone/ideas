@@ -1,11 +1,12 @@
-Title: Vacation time and overruling
-date: 2004-05-16 21:38
-author: offby1
+---
+title: Vacation time and overruling
+slug: vacation-time-and-overruling
+date: "2004-05-16 21:38"
 category: General Thoughts
 tags: work
-slug: vacation-time-and-overruling
+author: offby1
 status: draft
-
+---
 Well, the vacation thing I mentioned is this:
 
 Two days ago, there was a general announcement that the coming long weekend would be three days off for the whole crew -- lock, stock and barrel we were shutting down to get some required time off.

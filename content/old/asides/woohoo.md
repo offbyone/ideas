@@ -1,9 +1,10 @@
-Title: Woohoo!
-date: 2006-02-21 07:58
-author: offby1
+---
+title: Woohoo!
+slug: woohoo
+date: "2006-02-21 07:58"
 category: Asides
 tags: asides
-slug: woohoo
+author: offby1
 status: draft
-
+---
 It shipped!

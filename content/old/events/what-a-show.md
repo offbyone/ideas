@@ -1,11 +1,14 @@
-Title: What a show
-date: 2002-11-11 12:35
-author: offby1
-category: Events, Friends, General Thoughts
-tags: events, friends
+---
+title: What a show
 slug: what-a-show
+date: "2002-11-11 12:35"
+category: Events, Friends, General Thoughts
+tags:
+  - events
+  - friends
+author: offby1
 status: draft
-
+---
 [Beau](http://www.victoriafetishsociety.com/)(NSFW) and i went down to Calgary to see a show last night at the [Warehouse](http://www.calgaryplus.ca/profile/76564/), put on by one of my very good friends, [Jamie Wood](http://artists.mp3s.com/artists/36/consume1.html) and another friend, whose act is called [FX series](http://www.mp3.com/fxseries), performed by, as usual, one guy - a pleasant fellow named Réal. Man, what noise we heard :) So, first off, the trip - it's Calgary. This isn't exactly a difficult voyage, but the truck sucks for highway travel, since Fugly has less in the way of guts than any vehicle i've driven since the old Mustang that i used to borrow from my cousin.
 
 When we reached Calgary, we found the warehouse with only a little bit of fuss. It's not exactly the most visible of places, what with the only sign indicating its location being in the back alley (Thanks for mentioning that one, Tamara :) Still, after a bit of flailing around, we found the place we were looking for, and then we met the above-mentioned Tamara for coffee for a while.

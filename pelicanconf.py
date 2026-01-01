@@ -220,6 +220,16 @@ MARKDOWN = {
     "output_format": "html5",
 }
 
+# MyST Reader configuration
+MYST_READER = {
+    "myst_enable_extensions": {
+        "linkify",  # Auto-detect links
+        "colon_fence",  # Enable ::: directive syntax for dropdowns
+    },
+    "myst_disable_syntax": [],  # Don't disable any syntax
+    "myst_heading_anchors": 3,  # Add anchors to headings
+}
+
 if "IDEAS_EMIT_TIMING" in os.environ:
     import sqlite3
     import time

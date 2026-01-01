@@ -1,11 +1,12 @@
-Title: Yep, I'm to be Certified
-Date: 2006-06-25 09:13
-Author: offby1
-Category: Life
-Tags: skydiving
-Slug: yep-im-to-be-certified
-Status: published
-
+---
+title: Yep, I'm to be Certified
+slug: yep-im-to-be-certified
+date: "2006-06-25 09:13"
+category: Life
+tags: skydiving
+author: offby1
+status: published
+---
 # Yep, I'm to be Certified
 
 For those of you that weren't actually *at* the drop zone yesterday, I

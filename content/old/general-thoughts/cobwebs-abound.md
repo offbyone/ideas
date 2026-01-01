@@ -1,12 +1,19 @@
-Title: Cobwebs Abound
-date: 2007-02-08 15:55
-author: offby1
-category: General Thoughts
-tags: char, health, school, time, trivia, work
+---
+title: Cobwebs Abound
 slug: cobwebs-abound
+date: "2007-02-08 15:55"
+category: General Thoughts
+tags:
+  - char
+  - health
+  - school
+  - time
+  - trivia
+  - work
+author: offby1
 status: draft
-
-Although it might appear to the casual observer that I am dead, or perhaps comatose, I assure you that neither is the case. Rather, I have been swamped with a combination, familiar to some of you, of school and work that has left me with little time even to prepare for my incipient travels (to be catalogued, as M&M's are, at [<http://www.offlineblog.com/morruz>](<http://www.offlineblog.com/morruz>)).
+---
+Although it might appear to the casual observer that I am dead, or perhaps comatose, I assure you that neither is the case. Rather, I have been swamped with a combination, familiar to some of you, of school and work that has left me with little time even to prepare for my incipient travels (to be catalogued, as M&M's are, at [<http://www.offlineblog.com/morruz>](http://www.offlineblog.com/morruz)).
 
 Here's a capsule summary of the last couple of weeks:
 

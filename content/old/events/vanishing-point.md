@@ -1,11 +1,17 @@
-Title: Vanishing point
-date: 2003-08-31 10:52
-author: offby1
-category: life
-tags: apology, appreciation, moving, simon, skydiving
+---
+title: Vanishing point
 slug: vanishing-point
+date: "2003-08-31 10:52"
+category: life
+tags:
+  - apology
+  - appreciation
+  - moving
+  - simon
+  - skydiving
+author: offby1
 status: published
-
+---
 So sorry about having dropped from the face of the earth for a week, folks. I know my readership isn't huge, but i suspect at least one or two people missed me :)
 
 So, here's the scoop: The downtime resulted from Char and I moving, and shaw not moving as fast as we did, due to some wiring issues. I spent tuesday to today with no net access, which meant no mailserver, no webserver, etc. Very crappy. And, as i'm sure you can all imagine, also very jitter-inducing.

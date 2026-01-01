@@ -1,11 +1,16 @@
-Title: Philosophizin'
-date: 2006-05-11 07:01
-author: offby1
-category: Events, General Thoughts, Media, Meta
-tags: events, media, meta, school
+---
+title: Philosophizin'
 slug: philosophizin
+date: "2006-05-11 07:01"
+category: Events, General Thoughts, Media, Meta
+tags:
+  - events
+  - media
+  - meta
+  - school
+author: offby1
 status: draft
-
+---
 So, I spent the greater part of yesterday evening ploughing through, or more accurately, *slogging* through John Stuart Mill's *Utilitarianism*.
 
 Yeek, that's a workout. It might be the circuitous sentence structures, it might be the content. But either way, it's hard going.

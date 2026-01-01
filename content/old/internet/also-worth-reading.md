@@ -1,11 +1,12 @@
-Title: Also worth reading
-date: 2004-02-20 09:04
-author: offby1
+---
+title: Also worth reading
+slug: also-worth-reading
+date: "2004-02-20 09:04"
 category: Internet
 tags: internet
-slug: also-worth-reading
+author: offby1
 status: draft
-
+---
 "An essay by a disillusioned disciple of Ayn Rand":http://www.nathanielbranden.net/ayn/ayn03.html
 
 Good read. And a bit closer to how i feel about the whole Rand thing.

@@ -1,11 +1,16 @@
-Title: Mobility rocks my lazy ass!
-date: 2003-04-21 22:50
-author: offby1
-category: General Thoughts
-tags: char, computer, geeky, wi-fi
+---
+title: Mobility rocks my lazy ass!
 slug: mobility-rocks-my-lazy-ass
+date: "2003-04-21 22:50"
+category: General Thoughts
+tags:
+  - char
+  - computer
+  - geeky
+  - wi-fi
+author: offby1
 status: draft
-
+---
 I gots a laptop! ;)
 
 Okay, colour me fourteen shades of enthused about this. It's not quite the godbox i drool over, but it's mobile, it's powerful, it's colourful, and it's ours! :)

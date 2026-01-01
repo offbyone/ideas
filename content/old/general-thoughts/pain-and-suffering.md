@@ -1,11 +1,12 @@
-Title: Pain and Suffering
-date: 2004-10-10 17:24
-author: offby1
+---
+title: Pain and Suffering
+slug: pain-and-suffering
+date: "2004-10-10 17:24"
 category: General Thoughts, Meta
 tags: meta
-slug: pain-and-suffering
+author: offby1
 status: draft
-
+---
 What's new in my life?
 
 See the above title, if you're really curious. Thanks to the wonders of the blind watchmaker, I'm enjoying the pleasant sensation of an evolutionary leftover sliding its way into my back molars. The uptick of this has been a fun little infection, and an upcoming bout with an overly expensive loss of mental acuity.

@@ -1,11 +1,17 @@
-Title: Chiseling away
-date: 2004-06-23 15:03
-author: offby1
-category: General Thoughts, Internet, Media, Rants
-tags: intellectual property, internet, media, privacy, rants
+---
+title: Chiseling away
 slug: chiseling-away
+date: "2004-06-23 15:03"
+category: General Thoughts, Internet, Media, Rants
+tags:
+  - intellectual property
+  - internet
+  - media
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 Just because I figure it's been a while, a friend of mine passed me "this":http://www.hackcanada.com/canadian/freedom/barwatch/barwatch.html just a moment ago.
 
 Now, I know that you all aren't exactly heavy duty Edmonton area barhounds, but this still might raise your hackles a bit.

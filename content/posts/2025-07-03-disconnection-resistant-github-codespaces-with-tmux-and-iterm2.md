@@ -1,19 +1,25 @@
-Title: Disconnection-resistant GitHub codespaces with tmux and iTerm2
-Slug: disconnection-resistant-github-codespaces-with-tmux-and-iterm2
-Date: 2025-07-03T13:45:24.461789
-Tags: github, codespaces, frustration, tmux, iterm2
-Category: tools
-Author: Chris Rose
-Email: offline@offby1.net
-Status: published
-Toot: https://wandering.shop/@offby1/114791312807855334
-Summary: GitHub codespaces' ssh client is prone to frequent, frustrating disconnections. If you're actively working remotely, that means that you often lose state in the codespace, which is especially frustrating if what you are doing takes a long time to set up, or should stay running. This post describes how I mitigate that with a script that ensures I always have a session in my codespace.
-
+---
+title: Disconnection-resistant GitHub codespaces with tmux and iTerm2
+slug: disconnection-resistant-github-codespaces-with-tmux-and-iterm2
+date: 2025-07-03 13:45:24.461789
+category: tools
+tags:
+  - github
+  - codespaces
+  - frustration
+  - tmux
+  - iterm2
+author: Chris Rose
+email: offline@offby1.net
+summary: GitHub codespaces' ssh client is prone to frequent, frustrating disconnections. If you're actively working remotely, that means that you often lose state in the codespace, which is especially frustrating if what you are doing takes a long time to set up, or should stay running. This post describes how I mitigate that with a script that ensures I always have a session in my codespace.
+status: published
+toot: "https://wandering.shop/@offby1/114791312807855334"
+---
 I find GitHub Codespaces a true mixed blessing. The uniform development environment is super democratizing, but a lot of the polish hinges on the use of VSCode as a development environment, with the terminal-based development approach feeling like an afterthought a lot of the time. Nowhere, to me, is this more apparent than in the ssh connection approach. `gh codespace ssh` is the way you open an ssh connection to the Codespace terminal, and boy _howdy_ is it unstable. I estimate I lose my connection to a codespace at least once per hour, when actively working on it. If my laptop screen locks, it disconnects every time. If I never had terminal state, that would be fine, but that's not the case most of the time; most days, I've got a server running, possibly multiple. Those terminate in whatever state when the connection is dropped.
 
 Of course, we can all guess what the solution is: "use tmux"; it's the solution to a lot of problems of this shape. However, what I really want is to be able to use tmux and _not have to think about it_, and that's what I'm going to show you here. I put this code in `~/.local/bin/,ghcs-iterm2` so that it is on my `PATH`[ref]I <a href="https://rhodesmill.org/brandon/2009/commands-with-comma/">name all my custom commands starting with a comma</a>[/ref].
 
-```shell
+```bash
 #!/usr/bin/env bash
 
 set -eu
@@ -58,7 +64,7 @@ If you don't use iTerm2, this still works, you just drop the `-CC` from the tmux
 
 ### Usage
 
-```shellsession
+```shell-session
 $ ,gcsh-iterm2
 ```
 

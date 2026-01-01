@@ -1,11 +1,12 @@
-Title: Silence
-date: 2003-03-22 08:30
-author: offby1
+---
+title: Silence
+slug: silence
+date: "2003-03-22 08:30"
 category: Meta
 tags: meta
-slug: silence
+author: offby1
 status: draft
-
+---
 Well, i haven't posted a lot this month. As i mentioned before, this is in part due to the workload that i've been under, and will be under for the next month and a half. However, there is another reason too.
 
 Originally, this site was conceived as an outlet for my feelings about returning to school. I figured that, after so long away, some things would be really different, and others would be nostalgically similar. I was half right - in the end, there really weren't that many differences from the last pass, but there were a lot of things that made me think back to my own first year and the experiences that i had then. So, i talked about them\...

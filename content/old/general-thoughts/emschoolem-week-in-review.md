@@ -1,11 +1,12 @@
-Title: School week in review
-date: 2003-01-24 20:46
-author: offby1
+---
+title: School week in review
+slug: emschoolem-week-in-review
+date: "2003-01-24 20:46"
 category: General Thoughts
 tags: school
-slug: emschoolem-week-in-review
+author: offby1
 status: draft
-
+---
 Things i learned this week:
 
 One: People who get engaged in debates in ENGL-101 are bound to be shouted down if their opinion is unpopular. Okay, that's excessive. But, as in all things social, differing from the common view gets short shrift there. Other than that, though, it was deeply satisfying to get to unsheath my claws a bit in English. I haven't ever had that much fun in the class before. Thumbs up!

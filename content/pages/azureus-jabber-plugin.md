@@ -1,15 +1,16 @@
-Title: Azureus IM Notification Plugin
-date: 2006-12-31 19:00
-author: offby1
+---
+title: Azureus IM Notification Plugin
 slug: azureus-jabber-plugin
+date: "2006-12-31 19:00"
+author: offby1
 status: published
-
+---
 | \## Instant Messaging Notifications 1.0.4
 | Copyright(c) 2006 Chris Rose and AIMedia.
 | (GPL, blah blah\...)
 
   --------------------------------------- -----------------------------------------------
-  MD5: b2472fbeb47da6731a4873c39057ad0e   [azjabber-1.0.4.zip](/?dl=azjabber-1.0.4.zip)
+  MD5: b2472fbeb47da6731a4873c39057ad0e   [azjabber-1.0.4.zip](http://www.offlineblog.com/?dl=azjabber-1.0.4.zip)
 
   --------------------------------------- -----------------------------------------------
 
@@ -74,18 +75,19 @@ Enjoy!
 \#### Current Version
 
   --------------------------------------- -----------------------------------------------
-  MD5: b2472fbeb47da6731a4873c39057ad0e   [azjabber-1.0.4.zip](/?dl=azjabber-1.0.4.zip)
+  MD5: b2472fbeb47da6731a4873c39057ad0e   [azjabber-1.0.4.zip](http://www.offlineblog.com/?dl=azjabber-1.0.4.zip)
 
   --------------------------------------- -----------------------------------------------
 
 \#### Older Versions
 
   --------------------------------------- -----------------------------------------------
-  MD5: b4a227990136c3ca693819a313f5362d   [azjabber-1.0.3.zip](/?dl=azjabber-1.0.3.zip)
+  MD5: b4a227990136c3ca693819a313f5362d   [azjabber-1.0.3.zip](http://www.offlineblog.com/?dl=azjabber-1.0.3.zip)
 
-  MD5: 6d74e971b15c4fc236248df845a69e96   [azjabber-1.0.2.zip](/?dl=azjabber-1.0.2.zip)
+  MD5: 6d74e971b15c4fc236248df845a69e96   [azjabber-1.0.2.zip](http://www.offlineblog.com/?dl=azjabber-1.0.2.zip)
 
-  MD5: 344d5fb26d749244cb712d153e2fb65a   [azjabber-1.0.1.zip](/?dl=azjabber-1.0.1.zip)
+  MD5: 344d5fb26d749244cb712d153e2fb65a   [azjabber-1.0.1.zip](http://www.offlineblog.com/?dl=azjabber-1.0.1.zip)
 
-  MD5: 59e6573ef2627b2ffdd55ab718c7e1c9   [azjabber-1.0.0.zip](/?dl=azjabber-1.0.0.zip)
-  --------------------------------------- -----------------------------------------------
+  MD5: 59e6573ef2627b2ffdd55ab718c7e1c9   [azjabber-1.0.0.zip](http://www.offlineblog.com/?dl=azjabber-1.0.0.zip)
+
+

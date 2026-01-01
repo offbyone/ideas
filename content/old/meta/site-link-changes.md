@@ -1,11 +1,12 @@
-Title: Site link changes
-date: 2004-06-23 09:07
-author: offby1
+---
+title: Site link changes
+slug: site-link-changes
+date: "2004-06-23 09:07"
 category: Meta
 tags: meta
-slug: site-link-changes
+author: offby1
 status: draft
-
+---
 I'm making what I hope will be a small change to the way that the site handles post links, instead of working with index.php and queries it'll work with files and directories on the web server.
 
 The thing is, according to "Char":http://www.livejournal.com/users/xraystar/ this didn't work too terrifically well last time I tried it.

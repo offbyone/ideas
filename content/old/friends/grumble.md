@@ -1,11 +1,16 @@
-Title: Grumble...
-date: 2006-08-08 16:29
-author: offby1
-category: Friends, General Thoughts, Projects
-tags: friends, projects, school, work
+---
+title: Grumble...
 slug: grumble
+date: "2006-08-08 16:29"
+category: Friends, General Thoughts, Projects
+tags:
+  - friends
+  - projects
+  - school
+  - work
+author: offby1
 status: draft
-
+---
 Well, no news on the legal rights front -- my queries to Ask.Metafilter went well-answered, but the message I sent to the CCLA didn't get me any response, so I'll be sending something again, in the hopes that someone there will answer.
 
 Not a lot new -- getting ready to end the internship, mainly, and return to the academic life, poverty and all. I'll be part time anyway, but it'll be interesting, being back on the grind.

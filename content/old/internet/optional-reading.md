@@ -1,11 +1,15 @@
-Title: Optional Reading
-date: 2007-12-09 17:15
-author: offby1
-category: Internet
-tags: askmetafilter, book, consume
+---
+title: Optional Reading
 slug: optional-reading
+date: "2007-12-09 17:15"
+category: Internet
+tags:
+  - askmetafilter
+  - book
+  - consume
+author: offby1
 status: draft
-
+---
 On a significantly lighter note, here's a place you can go when you run out of books to read:
 
 [ReadMe](http://mssv.net/wiki/index.php/ReadMe)

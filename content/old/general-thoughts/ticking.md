@@ -1,11 +1,12 @@
-Title: Ticking...
-date: 2006-02-08 21:05
-author: offby1
+---
+title: Ticking...
+slug: ticking
+date: "2006-02-08 21:05"
 category: General Thoughts
 tags: news
-slug: ticking
+author: offby1
 status: draft
-
+---
 It's been a long week, so I apologize for the lack of content.
 
 Nasty shit going on in the world, for those who read the news.

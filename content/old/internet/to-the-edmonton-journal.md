@@ -1,11 +1,16 @@
-Title: To the Edmonton Journal
-date: 2006-01-30 09:42
-author: offby1
-category: Internet, Media, Rants
-tags: fuck telus, internet, media, rants
+---
+title: To the Edmonton Journal
 slug: to-the-edmonton-journal
+date: "2006-01-30 09:42"
+category: Internet, Media, Rants
+tags:
+  - fuck telus
+  - internet
+  - media
+  - rants
+author: offby1
 status: draft
-
+---
 | (I just sent in this letter to the editor)
 | Regarding "\`Web superhighway likely to be toll road \<http://www.canada.com/edmontonjournal/news/story.html?id=7d971979-7f62-47a1-9895-c9e15fcfeb20&k=44014\>\`\__" (Jan 30):
 

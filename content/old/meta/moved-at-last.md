@@ -1,11 +1,12 @@
-Title: Moved, at last
-date: 2006-08-27 18:15
-author: offby1
+---
+title: Moved, at last
+slug: moved-at-last
+date: "2006-08-27 18:15"
 category: Meta
 tags: meta
-slug: moved-at-last
+author: offby1
 status: draft
-
+---
 Please, watch this space again for interesting commentary.
 
 The move is complete, I'm now on a faster, more congenial host.

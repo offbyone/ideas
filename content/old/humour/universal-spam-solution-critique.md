@@ -1,11 +1,16 @@
-Title: Universal Spam Solution Critique
-date: 2007-10-11 20:59
-author: offby1
-category: Humour, Internet
-tags: checklist, humour, murder, spam
+---
+title: Universal Spam Solution Critique
 slug: universal-spam-solution-critique
+date: "2007-10-11 20:59"
+category: Humour, Internet
+tags:
+  - checklist
+  - humour
+  - murder
+  - spam
+author: offby1
 status: draft
-
+---
 Because I've recently read the _tragic_ news that a Russian spam baron was found dead under suspicious circumstances, and because that's probably not a good long-term solution to the problem, I bring you:
 
 **The universal spam solution critique**

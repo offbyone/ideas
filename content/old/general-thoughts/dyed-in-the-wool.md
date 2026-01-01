@@ -1,11 +1,12 @@
-Title: Dyed in the Wool?
-date: 2006-07-02 11:51
-author: offby1
+---
+title: Dyed in the Wool?
+slug: dyed-in-the-wool
+date: "2006-07-02 11:51"
 category: General Thoughts, Rants
 tags: rants
-slug: dyed-in-the-wool
+author: offby1
 status: draft
-
+---
 Despite the fact that I am, as the title suggests, a dyed-in-the-wool conservative in a great may respects, I like to think that I'm not particularly reactionary in most respects. That being said, there is an interesting conservative reaction I have regarding a few modern conveniences.
 
 The first one is cell phones. As discussed [on the waiter rant](http://waiterrant.net/?p=328) a few days ago, and spotted via MetaFilter (where else?) people have a bizarre love-hate relationship with cell phones, and more generally with their users. On the one hand, it's leading to a change in social norms, as people start having conversations that could, at best, be viewed as debatably appropriate for public consumption in subways, busses, restaurants, and other places.

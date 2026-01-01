@@ -1,9 +1,10 @@
-Title: LibraryThing Blog Widget
-date: 2006-04-06 18:27
-author: offby1
+---
+title: LibraryThing Blog Widget
 slug: librarything-blog-widget
+date: "2006-04-06 18:27"
+author: offby1
 status: published
-
+---
 There's not a lot to show, here. This widget will show you a selection of books from LibraryThing in the sidebar of your WordPress weblog.
 
 | Get it here:

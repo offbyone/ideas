@@ -1,11 +1,12 @@
-Title: A Vignette
-date: 2005-05-26 06:40
-author: offby1
+---
+title: A Vignette
+slug: a-vignette
+date: "2005-05-26 06:40"
 category: Asides, General Thoughts
 tags: asides
-slug: a-vignette
+author: offby1
 status: draft
-
+---
 Yesterday, on the way home from _Lobster Telephone_, a play starring Mark Meer as Salvador Dali (+ others), A lady on the bus spoke to me, pointing out the beautiful colours of the sunset happening outside the bus window behind me.
 
 It's a rare thing, that people speak to strangers in public. It caught me off guard, but I made an effort to be responsive, in order to leave her feeling as though she should do it again. That, and it really _was_ a very pretty sunset.

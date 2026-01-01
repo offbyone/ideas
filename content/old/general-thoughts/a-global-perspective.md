@@ -1,11 +1,16 @@
-Title: A global perspective
-date: 2006-12-16 08:56
-author: offby1
-category: General Thoughts
-tags: doodads, perspective, software, space
+---
+title: A global perspective
 slug: a-global-perspective
+date: "2006-12-16 08:56"
+category: General Thoughts
+tags:
+  - doodads
+  - perspective
+  - software
+  - space
+author: offby1
 status: draft
-
+---
 Nothing political, just something that any mac users reading this might like: [EarthDesk](http://www.xericdesign.com/earthdesk.php).
 
 Actually, on reading, it's a Windows app, too, so all of you can use it :)

@@ -1,11 +1,17 @@
-Title: Privacy?  What privacy?
-date: 2006-09-09 16:39
-author: offby1
-category: General Thoughts, Internet, Media, Rants
-tags: asshole, craigslist, entrapment, internet, privacy
+---
+title: Privacy?  What privacy?
 slug: privacy-what-privacy
+date: "2006-09-09 16:39"
+category: General Thoughts, Internet, Media, Rants
+tags:
+  - asshole
+  - craigslist
+  - entrapment
+  - internet
+  - privacy
+author: offby1
 status: draft
-
+---
 One might be led to wonder whether there is any real expectation of privacy, out in the wilds of the internet. Certainly, it's clear that people typically act in such a way as to minimize this. An example, and one with more than a few facets to be examined, is the [incident provoked (and prodded\... and \...)](http://rfjason.livejournal.com/410835.html) by a blogger by the name of Jason Fortuny.
 
 Fortuny, looking at [Craigslist](https://www.craigslist.org), observed this, and made a decision that is \-- at best \-- unethical, and at worst actively sociopathic. He posted an explicit ad to a casual encounters section of a Craigslist site (a section devoted to hooking up for no-strings-attached sex) and waited for responses. Those, he got in spades. Having accumulated a fair number of responses from all walks of life, containing personal information such as phone numbers, names, e-mail addresses, and photos \-- many of which consisted of nude or semi-nude shots \-- he proceeded to post this information to the web.

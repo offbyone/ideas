@@ -1,11 +1,14 @@
-Title: Growing pain
-date: 2003-01-30 06:31
-author: offby1
-category: General Thoughts
-tags: computer, health
+---
+title: Growing pain
 slug: growing-pain
+date: "2003-01-30 06:31"
+category: General Thoughts
+tags:
+  - computer
+  - health
+author: offby1
 status: draft
-
+---
 As some of you probably know, for the last couple of years my right wrist has been getting more and more sore and strained. This isn't really a surprise to me, since [carpal tunnel syndrome](http://www.ctsplace.com/) is basically a known side effect of spending as much time as i do at the computer.
 
 The thing is, now that i'm actually taking steps down a path towards a *career* in computing, i have to do something about it, because the condition is only getting worse as time goes by, not better.

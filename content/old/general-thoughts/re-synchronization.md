@@ -1,11 +1,12 @@
-Title: Re-synchronization
-date: 2006-01-06 07:42
-author: offby1
+---
+title: Re-synchronization
+slug: re-synchronization
+date: "2006-01-06 07:42"
 category: General Thoughts, Media
 tags: media
-slug: re-synchronization
+author: offby1
 status: draft
-
+---
 What am I up to?
 
 Not much -- I'm very very bored, these days. I suppose I could work on work stuff\... Or I could work on some kind of personal coding project. But I just don't feel like it.

@@ -1,11 +1,14 @@
-Title: The great adventure...
-date: 2005-09-23 06:55
-author: offby1
-category: General Thoughts
-tags: computer, linux
+---
+title: The great adventure...
 slug: the-great-adventure
+date: "2005-09-23 06:55"
+category: General Thoughts
+tags:
+  - computer
+  - linux
+author: offby1
 status: draft
-
+---
 begins today.
 
 Well, yesterday.

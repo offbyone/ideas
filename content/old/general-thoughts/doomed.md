@@ -1,11 +1,15 @@
-Title: Doomed
-date: 2004-08-04 20:38
-author: offby1
-category: General Thoughts
-tags: doom, games, look at you hacker a pathetic creature of meat and bone
+---
+title: Doomed
 slug: doomed
+date: "2004-08-04 20:38"
+category: General Thoughts
+tags:
+  - doom
+  - games
+  - look at you hacker a pathetic creature of meat and bone
+author: offby1
 status: draft
-
+---
 As can also be gleaned over [here](http://www.offlineblog.com/mildillson/index.php?p=260), "Doom 3":http://www.doom3.com/ has been released, and I have acquired a copy for myself as well. I'm holding off purchasing it until payday (or the one after -- but I *am* going to buy it)
 
 Jebus, this game is gorgeous.

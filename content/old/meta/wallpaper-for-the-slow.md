@@ -1,11 +1,12 @@
-Title: Wallpaper For The Slow
-date: 2006-10-02 21:10
-author: offby1
+---
+title: Wallpaper For The Slow
+slug: wallpaper-for-the-slow
+date: "2006-10-02 21:10"
 category: Meta
 tags: meta
-slug: wallpaper-for-the-slow
+author: offby1
 status: draft
-
+---
 Sorry, Dad, I looked at the sizes and decided that it wasn't TOO bad to use this theme.
 
 For faster loading, if anyone feels that this loads too slow, pick a wallpaper that's tiled (from the row of squares on the top of the page, below the title) -- as of this writing, there's just one, a grey stripes sort of dealie.

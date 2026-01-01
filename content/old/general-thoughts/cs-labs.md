@@ -1,11 +1,12 @@
-Title: CS labs
-date: 2002-11-08 10:31
-author: offby1
+---
+title: CS labs
+slug: cs-labs
+date: "2002-11-08 10:31"
 category: General Thoughts
 tags: school
-slug: cs-labs
+author: offby1
 status: draft
-
+---
 Churning through my CS labs, as usual. I think i'm annoying the prof, but that's okay. At least in the labs my questions are relevant, which is more than i can say about the lecture sessions\... Since i don't actually know java, i have to ask stuff that, if it were in Delphi, i would already know. What's really "entertaining" is the game we're building\... Oooh, Checkers!
 
 You know, for the life of me, i can't remember ever having played Checkers. This game is pointless. We should have built Go or something.

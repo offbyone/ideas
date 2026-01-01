@@ -1,9 +1,10 @@
-Title: Azureus Plugin Tutorial v0.2
-date: 2004-12-22 08:02
-author: offby1
+---
+title: Azureus Plugin Tutorial v0.2
 slug: azureus-plugin-tutorial
+date: "2004-12-22 08:02"
+author: offby1
 status: published
-
+---
 [Azureus](http://azureus.sourceforge.net) is my BitTorrent client of choice, but I've found on occasion that its functionality is a bit lacking. However, fortunately for me it is extensible via plugins, which has enabled me to add my own functionality to it.
 
 This is a brief tutorial on how to use the Azureus plugin interface to make a simple plugin that aggregates some basic information about your torrents and logs it. Some listeners are used, and some of the basic utilities for creating views and configuration pages are also included. Since this is my first tutorial, I'm not sure it'll be adequate, but feel free to use this page's comment section to provide feedback on it and tell me how I went horribly, horribly wrong.
@@ -18,22 +19,22 @@ This is a brief tutorial on how to use the Azureus plugin interface to make a si
 | On the off chance you're not using it already, I recommend you download [Eclipse](http://www.eclipse.org/) to start with. Install it however you like.
 
 #### Libraries (Azureus and SWT)
-| You'll need the source code for Azureus, since at this time there is no pure Plugin SDK for it. This leads to a bit of confusion over what parts of the code to use, but I'll try clear that up. You can get the source [here](<http://azureus.sourceforge.net/download.php>) \-- download the source zip at the bottom of the page. This tutorial is based on the 2.2.0.0 code, but the parts I'm using should be pretty basic across at least a few versions. Unzip the source zip into [dev]/Azureus_2.2.0.0_source (here's where the assumptions start \-- I'll be assuming a simple and clear folder layout for your files) Also download the actual Azureus jar from the above location, and install it wherever you like \-- you can use the jarfile from your existing Azureus installation, which is what I did. Although you may or may not need these for your plugin (for this tutorial it's not strictly necessary) it pays to have SWT(Standard Widget Toolkit) installed. Get it [here](<http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/platform-swt-home/main.html>) and unzip the source package into [dev]/swt-3.0.1-win32 (Note that I assume SWT v3.0.1 which is the release version as of this writing. The version number should remain more or less irrelevant as long as it begins with 3)
+| You'll need the source code for Azureus, since at this time there is no pure Plugin SDK for it. This leads to a bit of confusion over what parts of the code to use, but I'll try clear that up. You can get the source [here](http://azureus.sourceforge.net/download.php) \-- download the source zip at the bottom of the page. This tutorial is based on the 2.2.0.0 code, but the parts I'm using should be pretty basic across at least a few versions. Unzip the source zip into [dev]/Azureus_2.2.0.0_source (here's where the assumptions start \-- I'll be assuming a simple and clear folder layout for your files) Also download the actual Azureus jar from the above location, and install it wherever you like \-- you can use the jarfile from your existing Azureus installation, which is what I did. Although you may or may not need these for your plugin (for this tutorial it's not strictly necessary) it pays to have SWT(Standard Widget Toolkit) installed. Get it [here](http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/platform-swt-home/main.html) and unzip the source package into [dev]/swt-3.0.1-win32 (Note that I assume SWT v3.0.1 which is the release version as of this writing. The version number should remain more or less irrelevant as long as it begins with 3)
 
 ### Eclipse Config
 
 #### Libraries
 | First thing you need to do with Eclipse (other IDEs are exercises left to the reader) is configure the above libraries. For each of them, you need open the Classpath Variables preferences page (Window-\>Preferences: Java -\> Build Path -\> Classpath Variables) and add the libraries:
 
-\![Preferences Window](<http://www.offlineblog.com/images/prefs.png>)
+\![Preferences Window](http://www.offlineblog.com/images/prefs.png)
 
-\![Classpath Preferences](<http://www.offlineblog.com/images/classpath.png>)
+\![Classpath Preferences](http://www.offlineblog.com/images/classpath.png)
 
 You also have to add:
 
-| - [AZUREUS_SRC](([dev]/Azureus_2.2.0.0_source.zip))
-| - [SWT_LIB](([dev]/swt-3.0.1-win32/swt.jar))
-| - [SWT_SRC](([dev]/swt-3.0.1-win32/swtsrc.zip))
+- `AZUREUS_SRC` - `[dev]/Azureus_2.2.0.0_source.zip`
+- `SWT_LIB` - `[dev]/swt-3.0.1-win32/swt.jar`
+- `SWT_SRC` - `[dev]/swt-3.0.1-win32/swtsrc.zip`
 
 This assumes that you downloaded the source for SWT as well.
 
@@ -55,7 +56,7 @@ This assumes that you downloaded the source for SWT as well.
 The package I am using (`edu.azureus.example`) can be anything you want it to be, so long as you keep it in sync with the plugin.properties file.
 
 #### plugin.java
-| **Download:** [plugin.java](/code/plugin.java)
+| **Download:** [plugin.java](http://www.offlineblog.com/code/plugin.java)
 
 This is a skeleton of a plugin for logging status changes in torrents. It has a few features of immediate interest:
 
@@ -122,4 +123,4 @@ Deploying your plugin requires that you create a Jar file containing the classes
 
 ### Gotchas
 
-The plugin API for Azureus is not terribly well documented. Generally, though, if you stick to public methods of the pluginInterface and classes from the org.gudy.azureus2.plugins package tree, you're probably going to be okay. If you get stumped, you can post questions as comments to this page, and I'll try to answer them. Also, there's an IRC channel [#azureus](<irc://irc.freenode.net/azureus>) and the sourceforge plugin developer [forum]([http://sourceforge.net/forum/forum.php?forum_id=377614](http://sourceforge.net/forum/forum.php?forum_id=377614)) to try. Hopefully this helps!
+The plugin API for Azureus is not terribly well documented. Generally, though, if you stick to public methods of the pluginInterface and classes from the org.gudy.azureus2.plugins package tree, you're probably going to be okay. If you get stumped, you can post questions as comments to this page, and I'll try to answer them. Also, there's an IRC channel <a href="irc://irc.freenode.net/azureus">#azureus</a> and the sourceforge plugin developer [forum](http://sourceforge.net/forum/forum.php?forum_id=377614) to try. Hopefully this helps!

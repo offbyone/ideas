@@ -1,11 +1,12 @@
-Title: Spam in the comments
-date: 2003-11-11 21:04
-author: offby1
+---
+title: Spam in the comments
+slug: spam-in-the-comments
+date: "2003-11-11 21:04"
 category: Meta
 tags: meta
-slug: spam-in-the-comments
+author: offby1
 status: draft
-
+---
 Although the offenses in question have more or less confined themselves to entries farther down the homepage, I've been getting spammed a few times a week, on *my own website*! However, it seems that i'm not the only one, and a few other people are mad as hell [and don't intend to take it anymore](http://kalsey.com/2003/11/comment_spam_manifesto/).
 
 It seems that, through some strange agency, my site now actually has enough incoming links to qualify it as a search engine ratings booster. Kind of a backhanded compliment from spammers, i guess.

@@ -1,11 +1,12 @@
-Title: On medicine
-date: 2004-06-18 08:00
-author: offby1
+---
+title: On medicine
+slug: on-medicine
+date: "2004-06-18 08:00"
 category: Rants
 tags: rants
-slug: on-medicine
+author: offby1
 status: draft
-
+---
 From the links of Metafilter comes "this":http://www.usatoday.com/news/nation/2004-06-13-med-malpractice_x.htm (with [attendant discussion](http://www.metafilter.com/mefi/33767)).
 
 As a consistent supporter of private delivery of healthcare, this sort of thing is the one issue that always presents itself whenever I try to firm up said support to 100%. I have a hard time being unequivocal in my support of such a system when there are examples like this one to caution me.

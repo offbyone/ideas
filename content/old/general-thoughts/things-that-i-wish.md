@@ -1,11 +1,12 @@
-Title: Things that I wish
-date: 2004-09-29 09:07
-author: offby1
+---
+title: Things that I wish
+slug: things-that-i-wish
+date: "2004-09-29 09:07"
 category: General Thoughts, Rants
 tags: rants
-slug: things-that-i-wish
+author: offby1
 status: draft
-
+---
 Okay, _thing_ that I wish.
 
 I wish that my iPod was not a dead lump of metal, plastic, and silicon sitting on my desk taunting me with the space that it could be using for music that is now unavailable to me because it slipped from my hand yesterday afternoon and fell to the ground, damaging the hard drive irreparably.

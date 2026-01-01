@@ -1,11 +1,15 @@
-Title: Old times, new places
-date: 2003-06-14 13:43
-author: offby1
-category: General Thoughts
-tags: bar, music, work
+---
+title: Old times, new places
 slug: old-times-new-places
+date: "2003-06-14 13:43"
+category: General Thoughts
+tags:
+  - bar
+  - music
+  - work
+author: offby1
 status: draft
-
+---
 Went out to the bar last night, for the first time in ages. Okay, that's a bit misleading - i was working at the bar. Jenny(i?), who i suspect most of my readers don't know, has put together a fairly decent replacement for the now-completely-defunct spooky kid night that used to be the soft, gooey centre of the local goth/rivet scene. And, being that i've worked with her before, she asked me to do door/bouncer duties.
 
 Hell, it's cash :)

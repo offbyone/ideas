@@ -1,11 +1,14 @@
-Title: And... Five!
-date: 2006-03-31 07:49
-author: offby1
-category: Appreciation, Events, General Thoughts
-tags: appreciation, events
+---
+title: And... Five!
 slug: and-five
+date: "2006-03-31 07:49"
+category: Appreciation, Events, General Thoughts
+tags:
+  - appreciation
+  - events
+author: offby1
 status: draft
-
+---
 Happy anniversary, Char.
 
 It's been five years, now, arguably the best five of my life.  We've had our ups and downs, to be sure, but the ups so far outnumber and outscale the downs that it's difficult to pinpoint anything in particular in the latter  set.

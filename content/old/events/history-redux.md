@@ -1,11 +1,14 @@
-Title: History, redux
-date: 2004-06-06 04:53
-author: offby1
-category: Events, Rants
-tags: events, rants
+---
+title: History, redux
 slug: history-redux
+date: "2004-06-06 04:53"
+category: Events, Rants
+tags:
+  - events
+  - rants
+author: offby1
 status: draft
-
+---
 Also worthy of note: Sixty years ago this day, thousands of oft-sung heroes gave their lives on [five beaches](http://www.cbc.ca/stories/2004/06/04/world/reunion_040604) in Normandy with the intent of breaking the stranglehold the Nazi armies had on Europe.
 
 To my enduring shame, my generation and the ones that come after me continue to dismiss and forget the sacrifices made during those times by all those who risked their lives for our freedom.

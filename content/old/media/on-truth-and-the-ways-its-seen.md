@@ -1,11 +1,12 @@
-Title: On truth and the ways it's seen
-date: 2003-05-05 13:27
-author: offby1
+---
+title: On truth and the ways it's seen
+slug: on-truth-and-the-ways-its-seen
+date: "2003-05-05 13:27"
 category: Media
 tags: media
-slug: on-truth-and-the-ways-its-seen
+author: offby1
 status: draft
-
+---
 As a longtime opponent of video surveillance, i tend to keep my eyes on the proliferation of the technologies that ease its intrusion into our lives. I've even commented on this from time to time in my postings here. What i'm really looking for, though, is the ways it can be abused. My concern with privacy issues is not, in and of itself, of interest to the average man on the street. What i can point out to said MOTS, though, is the ways that this technology can be used and misused to harm them.
 
 One of the first responses to this concern on my part is the "If you're not doing anything wrong you don't have anything to fear". My usual response to this is pretty simple: What you're doing right now might not be wrong, but that doesn't mean it'll stay that way. Nor does it mean that you'll have a say in it changing.

@@ -1,11 +1,17 @@
-Title: Updatey Things
-date: 2005-05-18 19:47
-author: offby1
-category: Events, General Thoughts, Media, Meta
-tags: events, media, meta, school, work
+---
+title: Updatey Things
 slug: updatey-things
+date: "2005-05-18 19:47"
+category: Events, General Thoughts, Media, Meta
+tags:
+  - events
+  - media
+  - meta
+  - school
+  - work
+author: offby1
 status: draft
-
+---
 It's been a bit since my last update, much to my chagrin. Sorry, folks, I'll try to keep on the ball.
 
 So, here's the rundown:

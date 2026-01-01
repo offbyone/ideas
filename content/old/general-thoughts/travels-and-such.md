@@ -1,11 +1,16 @@
-Title: Travels and such
-date: 2006-07-17 08:35
-author: offby1
-category: General Thoughts
-tags: concert, disc golf, road trip, speeding
+---
+title: Travels and such
 slug: travels-and-such
+date: "2006-07-17 08:35"
+category: General Thoughts
+tags:
+  - concert
+  - disc golf
+  - road trip
+  - speeding
+author: offby1
 status: draft
-
+---
 So, I've returned, both to the province and to writing things on this much-ignored online scratchpad. All for you, I swear! If only people would talk back ;)
 
 Anyway, the week has been pretty eventful. Beau and I took off tuesday for a six-day disc golf tour of southern British Columbia. This is something we've had planned for a fair while, with a general plan of heading to Pender Island, a course which Beau really enjoyed when he still lived on Vancouver Island.

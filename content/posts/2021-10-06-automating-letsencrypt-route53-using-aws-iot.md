@@ -1,13 +1,20 @@
-Title: Using AWS IoT to provision an IAM role for home lab devices
+---
+title: Using AWS IoT to provision an IAM role for home lab devices
 slug: automating-letsencrypt-route53-using-aws-iot
-date: 2021-10-06T23:17:22.563676
+date: 2021-10-06 23:17:22.563676
 category: homelab
-tags: aws, iot, terraform, ansible, letsencrypt, automation
+tags:
+  - aws
+  - iot
+  - terraform
+  - ansible
+  - letsencrypt
+  - automation
 author: Chris Rose
 email: offline@offby1.net
 summary: Being a description of the steps I went through to turn my Raspberry Pi devices into IoT things so that I could eventually have them automatically use letsencrypt.
 status: published
-
+---
 I'm going to start with a bit of a rambling preamble (pre-ramble?) about what I wanted to achieve, and some of the semi-arbitrary constraints I set for myself.
 
 (This is part 1 of a 2-part series. The second will cover the LetEncrypt setup challenges)
@@ -374,7 +381,7 @@ Lastly, we install the systemd unit that refreshes the credentials and the timer
 
 ## `templates/iot-credentials.env.j2`
 
-``` jinja2
+```jinja
 # This uses the same transform as in the terraform module, above.
 # The output should match
 IOT_THING_NAME={{ ansible_fqdn | replace('.', '-') }}

@@ -1,11 +1,14 @@
-Title: Place your support requests here.
-date: 2003-11-12 11:20
-author: offby1
-category: Asides, Projects
-tags: asides, projects
+---
+title: Place your support requests here.
 slug: plugin-support-post
+date: "2003-11-12 11:20"
+category: Asides, Projects
+tags:
+  - asides
+  - projects
+author: offby1
 status: draft
-
+---
 | \## Update
 | Support requests can now be filed at [my support site](http://offby1.no-ip.org:8080)
 

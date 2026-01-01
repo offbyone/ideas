@@ -1,8 +1,9 @@
-Title: About Me
-Category: personal
-Slug: about
-Status: published
-
+---
+title: About Me
+slug: about
+category: personal
+status: published
+---
 ## How to reach me about content here
 
 The best way to reach me if you want a speedy response is via my Mastodon account: <span class="fa-brands fa-mastodon"></span>[@offby1@wandering.shop](https://wandering.shop/@offby1); DMs are open on that account, so if you have a comment about a post or just want to drop a line, use that. Each post has a link at the bottom where you can reference that specific one.

@@ -1,12 +1,19 @@
-Title: Abandoned Past
-Date: 2007-10-14 23:33
-Author: offby1
-Category: media
-Tags: comics, dystopia, melancholy, science fiction, Transmetropolitan, Warren Ellis
-Slug: abandoned-past
-Status: published
-Summary: Transmetropolitan's take on how we treat the past
-
+---
+title: Abandoned Past
+slug: abandoned-past
+date: "2007-10-14 23:33"
+category: media
+tags:
+  - comics
+  - dystopia
+  - melancholy
+  - science fiction
+  - Transmetropolitan
+  - Warren Ellis
+author: offby1
+summary: Transmetropolitan's take on how we treat the past
+status: published
+---
 There's a comic book called _Transmetropolitan_... a book for which
 the words "comic book" are insufficient to convey the quality of the
 story and writing that its author, Warren Ellis, has put into it. It's

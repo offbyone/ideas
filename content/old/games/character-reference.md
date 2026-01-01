@@ -1,11 +1,15 @@
-Title: Character Reference
-date: 2011-02-14 00:05
-author: offby1
-category: life
-tags: character, pathfinder, gaming
+---
+title: Character Reference
 slug: character-reference
+date: "2011-02-14 00:05"
+category: life
+tags:
+  - character
+  - pathfinder
+  - gaming
+author: offby1
 status: published
-
+---
 I am about to start playing D&D again as a player for the first time in years. Well, not D&D specifically, so much as Pathfinder. It's a bit jarring -- having run a 4E campaign for a while -- going back to the Vancian magic system that characterized D&D all the way through to third edition.
 
 On my plate for this campaign are two things; one is to develop a character that I can play and enjoy, and two -- this is much geekier --to determine the changeset between D&D3.5E and Pathfinder; there have to be some differences, but I'm not sure what they are.

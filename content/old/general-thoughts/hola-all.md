@@ -1,11 +1,18 @@
-Title: Hola, all
-date: 2008-04-24 22:10
-author: offby1
-category: General Thoughts
-tags: integration, projects, travel, unicode, utf-8, work
+---
+title: Hola, all
 slug: hola-all
+date: "2008-04-24 22:10"
+category: General Thoughts
+tags:
+  - integration
+  - projects
+  - travel
+  - unicode
+  - utf-8
+  - work
+author: offby1
 status: draft
-
+---
 Well, shit. Another week, another dry spell on the blog.
 
 Actually, two weeks. My, how time flies\...

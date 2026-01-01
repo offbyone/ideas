@@ -1,11 +1,15 @@
-Title: An Expedition up the Amazon
-date: 2011-06-01 01:46
-author: offby1
-category: amazon
-tags: amazon, emigration, seattle
+---
+title: An Expedition up the Amazon
 slug: an-expedition-up-the-amazon
+date: "2011-06-01 01:46"
+category: amazon
+tags:
+  - amazon
+  - emigration
+  - seattle
+author: offby1
 status: published
-
+---
 About three months ago, I was contacted by a recruiter for Amazon. Yes, that Amazon. The big kahuna. One of the titans of the tech industry. Some emails flew back and forth, some phone interviews occurred, and one in-person interview as well, and shortly after PyCon US 2011 (which was awesome, by the way!) I was made an offer that I couldn't refuse.
 
 So, here I am. In Seattle, a resident of the USA, joined by Char & Matthew in what could be at least described as the most disruptive job change I've ever had.

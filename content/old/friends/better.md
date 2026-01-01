@@ -1,11 +1,14 @@
-Title: Better
-date: 2006-03-03 15:59
-author: offby1
-category: Friends, General Thoughts
-tags: friends, school
+---
+title: Better
 slug: better
+date: "2006-03-03 15:59"
+category: Friends, General Thoughts
+tags:
+  - friends
+  - school
+author: offby1
 status: draft
-
+---
 Having an attack *of* confidence is great.
 
 I checked my mark rankings in CS 313 yesterday, and discovered that --contrary to my expectations -- I'm #6 in the class of 35. It's still not great, but it's tolerable. So I feel better about that.

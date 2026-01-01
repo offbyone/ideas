@@ -1,11 +1,15 @@
-Title: To Brin, I Direct this Writing
-date: 2006-05-20 10:21
-author: offby1
-category: General Thoughts, Rants
-tags: intellectual property, privacy, rants
+---
+title: To Brin, I Direct this Writing
 slug: to-brin-i-direct-this-writing
+date: "2006-05-20 10:21"
+category: General Thoughts, Rants
+tags:
+  - intellectual property
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 David Brin, author of (amongst other things) "Glory Season" and, more relevant, "Earth," is what one might call a *surveillance utopianist*, if such a term might be coined.
 
 He argues (and argues well, I might add) that a world where our expectations of privacy have eroded to the point of total worldwide information transparency, to a degree where secrecy is one of the few true crimes left in the world, would be a good thing. "Earth" is founded, vaguely, on this idea, and although its protagonist seeks secrecy for just reasons, Brin himself gives every indication that he believes privacy to be an anachronism, a legacy of humanity's brutal rise into civilization, and one best left behind.

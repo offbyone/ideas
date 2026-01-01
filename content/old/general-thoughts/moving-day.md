@@ -1,11 +1,15 @@
-Title: Moving day
-date: 2002-12-06 08:42
-author: offby1
-category: General Thoughts
-tags: computer, geeky, moving
+---
+title: Moving day
 slug: moving-day
+date: "2002-12-06 08:42"
+category: General Thoughts
+tags:
+  - computer
+  - geeky
+  - moving
+author: offby1
 status: draft
-
+---
 Not out of the house, but from one room to another. Ever moved three computers, two desks, a table, a shelving unit, and about 300lbs of assorted junk? And it was the computers that were the worst, by far. Both Char and i underestimated the time requirements here - it took waaaay longer than we planned for.
 
 Think of it this way. Three computers, approximately 5-7 cables each, all tangled. Buried under/over desk legs, table legs, wrapped around each other, lying in slithering pools on the floor.. Well, not actually *slithering*, but you get the idea, i'm sure. It wasn't a lot of fun.

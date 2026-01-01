@@ -1,11 +1,15 @@
-Title: Post Slug
-date: 2006-04-08 11:41
-author: offby1
-category: Asides, Friends, General Thoughts
-tags: asides, friends, school
+---
+title: Post Slug
 slug: post-slug
+date: "2006-04-08 11:41"
+category: Asides, Friends, General Thoughts
+tags:
+  - asides
+  - friends
+  - school
+author: offby1
 status: draft
-
+---
 Ye heavenly hosts, I am undermotivated today.
 
 According to my spell checker, "undermotivated" is not a word.

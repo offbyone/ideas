@@ -1,11 +1,25 @@
-Title: Sitrep
-Date: 2007-05-10 12:40
-Author: offby1
-Category: General Thoughts
-Tags: alive, bike, char, commuting, dislocation, fear, health, meta, politics, primitive superstition, skydiving, undue risk, work
-Slug: sitrep
-Status: draft
-
+---
+title: Sitrep
+slug: sitrep
+date: "2007-05-10 12:40"
+category: General Thoughts
+tags:
+  - alive
+  - bike
+  - char
+  - commuting
+  - dislocation
+  - fear
+  - health
+  - meta
+  - politics
+  - primitive superstition
+  - skydiving
+  - undue risk
+  - work
+author: offby1
+status: draft
+---
 # Sitrep
 
 Well, it's been a bit; I'm not sure why, but I've been undermotivated to

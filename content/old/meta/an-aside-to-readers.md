@@ -1,11 +1,14 @@
-Title: An aside to readers
-date: 2006-09-05 22:16
-author: offby1
-category: Meta, Projects
-tags: meta, projects
+---
+title: An aside to readers
 slug: an-aside-to-readers
+date: "2006-09-05 22:16"
+category: Meta, Projects
+tags:
+  - meta
+  - projects
+author: offby1
 status: draft
-
+---
 If you happen to be a reader of either of this site's child blogs, Morruz or MildIllSon, they're sort of moved now.
 
 Oh, the content already moved, but the blogs themselves are best reached at a slightly different address:

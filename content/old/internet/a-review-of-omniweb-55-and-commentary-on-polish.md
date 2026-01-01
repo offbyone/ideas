@@ -1,11 +1,14 @@
-Title: A review of OmniWeb 5.5, and commentary on polish.
-date: 2006-09-07 07:02
-author: offby1
-category: Internet, Rants
-tags: internet, rants
+---
+title: A review of OmniWeb 5.5, and commentary on polish.
 slug: a-review-of-omniweb-55-and-commentary-on-polish
+date: "2006-09-07 07:02"
+category: Internet, Rants
+tags:
+  - internet
+  - rants
+author: offby1
 status: draft
-
+---
 A few weeks ago, I purchased a license for [OmniWeb 5.5](http://www.omnigroup.com/applications/omniweb/) during its beta phase. I became aware of it a couple of years ago, when it became the darling of the mac-using contingent of the Software Systems group at the U of A, mainly due to its polished user experience and stability.
 
 I have not been so enamoured of it, I have to regretfully confess, and I have -- reluctantly, since I *paid* for it -- returned to the arms of [Camino](http://www.caminobrowser.org/).

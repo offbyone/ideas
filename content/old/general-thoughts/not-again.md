@@ -1,11 +1,14 @@
-Title: Not again!
-date: 2004-07-17 23:32
-author: offby1
-category: General Thoughts
-tags: sleep, work
+---
+title: Not again!
 slug: not-again
+date: "2004-07-17 23:32"
+category: General Thoughts
+tags:
+  - sleep
+  - work
+author: offby1
 status: draft
-
+---
 I'm sitting here in my basement writing this as all around me falls what looks to be another biblical downpour. I'm listening to both Metallica and the sound of rain falling outside -- since I can hear the latter even over the former.
 
 I'm beginning to think that I won't be working tomorrow :)

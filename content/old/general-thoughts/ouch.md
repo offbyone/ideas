@@ -1,11 +1,15 @@
-Title: Ouch
-date: 2007-07-20 16:49
-author: offby1
-category: General Thoughts
-tags: bike, pain, undue risk
+---
+title: Ouch
 slug: ouch
+date: "2007-07-20 16:49"
+category: General Thoughts
+tags:
+  - bike
+  - pain
+  - undue risk
+author: offby1
 status: draft
-
+---
 | First blood: Bike.
 | Second blood: Me.
 

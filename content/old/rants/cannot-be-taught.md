@@ -1,11 +1,16 @@
-Title: Cannot Be Taught
-date: 2009-02-18 16:20
-author: offby1
-category: society
-tags: education, entitlement, parenting, society
+---
+title: Cannot Be Taught
 slug: cannot-be-taught
+date: "2009-02-18 16:20"
+category: society
+tags:
+  - education
+  - entitlement
+  - parenting
+  - society
+author: offby1
 status: draft
-
+---
 Here's something that I will do my damnedest to teach my child: Just because you worked hard doesn't mean you worked *well*.
 
 > In line with Dean Hogge's observation are Professor Greenberger's test results. Nearly two-thirds of the students surveyed said that if they explained to a professor that they were trying hard, that should be taken into account in their grade.

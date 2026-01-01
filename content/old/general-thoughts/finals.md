@@ -1,11 +1,12 @@
-Title: Finals
-date: 2004-04-30 13:09
-author: offby1
+---
+title: Finals
+slug: finals
+date: "2004-04-30 13:09"
 category: General Thoughts
 tags: school
-slug: finals
+author: offby1
 status: draft
-
+---
 Although it's obviously no longer the focus of this little piece of the web, I _do_ have my final grades in for my courses for this semester:
 
 | * Psych 258: B- (the lowest grade)

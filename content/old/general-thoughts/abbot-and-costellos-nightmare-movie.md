@@ -1,11 +1,14 @@
-Title: Abbot and Costello's Nightmare Movie
-date: 2004-05-30 20:45
-author: offby1
-category: General Thoughts, Media, Rants
-tags: media, rants
+---
+title: Abbot and Costello's Nightmare Movie
 slug: abbot-and-costellos-nightmare-movie
+date: "2004-05-30 20:45"
+category: General Thoughts, Media, Rants
+tags:
+  - media
+  - rants
+author: offby1
 status: draft
-
+---
 Along with Mir, [Simon](http://www.livejournal.com/users/vernondalhart/), Andrew, and [Char](http://www.livejournal.com/users/xraystar/) (of course) I just watched The Day After Tomorrow, a Jerry Bruckheimer-esque vision of the future of the world, courtesy of Global Warming (insert echoey fright effect here)
 
 As one would imagine, it's a fair amount of schmaltz, and the story itself mainly focuses on plucky americans rescuing plucky americans from (plucky) american cities in nasty bad bad situations.

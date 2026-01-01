@@ -1,14 +1,22 @@
-Title: Expose Your Tailnet Hosts as Ansible Facts
-Slug: tailnet-hosts-as-ansible-facts
-Date: 2025-06-01T08:02:42.139266
-Tags: tailscale, ansible, software, mastodon, infrastructure, wandering.shop, homelab
-Category: internet
-Author: Chris Rose
-Email: offline@offby1.net
-Status: published
-Toot: https://wandering.shop/@offby1/114608855854673274
-Summary: Expose your Tailscale hosts as Ansible facts. Make peer node IPs and tags available in your playbooks
-
+---
+title: Expose Your Tailnet Hosts as Ansible Facts
+slug: tailnet-hosts-as-ansible-facts
+date: 2025-06-01 08:02:42.139266
+category: internet
+tags:
+  - tailscale
+  - ansible
+  - software
+  - mastodon
+  - infrastructure
+  - wandering.shop
+  - homelab
+author: Chris Rose
+email: offline@offby1.net
+summary: Expose your Tailscale hosts as Ansible facts. Make peer node IPs and tags available in your playbooks
+status: published
+toot: "https://wandering.shop/@offby1/114608855854673274"
+---
 [Tailscale](https://tailscale.com) is an encrypted overlay network that "just works", so well that I have adopted it both for my homelab and for the infrastructure of [wandering.shop](https://wandering.shop). In the latter case, I've heavily used [Ansible](https://ansible.com) to make the infrastructure easy to replicate and manage.
 
 Ansible makes information about your hosts available as ["facts"](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_vars_facts.html), which are expressed as a dictionary you can reference alongside other variables in your playbooks and roles. When building wandering.shop, I've often wanted to have access to information about other hosts in the tailent to craft configuration. To that end, I built a local tailnet facter. It does not depend on the Tailscale API, relying entirely on local information about nodes[ref]That has a consequence I'll explain below[/ref].
@@ -96,15 +104,15 @@ In another case, I've used it to identify all peer nodes that are tagged with th
 
 ### The fact code
 
-```shell-script
+```bash
 #!/bin/bash
 
 read -r -d '' peer_json_script <<-'EOF'
       [.Self] + [.Peer | to_entries[] | .value]
       | map(
-          select(has("DNSName") and .DNSName != "")
+          select(has("DNSName") and .DNSName !=)
           | {
-              (.DNSName | sub("[.]$"; "")): {
+              (.DNSName | sub("[.]$";)): {
                 "ip": .TailscaleIPs[0],
                 "ip_v4": .TailscaleIPs[0],
                 "ip_v6": (if .TailscaleIPs[1] then .TailscaleIPs[1] else null end),

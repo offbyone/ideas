@@ -1,11 +1,15 @@
-Title: Tick, Tock
-date: 2011-06-25 08:52
-author: offby1
-category: amazon
-tags: home, nightlife, socializing
+---
+title: Tick, Tock
 slug: tick-tock
+date: "2011-06-25 08:52"
+category: amazon
+tags:
+  - home
+  - nightlife
+  - socializing
+author: offby1
 status: published
-
+---
 So, what's new?
 
 Wow\... where to start\...

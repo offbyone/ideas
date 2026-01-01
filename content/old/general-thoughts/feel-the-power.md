@@ -1,11 +1,14 @@
-Title: Feel The Power
-date: 2004-10-14 18:09
-author: offby1
-category: General Thoughts
-tags: computer, lamer
+---
+title: Feel The Power
 slug: feel-the-power
+date: "2004-10-14 18:09"
+category: General Thoughts
+tags:
+  - computer
+  - lamer
+author: offby1
 status: draft
-
+---
 Purring underneath the sleek black exterior of my new toy is 3GHz of intellerific goodness, doing double dancer duty as a development device.
 
 Yes, that was nonsense.

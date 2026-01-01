@@ -1,11 +1,16 @@
-Title: My life, so far
-date: 2006-03-07 08:36
-author: offby1
-category: Friends, General Thoughts, Media, Projects, Rants
-tags: friends, media, projects, rants
+---
+title: My life, so far
 slug: my-life-so-far
+date: "2006-03-07 08:36"
+category: Friends, General Thoughts, Media, Projects, Rants
+tags:
+  - friends
+  - media
+  - projects
+  - rants
+author: offby1
 status: draft
-
+---
 So where am I at?
 
 Oh, this isn't going to be a "life story" sort of post. It's more of a corny way of saying "Here's what I've been up to over the last week."

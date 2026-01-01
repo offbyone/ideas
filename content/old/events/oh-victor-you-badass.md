@@ -1,11 +1,12 @@
-Title: Oh, Victor, you badass!
-date: 2003-01-18 07:22
-author: offby1
+---
+title: Oh, Victor, you badass!
+slug: oh-victor-you-badass
+date: "2003-01-18 07:22"
 category: Events
 tags: events
-slug: oh-victor-you-badass
+author: offby1
 status: draft
-
+---
 Sometime in the last few months (**Update:** Turns out it's closer to a year), working in a lab in California, a team of scientists has [created the first artificial life form](http://www.newscientist.com/news/news.jsp?id=ns99993275). It's small - based off the E.coli bacterium, but it produces an amino acid that isn't duplicated by any known life form.
 
 Some heavy stuff on the life science front, these last few weeks. Cloning, new lifeforms\... [Discussion](http://www.metafilter.com/comments.mefi/22887) has, of course, ensued. I'm more interested in this, i'll admit, than i am in cloning. While i don't discount the possible benefits that cloning technology might bring, i think that the creative drive behind bringing *new* life forms into being is a purer expression of same than what amounts to vanity science.

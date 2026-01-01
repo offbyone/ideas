@@ -1,11 +1,16 @@
-Title: Is there really a point?
-date: 2005-08-20 07:36
-author: offby1
-category: General Thoughts, Internet, Rants
-tags: intellectual property, internet, privacy, rants
+---
+title: Is there really a point?
 slug: is-there-really-a-point
+date: "2005-08-20 07:36"
+category: General Thoughts, Internet, Rants
+tags:
+  - intellectual property
+  - internet
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 Well, it's more noise, more erosion\...
 
 This "travesty of legal action":http://www.canada.com/windsor/windsorstar/news/story.html?id=906ecfe4-1adc-45e2-998d-cb5c96f01fb2 (also referenced "here":http://www.edmontonsun.com/News/Canada/2005/08/20/1180942-sun.html, "here":http://www.canada.com/national/nationalpost/soundoff/story.html?id=1f0563cf-c372-4224-a917-5a3f27e0455b, "here":http://www.canada.com/technology/story.html?id=360edf23-b247-4f51-af14-45ced083696a, and "here":http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050819/COTLER17/TPNational/Canada) is\... well, it's pretty nasty.

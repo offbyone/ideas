@@ -1,11 +1,12 @@
-Title: The usual gripe again...
-date: 2003-02-20 09:30
-author: offby1
+---
+title: The usual gripe again...
+slug: the-usual-gripe-again
+date: "2003-02-20 09:30"
 category: General Thoughts
 tags: school
-slug: the-usual-gripe-again
+author: offby1
 status: draft
-
+---
 Well, five days to go on my essay\... Bah.
 
 I know, i know, i've gone over this before. I hate these fscking things with a flaming passion. They make the educational experience - something i otherwise very much enjoy - into a fairly unpleasant thing for the duration of the assignment. Fortunately, they're soon to be over, a deep and lasting relief from the discomfort they bring me.

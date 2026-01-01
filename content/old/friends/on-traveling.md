@@ -1,11 +1,14 @@
-Title: On traveling
-date: 2005-12-13 13:29
-author: offby1
-category: Friends, General Thoughts, Rants
-tags: friends, rants
+---
+title: On traveling
 slug: on-traveling
+date: "2005-12-13 13:29"
+category: Friends, General Thoughts, Rants
+tags:
+  - friends
+  - rants
+author: offby1
 status: draft
-
+---
 I'd think that it would have become easier, with time. I just bloody *hate* travelling. Every minute I have to spend in a car between the place from which I depart and that at which I arrive is a little piece of hell, even with people I like.
 
 Bah.

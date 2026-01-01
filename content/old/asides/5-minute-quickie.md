@@ -1,11 +1,18 @@
-Title: 5-minute quickie
-date: 2007-01-25 09:59
-author: offby1
-category: Asides, Friends
-tags: apology, friends, school, stress, time, work
+---
+title: 5-minute quickie
 slug: 5-minute-quickie
+date: "2007-01-25 09:59"
+category: Asides, Friends
+tags:
+  - apology
+  - friends
+  - school
+  - stress
+  - time
+  - work
+author: offby1
 status: draft
-
+---
 Oh, man, it's been a while.
 
 Yeah, I'm still here.

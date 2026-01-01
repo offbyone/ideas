@@ -1,9 +1,13 @@
-Title: It's here!
-date: 2004-10-05 18:26
-author: offby1
-category: General Thoughts
-tags: apple, ipod, music
+---
+title: It's here!
 slug: its-here
+date: "2004-10-05 18:26"
+category: General Thoughts
+tags:
+  - apple
+  - ipod
+  - music
+author: offby1
 status: draft
-
-![iPod](/images/ipod4.jpg)
+---
+![iPod]({static}/images/ipod4.jpg)

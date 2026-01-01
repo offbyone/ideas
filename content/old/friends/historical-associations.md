@@ -1,11 +1,14 @@
-Title: Historical Associations
-date: 2006-04-23 09:55
-author: offby1
-category: Friends, General Thoughts
-tags: friends, memory lane
+---
+title: Historical Associations
 slug: historical-associations
+date: "2006-04-23 09:55"
+category: Friends, General Thoughts
+tags:
+  - friends
+  - memory lane
+author: offby1
 status: draft
-
+---
 It's been a thought tickling around in the back of my brain, but a post about [finding a friend thought](http://lashingtail.blogspot.com/2006/04/serendipity-broke-my-brain-but-im-too.html) lost by a good friend of mine (Jebus, that's a construct and a half. Note to self: Simpler sentences!) got me thinking about it a bit more.
 
 I've never been one for many friendships. The people whom I consider to be my friends are infinitely precious to me, as a product of both their individual merits and their scarcity. As it is, I don't see enough of the people that matter to me, so I clutch those moments close.

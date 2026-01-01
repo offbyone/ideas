@@ -1,11 +1,14 @@
-Title: Am i?
-date: 2003-02-13 06:35
-author: offby1
-category: General Thoughts
-tags: asshole, introspection
+---
+title: Am i?
 slug: am-i
+date: "2003-02-13 06:35"
+category: General Thoughts
+tags:
+  - asshole
+  - introspection
+author: offby1
 status: draft
-
+---
 So, i'm sitting on the couches in the bridge between buildings 5 and 6 yesterday, and listening to some guy go on - loudly and at length -about how he thinks stupid people are a waste, and how funny he's found it when someone he thinks is stupid gets fired, or humiliated, or mistreated\...
 
 And so, i wonder.

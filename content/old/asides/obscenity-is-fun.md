@@ -1,11 +1,20 @@
-Title: Obscenity is Fun!
-date: 2006-12-31 11:19
-author: offby1
-category: Asides, Humour
-tags: Alan Moore, censorship, customs, gifts, Lost Girls, obscenity, pornography, undue risk
+---
+title: Obscenity is Fun!
 slug: obscenity-is-fun
+date: "2006-12-31 11:19"
+category: Asides, Humour
+tags:
+  - Alan Moore
+  - censorship
+  - customs
+  - gifts
+  - Lost Girls
+  - obscenity
+  - pornography
+  - undue risk
+author: offby1
 status: draft
-
+---
 | It's a good sign, if you ask me, when your christmas gift comes with a letter like this
 | one (boldface text highlighted by Matt):
 
@@ -25,7 +34,7 @@ status: draft
 | \> The boxed set was also found to contain depictions and descriptions of sexual acts
 | \> **involving persons under the age of 18**. However, it would appear that these
 | \> representations serve a legitimate purpose related to art and to the very detailed story
-| \> about the **sexual awakening and development** of the three [main]([http://en.wikipedia.org/wiki/Alice_%28Alice%27s_Adventures_in_Wonderland%29](http://en.wikipedia.org/wiki/Alice_%28Alice%27s_Adventures_in_Wonderland%29)) [female]([http://en.wikipedia.org/wiki/Dorothy_Gale](http://en.wikipedia.org/wiki/Dorothy_Gale)) [characters]([http://en.wikipedia.org/wiki/Peter_Pan](http://en.wikipedia.org/wiki/Peter_Pan)).
+| \> about the **sexual awakening and development** of the three [main](http://en.wikipedia.org/wiki/Alice_%28Alice%27s_Adventures_in_Wonderland%29) [female](http://en.wikipedia.org/wiki/Dorothy_Gale) [characters](http://en.wikipedia.org/wiki/Peter_Pan).
 | \> Furthermore, it is my opinion that this item does not pose an undue risk of harm to
 | \> persons under the age of 18 years. As a result, it is my opinion that this boxed set does
 | \> not constitute child pornography.

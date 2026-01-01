@@ -1,11 +1,14 @@
-Title: Please land...
-date: 2003-10-15 07:54
-author: offby1
-category: contemplation
-tags: events, space
+---
+title: Please land...
 slug: please-land
+date: "2003-10-15 07:54"
+category: contemplation
+tags:
+  - events
+  - space
+author: offby1
 status: published
-
+---
 Today, a third nation [joined the US and USSR](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=4&u=/ap/20031015/ap_on_sc/china_space) in the very exclusive group of spacefaring nations.
 
 I disagree with China in so many things, from both political and ethical positions. But, i cannot help but feel immense respect for them as they take this important step into their own future.

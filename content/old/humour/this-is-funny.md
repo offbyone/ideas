@@ -1,12 +1,16 @@
-Title: This is funny
-date: 2006-01-18 08:13
-author: offby1
-category: Humour, Internet, Media
-tags: humour, internet, media
+---
+title: This is funny
 slug: this-is-funny
+date: "2006-01-18 08:13"
+category: Humour, Internet, Media
+tags:
+  - humour
+  - internet
+  - media
+author: offby1
 status: draft
-
+---
 | Just something that caught my eye:
-| ![Petard, meet hoist](/images/editorial-payne-mlk.gif)
+| ![Petard, meet hoist]({static}/images/editorial-payne-mlk.gif)
 
 From [here](http://cagle.msnbc.com/main.asp).

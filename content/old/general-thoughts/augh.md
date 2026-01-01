@@ -1,11 +1,12 @@
-Title: Augh!
-date: 2003-12-08 13:04
-author: offby1
+---
+title: Augh!
+slug: augh
+date: "2003-12-08 13:04"
 category: General Thoughts
 tags: school
-slug: augh
+author: offby1
 status: draft
-
+---
 Well, that was the hardest exam i have ever had the\... _privilege_ \... of taking.
 
 Ew

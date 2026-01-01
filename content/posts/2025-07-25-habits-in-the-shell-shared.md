@@ -1,14 +1,19 @@
-Title: Habits in the Shell, shared
-Slug: habits-in-the-shell-shared
-Date: 2025-07-25T09:26:31.883943
-Tags: shell, chezmoi, habits, til
-Category: tools
-Author: Chris Rose
-Email: offline@offby1.net
-Status: published
-Toot: https://wandering.shop/@offby1/114915020091223294
-Summary: Sharing shell tools habits between all of my hosts using chezmoi, building on a fantastic post by Mark
-
+---
+title: Habits in the Shell, shared
+slug: habits-in-the-shell-shared
+date: 2025-07-25 09:26:31.883943
+category: tools
+tags:
+  - shell
+  - chezmoi
+  - habits
+  - til
+author: Chris Rose
+email: offline@offby1.net
+summary: Sharing shell tools habits between all of my hosts using chezmoi, building on a fantastic post by Mark
+status: published
+toot: "https://wandering.shop/@offby1/114915020091223294"
+---
 [A post I saw today](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/) about "using `fortune` to remind me of the shell tools I have installed, instead of the old ones I use by reflex" got me really excited by the idea of the reminders. 
 
 I adopted the basic idea immediately -- putting the habits in `~/.local/share/habits/` and adding the fortune to my [fish shell](https://fishshell.com/) greeting. It was great!
@@ -28,7 +33,7 @@ $ ll
 
 The only interesting thing in there is the onchange script:
 
-```{ .shell }
+```bash
 #!/bin/bash
 set -eu -o pipefail
 
@@ -44,7 +49,7 @@ I had to work around chezmoi's ordering, which wouldn't write the `habits` file 
 
 I also added a script to add new habits, so I could do so easily; it renders as `,add-habit`[ref]Naturally, you also [start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/), right?[/ref] on my `PATH`:
 
-```{ .shell }
+```bash
 #!/bin/bash
 
 HABIT_DIR=$HOME/.local/share/habits
@@ -61,7 +66,8 @@ just compile-habits
 
 <details>
 <summary>If you're curious, this is the full diff I applied to my dotfiles to enable this functionality, including the shell integrations[ref]and a bootstrap set of habits from Hynek. Thanks![/ref]:</summary>
-```{ .patch }
+
+```diff
 diff --git a/dot_bashrc.tmpl b/dot_bashrc.tmpl
 index f6e9b806a2..c3d545c02d 100644
 --- a/dot_bashrc.tmpl
@@ -171,4 +177,5 @@ index 0000000000..4ad17ea927
 +# find it
 +mv 0_habits habits
 ```
+
 </details>

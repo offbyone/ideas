@@ -1,11 +1,15 @@
-Title: Sick tactics
-date: 2003-05-24 18:08
-author: offby1
-category: Rants
-tags: asshole, idiocy, rants
+---
+title: Sick tactics
 slug: sick-tactics
+date: "2003-05-24 18:08"
+category: Rants
+tags:
+  - asshole
+  - idiocy
+  - rants
+author: offby1
 status: draft
-
+---
 Wow, that's fscking nauseating\...
 
 So, i'm working at \$COMPANY, answering the phone all day. Hence, i speak. Funny, that. Anyway, i was approached by one of my co-workers and asked to be quieter. Now, i can understand why that might be desirable, and that's not why i'm annoyed. In fact, i tried to be quieter, but it's usually a choice between clarity of speech and quietness, and i'll go for clarity any time.

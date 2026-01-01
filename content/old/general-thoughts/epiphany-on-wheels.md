@@ -1,11 +1,14 @@
-Title: Epiphany on Wheels
-date: 2007-05-17 07:36
-author: offby1
-category: General Thoughts
-tags: bike, traffic
+---
+title: Epiphany on Wheels
 slug: epiphany-on-wheels
+date: "2007-05-17 07:36"
+category: General Thoughts
+tags:
+  - bike
+  - traffic
+author: offby1
 status: draft
-
+---
 I had an epiphany yesterday: I _don't want to drive to work_. Me. The lazy one.
 
 My _gods_ was traffic stressful, after the relative pleasure of cycling. People were asshats, the car was too hot, and the whole experience conspired to make me look forward to winter, and a need to drive, with no small amount of apprehension. Really, I'm happier biking.

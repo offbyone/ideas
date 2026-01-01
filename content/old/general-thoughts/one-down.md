@@ -1,12 +1,13 @@
-Title: One down...
-date: 2004-09-09 08:26
-author: offby1
+---
+title: One down...
+slug: one-down
+date: "2004-09-09 08:26"
 category: General Thoughts
 tags: school
-slug: one-down
+author: offby1
 status: draft
-
-Well, much like [mel]([http://www.livejournal.com/users/fossil_human/1383.html](http://www.livejournal.com/users/fossil_human/1383.html)) posted, day one is done.
+---
+Well, much like [mel](http://www.livejournal.com/users/fossil_human/1383.html) posted, day one is done.
 
 Day two, interestingly enough, doesn't start until 2 PM :)
 

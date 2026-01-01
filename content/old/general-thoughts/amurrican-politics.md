@@ -1,11 +1,17 @@
-Title: Amurrican Politics
-date: 2004-08-06 05:44
-author: offby1
-category: General Thoughts
-tags: events, fear, government, hypocrisy, politics
+---
+title: Amurrican Politics
 slug: amurrican-politics
+date: "2004-08-06 05:44"
+category: General Thoughts
+tags:
+  - events
+  - fear
+  - government
+  - hypocrisy
+  - politics
+author: offby1
 status: draft
-
+---
 As has been noticed here before, I occasionally find time to watch politics down south with a cynical interest that I'd usually reserve for "Reality TV" or WWE wrestling. Which, come to think of it, is probably not as much of a difference as it would seem on the surface.
 
 At any rate, other watchers probably noticed the democratic convention and the concurrent terror alert level increase. It's more than probable that several of those that noticed jumped to the conclusion that the alert was politically motivated, geared at taking some of the steam out of the convention's traditional boost in the polls.

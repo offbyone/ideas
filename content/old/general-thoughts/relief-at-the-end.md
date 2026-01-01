@@ -1,11 +1,12 @@
-Title: Relief at the end
-date: 2003-04-29 15:44
-author: offby1
+---
+title: Relief at the end
+slug: relief-at-the-end
+date: "2003-04-29 15:44"
 category: General Thoughts
 tags: school
-slug: relief-at-the-end
+author: offby1
 status: draft
-
+---
 Got my last few marks (unofficially, as it happens) today, and i was VERY pleasantly surprised. Despite some lackluster performance on the second midterm, apparently my studying (and the sweet pickup line it led to) left me with one of the top marks in the MATH115 final exam. As such, from the jaws of a B, i pull not an A-, but a full-on A.
 
 W00t!

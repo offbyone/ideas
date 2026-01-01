@@ -1,11 +1,12 @@
-Title: Flat-out scared
-date: 2004-04-16 09:14
-author: offby1
+---
+title: Flat-out scared
+slug: flat-out-scared
+date: "2004-04-16 09:14"
 category: General Thoughts
 tags: school
-slug: flat-out-scared
+author: offby1
 status: draft
-
+---
 I talked to the [U of A Registrar](http://www.registrar.ualberta.ca/) today about my application for admission -- the one that has been accepted for pretty much every other student in my class. You know, the ones whose cumulative marks fall short of mine?
 
 They seem to have "lost" the file.

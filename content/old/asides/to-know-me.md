@@ -1,11 +1,14 @@
-Title: To Know Me
-date: 2006-04-05 23:20
-author: offby1
-category: Asides, Friends, General Thoughts
-tags: asides, friends
+---
+title: To Know Me
 slug: to-know-me
+date: "2006-04-05 23:20"
+category: Asides, Friends, General Thoughts
+tags:
+  - asides
+  - friends
+author: offby1
 status: draft
-
+---
 Yeah, or something like that, anyway.
 
 It's increasingly obvious to me that I need to find something that I'm passionate about to write about. The "Here's what's new in my life" format has its place, and will never truly leave these pages, but I don't know that it has the mileage to make it.

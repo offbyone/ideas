@@ -1,11 +1,12 @@
-Title: Honestly Academic
-date: 2003-11-14 00:59
-author: offby1
+---
+title: Honestly Academic
+slug: honestly-academic
+date: "2003-11-14 00:59"
 category: General Thoughts
 tags: school
-slug: honestly-academic
+author: offby1
 status: draft
-
+---
 There comes a time, i think, in everyone's experience where one has to make a choice between confilicting ethical judgements. For example, try this one on:
 
 It's come to my attention, by various means, that there are people in one of my classes this year who've decided that they don't really need to follow the "one person, one assignment" rule that typically defines *solo* projects. But no.

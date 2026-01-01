@@ -1,11 +1,12 @@
-Title: And the marks are in!
-date: 2003-12-19 17:00
-author: offby1
+---
+title: And the marks are in!
+slug: and-the-marks-are-in
+date: "2003-12-19 17:00"
 category: General Thoughts
 tags: school
-slug: and-the-marks-are-in
+author: offby1
 status: draft
-
+---
 Final grade back across the board:
 
 | * CMPT 201: A

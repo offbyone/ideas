@@ -1,11 +1,14 @@
-Title: Catblogging is so passe.
-date: 2004-07-19 06:15
-author: offby1
-category: General Thoughts, Humour, Internet
-tags: humour, internet
+---
+title: Catblogging is so passe.
 slug: catblogging-is-so-passe
+date: "2004-07-19 06:15"
+category: General Thoughts, Humour, Internet
+tags:
+  - humour
+  - internet
+author: offby1
 status: draft
-
+---
 The above is true, to be sure. [Catblogging](http://www.google.com/search?hl=en&lr=&ie=UTF-8&safe=off&q=catblogging&btnG=Search), basically a modernized version of homepages with pictures of the writer's cat, is everywhere. A weekly thing at some sites, a constant at others.
 
 Wankery.

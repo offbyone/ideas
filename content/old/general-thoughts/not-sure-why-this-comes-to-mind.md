@@ -1,11 +1,14 @@
-Title: Not sure why this comes to mind
-date: 2004-07-14 06:31
-author: offby1
-category: General Thoughts, Internet, Rants
-tags: internet, rants
+---
+title: Not sure why this comes to mind
 slug: not-sure-why-this-comes-to-mind
+date: "2004-07-14 06:31"
+category: General Thoughts, Internet, Rants
+tags:
+  - internet
+  - rants
+author: offby1
 status: draft
-
+---
 In a posting on slashdot about "tired.com":http://www.tired.com (via [Slate](http://slate.msn.com/id/2103823/)) and the confessional aspects thereof, I stumbled across "this gem":http://slashdot.org/comments.pl?sid=114414&cid=9694920 of a comment, with regards to the work/life balance.
 
 It's funny that \-- despite the advances in labour-saving technologies \--the amount of time and effort we put into maintaining ourselves in a lifestyle of any kind has increased steadily. There was a time, and it's not too terribly long ago, that \-- for example \-- six children could be raised with only one full time income (although I'd be willing to bet that Grandma was doing some kind of work on the side. Care to elaborate, Dad?).

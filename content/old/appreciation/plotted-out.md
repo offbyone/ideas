@@ -1,11 +1,19 @@
-Title: Plotted out
-date: 2007-04-29 12:15
-author: offby1
-category: Appreciation, Friends
-tags: birthday, family, friends, gifts, giving, hot-30s, party
+---
+title: Plotted out
 slug: plotted-out
+date: "2007-04-29 12:15"
+category: Appreciation, Friends
+tags:
+  - birthday
+  - family
+  - friends
+  - gifts
+  - giving
+  - hot-30s
+  - party
+author: offby1
 status: draft
-
+---
 I think the conspiracy yesterday was to make me actually _feel_ old, by working me over body and mind, so that today I wake up tired, with a sore back and stiff limbs.
 
 I love you all ;)

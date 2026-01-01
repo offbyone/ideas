@@ -1,9 +1,10 @@
-Title: Azureus Autostop Plugin 2.0
-date: 2007-01-01 09:59
-author: offby1
+---
+title: Azureus Autostop Plugin 2.0
 slug: azureus-autostop-plugin
+date: "2007-01-01 09:59"
+author: offby1
 status: published
-
+---
 | The purpose of this plugin is to help with people whose ISPs are anal-retentive
 | about upload bandwidth usage, like mine is. Its purpose is to be a community-
 | friendly implementation of an upload limiter. It will not permit upload cutoff
@@ -16,7 +17,7 @@ status: published
 The plugin itself can also be downloaded here:
 
   --------------------------------------- -----------------------------------------------
-  MD5: c4930bdcf89781d07b395ef689dca743   [autostop-2.0.2.zip](/?dl=autostop-2.0.2.zip)
+  MD5: c4930bdcf89781d07b395ef689dca743   [autostop-2.0.2.zip](http://www.offlineblog.com/?dl=autostop-2.0.2.zip)
 
   --------------------------------------- -----------------------------------------------
 
@@ -50,4 +51,4 @@ The plugin itself can also be downloaded here:
 
 \### Issue Tracking
 
-If you find bugs, and I expect you will, or you want new features, I have an issue tracker for this plugin at [<http://offby1.no-ip.org:8080/browse/AZSTOP>](<http://offby1.doesntexist.com:8080/browse/AZSTOP>) (The URL is subject to change, so if you can't get to it at that address, check back here for new information)
+If you find bugs, and I expect you will, or you want new features, I have an issue tracker for this plugin at [<http://offby1.no-ip.org:8080/browse/AZSTOP>](http://offby1.doesntexist.com:8080/browse/AZSTOP) (The URL is subject to change, so if you can't get to it at that address, check back here for new information)

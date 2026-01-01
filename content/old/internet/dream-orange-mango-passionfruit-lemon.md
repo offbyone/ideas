@@ -1,11 +1,12 @@
-Title: Dream... Orange? Mango? Passionfruit? Lemon?
-date: 2006-10-19 14:10
-author: offby1
+---
+title: Dream... Orange? Mango? Passionfruit? Lemon?
+slug: dream-orange-mango-passionfruit-lemon
+date: "2006-10-19 14:10"
 category: Internet
 tags: internet
-slug: dream-orange-mango-passionfruit-lemon
+author: offby1
 status: draft
-
+---
 Oh, if only more of you used Macs :)
 
 Well, it really doesn't matter, of course. However, there's a neat app called [Tangerine](http://www.potionfactory.com/blog/2006/10/18/introducing-tangerine/) that tickles my music-lovin' soul. It scans iTunes for songs with similar beat patterns and groups them into playlists so that you get automagical mood-based playlists.

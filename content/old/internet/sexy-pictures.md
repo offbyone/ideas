@@ -1,11 +1,15 @@
-Title: Sexy Pictures
-date: 2008-02-17 16:02
-author: offby1
-category: Internet
-tags: erotica, pornography, sex
+---
+title: Sexy Pictures
 slug: sexy-pictures
+date: "2008-02-17 16:02"
+category: Internet
+tags:
+  - erotica
+  - pornography
+  - sex
+author: offby1
 status: draft
-
+---
 Although this link is NSFW, and also NSFPrudes, I kind of like it.
 
 [Sex, Sexuality, and Erotism](http://sex.innerpendejo.net/)

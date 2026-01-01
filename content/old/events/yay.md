@@ -1,9 +1,10 @@
-Title: Yay!
-date: 2004-09-19 00:58
-author: offby1
+---
+title: Yay!
+slug: yay
+date: "2004-09-19 00:58"
 category: Events, General Thoughts
 tags: events
-slug: yay
+author: offby1
 status: draft
-
+---
 She's back!!!

@@ -1,11 +1,12 @@
-Title: Geek Poetry
-Date: 2003-10-08 07:33
-Author: offby1
-Category: Humour
-Tags: humour
-Slug: geek-poetry
-Status: draft
-
+---
+title: Geek Poetry
+slug: geek-poetry
+date: "2003-10-08 07:33"
+category: Humour
+tags: humour
+author: offby1
+status: draft
+---
 If you can read these without help, may the gods of geekdom have mercy
 on your soul. If you can't, read the extended entry for help :)
 

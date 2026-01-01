@@ -1,11 +1,16 @@
-Title: Week, man.  Just week.
-date: 2006-02-16 22:44
-author: offby1
-category: General Thoughts, Internet, Projects
-tags: internet, projects, school, work
+---
+title: Week, man.  Just week.
 slug: week-man-just-week
+date: "2006-02-16 22:44"
+category: General Thoughts, Internet, Projects
+tags:
+  - internet
+  - projects
+  - school
+  - work
+author: offby1
 status: draft
-
+---
 Kind of a sum-up, here.
 
 I've been busy at work, putting together some interesting bits of design on configuration and deployment of one part of our application. I've been pulled in about three different directions, lately, so it's been a bit hard to decide what needs doing.

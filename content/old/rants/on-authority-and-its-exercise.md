@@ -1,11 +1,12 @@
-Title: On authority and its exercise
-date: 2003-05-16 10:56
-author: offby1
+---
+title: On authority and its exercise
+slug: on-authority-and-its-exercise
+date: "2003-05-16 10:56"
 category: Rants
 tags: rants
-slug: on-authority-and-its-exercise
+author: offby1
 status: draft
-
+---
 In my workplace, there's an interesting dynamic between management and employee, and i guess i just gave it enough thought to comment on it.
 
 I don't know how many people reading this have a work environment like this one, but at \$COMPANY, there's little to no separation between managers and staff. A few months or weeks before i started, management was punted from their offices and placed in low-walled, doorless cubicles out on the work floor, probably with the intent of making them more accessible to the staff, as though we were all on one "team" (That has to be \$COMPANY's favourite word, as far as i can tell)

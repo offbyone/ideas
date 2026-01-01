@@ -1,11 +1,14 @@
-Title: Planning ahead for spam problems
-date: 2005-10-12 16:52
-author: offby1
-category: Internet, Meta
-tags: internet, meta
+---
+title: Planning ahead for spam problems
 slug: planning-ahead-for-spam-problems
+date: "2005-10-12 16:52"
+category: Internet, Meta
+tags:
+  - internet
+  - meta
+author: offby1
 status: draft
-
+---
 Hey, all.
 
 I've noticed a _huge_ spike in spam coming in to the site of late --2,900 in the last three months, which is bloody ridiculous. Which is why I'd like to ask anyone that posts here with some regularity to please use the register link below, or "this one":http://www.offlineblog.com/wp-register.php.

@@ -1,11 +1,15 @@
-Title: Infotainment Glut
-date: 2004-11-09 08:16
-author: offby1
-category: General Thoughts, Internet, Media, Rants
-tags: internet, media, rants
+---
+title: Infotainment Glut
 slug: infotainment-glut
+date: "2004-11-09 08:16"
+category: General Thoughts, Internet, Media, Rants
+tags:
+  - internet
+  - media
+  - rants
+author: offby1
 status: draft
-
+---
 A story on Wired News entitled "\`Stop Trying to Persuade Us \<http://www.wired.com/news/culture/0,1284,65640,00.html\>\`\__" should be required reading for advertising execs.
 
 The only problem is, this is not a grassroots "we're sick of this shit" story, but rather a reasoned objection to the current state of affairs. I guess it's actually even a bit less than that -- It's pretty much the shell of an argument. Entertainment as information itself.

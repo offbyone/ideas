@@ -1,11 +1,18 @@
-Title: Gut-level disgust
-date: 2003-02-28 06:54
-author: offby1
-category: General Thoughts, Rants
-tags: asshole, free speech, hypocrisy, idiocy, privacy, rants
+---
+title: Gut-level disgust
 slug: gut-level-disgust
+date: "2003-02-28 06:54"
+category: General Thoughts, Rants
+tags:
+  - asshole
+  - free speech
+  - hypocrisy
+  - idiocy
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 From [The Crimson](http://www.thecrimson.com> "The Harvard Crimson Online"), with selected quotes and commentary from [this article](http://www.thecrimson.com/article.aspx?ref=274155> "Ruined Snow Penis Stimulates Debate"):
 
 About two weeks ago, some students at Harvard, members of the Harvard Crew team, led by Michael J. Skey, erected (pun intended, and not original) a 9-foot snow phallus. Hours later, the sculpture was torn down by Amy E. Keel, a self-proclaimed feminist.

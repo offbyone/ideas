@@ -1,11 +1,12 @@
-Title: K2, or Everest?
-date: 2003-01-17 06:49
-author: offby1
+---
+title: K2, or Everest?
+slug: k2-or-everest
+date: "2003-01-17 06:49"
 category: General Thoughts
 tags: school
-slug: k2-or-everest
+author: offby1
 status: draft
-
+---
 I've gone and set myself a monumental task, by any standard, i think.
 
 The other day, as i was investigating a new programming language called ["D"](http://www.digitalmars.com/d/) - for those programmers amongst you, you might catch the subtle "C++" reference, and for the rest, it's not really all that funny anyway - and i became aware that the language badly lacked development tools. Specifically, an [IDE](http://foldoc.doc.ic.ac.uk/foldoc/foldoc.cgi?integrated+development+environment). So, being the sort of geek that I am, i decided that i would build one.

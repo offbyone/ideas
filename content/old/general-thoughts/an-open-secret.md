@@ -1,11 +1,15 @@
-Title: An open secret
-date: 2003-04-08 16:35
-author: offby1
-category: General Thoughts, Rants
-tags: intellectual property, privacy, rants
+---
+title: An open secret
 slug: an-open-secret
+date: "2003-04-08 16:35"
+category: General Thoughts, Rants
+tags:
+  - intellectual property
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 There's an interesting [article](http://www.salon.com/tech/feature/2003/03/31/knowledge/index.html) on Salon at the moment on the future direction of technology, and the dangers of its spread. (via [/.](http://slashdot.org))
 
 This article really started to catch my attention with the author's comments on public surveillance technology and its growing applications. It was estimated some years ago that a given person spends almost 1/10 of their time in public on camera in some fashion, even if it's only a benign sort like the ones in your neighborhood 7-11. This is, to some privacy-oriented folks, kind of scary.

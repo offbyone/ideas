@@ -1,11 +1,12 @@
-Title: Restricted News
-date: 2004-07-12 06:03
-author: offby1
+---
+title: Restricted News
+slug: restricted-news
+date: "2004-07-12 06:03"
 category: Media
 tags: media
-slug: restricted-news
+author: offby1
 status: draft
-
+---
 In my search for news articles about yesterday's incident, I ran into a peculiarity of the news agencies in this city.
 
 The "Edmonton Journal":http://www.edmontonjournal.com/ has moved from a free site that shows only the top stories in its paper to a subscription model where all but the headline story must be accessed by paid subscribers.

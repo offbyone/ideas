@@ -1,11 +1,15 @@
-Title: Ferfuchsake
-date: 2004-01-26 10:44
-author: offby1
-category: General Thoughts, Rants
-tags: intellectual property, privacy, rants
+---
+title: Ferfuchsake
 slug: ferfuchsake
+date: "2004-01-26 10:44"
+category: General Thoughts, Rants
+tags:
+  - intellectual property
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 There's a trend in several segments of society\... Screw that, _all_ segments of society that i've seen so far. And it pisses me right off.
 
 It exists in politics, currently exemplified by the knee-jerk "Bush\|America\|Islam\|(Demo\|Republi)crats is Evil". This, despite any evidence supporting the assertions, or in the cases where there is any evidence, instead ignoring the alternate equally-likely benign or indifferent interpretations thereof.

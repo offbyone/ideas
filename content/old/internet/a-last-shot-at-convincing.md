@@ -1,11 +1,14 @@
-Title: A last shot at convincing
-date: 2004-06-29 19:29
-author: offby1
-category: Internet, Rants
-tags: internet, rants
+---
+title: A last shot at convincing
 slug: a-last-shot-at-convincing
+date: "2004-06-29 19:29"
+category: Internet, Rants
+tags:
+  - internet
+  - rants
+author: offby1
 status: draft
-
+---
 I know I harp on this one a lot, but perhaps "this":http://isc.incidents.org/diary.php?date=2004-06-29 will scare the last few holdouts amongst you away from using Internet Explorer for anything secure, or better yet, anything at all.
 
 As [discussed](http://slashdot.org/article.pl?sid=04/06/29/1913222&mode=thread&tid=109&tid=113&tid=126&tid=187&tid=95) on slashdot, the gist of this is that a sneaky program (that can install itself invisibly when you view a webpage that tries to install it) can insert itself into your browser and read your secure information (that'd be _credit cards_, folks!) *before* it's encrypted.

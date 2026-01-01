@@ -1,9 +1,10 @@
-Title: Default Apps (as of late 2024)
-Category: tools
-Slug: defaults
-Status: published
-Modified: 2025-08-08T11:33:29.000000
-
+---
+title: Default Apps (as of late 2024)
+slug: defaults
+category: tools
+status: published
+modified: 2025-08-08 11:33:29
+---
 "Apps I’ve been using regularly this year." Heavily inspired by [Jeff Triplett](https://jefftriplett.com/2023/default-apps-2023/).
 
 ## Things That Are Apps
@@ -12,7 +13,7 @@ Modified: 2025-08-08T11:33:29.000000
 🔍 Search: [Kagi](https://kagi.com)  
 📝 Writing: [Emacs](https://www.gnu.org/software/emacs/)  
 📁 Cloud File Storage: Dropbox + [Syncthing](https://syncthing.net)  
-💬 Chat: [Signal](), [WhatsApp](), Apple Messages, [Discord](https://discord.com/), [Slack](https://slack.com/)  
+💬 Chat: [Signal](https://signal.org/), [WhatsApp](https://whatsapp.com/), Apple Messages, [Discord](https://discord.com/), [Slack](https://slack.com/)  
 📆 Calendar: Apple Calendar  
 📹 Video Calls: [Zoom](https://zoom.us)  
 🎵 Music. : [Apple Music](https://www.apple.com/apple-music/)  

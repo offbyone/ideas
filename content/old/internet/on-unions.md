@@ -1,11 +1,15 @@
-Title: On unions
-date: 2004-11-14 09:58
-author: offby1
-category: Internet, Media, Rants
-tags: internet, media, rants
+---
+title: On unions
 slug: on-unions
+date: "2004-11-14 09:58"
+category: Internet, Media, Rants
+tags:
+  - internet
+  - media
+  - rants
+author: offby1
 status: draft
-
+---
 As is no secret to those that know me well, I generally hold no truck with unionization. My reasons are many, and as far as I'm concerned at this stage they verge on being tautological.
 
 However, one particular situation has thrown into sharp relief the reason for unions' existence, and caused me to re-evaluate my absolutist stance on the subject: "EA Games":http://www.livejournal.com/users/ea_spouse/.

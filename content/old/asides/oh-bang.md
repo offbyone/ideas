@@ -1,11 +1,15 @@
-Title: Oh, Bang
-date: 2007-07-29 23:09
-author: offby1
-category: Asides, General Thoughts
-tags: oracle, skydiving, work
+---
+title: Oh, Bang
 slug: oh-bang
+date: "2007-07-29 23:09"
+category: Asides, General Thoughts
+tags:
+  - oracle
+  - skydiving
+  - work
+author: offby1
 status: draft
-
+---
 There was some fantastic lightning last night, for those who were either asleep or not in my area.
 
 So, being a thunder nerd, I slept on the balcony. Very, very nice.

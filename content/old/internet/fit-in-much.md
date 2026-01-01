@@ -1,11 +1,12 @@
-Title: Fit in much?
-date: 2003-10-02 07:59
-author: offby1
+---
+title: Fit in much?
+slug: fit-in-much
+date: "2003-10-02 07:59"
 category: Internet
 tags: internet
-slug: fit-in-much
+author: offby1
 status: draft
-
+---
 Okay, random linkdom: [The compleat diagram of strange persons, 2003 edition.](http://www.alanapost.com/weblog/archives/002425.html)
 
 This looks like it's a lot of fun. i'm not sure i follow the logic, but it's pretty and has nice dots. What more could you ask?

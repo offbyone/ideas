@@ -1,11 +1,14 @@
-Title: In review
-Date: 2003-12-27 14:50
-Author: offby1
-Category: contemplation
-Tags: events, space
-Slug: in-review
-Status: published
-
+---
+title: In review
+slug: in-review
+date: "2003-12-27 14:50"
+category: contemplation
+tags:
+  - events
+  - space
+author: offby1
+status: published
+---
 Looking back over the year just past, i'll be the first to admit there's
 been a staggering amount of fascinating news, but there have been some
 things happening in the world that touched me more than the rest.
@@ -36,7 +39,7 @@ imagination _stimulated_, not stifled by it.
 And fourth, if i had to choose one news item that truly was significant
 to me, there was this:
 
-![Godspeed, Columbia](/images/godspeed_columbia-jeff_parker.jpeg)
+![Godspeed, Columbia]({static}/images/godspeed_columbia-jeff_parker.jpeg)
 
 Let us not forget that the men and women that take to the stars do so at
 incredible risk to themselves. And let us not fail the ones who die

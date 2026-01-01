@@ -1,11 +1,15 @@
-Title: Seeing is Believing
-date: 2004-07-27 08:26
-author: offby1
-category: General Thoughts, Rants
-tags: intellectual property, privacy, rants
+---
+title: Seeing is Believing
 slug: seeing-is-believing
+date: "2004-07-27 08:26"
+category: General Thoughts, Rants
+tags:
+  - intellectual property
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 Spurred by a random comment from a co-worker of mine last night during a post-work wings & beer gathering, I decided today to look into the information on the back of my new [Alberta Driver's Licence](http://www3.gov.ab.ca/gs/driverslicence/). For those of you who haven't seen one yet (I saw many of them when working as a bouncer, and I just recently got my own) they have a strip on the back that consists of some form of binary encoded information.
 
 My question was, of course, _what_ information.

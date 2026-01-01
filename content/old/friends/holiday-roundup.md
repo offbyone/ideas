@@ -1,11 +1,16 @@
-Title: Holiday Roundup
-date: 2004-12-30 09:21
-author: offby1
-category: Friends, General Thoughts, Projects, Rants
-tags: friends, projects, rants, school
+---
+title: Holiday Roundup
 slug: holiday-roundup
+date: "2004-12-30 09:21"
+category: Friends, General Thoughts, Projects, Rants
+tags:
+  - friends
+  - projects
+  - rants
+  - school
+author: offby1
 status: draft
-
+---
 I noticed yesterday (as [Char](http://xraystar.livejournal.com) finally got around to posting on her blog) that I have been remarkably lax in updating here.
 
 Bad Chris!
@@ -26,7 +31,7 @@ On the other hand, the effect of this dissociation has been to make it much more
 
 Hrm. Other things of note, in the past week or so.
 
-Well, I got bored and frustrated with the lack of instructions for writing [Azureus](<http://azureus.sourceforge.net/>) plugins, so I wrote my own [tutorial for Azureus plugins](/projects/azureus-plugin-tutorial/) for those who come after me. I'm fairly proud of it, since this is not something I ordinarily do, but as far as I can see nobody is looking at it yet :(
+Well, I got bored and frustrated with the lack of instructions for writing [Azureus](http://azureus.sourceforge.net/) plugins, so I wrote my own [tutorial for Azureus plugins]({filename}/pages/azureus-plugin-tutorial.md) for those who come after me. I'm fairly proud of it, since this is not something I ordinarily do, but as far as I can see nobody is looking at it yet :(
 
 Char and I are getting packed. Moving sucks.
 

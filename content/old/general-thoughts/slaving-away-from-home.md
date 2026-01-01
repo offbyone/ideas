@@ -1,11 +1,12 @@
-Title: Slaving away from home
-date: 2005-05-02 21:59
-author: offby1
+---
+title: Slaving away from home
+slug: slaving-away-from-home
+date: "2005-05-02 21:59"
 category: General Thoughts
 tags: work
-slug: slaving-away-from-home
+author: offby1
 status: draft
-
+---
 As the post title (and categorization) suggest, I started work today.
 
 I think I'm going to like this job. I'm not saying it'll be perfect, but this is going to be an interesting experience.

@@ -1,11 +1,15 @@
-Title: Ow
-date: 2002-11-09 15:03
-author: offby1
-category: General Thoughts
-tags: beer, birthday, hangover
+---
+title: Ow
 slug: ow
+date: "2002-11-09 15:03"
+category: General Thoughts
+tags:
+  - beer
+  - birthday
+  - hangover
+author: offby1
 status: draft
-
+---
 Happy birthday, to both Jamie and Beau - i hope it was worth the intense pain i feel today :)
 
 Bastards.
