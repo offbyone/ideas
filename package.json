@@ -8,7 +8,7 @@
     "@fortawesome/fontawesome-free": "^6.5",
     "@primer/css": "~21",
     "autoprefixer": "^10.4.19",
-    "dompurify": "^3.1.5",
+    "dompurify": "^3.2.4",
     "magnific-popup": "^1.2.0",
     "postcss": "^8.4.39",
     "postcss-cli": "^11.0.0",
