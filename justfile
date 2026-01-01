@@ -111,4 +111,32 @@ check-feeds:
     fi
   fi
 
+# Linting tasks (replaces pre-commit hooks)
+lint-ruff:
+  uv run ruff check .
+  uv run ruff format --check .
+
+lint-terraform:
+  #!/usr/bin/env bash
+  # Skip if no .tf files exist
+  if ! find . -name "*.tf" -not -path "./.terraform/*" -type f | grep -q .; then
+    echo "No Terraform files found, skipping terraform checks"
+    exit 0
+  fi
+  tofu fmt -check -recursive .
+  tofu validate
+
+lint-rst:
+  #!/usr/bin/env bash
+  # Check for common RST mistakes (backticks without role) in .rst files only
+  # Exclude plugins/ and Just-Read/ directories
+  if find . -name "*.rst" -not -path "./plugins/*" -not -path "./Just-Read/*" -not -path "./.venv/*" -type f -exec grep -l -E '\`[^\`]+\`[^_]' {} \; 2>/dev/null | grep -q .; then
+    echo "Found bare backticks in RST files (should use :role:\`text\` or \`\`double backticks\`\`)"
+    find . -name "*.rst" -not -path "./plugins/*" -not -path "./Just-Read/*" -not -path "./.venv/*" -type f -exec grep -Hn -E '\`[^\`]+\`[^_]' {} \;
+    exit 1
+  fi
+  echo "RST backtick check passed"
+
+lint: lint-ruff lint-terraform lint-rst
+
 check: check-code check-content check-links check-html check-feeds
