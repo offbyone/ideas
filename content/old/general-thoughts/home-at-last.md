@@ -13,9 +13,9 @@ tags:
 author: offby1
 status: published
 ---
-It's quite a sight, the spew of boxes collected into three large stacks and two small ones. An entire life\... scratch that, _two_ entire lives piled up and ready to uproot.
+It's quite a sight, the spew of boxes collected into three large stacks and two small ones. An entire life... scratch that, _two_ entire lives piled up and ready to uproot.
 
-Char and I are entering into the second most significant collective choice we'll ever make; it comes a reasonably distant second to having a child, but it's still a link between us that we are never likely to sever. It commits us to the financial side of the relationship in a way that \-- in the all-too-human myopia that comes with large changes \--seems to overshadow the real basis for the relationship for a time.
+Char and I are entering into the second most significant collective choice we'll ever make; it comes a reasonably distant second to having a child, but it's still a link between us that we are never likely to sever. It commits us to the financial side of the relationship in a way that -- in the all-too-human myopia that comes with large changes --seems to overshadow the real basis for the relationship for a time.
 
 A short time, mind you.
 

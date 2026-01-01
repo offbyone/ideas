@@ -14,12 +14,12 @@ Michael Chrichton made a [Commonwealth Club Speech](http://www.crichton-official
 
 At any rate, lest anyone get any funny ideas, this is not me hypocritically claiming that celebrity endorsement justifies a claimed position - i think we all know how i feel about that - but it is a good read on the subject by someone whose views map well to mine, and who is a damn sight better at wording them, for example:
 
-| \> In short, the romantic view of the natural world as a blissful Eden is only
-| \> held by people who have no actual experience of nature. People who live in
-| \> nature are not romantic about it at all. They may hold spiritual beliefs about
-| \> the world around them, they may have a sense of the unity of nature or the
-| \> aliveness of all things, but they still kill the animals and uproot the plants
-| \> in order to eat, to live. If they don't, they will die.
+> In short, the romantic view of the natural world as a blissful Eden is only
+> held by people who have no actual experience of nature. People who live in
+> nature are not romantic about it at all. They may hold spiritual beliefs about
+> the world around them, they may have a sense of the unity of nature or the
+> aliveness of all things, but they still kill the animals and uproot the plants
+> in order to eat, to live. If they don't, they will die.
 
 There's a lot of ignorance about nature in the urban world. People form their beliefs - in the "golden age of the environment", in the noble savage, in the sanctity of nature - and then, much like any other faith this belief calcifies and hardens and becomes law to them. But they still never get any real experience of the world of which they speak.
 

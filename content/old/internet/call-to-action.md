@@ -15,6 +15,6 @@ There's a survey for demographics that, if you liked the show, I encourage you t
 
 But every bit helps.
 
-Maybe, just\... well, what's the worst that can happen? No more Firefly? Well, shit. Looks like that's already happened.
+Maybe, just... well, what's the worst that can happen? No more Firefly? Well, shit. Looks like that's already happened.
 
 It's worth noting, and it's easy enough to determine for yourself, that there is some [debate as to the reality of this plan](http://whedonesque.com/comments/9347). I'm not sure, myself, but given that the site creator has [responded reasonably](http://www.serenitymovie.org/browncoats/forums/viewtopic.php?t=1580) to the accusations, and the information requested is not required, just desirable, I'm inclined to say that it can't hurt.

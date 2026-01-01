@@ -11,6 +11,6 @@ status: draft
 ---
 Why am I so easy to anger, these days?
 
-I mean\... I know what _makes_ me angry, but I don't know why I get so mad at it.
+I mean... I know what _makes_ me angry, but I don't know why I get so mad at it.
 
 It's frustrating, and more than a bit embarassing, sometimes. Often.

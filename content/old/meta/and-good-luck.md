@@ -17,6 +17,6 @@ So, I'm done.
 
 And, as has been increasingly obvious, so is this blog, at least as it currently exists. I don't seem to have the impulse to write, and if the comment rate is any indication, what little I do write is not spurring conversations either. Given these two strikes, I cannot see myself having anything to say for a while.
 
-I'm not getting rid of the domain, so it might come back at some future date, but in the meantime\...
+I'm not getting rid of the domain, so it might come back at some future date, but in the meantime...
 
 Good night.

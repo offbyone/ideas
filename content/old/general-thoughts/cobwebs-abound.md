@@ -17,14 +17,14 @@ Although it might appear to the casual observer that I am dead, or perhaps comat
 
 Here's a capsule summary of the last couple of weeks:
 
-| School.
-| Work.
+School.
+Work.
 
 Really, that's all.
 
 I've been trying to exercise a bit more lately, which is probably a good idea. Char's heavy into the yoga, and she's had me join her a couple of times, which I have found relatively pleasant, and should probably get into more consistently. I've also actually _used_ the gym that comes with our apartment, which is revolutionary in itself, and even more, I've actually worked up a sweat by choice. Will wonders never cease?
 
-Uhm\...
+Uhm...
 
 Well, nothing else.
 

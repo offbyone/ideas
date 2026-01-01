@@ -18,7 +18,7 @@ At any rate, other watchers probably noticed the democratic convention and the c
 
 I feel sorry for the US intelligence community. Much like the phone company down there, and the newly deregulated utilities here and in California, they've been given conflicting and mutually-contradictory missions by the government, and more politically significant, the media.
 
-On the one hand, they've been excoriated for failing to act quickly enough to the warning signs that preceded the september 11th attacks. At that point, there had never been a reason to believe that an attack of that nature could successfully be carried out on American soil \-- the previous bombing of the WTC notwithstanding.
+On the one hand, they've been excoriated for failing to act quickly enough to the warning signs that preceded the september 11th attacks. At that point, there had never been a reason to believe that an attack of that nature could successfully be carried out on American soil -- the previous bombing of the WTC notwithstanding.
 
 On the other hand, in the years since then, as the intelligence community has been more paranoid about their data, and more forthcoming with warnings and notifications, they've been torn apart in the media for being fearmongers and accused of using alert levels as a political tool.
 

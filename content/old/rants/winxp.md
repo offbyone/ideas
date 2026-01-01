@@ -17,6 +17,6 @@ Same as before, just bigger and clearer. All told, i suppose i didn't do too bad
 
 Anyway, the uptick of all of this is that i'm about to set out on one of the rarer things i do - an OS *downgrade*. Along with Char, who is having WinXP issues, i too am retrograding my system to that beautiful OS, Windows 2000. Stability **will** be mine!
 
-So, if updates either dribble off or turn really hostile-sounding over the next while, well\... Assume that things went\... poorly :)
+So, if updates either dribble off or turn really hostile-sounding over the next while, well... Assume that things went... poorly :)
 
 Later, all.

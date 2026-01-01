@@ -22,6 +22,6 @@ The highlight of the night, though, has to be the fact that i saw Jess again, wh
 
 Not a lot else to report. I'm actually sitting down and poking at that IDE project that's been occupying space on my sidebar (look left, dear reader, as long as this is on the main page) for months, essentially statically, and i hope that i might have something to show for it soon.
 
-Uhm\...
+Uhm...
 
 Yep, that's it. What's new in all o yore lives? :)

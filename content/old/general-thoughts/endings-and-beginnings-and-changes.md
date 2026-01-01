@@ -11,7 +11,7 @@ tags:
 author: offby1
 status: draft
 ---
-I attended the wedding of one of my best friends this weekend\... I hadn't posted on it sooner, simply because i wasn't quite sure what i should say on the subject. Amanda was - and *is* - one of the best people i've ever had the privilege of knowing. She brought more happiness into my life in the one year that we were together than most people have ever managed - and the exceptions are notable in their scarcity, and i'm sure that they know who they are. Our time together is still a source of happy memories and occasional nostalgic regrets.
+I attended the wedding of one of my best friends this weekend... I hadn't posted on it sooner, simply because i wasn't quite sure what i should say on the subject. Amanda was - and *is* - one of the best people i've ever had the privilege of knowing. She brought more happiness into my life in the one year that we were together than most people have ever managed - and the exceptions are notable in their scarcity, and i'm sure that they know who they are. Our time together is still a source of happy memories and occasional nostalgic regrets.
 
 So, it was with no small amount of trepidation that i went to attend her wedding to Greg (i suppose i should learn his last name, huh?) at five-mile hall in Grande Prairie this weekend. I didn't really know what i would feel, nor was i really sure that i belonged there.
 

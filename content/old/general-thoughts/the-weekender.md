@@ -18,14 +18,14 @@ The visit was nice. Grande Prairie never really gets any better for me, but it s
 
 Since i was only in town for a weekend, i didn't really get hold of anyone outside the immediate family. So, if any reader is irked that i did not call them, um, well, i was sick (cough) and never really felt well enough to talk at all. And that's no lie - i was laryngitic for most of the weekend.
 
-Speaking of which\... Colds suxor :)
+Speaking of which... Colds suxor :)
 
 Right now, though, i'm listening to some really nice neoclassical stuff that Sarah and Donald, the DJs at the club i work at, burned for me to check out. It's pretty nice. Very easy to listen to, very pleasant.
 
 Hope thanksgiving was good for all of you, too.
 
-\...
+...
 
-Oh\...
+Oh...
 
 And, (john?!) the pics from the wedding will be up at such time as i have any of them. No scanned pics have made it my way yet, and i don't have a working scanner anymore. So, to readers w/ wedding pics, get that shit in the mail to me!

@@ -19,6 +19,6 @@ On happier note, my CMPT201 app - which has been driving me mad for a week - is 
 
 w00t!
 
-**Update**, minutes later\...
+**Update**, minutes later...
 
 Well, i spoke too soon. My flaws were only in the first two questions, and not as critical as i had thought. I can tolerate a 94% mark :)

@@ -49,7 +49,7 @@ $ pip-sync requirements.txt
 Successfully installed click-7.1.2
 ```
 
-This is pretty easy\... but what if you could skip all of these manual steps? Direnv has a way: custom hooks in `~/.config/direnv/direnvrc` that you can reference in your `.envrc` files. Here's how I manage my pip-compile automation:
+This is pretty easy... but what if you could skip all of these manual steps? Direnv has a way: custom hooks in `~/.config/direnv/direnvrc` that you can reference in your `.envrc` files. Here's how I manage my pip-compile automation:
 
 ``` bash
 function use_pip-tools() {

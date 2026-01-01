@@ -18,6 +18,6 @@ Now, Sheldon Pacotti (the author of the Salon piece) makes the point that the su
 
 Pacotti suggests that the best way to handle these changes is to make them open. Allow anyone at all to use the whole network of cameras and snoopers, a al Brin's *Earth*, which takes this idea to its logical extreme and predicts the death of secrecy. He wanders around his subject quite a bit, leaving me wondering through large tracts of his article just what side he was advocating, but in the end it doesn't matter.
 
-I'm more interested in the conclusion that he drew with respect to surveillance. My stance has typically been "not now, not ever" on the subject - my views on privacy are, ironically, a matter of public record (in this *public* journal that i keep), so it feel weird to say so, but i'm not really that uncomfortable with the idea of the widespread tools of surveilance being available to the wider public. Better that we can look too, so that we can see how the users of the system are protecting us\...
+I'm more interested in the conclusion that he drew with respect to surveillance. My stance has typically been "not now, not ever" on the subject - my views on privacy are, ironically, a matter of public record (in this *public* journal that i keep), so it feel weird to say so, but i'm not really that uncomfortable with the idea of the widespread tools of surveilance being available to the wider public. Better that we can look too, so that we can see how the users of the system are protecting us...
 
 Anyone else out there have a take on this?

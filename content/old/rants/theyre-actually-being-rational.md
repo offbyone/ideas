@@ -13,4 +13,4 @@ It seems that the current state of affairs - that of Clonaid refusing to identif
 
 I don't think anyone's gonna be surprised when I hold forth saying that this is an appalling invasion of personal rights. As some Mefi [discussion](http://www.metafilter.com/comments.mefi/22794) on the subject suggests, this sort of behaviour offends even some anti-cloning sorts.
 
-Now, of course, there's still no proof that the cloning even occurred\... I guess we'll find out someday, hm?
+Now, of course, there's still no proof that the cloning even occurred... I guess we'll find out someday, hm?

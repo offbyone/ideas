@@ -14,7 +14,7 @@ As of 10:11 AM Eastern Time, [SpaceShipOne is airborne](http://www.space.com/mis
 
 May this bring in an era of private and public flight to the stars for the average joe.
 
-To me, at least, this is probably one of the best news events of the last year or more. One small step for [Man](http://www.space.com/missionlaunches/SS1_pilot_040620.html)\...
+To me, at least, this is probably one of the best news events of the last year or more. One small step for [Man](http://www.space.com/missionlaunches/SS1_pilot_040620.html)...
 
 (See [MeFi](http://www.metafilter.com/mefi/33838) for more)
 

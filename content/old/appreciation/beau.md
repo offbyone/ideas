@@ -7,9 +7,9 @@ tags: appreciation
 author: offby1
 status: draft
 ---
-| This is the first of (hopefully) many postings in a new vein here. I'm not going to promise anything special, but the people I'll write about under this heading are my friends. This will be why I care, who they are to me, and all that jazz. Since it's not of interest to everyone, I'll keep the bulk of the text off of the front page, but here's the first one: Beau.
-| 
-| How do I even begin to explain this guy?
+This is the first of (hopefully) many postings in a new vein here. I'm not going to promise anything special, but the people I'll write about under this heading are my friends. This will be why I care, who they are to me, and all that jazz. Since it's not of interest to everyone, I'll keep the bulk of the text off of the front page, but here's the first one: Beau.
+
+How do I even begin to explain this guy?
 
 Beau is an interesting person, a study in contradictions from some angles, and probably one of the best people I've ever met. He is remarkably intelligent, although he does a good job of tucking that side of himself away, so as not to offend people who take offense at that kind of thing. He's ostentatious, sometimes crude and cruel, but it's more because of assuming that people are like him than it is explicit malice on his part.
 

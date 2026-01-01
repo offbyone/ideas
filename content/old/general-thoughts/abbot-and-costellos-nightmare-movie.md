@@ -15,7 +15,7 @@ As one would imagine, it's a fair amount of schmaltz, and the story itself mainl
 
 Leaving aside the horrible dialog and the wasted effort that they called a plot, I was left (for the last hour of the movie, since there was nothing better to do) thinking about how neat it would be to see more detailed exploration of the results of a climatic cataclysm of this nature. Many fantasy novels I've read over the year are set in a world that only thinly conceals its distant past as our present. The theme of medieval cultures rising from an apocalypse in the present day is one that is fairly common, and truly fascinating to me.
 
-Throughout the genres, there have been roleplaying games such as [Rifts](http://www.palladiumbooks.com/), [Tribe 8](http://www.dp9.com/Worlds/T8.htm) and many more whose names escape me now. There have been novels, from the Dark Tower series to the arguable references to our present in the Wheel of Time. There have been movies\...
+Throughout the genres, there have been roleplaying games such as [Rifts](http://www.palladiumbooks.com/), [Tribe 8](http://www.dp9.com/Worlds/T8.htm) and many more whose names escape me now. There have been novels, from the Dark Tower series to the arguable references to our present in the Wheel of Time. There have been movies...
 
 And it's that last, of course, that spurred this line of thought. A line which, I might add, is going absolutely nowhere.
 

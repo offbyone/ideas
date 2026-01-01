@@ -10,8 +10,8 @@ tags:
 author: offby1
 status: draft
 ---
-| First blood: Bike.
-| Second blood: Me.
+First blood: Bike.
+Second blood: Me.
 
 The bike got a bent tire, I got this seemingly-minor, but very uncomfortable abrasion:
 

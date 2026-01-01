@@ -7,11 +7,11 @@ tags: rants
 author: offby1
 status: draft
 ---
-By now, i'm sure everyone has read about the [86-year](http://www.guardian.co.uk/elsewhere/journalist/story/0,7792,1003688,00.html)\`-old man \<http://www.sptimes.com/2003/07/22/Opinion/Danger_at_the_wheel.shtml\>\`\__ who [drove his](http://www.newsday.com/news/nationworld/nation/la-me-smcrash17jul17,0,3789886.story?coll=ny-nationalnews-headlines) car [through a crowded market](http://abcnews.go.com/wire/US/ap20030718_700.html).
+By now, i'm sure everyone has read about the [86-year](http://www.guardian.co.uk/elsewhere/journalist/story/0,7792,1003688,00.html)\`-old man \<http://www.sptimes.com/2003/07/22/Opinion/Danger_at_the_wheel.shtml\>\`__ who [drove his](http://www.newsday.com/news/nationworld/nation/la-me-smcrash17jul17,0,3789886.story?coll=ny-nationalnews-headlines) car [through a crowded market](http://abcnews.go.com/wire/US/ap20030718_700.html).
 
 Not really news, is it?
 
-Ahhhhhnyway\...
+Ahhhhhnyway...
 
 I was reading some [commentary](http://www.metafilter.com/mefi/27132) on the subject, and specifically the debate on age with respect to licensing drivers. It's an interesting debate, to be sure. Coming, as i do, from the perspective that every person's freedoms are important, it's a hard one for me to take a stance on. That being said, i think that my gut reaction is probably the right one.
 

@@ -15,7 +15,7 @@ Even more than a return to the moon, this project is one of my fondest imagining
 
 Of course, in this wonderful world we inhabit, there's weaknesses to this too; for eample the terrorist threat, which is briefly addressed in this article. Even leaving aside the present-day terrorist threats, this in and of itself could spawn a [new kind of fear](http://www.miscmayhemprods.com/locke/) in the luddites that lead these sorts of things.
 
-I guess we'll see how it pans out \-- which is, more often than not, how i sign off on news items like this. I'll admit, for all of my hopes for a better future, I too am a cynic here. It's worth noting, though, that the comic i link to above has one of the more evenhanded visions of the (near) future i've seen in a while.
+I guess we'll see how it pans out -- which is, more often than not, how i sign off on news items like this. I'll admit, for all of my hopes for a better future, I too am a cynic here. It's worth noting, though, that the comic i link to above has one of the more evenhanded visions of the (near) future i've seen in a while.
 
 h6. Update:
 

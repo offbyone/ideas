@@ -24,9 +24,9 @@ He/Him
 
 **Software Lifecycle**: Git, AWS internal tools, Github, CodeDeploy
 
-**Cloud Services**: AWS[ref]I certainly hope so\![/ref], Docker
+**Cloud Services**: AWS[ref]I certainly hope so![/ref], Docker
 
-**Tools**: Emacs, Git[ref]Again, I certainly hope so\![/ref], <a href="/category/tools.html">my tools category here</a>
+**Tools**: Emacs, Git[ref]Again, I certainly hope so![/ref], <a href="/category/tools.html">my tools category here</a>
 
 ### Present Employment
 
@@ -71,14 +71,14 @@ Senior Software Engineer. Expertise in build systems, Python, deployment safety.
 **Advanis**
 
 - Automated deployment for web applications, marketing surveys, and telephony applications.
-- ActionScript/Flex/PHP web application development[ref]It was both better and worse than you'd think\![/ref].
+- ActionScript/Flex/PHP web application development[ref]It was both better and worse than you'd think![/ref].
 - System automation with Python/Fabric.
 
 #### 2005 - June 2009 - Intern and FTE Banking and Messaging Software
 
 **Core360**
 
-- Migration from CVS to SVN[ref]I know, right?! I was so young\...[/ref].
+- Migration from CVS to SVN[ref]I know, right?! I was so young...[/ref].
 - Maintain and extend a nightly autobuild system.
 - Coded and maintained J2EE and legacy C services for B2B messaging systems.
 

@@ -19,5 +19,5 @@ In other news, it appears that [telling children that there's no Santa Claus](ht
 
 ?
 
-| People these days\...
-| (via [MetaFilter](http://www.metafilter.com/comments.mefi/22300))
+People these days...
+(via [MetaFilter](http://www.metafilter.com/comments.mefi/22300))

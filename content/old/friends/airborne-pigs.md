@@ -17,6 +17,6 @@ Not a lot else to report, really. Char and i are going to visit a good friend or
 
 In other news, i suppose i'm going to have to start crawling for forgiveness from Beau at some point, so i figure some public self-flaggelation (sp?) will have to do for a start. What do you say, boss?
 
-Lastly, uh\...
+Lastly, uh...
 
 Well, given the blog's title it should be obvious - School starts monday. Yay!

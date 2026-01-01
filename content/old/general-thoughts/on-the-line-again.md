@@ -11,6 +11,6 @@ Well, as this might attest, to those who keep track of my comings and goings, i 
 
 So here i am.
 
-Work is, well, work. I'd write more about it, but I lack words to eloquently express the bizarre combination of dreary and magnificent that characterizes my days. From the amazing views of the trestle bridge in fog to the town in which i stay\...
+Work is, well, work. I'd write more about it, but I lack words to eloquently express the bizarre combination of dreary and magnificent that characterizes my days. From the amazing views of the trestle bridge in fog to the town in which i stay...
 
 How is everyone?

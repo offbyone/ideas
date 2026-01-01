@@ -13,4 +13,4 @@ Wow. As [Simon](http://vernondalhart.livejournal.com/) gets into climbing, it re
 
 I hurt in ways I didn't know were possible. It's better today, but yesterday evening I could barely hold the shopping basket. That being said, it was fun, and I think I'll do it again.
 
-In (m)other news, it's Mothers' day. Which means I'm feeding *her*, not the other way around. I'm making a dinner as I write this, which is\... weird. I'm still not a cook, even at the most desperate of times. I hope this works out.
+In (m)other news, it's Mothers' day. Which means I'm feeding *her*, not the other way around. I'm making a dinner as I write this, which is... weird. I'm still not a cook, even at the most desperate of times. I hope this works out.

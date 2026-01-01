@@ -21,8 +21,8 @@ I've seen some pretty funny theatre in the last 24 hours, and a well-written pla
 
 I've come to a conclusion that, practically speaking, there is one thing that irks me more than anything else when dealing with friends. I don't mind if plans change, and someone can't do something with me that was planned. That's cool. But in this age of mobile and ubiquitous communication, for christ's sake, *call* me. Just dial a damned number and say "Sorry, Chris, I can't make it to [thing]." Is it that bloody hard?
 
-Grrr\...
+Grrr...
 
 I just realized that the above complaint was the blog post that had been tickling about my head for the last day and a half. Glad to get that out of my system.
 
-So, no big plans, really. I think I'm going to investigate writing my first serious OS X program, to do some bookkeeping and synchronization of my pair of ITunes libraries. Just metadata, I think, but you never know\... I might get ambitious.
+So, no big plans, really. I think I'm going to investigate writing my first serious OS X program, to do some bookkeeping and synchronization of my pair of ITunes libraries. Just metadata, I think, but you never know... I might get ambitious.

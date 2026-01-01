@@ -24,7 +24,7 @@ Software Engineering is, according to [Wikipedia](http://en.wikipedia.org/wiki/S
 
 So, I have to ask, why is it that people taking this fucking course cannot do something as basic as grok that it is _fundamentally bad practice to add public methods to hidden implementing classes instead of using the goddamned design?!_ I spent three days nailing down, and countless hours tuning up, the data model for our project application, only to have one of my fellow team members simply come along and, instead of _reading the goddamned documentation_, which I provided as a first step, add new hooks into the mechanism, just to get at the information in a way that is not only wrong, but disables some nice and (I thought) needed functionality.
 
-I have spent the last hour looking over his code, marveling at the glorious unification of layers that, according to [good design practices](http://en.wikipedia.org/wiki/Model-view-controller), should ever remain separate \-- the intermingling of UI code and logic that _I'd already written elsewhere, better_ was a real high point for me.
+I have spent the last hour looking over his code, marveling at the glorious unification of layers that, according to [good design practices](http://en.wikipedia.org/wiki/Model-view-controller), should ever remain separate -- the intermingling of UI code and logic that _I'd already written elsewhere, better_ was a real high point for me.
 
 Gods.
 

@@ -19,15 +19,15 @@ So, thanks to a great many friends -- of whom only two have a web presence, and 
 
 I would like to formally thank:
 
-| Simon
-| Brady
-| Mel
-| Vicki
-| Dad
-| Beau
-| Jerry
-| The D&D Conglomerate
-| Ryan
+Simon
+Brady
+Mel
+Vicki
+Dad
+Beau
+Jerry
+The D&D Conglomerate
+Ryan
 
 To the rest of you, thanks for the many offers, some of which had to be turned down due to logistics. Nonetheless, you are welcome in our home any time :)
 

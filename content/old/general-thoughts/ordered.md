@@ -27,7 +27,7 @@ I'd like to show you two lists, as seen on a site called [Coding Horror](http://
 
 Now, I ask you: Which of those two seems like a better approach to the problem of sorting lists?
 
-Here's the thing, now that you've answered the question. The comments on the post that advocated the same sorting approach that I'm sure you picked were\... distressing to me as a software developer who is concerned with human factors and real-world usability. Comments like this:
+Here's the thing, now that you've answered the question. The comments on the post that advocated the same sorting approach that I'm sure you picked were... distressing to me as a software developer who is concerned with human factors and real-world usability. Comments like this:
 
 <div class="callout">
 

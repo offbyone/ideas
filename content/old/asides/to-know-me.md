@@ -15,7 +15,7 @@ It's increasingly obvious to me that I need to find something that I'm passionat
 
 At any rate, this is more of a "ping" to let you all know I'm not dead, I haven't forgotten the blog, and I plan to write more, soon.
 
-Oh\...
+Oh...
 
 And Apple just released a mechanism whereby my MacBook will be able to run Windows. Games, games, games!
 

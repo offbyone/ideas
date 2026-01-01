@@ -15,11 +15,11 @@ Starting from the moment we arrived at the drop zone to the very end, it was all
 
 Let's see, a tally:
 
-| - [Simon](http://www.livejournal.com/users/vernondalhart/) got his full AFF solo certification. Now, when he jumps the only instructors he _needs_ are on the ground.
-| - Miranda is (probably just now) landing her AFF IV jump, where she does more turning and generally having a grand ole' time in the air.
-| - [Matt](http://www.offlineblog.com/mildillson/) and [Amy](http://lashingtail.blogspot.com/) both did their first jumps, and second ones this weekend. Massive kudos to Amy for her excellent landing on jump 2.
-| - Beau also got his ass out of a plane on day 1, standing his first landing and doing a great job. Addicted? Uh\... Yeah, I think so.
-| - Mom jumped tandem from 12,000 feet, and we have video. She goes head down for the first bit, and the shots are phenomenal. When I see pics, I'm *so* scanning them and showing those here.
+- [Simon](http://www.livejournal.com/users/vernondalhart/) got his full AFF solo certification. Now, when he jumps the only instructors he _needs_ are on the ground.
+- Miranda is (probably just now) landing her AFF IV jump, where she does more turning and generally having a grand ole' time in the air.
+- [Matt](http://www.offlineblog.com/mildillson/) and [Amy](http://lashingtail.blogspot.com/) both did their first jumps, and second ones this weekend. Massive kudos to Amy for her excellent landing on jump 2.
+- Beau also got his ass out of a plane on day 1, standing his first landing and doing a great job. Addicted? Uh... Yeah, I think so.
+- Mom jumped tandem from 12,000 feet, and we have video. She goes head down for the first bit, and the shots are phenomenal. When I see pics, I'm *so* scanning them and showing those here.
 
 Not to mention, I also did two free falls. Both were AFF II jumps, which is mainly because I buggered up the first one badly enough that I had to repeat it. The second one was smooth, though, and I felt just fine flying through the air. Level III is next, although it's going to be a bit.
 

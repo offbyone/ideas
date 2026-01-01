@@ -7,7 +7,7 @@ tags: school
 author: offby1
 status: draft
 ---
-Well, that was the hardest exam i have ever had the\... _privilege_ \... of taking.
+Well, that was the hardest exam i have ever had the... _privilege_ ... of taking.
 
 Ew
 

@@ -11,6 +11,6 @@ One year, finished. Now, granted, it hasn't been all that i expected it would, b
 
 Damn.
 
-I guess this is the time when i should be chanting "no more pencils\..." etc.
+I guess this is the time when i should be chanting "no more pencils..." etc.
 
 But i'm already looking forward to next year.

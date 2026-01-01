@@ -11,7 +11,7 @@ status: draft
 ---
 Well, it's been a hell of a week so far. Let's see what the tally is at:
 
-One(1) busted clutch master cylinder. \$232 later\...
+One(1) busted clutch master cylinder. \$232 later...
 
 One(1) buggered up foot. It's been hurting for two weeks. Shitty, that.
 
@@ -21,4 +21,4 @@ One(1) ratched knee from moving a treadmill.
 
 Trade anyone? ;)
 
-Other than that, though, life's been pretty good\...
+Other than that, though, life's been pretty good...

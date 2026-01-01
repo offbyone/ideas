@@ -13,12 +13,12 @@ tags:
 author: offby1
 status: draft
 ---
-It's sore, it's stiff, but I have two arms, and therefore I can\...
+It's sore, it's stiff, but I have two arms, and therefore I can...
 
-| - Finish the assignment that was due last friday
-| - Finish the assignment that is due *this* friday.
-| - Do some real work on my project so as not to let down my team.
-| - Catch up on my paid work.
+- Finish the assignment that was due last friday
+- Finish the assignment that is due *this* friday.
+- Do some real work on my project so as not to let down my team.
+- Catch up on my paid work.
 
 That doesn't sound like too much fun. On the other hand, I can pull up my pants easier, now :)
 

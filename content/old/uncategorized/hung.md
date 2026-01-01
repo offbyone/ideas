@@ -12,4 +12,4 @@ status: draft
 
 </div>
 
-| Much less morbid than it seems at first glance.
+Much less morbid than it seems at first glance.

@@ -9,7 +9,7 @@ tags:
 author: offby1
 status: draft
 ---
-To all of my friends who haven't been hearing from me lately\...
+To all of my friends who haven't been hearing from me lately...
 
 My course workload is climbing at a furious rate, more or less as I expected, but as a consequence my time for personal life is falling correspondingly.
 

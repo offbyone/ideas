@@ -13,10 +13,10 @@ on your soul. If you can't, read the extended entry for help :)
 ```
 1)
 
-!\*''#
+!*''#
 ^"\`$$-
-!\*=@$\_
-%\* ~#4
+!*=@$_
+%* ~#4
 &[]../
 \|{,,SYSTEM HALTED
 

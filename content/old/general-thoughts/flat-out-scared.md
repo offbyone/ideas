@@ -15,14 +15,14 @@ It's not that they don't have the information, but they don't know why I haven't
 
 Realistically, what the hell am I going to do if they _don't_ accept me? Just say "Oh, well! Back to \$(MENIAL SHITWORK JOBSITE) for me!" and keep right on smiling? Christ. What a horrible idea.
 
-As it is, even if they do accept me, i'm already too late to apply for all the plum course sessions \-- the ones with only 12 students that are probably going to be where the interesting and motivated people are, with the funky projects and high-quality teaching. Basically, I'm going to be stuck \-- yet again \-- with the same shithead classmates that i've had to endure for two years to _get_ to the U of A and, what's more, **THEY'RE ALREADY ACCEPTED AND I'M NOT!!!!**
+As it is, even if they do accept me, i'm already too late to apply for all the plum course sessions -- the ones with only 12 students that are probably going to be where the interesting and motivated people are, with the funky projects and high-quality teaching. Basically, I'm going to be stuck -- yet again -- with the same shithead classmates that i've had to endure for two years to _get_ to the U of A and, what's more, **THEY'RE ALREADY ACCEPTED AND I'M NOT!!!!**
 
 FUCK!
 
-I have to go now. Study for exams\... Although I wonder if it's worth bothering at this point.
+I have to go now. Study for exams... Although I wonder if it's worth bothering at this point.
 
-\### Mood Swing
+### Mood Swing
 
-I just spoke to a very nice lady at the Faculty of Science who apparently heard my concern and called the Registrar's office on my behalf, finding out that \-- in fact \-- the application is now in the process of being prescreened and should be sent over to them soon. What's more, she said that when they received it they'd fast-track the evaluation of it, to minimize futher delays.
+I just spoke to a very nice lady at the Faculty of Science who apparently heard my concern and called the Registrar's office on my behalf, finding out that -- in fact -- the application is now in the process of being prescreened and should be sent over to them soon. What's more, she said that when they received it they'd fast-track the evaluation of it, to minimize futher delays.
 
 /me breathes a _massive_ sigh of relief.

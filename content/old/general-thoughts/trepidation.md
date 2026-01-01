@@ -13,7 +13,7 @@ Yeek.
 
 It depends, however, on my midterm mark, which should be up any day now. I'll reserve decision until that time.
 
-\...
+...
 
 In other news, the new mac is pretty cool. I've got it hooked up to the old monitor, so I have a dual-monitor setup again. I'm actually even writing this post from a dashboard widget (google it) that does wordpress stuff just like that.
 

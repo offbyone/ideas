@@ -13,4 +13,4 @@ Naturally, being pretty vocal when annoyed, i rarely let an opportunity to bitch
 
 [Now i have.](http://www.widescreen.org/examples.shtml)
 
-If any of my readers still think that they're getting more with no black bars bracketing their movie, i invite you to look at this page. Especially the Lord of the Rings and Indiana Jones clips. It seems that i've in fact only seen 60% of so many movies\... Including my as-yet-unwatched widescreen Star Wars videos. I think i'm gonna break those out and see - for the first time *ever* - the whole picture.
+If any of my readers still think that they're getting more with no black bars bracketing their movie, i invite you to look at this page. Especially the Lord of the Rings and Indiana Jones clips. It seems that i've in fact only seen 60% of so many movies... Including my as-yet-unwatched widescreen Star Wars videos. I think i'm gonna break those out and see - for the first time *ever* - the whole picture.

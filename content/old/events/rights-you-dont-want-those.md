@@ -25,14 +25,13 @@ laws like this will affect your freedom to consume and produce art in
 the Canada we'll live in for the foreseeable future. If you need a
 starting point, as I'm sure that you do, I can offer a couple:
 
-| If you want a great video showing you what is happening in the US --
+If you want a great video showing you what is happening in the US --
   whose
-  [DMCA](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
-  "Wikipedia Entry: Digital Millennium Copyright Act") is the template
+  [DMCA](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act "Wikipedia Entry: Digital Millennium Copyright Act") is the template
   for the act that will be introduced in Canada sometime in the next
   week and a half -- then I recommend [Lawrence
   Lessig](http://en.wikipedia.org/wiki/Lawrence_Lessig "Wikipedia  Entry: Lawrence Lessig")'s TED talk:
-| [How Creativity is Being Strangled By the
+[How Creativity is Being Strangled By the
   Law](http://www.ted.com/index.php/talks/view/id/187). It's 20 minutes,
   but it's well worthwhile.
 

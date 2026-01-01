@@ -23,4 +23,4 @@ The worst problem, however, seems to be the fault of WebKit, not OmniWeb itself,
 
 That doesn't work in OmniWeb, not at all.
 
-Now, there's a tradeoff to be made, here, of course \-- OmniWeb and Safari have native widgets, which means that \-- for example \-- the keystrokes I use in editing text elsewhere on the system work consistently, a bit of polish that does *not* apply to Camino or Firefox. It's features are many and fabulous, but it shouldn't be final with that set of issues.
+Now, there's a tradeoff to be made, here, of course -- OmniWeb and Safari have native widgets, which means that -- for example -- the keystrokes I use in editing text elsewhere on the system work consistently, a bit of polish that does *not* apply to Camino or Firefox. It's features are many and fabulous, but it shouldn't be final with that set of issues.

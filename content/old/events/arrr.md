@@ -11,6 +11,6 @@ It be [Talk like a pirate day](http://www.thomasscott.net/yarr/) so i hope ye sc
 
 [The swabs over at Metafilter](http://www.metafilter.com/mefi/28409) brrrought this to me attention.
 
-(aside: Silly? yep. Fun? yep. Do it next year? Ah\... possibly?)
+(aside: Silly? yep. Fun? yep. Do it next year? Ah... possibly?)
 
-Memes are annoying, aren't they\...
+Memes are annoying, aren't they...

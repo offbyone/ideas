@@ -13,12 +13,12 @@ An interesting quirk of US law is that, for legal purposes, corporations are con
 
 And i quote:
 
-| \>Corporations are non-living, non-breathing, legal fictions. They feel no pain. They don't need clean
-| \>water to drink, fresh air to breathe, or healthy food to consume. They can live forever. They can't be
-| \>put in prison. They can change their identity or appearance in a day, change their citizenship in an
-| \>hour, rip off parts of themselves and create entirely new entities. Some have compared corporations
-| \>with robots, in that they are human creations that can outlive individual humans, performing their
-| \>assigned tasks forever.
+>Corporations are non-living, non-breathing, legal fictions. They feel no pain. They don't need clean
+>water to drink, fresh air to breathe, or healthy food to consume. They can live forever. They can't be
+>put in prison. They can change their identity or appearance in a day, change their citizenship in an
+>hour, rip off parts of themselves and create entirely new entities. Some have compared corporations
+>with robots, in that they are human creations that can outlive individual humans, performing their
+>assigned tasks forever.
 
 It's a pretty valid critique, and one that -- i admit -- i hadn't really given any thought to. Now i will, and it may have an impact on my generally pro-corp stance. Not to any great extent, true, but i'll think twice before *really* boosting them.
 

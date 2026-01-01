@@ -19,7 +19,7 @@ I'm going to start with a bit of a rambling preamble (pre-ramble?) about what I 
 
 (This is part 1 of a 2-part series. The second will cover the LetEncrypt setup challenges)
 
-I have been wanting to migrate from my homegrown self-signed CA for TLS on my home lab for some time. There are a few reasons for this, but chief among them is the pain in the ass of installing the trust root on every new device I get, and I just got a new phone. This was, as they say, the last straw. I decided that I needed to transition off this janky, hacked-together solution. However\... I had some constraints.
+I have been wanting to migrate from my homegrown self-signed CA for TLS on my home lab for some time. There are a few reasons for this, but chief among them is the pain in the ass of installing the trust root on every new device I get, and I just got a new phone. This was, as they say, the last straw. I decided that I needed to transition off this janky, hacked-together solution. However... I had some constraints.
 
 First, I didn't want to open my home lab hosts to the internet. This meant that I couldn't use letsencrypt's HTTP challenge to manage certificates. I would have to use DNS.
 
@@ -38,7 +38,7 @@ I'm going to cover the first half of that in this post, and I'll see if I can as
 
 # Creating an IoT Thing for each machine in my lab
 
-First\... "Why would you do this, Chris?". Well, I took advantage of having access to a group of well informed AWS engineers at work to ask if there was a solution to my credential storage issue, and someone pointed me at a documentation on how I could [authorize direct calls to AWS services using IoT](https://docs.aws.amazon.com/iot/latest/developerguide/authorizing-direct-aws.html) and, with a bit of a hard think, I realized that yes, that would in fact solve my problem. What I gleaned from it was that once I could treat each machine in my lab as a "thing" in IoT, I could provide each of them with an X509.1 certificate that they could use to get credentials to act in other parts of my account.
+First... "Why would you do this, Chris?". Well, I took advantage of having access to a group of well informed AWS engineers at work to ask if there was a solution to my credential storage issue, and someone pointed me at a documentation on how I could [authorize direct calls to AWS services using IoT](https://docs.aws.amazon.com/iot/latest/developerguide/authorizing-direct-aws.html) and, with a bit of a hard think, I realized that yes, that would in fact solve my problem. What I gleaned from it was that once I could treat each machine in my lab as a "thing" in IoT, I could provide each of them with an X509.1 certificate that they could use to get credentials to act in other parts of my account.
 
 I've been a big fan of Terraform for infrastructure automation, so I proceeded to whip up a piece of Terraform that did this for me. First, I needed a device role for the IoT credential provider, that could assume roles in my account:
 
@@ -231,7 +231,7 @@ resource "local_file" "device-cert" {
 
 # Using Ansible to turn a machine into an IoT thing
 
-I created an Ansible role \-- `iot-thing` \-- that does this, that I can associate with any host in my inventory. It's a simple enough role, that defines an `iot` user that owns a restricted folder that contains the host certificate, and writes out credentials to a less-restricted folder that can be read by any user in the `iot-credentials` group.
+I created an Ansible role -- `iot-thing` -- that does this, that I can associate with any host in my inventory. It's a simple enough role, that defines an `iot` user that owns a restricted folder that contains the host certificate, and writes out credentials to a less-restricted folder that can be read by any user in the `iot-credentials` group.
 
 I was considering breaking it down into smaller bits, but I hope it's pretty simple. The first section loads the `tf_ansible_vars_file.yml` that was written out above, to get the credential provider endpoint and role. After, we create the `iot` user and its groups. Laying out the folders is important, after; the iot certificate needs to be in a place that only the `iot` user can read, but the credentials need to be shared with the group. We use the sticky bit to manage that.
 

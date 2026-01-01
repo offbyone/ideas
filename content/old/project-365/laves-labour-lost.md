@@ -12,4 +12,4 @@ status: draft
 
 </div>
 
-| Well, lots of scraping and solvent resulted in only this. Perhaps a sandblaster, but til then this is as good as it gets.
+Well, lots of scraping and solvent resulted in only this. Perhaps a sandblaster, but til then this is as good as it gets.

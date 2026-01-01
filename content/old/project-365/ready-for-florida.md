@@ -16,4 +16,4 @@ status: draft
 
 </div>
 
-| Char went and acquired her beach attire today.
+Char went and acquired her beach attire today.

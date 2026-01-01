@@ -19,16 +19,16 @@ Then, I got home.
 
 In my basement was 2cm of water covering 80% of the TV room floor, having come in via the saturated ground through permanent cracks in the foundation.
 
-So, a more or less frantic removal of furniture was accomplished with the timely aid of "Aaron":http://www.spaz.ca who made the voyage, nay, _odyssey_ to assist me through streets made into rivers by this massive flood.
+So, a more or less frantic removal of furniture was accomplished with the timely aid of [Aaron](http://www.spaz.ca) who made the voyage, nay, _odyssey_ to assist me through streets made into rivers by this massive flood.
 
 Life is icky, cold, and wet. I know, because to see if the roads were clear, I tossed on some shoes I never wear and hopped on my bike to tot around the neighborhood. Most of the water is gone, so I am going out in a minute to pick up some ribs. I deserve them.
 
 Hopefully Jacques gets here soon with the shop-vac so that I can suck up some of the water here.
 
-\### Update
+### Update
 
-| Here are some pics from the disaster (be warned, the large images are _quite_ large):
-| [![TV Room 1](http://www.offlineblog.com/images/thumb-Flooding_001.jpg)](http://www.offlineblog.com/images/Flooding_001.jpg)
+Here are some pics from the disaster (be warned, the large images are _quite_ large):
+[![TV Room 1](http://www.offlineblog.com/images/thumb-Flooding_001.jpg)](http://www.offlineblog.com/images/Flooding_001.jpg)
 
 [![TV Room 2](http://www.offlineblog.com/images/thumb-Flooding_002.jpg)](http://www.offlineblog.com/images/Flooding_002.jpg)
 
