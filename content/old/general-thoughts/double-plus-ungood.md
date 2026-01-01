@@ -1,11 +1,16 @@
-Title: Double-plus ungood
-date: 2005-03-07 23:29
-author: offby1
-category: General Thoughts, Internet, Rants
-tags: intellectual property, internet, privacy, rants
+---
+title: Double-plus ungood
 slug: double-plus-ungood
+date: "2005-03-07 23:29"
+category: General Thoughts, Internet, Rants
+tags:
+  - intellectual property
+  - internet
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 As seen [here](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1110150624459&call_pageid=970599119419), it appears that our illustrious, and apparently irremovable leaders have decided that trivialities like private communication are no longer required for the day-to-day perpetuation of our government.
 
 So.

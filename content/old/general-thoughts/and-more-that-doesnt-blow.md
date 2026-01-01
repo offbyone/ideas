@@ -1,11 +1,12 @@
-Title: And more that doesn't blow.
-date: 2005-07-11 10:51
-author: offby1
+---
+title: And more that doesn't blow.
+slug: and-more-that-doesnt-blow
+date: "2005-07-11 10:51"
 category: General Thoughts
 tags: school
-slug: and-more-that-doesnt-blow
+author: offby1
 status: draft
-
+---
 Found out that my PC will live. Happy.
 
 Found out other things\... not so happy.

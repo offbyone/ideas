@@ -1,11 +1,12 @@
-Title: An Excess of (in)Tolerance
-date: 2002-12-26 09:22
-author: offby1
+---
+title: An Excess of (in)Tolerance
+slug: an-excess-of-intolerance
+date: "2002-12-26 09:22"
 category: Media
 tags: media
-slug: an-excess-of-intolerance
+author: offby1
 status: draft
-
+---
 It seems that ownership of a building [no longer allows](http://wsj.emailthis.clickability.com/et/emailThis?clickMap=viewThis&etMailToID=35733465) a person to determine how the property is used. If even one element is "offensive" to a tenant, well, it *must* be removed - now! (via [the Misanthropic Bitch's news filter](http://www.misanthropic-bitch.com/))
 
 The story linked above is a Wall Street Journal story about a pair of abstract nudes that adorn the ground floor of the 77 Water Street offices of Saloman and Goldman Sachs in New York. The piece is part of an elevator vestibule there. The word from the companies is that their female employees have complained about the existence of the nudes.

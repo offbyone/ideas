@@ -1,11 +1,12 @@
-Title: Alone in the air
-Date: 2005-08-14 14:47
-Author: offby1
-Category: Life
-Tags: skydiving
-Slug: alone-in-the-air
-Status: published
-
+---
+title: Alone in the air
+slug: alone-in-the-air
+date: "2005-08-14 14:47"
+category: Life
+tags: skydiving
+author: offby1
+status: published
+---
 # Alone in the air
 
 With a flutter or two of butterflies in my stomach to keep me company on

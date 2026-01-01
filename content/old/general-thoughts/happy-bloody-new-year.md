@@ -1,11 +1,15 @@
-Title: Happy bloody new year!
-date: 2004-01-01 10:15
-author: offby1
-category: General Thoughts
-tags: asshole, police, speeding
+---
+title: Happy bloody new year!
 slug: happy-bloody-new-year
+date: "2004-01-01 10:15"
+category: General Thoughts
+tags:
+  - asshole
+  - police
+  - speeding
+author: offby1
 status: draft
-
+---
 Well, that was bullshit.
 
 All in all, a great new year's eve - a glass of port, a lot of talking with Char, Mel, and Simon, and a leisurely drive home.

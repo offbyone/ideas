@@ -1,11 +1,12 @@
-Title: More U foolery
-date: 2004-04-26 09:04
-author: offby1
+---
+title: More U foolery
+slug: more-u-foolery
+date: "2004-04-26 09:04"
 category: General Thoughts
 tags: school
-slug: more-u-foolery
+author: offby1
 status: draft
-
+---
 Word back from the U of A has been slow in coming, and now that I've finally _gotten_ some kind of word, that word has turned out to be "Wait."
 
 Fuckers.

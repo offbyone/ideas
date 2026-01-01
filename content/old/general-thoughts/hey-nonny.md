@@ -1,11 +1,12 @@
-Title: Hey, nonny...
-date: 2005-08-31 07:15
-author: offby1
+---
+title: Hey, nonny...
+slug: hey-nonny
+date: "2005-08-31 07:15"
 category: General Thoughts, Meta
 tags: meta
-slug: hey-nonny
+author: offby1
 status: draft
-
+---
 Life is pretty good, these days.
 
 As seen over on :simon:'s site, I just finished helping him haul his whole life over to Vancouver for school. While there, we visited the grandparents, who are well, and at their urging got to go skydiving out by the ocean. It's pretty sweet, seeing water on three sides of you while you fly. Not something you get here in the flatlands of Alberta, I guarantee.

@@ -1,11 +1,15 @@
-Title: I want to see mountains...
-date: 2009-03-15 16:25
-author: offby1
-category: life
-tags: jasper, travel, vacation
+---
+title: I want to see mountains...
 slug: i-want-to-see-mountains
+date: "2009-03-15 16:25"
+category: life
+tags:
+  - jasper
+  - travel
+  - vacation
+author: offby1
 status: published
-
+---
 Char and I just spent the weekend in Jasper, one of the few vacations we've taken both in north america and on short notice.
 
 It was really, really nice.

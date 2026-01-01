@@ -1,14 +1,20 @@
-Title: An External Web Proxy for my Tailnet
+---
+title: An External Web Proxy for my Tailnet
 slug: an-external-web-proxy-for-my-tailnet
-date: 2023-02-20T09:34:18.354245
+date: 2023-02-20 09:34:18.354245
 category: homelab
-tags: internet, letsencrypt, tailscale, terraform, bookwyrm
+tags:
+  - internet
+  - letsencrypt
+  - tailscale
+  - terraform
+  - bookwyrm
 author: Chris Rose
 email: offline@offby1.net
-status: published
 summary: Exposing web APIs on my tailnet to the world
-toot: https://wandering.shop/@offby1/109898670642861642
-
+status: published
+toot: "https://wandering.shop/@offby1/109898670642861642"
+---
 I've become a huge fan of [Tailscale](https://tailscale.com/) as a VPN / software-defined network for my homelab. They've even introduced a really fantastic new alpha feature "Funnels" that lets you expose a service to the internet at `https://<your-hostname>.<your-tailnet>`. It's really cool\... **but** the URL you get is forever tied to Tailscale, instead of being on your own domain.
 
 Now, there are ways around this; I could, for example, have a `CNAME` that points to the tailnet address. That'd be the *easy* way. Instead, what I built (and it's not super complicated!) is a reverse proxy living in a cloud provider, with a dedicated public IP, that acts as a bridge to my tailnet.

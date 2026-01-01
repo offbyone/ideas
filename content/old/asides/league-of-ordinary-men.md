@@ -1,11 +1,14 @@
-Title: League of Ordinary Men
-date: 2004-03-15 16:55
-author: offby1
-category: Asides, Rants
-tags: asides, rants
+---
+title: League of Ordinary Men
 slug: league-of-ordinary-men
+date: "2004-03-15 16:55"
+category: Asides, Rants
+tags:
+  - asides
+  - rants
+author: offby1
 status: draft
-
+---
 This'll be brief:
 
 You would think that it would be possible to find a place to bowl on a Monday evening.

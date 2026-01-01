@@ -1,11 +1,12 @@
-Title: The working man's blues
-date: 2003-02-06 06:48
-author: offby1
+---
+title: The working man's blues
+slug: the-working-mans-blues
+date: "2003-02-06 06:48"
 category: General Thoughts
 tags: work
-slug: the-working-mans-blues
+author: offby1
 status: draft
-
+---
 Thanks again to the inexorable crunch of school and life expenses, i find myself once more employed. [company name deleted because i'm paranoid ;)], with the kind heart typically found in massive corporations, has kindly taken me back into its bosom in order that i might continue to feed myself :)
 
 Oooo, fun.

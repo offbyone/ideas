@@ -1,11 +1,12 @@
-Title: The tide of change
-date: 2004-01-28 07:43
-author: offby1
+---
+title: The tide of change
+slug: the-tide-of-change
+date: "2004-01-28 07:43"
 category: Media
 tags: media
-slug: the-tide-of-change
+author: offby1
 status: draft
-
+---
 I just finished reading Stephen Baxter's [_Evolution_](http://www.amazon.com/exec/obidos/dt/assoc/tg/aa/xml/assoc/-/034545782X/qid%3D1073925345/schoolblog-20/103-1057116-3560631) yesterday. What a powerful book it was. Is. You get the idea.
 
 It's a story that pivots around the near future and traces the history and future of the primate phylum \-- one unbroken line of genes \-- from the earliest times, when the dinosaurs were wiped out, to the last of them alive, some 500 million years in the future. The story is a strange one \-- it's hard to see something of this size and scope not being so. From beginning to end the story covers nearly a billion years, perhaps more, and it has some of the saddest ideas in it\...

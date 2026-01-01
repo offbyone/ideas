@@ -1,11 +1,12 @@
-Title: And then there was one...
-date: 2006-05-27 21:46
-author: offby1
+---
+title: And then there was one...
+slug: and-then-there-was-one
+date: "2006-05-27 21:46"
 category: Events
 tags: events
-slug: and-then-there-was-one
+author: offby1
 status: draft
-
+---
 Sixteen years. Edmonton last saw the playoff finals in 1990. They won, then, in five games. Buffalo, as it happens.
 
 In (hopefully) six days, they get to face off against the best in the east.

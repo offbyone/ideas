@@ -1,11 +1,12 @@
-Title: WinXP
-date: 2002-11-30 23:54
-author: offby1
+---
+title: WinXP
+slug: winxp
+date: "2002-11-30 23:54"
 category: Rants
 tags: rants
-slug: winxp
+author: offby1
 status: draft
-
+---
 I want everyone out there to know, computers suck!
 
 Well, not all computers - mostly just mine. So i'm sitting here, burning my last blank CDR full of a fully-slipstreamed Win2k service Pack 3 CD -with all of my tools, toys, and shite on it. In preparation for giving up on the dual-monitor dream that i held so dear. Basically, for some odd reason, my (ostensibly) amazing 17" Trinitron-tubed old monitor looks as blurry as shit on the GF4 when it's the secondary monitor. Needless to say, that's not so cool.

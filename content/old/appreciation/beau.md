@@ -1,11 +1,12 @@
-Title: Beau
-date: 2004-08-01 17:18
-author: offby1
+---
+title: Beau
+slug: beau
+date: "2004-08-01 17:18"
 category: Appreciation
 tags: appreciation
-slug: beau
+author: offby1
 status: draft
-
+---
 | This is the first of (hopefully) many postings in a new vein here. I'm not going to promise anything special, but the people I'll write about under this heading are my friends. This will be why I care, who they are to me, and all that jazz. Since it's not of interest to everyone, I'll keep the bulk of the text off of the front page, but here's the first one: Beau.
 | 
 | How do I even begin to explain this guy?

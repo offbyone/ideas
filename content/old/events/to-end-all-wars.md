@@ -1,11 +1,14 @@
-Title: ... to end all wars.
-date: 2005-01-19 18:00
-author: offby1
-category: Events, General Thoughts, Rants
-tags: events, rants
+---
+title: ... to end all wars.
 slug: to-end-all-wars
+date: "2005-01-19 18:00"
+category: Events, General Thoughts, Rants
+tags:
+  - events
+  - rants
+author: offby1
 status: draft
-
+---
 It wasn't, although the hope was there. Given the fact that in Canada we have [only six WWI veterans left alive](http://www.news.gc.ca/cfmx/CCP/view/en/index.cfm?articleid=119219), it makes me wonder how much more quickly we'll forget the lessons of that first world war now?
 
 Although WWII casts a longer shadow over my generation, the first war was in its time considered to be so horrific that no one would ever choose to war again.

@@ -1,11 +1,12 @@
-Title: ...
-date: 2002-12-01 22:44
-author: offby1
+---
+title: ...
+slug: dot-dot-dot
+date: "2002-12-01 22:44"
 category: Friends, General Thoughts
 tags: friends
-slug: dot-dot-dot
+author: offby1
 status: draft
-
+---
 I\... may well have lost a friend today.
 
 This is, needless to say, not a happy thing. It's frustrating. I can see the futility of our argument, even as i'm in the middle of it. I don't usually get outwardly angry, but i can feel that pointless rage bubbling just underneath the surface.

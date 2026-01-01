@@ -1,11 +1,12 @@
-Title: Enterprise
-Date: 2010-05-16 19:00
-Author: offby1
-Category: pics
-Tags: space
-Slug: enterprise
-Status: published
-
+---
+title: Enterprise
+slug: enterprise
+date: "2010-05-16 19:00"
+category: pics
+tags: space
+author: offby1
+status: published
+---
 ![shuttle]({attach}/images/2010-05-14/IMGP0320.JPG)
 
 Char snapped this at my request from the traffic jam that nearly kept

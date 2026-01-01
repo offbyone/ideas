@@ -1,11 +1,12 @@
-Title: One on hold, a new one started
-date: 2003-06-30 13:43
-author: offby1
+---
+title: One on hold, a new one started
+slug: one-on-hold-a-new-one-started
+date: "2003-06-30 13:43"
 category: Projects
 tags: projects
-slug: one-on-hold-a-new-one-started
+author: offby1
 status: draft
-
+---
 Well, that IDE project that has been languishing untouched on the sidebar for ages is about to get, well, turfed. Toast.
 
 It's not that i don't think it's a good idea, it's just that i've gotten to the realization that before i start building development *environments*, i should learn how to develop first. In the spirit of that, i've picked a couple of projects closer to the realm of possibility.

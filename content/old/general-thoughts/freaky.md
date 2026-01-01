@@ -1,11 +1,15 @@
-Title: Freaky
-date: 2006-06-18 20:43
-author: offby1
-category: General Thoughts
-tags: accident, asshole, driving
+---
+title: Freaky
 slug: freaky
+date: "2006-06-18 20:43"
+category: General Thoughts
+tags:
+  - accident
+  - asshole
+  - driving
+author: offby1
 status: draft
-
+---
 So, I just had a close call, driving home from Beau's place.
 
 For Edmontonians or frequent visitors, the locations described below will make sense.

@@ -1,13 +1,18 @@
-Title: Bits: Prometheus on Tailscale and fly.io
-Slug: bits-prometheus-on-tailscale-and-fly-io
-Date: 2023-02-21T21:21:58.326668
-Category: sys
-Tags: docker, tailscale, homelab, fly.io
-Author: Chris Rose
-Email: offline@offby1.net
-Status: draft
-Summary: A quick post about running Prometheus on fly.io (even on the free tier!) connected to tailscale
-
+---
+title: "Bits: Prometheus on Tailscale and fly.io"
+slug: bits-prometheus-on-tailscale-and-fly-io
+date: "2023-02-21T21:21:58.326668"
+category: sys
+tags:
+  - docker
+  - tailscale
+  - homelab
+  - fly.io
+author: Chris Rose
+email: offline@offby1.net
+summary: A quick post about running Prometheus on fly.io (even on the free tier!) connected to tailscale
+status: draft
+---
 As an admin for [wandering.shop](https://wandering.shop) I find it useful to be able to see how the shop is doing, metrics-wise. I'm not a genius at operations, but I can read a dashboard... so I wanted to have one for the shop.
 
 I tried out hosted Grafana, but it just didn't quite work the way I wanted it to, so I decided it was time to host my own Prometheus. The shop's budget isn't infinite, though, and cost is a factor. I'd heard of [fly.io](https://fly.io) in a few techie circles and decided to try it out for this.

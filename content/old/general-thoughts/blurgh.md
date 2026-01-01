@@ -1,11 +1,15 @@
-Title: Blurgh
-date: 2005-10-10 11:20
-author: offby1
-category: General Thoughts
-tags: apathy, computer, ennui
+---
+title: Blurgh
 slug: blurgh
+date: "2005-10-10 11:20"
+category: General Thoughts
+tags:
+  - apathy
+  - computer
+  - ennui
+author: offby1
 status: draft
-
+---
 As I write this, I am so ridiculously unmotivated\...
 
 I don't know why, but every time I look at something that isn't work-related associated with the computer, I get this massive sense of ennui, and a powerful desire to \... well, that's the problem. No powerful desire at all.

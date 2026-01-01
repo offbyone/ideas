@@ -1,11 +1,12 @@
-Title: Hot, hot, hot.
-date: 2007-07-13 07:12
-author: offby1
+---
+title: Hot, hot, hot.
+slug: hot-hot-hot
+date: "2007-07-13 07:12"
 category: Asides
 tags: random
-slug: hot-hot-hot
+author: offby1
 status: draft
-
+---
 But, of course, you know that.
 
 What you don't know is that\... um\...

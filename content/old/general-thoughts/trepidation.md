@@ -1,11 +1,12 @@
-Title: Trepidation
-date: 2006-02-26 13:53
-author: offby1
+---
+title: Trepidation
+slug: trepidation
+date: "2006-02-26 13:53"
 category: General Thoughts
 tags: school
-slug: trepidation
+author: offby1
 status: draft
-
+---
 I'm looking at my performance in CS 313 and thinking that I might have to withdraw from the course, and plan something a bit more lightweight for the summer. I need to focus on the course, and I'm just not finding it in myself to do so.
 
 Yeek.

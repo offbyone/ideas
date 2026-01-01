@@ -1,11 +1,14 @@
-Title: G'morning.  I'm bored, already!
-date: 2004-07-11 07:29
-author: offby1
-category: General Thoughts, Projects
-tags: projects, work
+---
+title: G'morning.  I'm bored, already!
 slug: gmorning-im-bored-already
+date: "2004-07-11 07:29"
+category: General Thoughts, Projects
+tags:
+  - projects
+  - work
+author: offby1
 status: draft
-
+---
 Oddly enough, I've found that having eight days off over the last two weeks is too much.
 
 Oh, I'll admit, if I had _known_ that they would be free in advance, it would be a whole different story -- I could have planned some, made some progress on projects, etc. But, since it's a completely day-to-day issue, I find myself more or less at loose ends for the duration.

@@ -1,11 +1,12 @@
-Title: Oh, puck.
-date: 2006-05-05 15:57
-author: offby1
+---
+title: Oh, puck.
+slug: oh-puck
+date: "2006-05-05 15:57"
 category: Events, General Thoughts
 tags: events
-slug: oh-puck
+author: offby1
 status: draft
-
+---
 So, no tickets for me.
 
 Mere seconds (about two) after the seat reservation system came online, I clicked through and got\... denied.

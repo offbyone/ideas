@@ -1,11 +1,14 @@
-Title: Eeeyowtch!
-Date: 2006-10-22 19:04
-Author: offby1
-Category: Life
-Tags: dislocation, skydiving
-Slug: eeeyowtch
-Status: published
-
+---
+title: Eeeyowtch!
+slug: eeeyowtch
+date: "2006-10-22 19:04"
+category: Life
+tags:
+  - dislocation
+  - skydiving
+author: offby1
+status: published
+---
 # Eeeyowtch!
 
 Christ, dislocating my shoulder **hurt**.

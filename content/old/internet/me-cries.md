@@ -1,14 +1,20 @@
-Title: /me cries
-date: 2007-08-15 16:54
-author: offby1
-category: Internet, Media
-tags: gaming, geeky, look at you hacker a pathetic creature of meat and bone, sucker, xbox
+---
+title: /me cries
 slug: me-cries
+date: "2007-08-15 16:54"
+category: Internet, Media
+tags:
+  - gaming
+  - geeky
+  - look at you hacker a pathetic creature of meat and bone
+  - sucker
+  - xbox
+author: offby1
 status: draft
-
+---
 I was going to resist\...
 
-I've got more consoles now than I've had in my life (Char with her PS2, PS1, and GC, me with my Xbox and Wii) but god **damn** it, [this Bioshock demo](<http://communities.canada.com/shareit/blogs/gamesnews/archive/2007/08/13/bioshock-demo-surfaces-on-xbox-live.aspx>) is going to suck me in, I just know it.
+I've got more consoles now than I've had in my life (Char with her PS2, PS1, and GC, me with my Xbox and Wii) but god **damn** it, [this Bioshock demo](http://communities.canada.com/shareit/blogs/gamesnews/archive/2007/08/13/bioshock-demo-surfaces-on-xbox-live.aspx) is going to suck me in, I just know it.
 
 Of course it's coming out for the PC, where I have to reboot to play.
 

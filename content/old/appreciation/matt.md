@@ -1,11 +1,12 @@
-Title: Matt
-date: 2006-11-21 16:25
-author: offby1
+---
+title: Matt
+slug: matt
+date: "2006-11-21 16:25"
 category: Appreciation
 tags: appreciation
-slug: matt
+author: offby1
 status: draft
-
+---
 I think it's time that I resurrect this feature of the site. I'm not spending enough time writing nice things about nice people, and that's a shame. So, without further ado\...
 
 | Matt is\...

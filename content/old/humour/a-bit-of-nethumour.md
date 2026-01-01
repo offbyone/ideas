@@ -1,11 +1,14 @@
-Title: A bit of net.humour
-date: 2006-07-23 10:23
-author: offby1
-category: Humour, Internet
-tags: humour, internet
+---
+title: A bit of net.humour
 slug: a-bit-of-nethumour
+date: "2006-07-23 10:23"
+category: Humour, Internet
+tags:
+  - humour
+  - internet
+author: offby1
 status: draft
-
+---
 Found on the interweb a short time ago, and brought again to my attention today by the good folks at MetaFilter:
 
 [Events since Duke Nukem Forever was announced](http://duke.a-13.net/).

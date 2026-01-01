@@ -1,11 +1,12 @@
-Title: Urgh.
-date: 2005-11-06 14:00
-author: offby1
+---
+title: Urgh.
+slug: urgh
+date: "2005-11-06 14:00"
 category: General Thoughts, Internet
 tags: internet
-slug: urgh
+author: offby1
 status: draft
-
+---
 For the last couple of weeks, this whole "internet" thing has been an unending series of disconnections and hassles.
 
 I'm right ticked.

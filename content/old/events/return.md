@@ -1,11 +1,14 @@
-Title: Return
-date: 2005-03-02 10:41
-author: offby1
-category: Events, General Thoughts
-tags: events, school
+---
+title: Return
 slug: return
+date: "2005-03-02 10:41"
+category: Events, General Thoughts
+tags:
+  - events
+  - school
+author: offby1
 status: draft
-
+---
 Mish-mash:
 
 | * Still haven't heard what the mark is for my (bombed) c340 exam. I'm awaiting it with trepidation, but probably won't hear soon enough to make a decision on whether to drop the course.

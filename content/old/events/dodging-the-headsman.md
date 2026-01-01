@@ -1,11 +1,15 @@
-Title: Dodging the Headsman
-date: 2006-10-02 16:51
-author: offby1
-category: Events, Friends, General Thoughts
-tags: events, friends, work
+---
+title: Dodging the Headsman
 slug: dodging-the-headsman
+date: "2006-10-02 16:51"
+category: Events, Friends, General Thoughts
+tags:
+  - events
+  - friends
+  - work
+author: offby1
 status: draft
-
+---
 Well, today was an interesting one at work. I arrived at noon to a quiet office with at least one strange face in it, and a lunch room that was\... strangely under-filled.
 
 It turns out that, in the process of being bought out, our office had been subject to some serious headcount reduction, including two of our core developers, one of which I have come to think of as a friend over the last year and a half. Additionally, our two new interns are on the block, ending their terms eight months early.

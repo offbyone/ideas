@@ -1,14 +1,23 @@
-Title: Masculine Energy and Aggression in the Workplace
-Slug: masculine-energy-and-aggression-in-the-workplace
-Date: 2025-01-19T10:35:44.451961
-Tags: thoughts, AWS, culture, feminism, character, culture, career, misanthropy
-Category: work
-Author: Chris Rose
-Email: offline@offby1.net
-Status: published
-Toot: https://wandering.shop/@offby1/113856615279060547
-Summary: My thoughts on how aggression and "Masculine Energy" have played out in my career, with references to recent bullshit from Meta and Zuckerberg
-
+---
+title: Masculine Energy and Aggression in the Workplace
+slug: masculine-energy-and-aggression-in-the-workplace
+date: 2025-01-19 10:35:44.451961
+category: work
+tags:
+  - thoughts
+  - AWS
+  - culture
+  - feminism
+  - character
+  - culture
+  - career
+  - misanthropy
+author: Chris Rose
+email: offline@offby1.net
+summary: My thoughts on how aggression and "Masculine Energy" have played out in my career, with references to recent bullshit from Meta and Zuckerberg
+status: published
+toot: "https://wandering.shop/@offby1/113856615279060547"
+---
 A lot of recent digital ink has been spilled about the implications of Mark Zuckerberg's recent changes to Meta's corporate culture, to reflect a more "Masculine Energy" that he believes is necessary to succeed[ref][USA Today](https://www.usatoday.com/story/life/health-wellness/2025/01/17/mark-zuckerberg-meta-workforce-masculine-energy/77755286007/), [The Guardian](https://www.theguardian.com/commentisfree/2025/jan/18/mark-zuckerberg-masculine-energy), [The Cut](https://www.thecut.com/article/mark-zuckerberg-thinks-companies-need-masculine-energy.html), [CBC](https://www.cbc.ca/news/business/mark-zuckerberg-masculinity-future-of-meta-1.7430950), etc...[/ref]. The article that spurred this post, though, is [this one by Kelley Greene](https://www.yahoo.com/news/woman-worked-tech-industry-15-214617926.html)[ref]Find her at [https://kelleygreene.pizza/](https://kelleygreene.pizza/) for more[/ref] on how aggression in the workplace plays out in practice. It's worth reading. 
 
 I spent a lot of years at AWS, joining in my early 30s. AWS's culture is famously combative; it's one of the defining traits, to such an extent that being argumentative (up to a point, which is a nuance often ignored or elided) is one of the core leadership principles of the company. I fit in _really_ well there; I am, naturally, inclined to react intensely with aggressive language when challenged, and to approach disagreements with maximum intensity to steamroll opposition. 12 years in that culture, though, actually softened me in ways that I never expected.

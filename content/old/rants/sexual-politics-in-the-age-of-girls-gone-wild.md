@@ -1,11 +1,12 @@
-Title: Sexual Politics in the age of Girls Gone Wild
-date: 2003-11-20 08:12
-author: offby1
+---
+title: Sexual Politics in the age of Girls Gone Wild
+slug: sexual-politics-in-the-age-of-girls-gone-wild
+date: "2003-11-20 08:12"
 category: Rants
 tags: rants
-slug: sexual-politics-in-the-age-of-girls-gone-wild
+author: offby1
 status: draft
-
+---
 There's an "article (What part of no do ya still not understand?)":http://www.laweekly.com/ink/03/53/features-lewis.php on the LA Weekly site taking about the current thoughts - from a wide social perspective - on the date rape issue.
 
 It makes a few fairly strong points, and is nearly unique in the articles i've read in that it actually goes so far as to suggest that there are situations where responsibility should be taken by the victim in this sort of situation.

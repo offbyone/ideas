@@ -1,11 +1,12 @@
-Title: Silence on School
-date: 2004-09-18 16:15
-author: offby1
+---
+title: Silence on School
+slug: silence-on-school
+date: "2004-09-18 16:15"
 category: General Thoughts
 tags: school
-slug: silence-on-school
+author: offby1
 status: draft
-
+---
 I was reminded yesterday that this blog was -- at least originally --about school. And I haven't been keeping up with that all that well. So, here's a play-by-play.
 
 Well, I guess the first thing is, the course (Cmput 415: Compiler Design) that had me most worried is a bit less worrying now. I've gotten a bit of a hang of it, and I think I can hack it. Mind you, the project for it is a bear, and it might still kick my ass and take my name.

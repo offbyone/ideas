@@ -1,11 +1,15 @@
-Title: Ideas for my upcoming birthday
-date: 2006-04-10 23:14
-author: offby1
-category: Events, Friends, General Thoughts, Media
-tags: events, friends, media
+---
+title: Ideas for my upcoming birthday
 slug: ideas-for-my-upcoming-birthday
+date: "2006-04-10 23:14"
+category: Events, Friends, General Thoughts, Media
+tags:
+  - events
+  - friends
+  - media
+author: offby1
 status: draft
-
+---
 I *have* had a few people ask me for ideas, so I figured I'd just put them out here as a suggestion or three.
 
 Yes, it's a swaglist. Sue me, it's my website.

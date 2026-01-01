@@ -1,11 +1,12 @@
-Title: A TV person's critique
-date: 2002-12-16 06:58
-author: offby1
+---
+title: A TV person's critique
+slug: a-tv-persons-critique
+date: "2002-12-16 06:58"
 category: Rants
 tags: rants
-slug: a-tv-persons-critique
+author: offby1
 status: draft
-
+---
 I have, on the rare occasion that i've watched television, been fairly impressed with the show "Win Ben Stein's Money". It has struck me as being quite a bit harder to win than most quiz games, and at the same time providing much less of a payoff. So, when Mr. Stein wrote a [critique](http://www.forbes.com/free_forbes/2002/1223/225.html) of US - and by extension, North American - progress and innovation, i felt it was worth a read. (via, of course, [MeFi](http://www.metafilter.com/comments.mefi/22325)) Mr. Stein hits so many of my hot-button issues right on the head that i don't really know where to start. I think that the best thing i could suggest would be to read the article, because there's really very little there that i can disagree with. Amongst the points made, however, a few of them stand out from the pack.
 
 Number three, referring to the culture of blame and litigation that is growing in the western world, is one such. Nowhere is the lack of self-responsibility more clearly visible than in the knee-jerk response of "I'll sue!" that greets any mistake on anyone's part. When someone's child chokes on a piece of a toy, sue the toymaker. When someone slips and falls in a parking lot, sue the business that owns the lot. Whenever anyone's happiness is impinged in any way *by anyone richer than they are*, well, sue, of course! What better response could there be?! At some point, there has to be responsibility on the part of the individual. At least as i see it.

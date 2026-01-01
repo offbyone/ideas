@@ -1,11 +1,17 @@
-Title: Warning Signs for Tomorrow
-date: 2006-10-15 12:42
-author: offby1
-category: Humour
-tags: future, humour, internet, meme, snark
+---
+title: Warning Signs for Tomorrow
 slug: warning-signs-for-tomorrow
+date: "2006-10-15 12:42"
+category: Humour
+tags:
+  - future
+  - humour
+  - internet
+  - meme
+  - snark
+author: offby1
 status: draft
-
+---
 This might mark me as exceptionally nerdy, but I just love this set of [warning signs for tomorrow](http://lifeboat.com/ex/warning.signs.for.tomorrow), dug up via the instapundit.
 
 Some favourites:

@@ -1,16 +1,22 @@
-Title: Surprise, Surprise...
-date: 2004-04-17 23:40
-author: offby1
-category: General Thoughts
-tags: book, doodads, gift-giving, gifts, projects
+---
+title: Surprise, Surprise...
 slug: surprise-surprise
+date: "2004-04-17 23:40"
+category: General Thoughts
+tags:
+  - book
+  - doodads
+  - gift-giving
+  - gifts
+  - projects
+author: offby1
 status: draft
-
+---
 Although it will no doubt come as a surprise to some (all?) of my readers, I haven't been giving too much thought to my upcoming birthday, and all that goes with that. Meaning, of course, the greedy part of it -- gifts.
 
 Yes, yes, i know\... Putting a post about it up on the blog certainly doesn't strengthen my claim, does it?
 
-Well, bugger that. It so happens that, this year, I am more or less at a loss as to what I even want for a gift. The fact of the matter is, ever since Dad got me one of [these](<http://www.apple.com/ipod/>) for Christmas, well, i literally haven't _wanted_ any gadgetry. Oh, sure, I want to upgrade my computer, but the day _that_ stops, it's time to bury me. But, other than that I haven't wanted toys. It's kind of weird. And, as a result, I've been less focused on my materialistic side as I've simply reveled in the pleasure of carrying 1900 songs with me wherever I go.
+Well, bugger that. It so happens that, this year, I am more or less at a loss as to what I even want for a gift. The fact of the matter is, ever since Dad got me one of [these](http://www.apple.com/ipod/) for Christmas, well, i literally haven't _wanted_ any gadgetry. Oh, sure, I want to upgrade my computer, but the day _that_ stops, it's time to bury me. But, other than that I haven't wanted toys. It's kind of weird. And, as a result, I've been less focused on my materialistic side as I've simply reveled in the pleasure of carrying 1900 songs with me wherever I go.
 
 But, since I've been pounding away at a few things here as programming projects of my own, I've come to realize that there are a few, slightly oddball (as in, they get buried in the Amazon wishlist) items i'd like. And, as usual, they're all books.
 

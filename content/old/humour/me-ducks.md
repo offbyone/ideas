@@ -1,11 +1,12 @@
-Title: /me ducks
-date: 2004-04-14 08:51
-author: offby1
+---
+title: /me ducks
+slug: me-ducks
+date: "2004-04-14 08:51"
 category: Humour
 tags: humour
-slug: me-ducks
+author: offby1
 status: draft
-
+---
 Well, this might be fun. A bit of link-hopping late last night has left me thinking\...
 
 What the sexes _really_ need is [a little bit](http://niceguy.dearingfilm.com/index.php> "NiceGuy's Women Suck Page!") of [misogyny](http://www.misanthropic-bitch.com/> "The Misanthropic Bitch") and \...

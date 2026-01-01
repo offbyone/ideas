@@ -1,14 +1,21 @@
-Title: How Will You React?
-date: 2007-04-18 18:54
-author: offby1
-category: General Thoughts
-tags: blame, finger-pointing, media, rants, society, voyeurism
+---
+title: How Will You React?
 slug: how-will-you-react
+date: "2007-04-18 18:54"
+category: General Thoughts
+tags:
+  - blame
+  - finger-pointing
+  - media
+  - rants
+  - society
+  - voyeurism
+author: offby1
 status: draft
-
+---
 What's next?
 
-We've all heard about the [shootings at Virginia Tech]([http://en.wikipedia.org/wiki/Virginia_Tech_massacre](http://en.wikipedia.org/wiki/Virginia_Tech_massacre)), and now more information is going to come out, leading to a wave of media speculation, blog postings (my bad), and calls for emotionally-driven action.
+We've all heard about the [shootings at Virginia Tech](http://en.wikipedia.org/wiki/Virginia_Tech_massacre), and now more information is going to come out, leading to a wave of media speculation, blog postings (my bad), and calls for emotionally-driven action.
 
 So, how will you react?
 

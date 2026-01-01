@@ -1,12 +1,16 @@
-Title: Hard drive and hard drinking
-date: 2004-08-25 13:20
-author: offby1
-category: General Thoughts
-tags: computer, failure, party
+---
+title: Hard drive and hard drinking
 slug: hard-drive-and-hard-drinking
+date: "2004-08-25 13:20"
+category: General Thoughts
+tags:
+  - computer
+  - failure
+  - party
+author: offby1
 status: draft
-
-Woke up this morning having recovered nearly 100% from the partying last night. Sure, it was out of character for me, but every once in a while it pays to be a bit less moderate. Missed some people that should have been there, but all told a [good time](<http://www.livejournal.com/users/vernondalhart/112341.html>) was had.
+---
+Woke up this morning having recovered nearly 100% from the partying last night. Sure, it was out of character for me, but every once in a while it pays to be a bit less moderate. Missed some people that should have been there, but all told a [good time](http://www.livejournal.com/users/vernondalhart/112341.html) was had.
 
 The time was not so good this morning, however. I woke up to a clicking noise coming from my new hard drive (the one that [Char](http://www.livejournal.com/users/xraystar) bought me for my music) and essentially a dead drive with little to no hope of recovery.
 

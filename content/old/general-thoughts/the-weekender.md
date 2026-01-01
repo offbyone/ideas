@@ -1,11 +1,15 @@
-Title: The Weekender
-date: 2003-10-13 18:12
-author: offby1
-category: General Thoughts
-tags: family, health, memory lane
+---
+title: The Weekender
 slug: the-weekender
+date: "2003-10-13 18:12"
+category: General Thoughts
+tags:
+  - family
+  - health
+  - memory lane
+author: offby1
 status: draft
-
+---
 Schlepped up to see the parental units this weekend, bringing Char and Simon along with me, with every intention of adding several pounds to my frame.
 
 Thanksgiving is the shit :)

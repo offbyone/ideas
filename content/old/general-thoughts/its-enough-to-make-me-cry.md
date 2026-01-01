@@ -1,11 +1,12 @@
-Title: It's enough to make me cry
-date: 2004-08-31 22:48
-author: offby1
+---
+title: It's enough to make me cry
+slug: its-enough-to-make-me-cry
+date: "2004-08-31 22:48"
 category: General Thoughts, Rants
 tags: rants
-slug: its-enough-to-make-me-cry
+author: offby1
 status: draft
-
+---
 Just half an hour ago, the server upon which I have stored all my e-mail for years back, all my source code for the same, and in which I have placed much trust abruptly decided that no, I did _not_ need any of the above, much less the sundry files of many kinds and sources that I had assiduously collected over the past couple of years.
 
 Basically, it ate an entire filesystem entire.

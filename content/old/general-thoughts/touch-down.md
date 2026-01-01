@@ -1,11 +1,14 @@
-Title: Touch, down
-date: 2006-03-25 12:35
-author: offby1
-category: General Thoughts
-tags: eclipse, work
+---
+title: Touch, down
 slug: touch-down
+date: "2006-03-25 12:35"
+category: General Thoughts
+tags:
+  - eclipse
+  - work
+author: offby1
 status: draft
-
+---
 Aternately:  A touch down.
 
 Not really, I guess, but it's interesting decompressing and realizing how much stuff I need to get done.  I freely admit, I'm procrastinating something fierce right now, trying to avoid actually workingon anything productive.  Bah.  How \... normal.

@@ -1,11 +1,15 @@
-Title: That ol' "impending doom" feeling...
-date: 2004-02-04 23:25
-author: offby1
-category: General Thoughts
-tags: family, fear, health
+---
+title: That ol' "impending doom" feeling...
 slug: that-ol-impending-doom-feeling
+date: "2004-02-04 23:25"
+category: General Thoughts
+tags:
+  - family
+  - fear
+  - health
+author: offby1
 status: draft
-
+---
 Well, to all those that wished me well and good fortune with regards to my last post, I thank you, but I'll admit, I wish you had wished harder.
 
 About 2:30 this morning, my dad had a heart attack.

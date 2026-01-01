@@ -1,11 +1,14 @@
-Title: Call to action
-date: 2006-01-25 17:19
-author: offby1
-category: Internet, Media
-tags: internet, media
+---
+title: Call to action
 slug: call-to-action
+date: "2006-01-25 17:19"
+category: Internet, Media
+tags:
+  - internet
+  - media
+author: offby1
 status: draft
-
+---
 I realize that this is two posts today (a habit that wouldn't kill me to keep up with, all told) but here's something you all should see: the [Firefly Season 2 project](http://www.fireflyseason2.com/index.asp), as linked from [this /. article](http://slashdot.org/article.pl?sid=06/01/25/2146257).
 
 There's a survey for demographics that, if you liked the show, I encourage you to fill out as gappily as you want. Since I get my spam protection from [spamgourmet](http://www.spamgourmet.com/), I'm comfortable giving them a protected address. I encourage you to do no more than that.

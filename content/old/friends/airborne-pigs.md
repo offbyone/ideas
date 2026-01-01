@@ -1,11 +1,14 @@
-Title: Airborne pigs!
-date: 2003-01-03 10:58
-author: offby1
-category: Friends, General Thoughts
-tags: friends, school
+---
+title: Airborne pigs!
 slug: airborne-pigs
+date: "2003-01-03 10:58"
+category: Friends, General Thoughts
+tags:
+  - friends
+  - school
+author: offby1
 status: draft
-
+---
 Amazingly enough, my mother - the perennial luddite/technophobe/what-have-you - is getting online! In as few as two or three days, she'll be connected to the wild, wooly weirdness that is the world wide web!
 
 Colour me amazed. And, to think, all that it took was Simon and i creating websites of our very own. Wow :)

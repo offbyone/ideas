@@ -1,11 +1,12 @@
-Title: Eternal Truths
-date: 2006-10-07 11:44
-author: offby1
+---
+title: Eternal Truths
+slug: eternal-truths
+date: "2006-10-07 11:44"
 category: Internet
 tags: internet
-slug: eternal-truths
+author: offby1
 status: draft
-
+---
 <blockquote>
 There ought to be a word in the English language which captures the
 idea of people decrying the provincial bigotry of others in a

@@ -1,12 +1,16 @@
-Title: Blocking Ads 
-Date: 2023-10-05 11:00
-Author: offby1
-Category: society 
-Tags: culture, cyberspace, internet
-Slug: adblockers
-Summary: This page explains why I want you to use an adblocker.
-Status: published
-
+---
+title: Blocking Ads
+slug: adblockers
+date: "2023-10-05 11:00"
+category: society
+tags:
+  - culture
+  - cyberspace
+  - internet
+author: offby1
+summary: This page explains why I want you to use an adblocker.
+status: published
+---
 I think that the ad economy on the internet is toxic and even when done in the most ethical of ways on the side of the site hosting the ads, can allow dangerous code to run on your computer. You should install an ad blocker for your own safety and to reduce the power of advertising to control what we see and discuss.
 
 Please note that some websites may break when you visit them with an ad-blocking extension enabled. Most extensions allow you to exclude specific websites, so that’s one easy fix if that happens. If _this_ website breaks, please nudge [me on Mastodon](https://wandering.shop/@offby1) with the URL and I'll fix it!

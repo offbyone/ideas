@@ -1,11 +1,14 @@
-Title: Chitty Chitty Bye Bye
-date: 2007-03-30 06:27
-author: offby1
-category: General Thoughts
-tags: cats, goodbye
+---
+title: Chitty Chitty Bye Bye
 slug: chitty-chitty-bye-bye
+date: "2007-03-30 06:27"
+category: General Thoughts
+tags:
+  - cats
+  - goodbye
+author: offby1
 status: draft
-
+---
 She was the first cat I'd ever held that actually went for my eyes; by _god_ did she hate me.
 
 She was neurotic and temperamental; she would be loving everything one minute, and the next she would be an omnidirectional hate engine.

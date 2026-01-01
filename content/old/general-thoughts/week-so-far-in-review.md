@@ -1,11 +1,14 @@
-Title: Week (so far) in review
-date: 2003-01-23 13:48
-author: offby1
-category: General Thoughts
-tags: failure, health
+---
+title: Week (so far) in review
 slug: week-so-far-in-review
+date: "2003-01-23 13:48"
+category: General Thoughts
+tags:
+  - failure
+  - health
+author: offby1
 status: draft
-
+---
 Well, it's been a hell of a week so far. Let's see what the tally is at:
 
 One(1) busted clutch master cylinder. \$232 later\...

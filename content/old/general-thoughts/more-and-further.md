@@ -1,11 +1,15 @@
-Title: More and further...
-date: 2004-01-08 10:20
-author: offby1
-category: General Thoughts, Rants
-tags: intellectual property, privacy, rants
+---
+title: More and further...
 slug: more-and-further
+date: "2004-01-08 10:20"
+category: General Thoughts, Rants
+tags:
+  - intellectual property
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 Adam Gessaman has [some more to say](http://idly.org/2004/01/07/locke-property-and-software-piracy) on the subject of piracy, in response to Aaron's [opinions](http://www.aaronsw.com/2002/onPiracy) on the nature of intellectual property. Some of Aaron's statements from the debate [here](http://www.offlineblog.com/backlog/2004/01/04/aaaarghhh/) as well make it into the rebuttal.
 
 Essentially, Adam manages to express the reasons that really underly my belief that Nick, amongst others, have a right to the profits from their software. Especially interesting is the quote:

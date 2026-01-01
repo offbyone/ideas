@@ -1,11 +1,15 @@
-Title: A question of freedom.
-date: 2006-11-08 07:49
-author: offby1
-category: Asides, General Thoughts
-tags: debate, freedom, philosophy
+---
+title: A question of freedom.
 slug: a-question-of-freedom
+date: "2006-11-08 07:49"
+category: Asides, General Thoughts
+tags:
+  - debate
+  - freedom
+  - philosophy
+author: offby1
 status: draft
-
+---
 Seen on a forum today:
 
 | \> Which is more free?

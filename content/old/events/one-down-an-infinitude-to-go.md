@@ -1,11 +1,12 @@
-Title: One down, an infinitude to go...
-date: 2003-01-01 10:15
-author: offby1
+---
+title: One down, an infinitude to go...
+slug: one-down-an-infinitude-to-go
+date: "2003-01-01 10:15"
 category: Events
 tags: events
-slug: one-down-an-infinitude-to-go
+author: offby1
 status: draft
-
+---
 2002\... The year of the, what, recap?
 
 Meaning, of course, that i'm not gonna do it :)

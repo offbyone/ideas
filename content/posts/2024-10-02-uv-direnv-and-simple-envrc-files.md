@@ -1,14 +1,19 @@
-Title: uv, direnv, and simple .envrc files
-Slug: uv-direnv-and-simple-envrc-files
-Date: 2024-10-02T00:05:01.102701
-Tags: uv, python, direnv, tool-sharpening
-Category: tools
-Author: Chris Rose
-Email: offline@offby1.net
-Toot: https://wandering.shop/@offby1/113236646362747524
-Status: published
-Summary: Easily using uv, direnv, and minimal, consistent .envrc files
-
+---
+title: uv, direnv, and simple .envrc files
+slug: uv-direnv-and-simple-envrc-files
+date: 2024-10-02 00:05:01.102701
+category: tools
+tags:
+  - uv
+  - python
+  - direnv
+  - tool-sharpening
+author: Chris Rose
+email: offline@offby1.net
+summary: Easily using uv, direnv, and minimal, consistent .envrc files
+status: published
+toot: "https://wandering.shop/@offby1/113236646362747524"
+---
 I have adopted [`uv`](https://astral.sh/uv/) for a lot of Python development. I'm also a heavy user of [`direnv`](https://direnv.net/), which I like as a tool for setting up project-specific environments. 
 
 Much like [Hynek describes](https://www.youtube.com/watch?v=8UuW8o4bHbw), I've found `uv sync` to be fast enough to put into the chdir path for new directories. Here's how I'm doing it.

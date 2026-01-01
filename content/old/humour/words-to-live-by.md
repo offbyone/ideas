@@ -1,11 +1,12 @@
-Title: Words to live by...
-date: 2003-10-18 17:54
-author: offby1
+---
+title: Words to live by...
+slug: words-to-live-by
+date: "2003-10-18 17:54"
 category: Humour
 tags: humour
-slug: words-to-live-by
+author: offby1
 status: draft
-
+---
 Okay, this one is a bit\... uhh\... racy. But funny as all hell. In the extended entry below is the entire text of a letter to Dan Savage, as printed in this week's Onion and with emphasis added by yours truly. The last paragraph is probably the truest thing ever spoken about\...
 
 \...

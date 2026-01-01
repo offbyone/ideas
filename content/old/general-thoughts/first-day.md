@@ -1,11 +1,12 @@
-Title: First Day
-date: 2004-09-07 08:44
-author: offby1
+---
+title: First Day
+slug: first-day
+date: "2004-09-07 08:44"
 category: General Thoughts
 tags: school
-slug: first-day
+author: offby1
 status: draft
-
+---
 \... and butterflies like fscking _elephants_.
 
 The assignments look really damned hard.

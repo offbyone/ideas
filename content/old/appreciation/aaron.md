@@ -1,11 +1,12 @@
-Title: Aaron
-date: 2004-08-21 13:33
-author: offby1
+---
+title: Aaron
+slug: aaron
+date: "2004-08-21 13:33"
 category: Appreciation
 tags: appreciation
-slug: aaron
+author: offby1
 status: draft
-
+---
 Moving right along\...
 
 This is where it gets a bit more complicated. Most of the people I'm going to be writing about in this vein now are people who read the blog with varying degrees of frequency. I'm not really sure how I feel about talking about them in such a public forum, and more to the point, I'm not sure how comfortable _they_ are with it.

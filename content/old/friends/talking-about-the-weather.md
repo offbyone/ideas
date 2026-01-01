@@ -1,11 +1,15 @@
-Title: Talking about the weather
-date: 2005-12-28 09:10
-author: offby1
-category: Friends, General Thoughts, Rants
-tags: friends, rants, work
+---
+title: Talking about the weather
 slug: talking-about-the-weather
+date: "2005-12-28 09:10"
+category: Friends, General Thoughts, Rants
+tags:
+  - friends
+  - rants
+  - work
+author: offby1
 status: draft
-
+---
 There is something fundamentally fucked up about the idea of going out -- in *Edmonton* -- and playing disc golf on December 28th. This is not natural. It is, however, kind of nice.
 
 So, the season of \... well, whatever the season is *of*, to you \... is come and mostly gone. Family was saw, presents sent and presented. I think that the Go board I got from [Simon](http://www.livejournal.com/users/vernondalhart/), along w/ the Calvin and Hobbes collection from [Char](http://www.livejournal.com/users/xraystar) are pretty much the standouts of the lot. Thanks, though, to all for the neato things. I hope my own gifts were appreciated as well. Surprisingly, the whole "giving" part of all of this is the best for me. Don't get me wrong; I love *getting* stuff, too, but there's something just fun about picking just the right gift for people.

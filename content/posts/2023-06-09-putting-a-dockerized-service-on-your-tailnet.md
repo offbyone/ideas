@@ -1,14 +1,18 @@
-Title: Putting a dockerized service on your tailnet
+---
+title: Putting a dockerized service on your tailnet
 slug: putting-a-dockerized-service-on-your-tailnet
-date: 2023-06-09T16:14:16.627566
+date: 2023-06-09 16:14:16.627566
 category: homelab
-tags: internet, tailscale, docker
+tags:
+  - internet
+  - tailscale
+  - docker
 author: Chris Rose
 email: offline@offby1.net
 summary: Putting a single, secured webserver
 status: published
-toot: https://wandering.shop/@offby1/110518421975881346
-
+toot: "https://wandering.shop/@offby1/110518421975881346"
+---
 I got an itch to stop having my homelab services running at `https://some-tailscale.my-tailnet/service`, and instead be able to reasonably cheaply have `https://service.my-tailnet/` be the order of the day. You may not have this desire, and if that's the case congratulations; you're probably in a healthier mental space than I am.
 
 *If*, however, you find yourself wishing you could just have infinite hostnames for your services, and never deal with a webroot configuration again, then maybe this post is for you.

@@ -1,11 +1,12 @@
-Title: It's here!
-date: 2002-11-12 18:12
-author: offby1
+---
+title: It's here!
+slug: its-strongherestrong
+date: "2002-11-12 18:12"
 category: General Thoughts
 tags: lord of the rings
-slug: its-strongherestrong
+author: offby1
 status: draft
-
+---
 It's HEEEEEEEEEEEEEEEEEEEEEEEERE!!!!! Yes, this is what you think it is.
 
 So, 35 more minutes\...

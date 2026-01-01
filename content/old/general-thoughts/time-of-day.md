@@ -1,11 +1,14 @@
-Title: Time of Day
-date: 2004-09-22 06:55
-author: offby1
-category: General Thoughts
-tags: art, beauty
+---
+title: Time of Day
 slug: time-of-day
+date: "2004-09-22 06:55"
+category: General Thoughts
+tags:
+  - art
+  - beauty
+author: offby1
 status: draft
-
+---
 Much has been written and painted of the awe-inspiring beauty of sunsets over the years, mostly by people with greater ability than I.
 
 What is, I think, wildly underrepresented in the history of art is the sun_rise\_.

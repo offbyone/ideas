@@ -1,11 +1,12 @@
-Title: Change of Contact
-date: 2004-06-24 07:21
-author: offby1
+---
+title: Change of Contact
+slug: change-of-contact
+date: "2004-06-24 07:21"
 category: Friends, General Thoughts
 tags: friends
-slug: change-of-contact
+author: offby1
 status: draft
-
+---
 It suddenly occurs to me that this is the ideal place to make an announcement like this, just in case I missed someone with the mailout:
 
 For convenience and long-term contact accessibility, I am moving my day to day e-mail over to *chris (at} offlineblog {dot) com*.

@@ -1,11 +1,12 @@
-Title: Failed failures(curses!)
-date: 2003-09-03 10:04
-author: offby1
+---
+title: Failed failures(curses!)
+slug: failed-failurescurses
+date: "2003-09-03 10:04"
 category: General Thoughts
 tags: school
-slug: failed-failurescurses
+author: offby1
 status: draft
-
+---
 So, back to the classes. I've now attended each and every one of my classes for this semester, and one thing strikes me:
 
 It's disappointing how few people have failed the first year.

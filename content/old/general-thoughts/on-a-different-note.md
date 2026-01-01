@@ -1,12 +1,18 @@
-Title: On a different note
-date: 2004-05-30 08:16
-author: offby1
-category: General Thoughts
-tags: edmonton, friends, memory lane, moving, school
+---
+title: On a different note
 slug: on-a-different-note
+date: "2004-05-30 08:16"
+category: General Thoughts
+tags:
+  - edmonton
+  - friends
+  - memory lane
+  - moving
+  - school
+author: offby1
 status: draft
-
-I was going to write about my evening last night with a few really good friends, involving mainly hockey, insanely hot wings, bowling, pool, and beer. But upon browsing my daily blog collection, I figured I'd meta-comment on [this](<http://www.livejournal.com/users/vernondalhart/106659.html>) instead.
+---
+I was going to write about my evening last night with a few really good friends, involving mainly hockey, insanely hot wings, bowling, pool, and beer. But upon browsing my daily blog collection, I figured I'd meta-comment on [this](http://www.livejournal.com/users/vernondalhart/106659.html) instead.
 
 Although the timeframe is a bit extended, I think that I can really identlfy with the theme of the post, if not the specific details of it. I can remember spending much of my earlier life striving with all I had to be whatever it took to get people to like me. I would do anything asked of me, if I thought it had any hope whatsoever of making people appreciate me.
 

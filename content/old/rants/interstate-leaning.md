@@ -1,11 +1,12 @@
-Title: Interstate Leaning
-date: 2003-05-02 14:04
-author: offby1
+---
+title: Interstate Leaning
+slug: interstate-leaning
+date: "2003-05-02 14:04"
 category: Rants
 tags: rants
-slug: interstate-leaning
+author: offby1
 status: draft
-
+---
 Assholes. Not all of them, nor in all ways, but it's pretty significant in one respect.
 
 What the hell am i talking about?

@@ -1,11 +1,14 @@
-Title: What did we ever do, before the internets?
-date: 2006-07-19 12:19
-author: offby1
-category: Humour, Internet
-tags: humour, internet
+---
+title: What did we ever do, before the internets?
 slug: what-did-we-ever-do-before-the-internets
+date: "2006-07-19 12:19"
+category: Humour, Internet
+tags:
+  - humour
+  - internet
+author: offby1
 status: draft
-
+---
 A friend of my co-worker, call him "A", is the subject of this post.
 
 On Canada Day, "A" was stabbed.

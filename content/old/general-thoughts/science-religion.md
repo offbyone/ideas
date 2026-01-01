@@ -1,11 +1,14 @@
-Title: Science != Religion
-date: 2004-11-22 21:02
-author: offby1
-category: General Thoughts, Rants
-tags: rants, school
+---
+title: Science != Religion
 slug: science-religion
+date: "2004-11-22 21:02"
+category: General Thoughts, Rants
+tags:
+  - rants
+  - school
+author: offby1
 status: draft
-
+---
 Argh.
 
 I'm writing this from my comparative literature class where we're discussing _Calculating God_ as this weeks book. Right now i'm in the process of trying to explain why science is not a religion. I'm getting a bit of resistance from the class. The argument to that effect is that science is equivalent to religion in the sense that both are nothing more than roughly equivalent worldviews that simply draw different conclusions in the pursuit of knowledge.

@@ -1,11 +1,16 @@
-Title: Just Chilling
-date: 2004-07-26 21:03
-author: offby1
-category: General Thoughts
-tags: book, cryptography, movie, steadicam
+---
+title: Just Chilling
 slug: just-chilling
+date: "2004-07-26 21:03"
+category: General Thoughts
+tags:
+  - book
+  - cryptography
+  - movie
+  - steadicam
+author: offby1
 status: draft
-
+---
 It's a pretty nice evening here. I'm sitting on the couch in the living room, Char just beside me reading her Dark Tower book and Ivan on my lap.
 
 I don't have to get up in the morning, and I have plans to get some quality geeking in when I do.

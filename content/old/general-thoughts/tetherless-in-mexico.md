@@ -1,11 +1,16 @@
-Title: Tetherless in Mexico
-date: 2005-02-22 21:03
-author: offby1
-category: General Thoughts
-tags: school, security, travel, wi-fi
+---
+title: Tetherless in Mexico
 slug: tetherless-in-mexico
+date: "2005-02-22 21:03"
+category: General Thoughts
+tags:
+  - school
+  - security
+  - travel
+  - wi-fi
+author: offby1
 status: draft
-
+---
 Well, it so happens that if I sit out on our balcony in the resort, I actually piggyback the wireless connection (poorly-secured) of someone in the neighborhood. They're not very security-conscious (their router has the default password, a bad idea in general) but I'm grateful for it.
 
 It's hot here, but friendly. The crowd is almost 100% older than [Char](http://xraystar.livejournal.com/) and I -- mostly yuppies and retirees -- but I'm an old man at heart, so I fit right in :)

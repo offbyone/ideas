@@ -1,11 +1,17 @@
-Title: A Catchup, Catch-all,
-date: 2007-12-02 08:25
-author: offby1
-category: Events, Friends, General Thoughts, Meta
-tags: book, char, dislocation, travel, work
+---
+title: A Catchup, Catch-all,
 slug: a-catchup-catch-all
+date: "2007-12-02 08:25"
+category: Events, Friends, General Thoughts, Meta
+tags:
+  - book
+  - char
+  - dislocation
+  - travel
+  - work
+author: offby1
 status: draft
-
+---
 and I wanted to work Catch-22 into that title, but couldn't.
 
 So, in response to some vigourous prodding last night, I felt it was time to dust this off and get back to keeping people apprised of my life.

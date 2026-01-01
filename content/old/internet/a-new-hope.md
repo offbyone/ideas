@@ -1,11 +1,14 @@
-Title: A new hope?
-date: 2005-03-11 00:33
-author: offby1
-category: Internet, Media
-tags: internet, media
+---
+title: A new hope?
 slug: a-new-hope
+date: "2005-03-11 00:33"
+category: Internet, Media
+tags:
+  - internet
+  - media
+author: offby1
 status: draft
-
+---
 I just took the time -- thanks to the wonders of this Interweb thingie -- to watch the official theatrical trailer for Star Wars episode III.
 
 It looks _good_.

@@ -1,11 +1,14 @@
-Title: EclipseCon 2006
-date: 2006-01-10 15:24
-author: offby1
-category: General Thoughts
-tags: eclipse, work
+---
+title: EclipseCon 2006
 slug: eclipsecon-2006
+date: "2006-01-10 15:24"
+category: General Thoughts
+tags:
+  - eclipse
+  - work
+author: offby1
 status: draft
-
+---
 So\...
 
 Work, in their infinite generosity, has deigned to send me \-- all expenses paid, no less \-- to [Eclipse Con 2006](http://www.eclipsecon.org/) down in Santa Clara, California. I'm flying out March 19th and back March 24th, and expect to have an amazing time \-- very educational, very enjoyable stuff.

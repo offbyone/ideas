@@ -1,11 +1,15 @@
-Title: Sporadic Connection
-date: 2005-01-08 12:55
-author: offby1
-category: Events, General Thoughts
-tags: events, school, work
+---
+title: Sporadic Connection
 slug: sporadic-connection
+date: "2005-01-08 12:55"
+category: Events, General Thoughts
+tags:
+  - events
+  - school
+  - work
+author: offby1
 status: draft
-
+---
 Well, the move is happening either this weekend or over the coming week. This is going to result in some _very_ sporadic communications, as our phone will not be moved over until the 15th of the month. I can't even attest to the usual rapidity of my e-mail responses, since when we move I'll be re-wiring the new place to allow connection to occur. Still, I hope to be somewhat in touch.
 
 Anyway, I am still hating this. I like the house and would rather stay, but the situation dictates otherwise, to my dismay.

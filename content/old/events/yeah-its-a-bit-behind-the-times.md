@@ -1,11 +1,15 @@
-Title: Yeah, it's a bit behind the times
-date: 2004-12-10 12:22
-author: offby1
-category: Events, General Thoughts, Media, Rants
-tags: events, media, rants
+---
+title: Yeah, it's a bit behind the times
 slug: yeah-its-a-bit-behind-the-times
+date: "2004-12-10 12:22"
+category: Events, General Thoughts, Media, Rants
+tags:
+  - events
+  - media
+  - rants
+author: offby1
 status: draft
-
+---
 This is something of a mish-mash post.
 
 First off, and most obvious: I have finished classes for the semester. It's been fairly gruelling, which although unsurprising, really did make for an interesting change from Grant Macewan \-- school of the soft knocks. Sadly, though, I still have a project and four final exams left, at least two of which are going to be very hard.

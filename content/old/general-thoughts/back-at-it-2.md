@@ -1,11 +1,12 @@
-Title: Back at it
-date: 2006-01-01 22:59
-author: offby1
+---
+title: Back at it
+slug: back-at-it-2
+date: "2006-01-01 22:59"
 category: General Thoughts
 tags: work
-slug: back-at-it-2
+author: offby1
 status: draft
-
+---
 It should come as no surprise to anyone that I'm going to enjoy being back at work. It's not to say that I've not been enjoying being off, either, but\...
 
 Well, I *like* my job.

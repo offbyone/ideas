@@ -18,3 +18,4 @@ themes/offby1/static/webfonts/
 **/.claude/settings.local.json
 plan.just
 !.tool-versions
+pristine-output

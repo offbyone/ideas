@@ -1,11 +1,12 @@
-Title: Biblical, yo.
-date: 2004-07-11 17:01
-author: offby1
+---
+title: Biblical, yo.
+slug: biblical-yo
+date: "2004-07-11 17:01"
 category: Events, General Thoughts
 tags: events
-slug: biblical-yo
+author: offby1
 status: draft
-
+---
 What a downpour.
 
 It started about 14:45 just before Char had to leave for work, and as we got ready to drive there, it was picking up to mammoth volumes including hail and low, threatening clouds. We drove her to work, gingerly, and then I made my way home.

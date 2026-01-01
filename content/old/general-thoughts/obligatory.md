@@ -1,11 +1,15 @@
-Title: Obligatory
-date: 2003-12-26 10:36
-author: offby1
-category: General Thoughts
-tags: beer, family, food
+---
+title: Obligatory
 slug: obligatory
+date: "2003-12-26 10:36"
+category: General Thoughts
+tags:
+  - beer
+  - family
+  - food
+author: offby1
 status: draft
-
+---
 The Christmas season is past, now begins the age of _Boxing Week_.
 
 Scary thought, this, although Char is going out today with my mother to brave the hells that are malls and big-box stores in order to\... You know what, i'm not even sure _what_ they're after.

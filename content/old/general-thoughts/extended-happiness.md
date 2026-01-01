@@ -1,11 +1,12 @@
-Title: Extended Happiness
-date: 2002-11-13 11:14
-author: offby1
+---
+title: Extended Happiness
+slug: extended-happiness
+date: "2002-11-13 11:14"
 category: General Thoughts
 tags: lord of the rings
-slug: extended-happiness
+author: offby1
 status: draft
-
+---
 Greetings, again. i have returned from Middle Earth, in a manner of speaking, and i must say, it's a hell of a trip. The extended edition of the DVD is everything it was billed to be, and more. There were scenes placed back into the movie that, when i first saw it in the theatre, i *knew* belonged in the movie. There was a generally more calmly-paced feel to the movie. And, by the end, i was just so damn happy to see more of it.
 
 I think more than half of the DVD chapter segments have footage added to them. In addition, there are a few extra scenes, and two, at least, that are completely changed by the new footage.

@@ -1,11 +1,12 @@
-Title: Due to Due Dates
-date: 2005-02-11 13:20
-author: offby1
+---
+title: Due to Due Dates
+slug: due-to-due-dates
+date: "2005-02-11 13:20"
 category: General Thoughts
 tags: school
-slug: due-to-due-dates
+author: offby1
 status: draft
-
+---
 School is hitting me hard today. Lots due, lots of work.
 
 Hope you're all having as much fun as I am! :)

@@ -1,11 +1,12 @@
-Title: And then there was...
-date: 2006-11-27 09:21
-author: offby1
+---
+title: And then there was...
+slug: and-then-there-was
+date: "2006-11-27 09:21"
 category: Asides
 tags: apology
-slug: and-then-there-was
+author: offby1
 status: draft
-
+---
 Well, I had a couple of post ideas over the last couple of days, but with the workload and all, they all kind of fell by the wayside.
 
 Sorry, kids.

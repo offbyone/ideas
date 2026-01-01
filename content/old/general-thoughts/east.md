@@ -1,11 +1,14 @@
-Title: East
-date: 2004-06-20 06:16
-author: offby1
-category: General Thoughts
-tags: char, weather
+---
+title: East
 slug: east
+date: "2004-06-20 06:16"
+category: General Thoughts
+tags:
+  - char
+  - weather
+author: offby1
 status: draft
-
+---
 Having arrived easterly now in grand ole Winnipeg, I now settle into the serious business of relaxing for a few days.
 
 Had a lovely dinner last night w/ Char's mom and her husband at a nifty little hole in the wall chinese food restaurant.

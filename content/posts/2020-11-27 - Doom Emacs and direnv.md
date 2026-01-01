@@ -1,13 +1,16 @@
-Title: Doom Emacs and direnv
+---
+title: Doom Emacs and direnv
 slug: doom-emacs-and-direnv
-date: 2020-11-27T10:24:22.509234
+date: 2020-11-27 10:24:22.509234
 category: tools
-tags: emacs, direnv
+tags:
+  - emacs
+  - direnv
 author: Chris Rose
 email: offline@offby1.net
 summary: Solving an issue arising from an interaction between Doom Emacs and direnv
 status: published
-
+---
 I use both [Doom Emacs](https://github.com/hlissner/doom-emacs) and [Direnv](https://direnv.net) a lot, and I discovered -- and with the author of Doom's assistance, solved -- an peculiar issue arising from the interaction of the two.
 
 Doom defines a `doom sync` command whose job it is to update the compiled elisp for packages, but also to update the environment used by emacs, including its PATH, by writing out the full current environment to a local cache. That allows Emacs to be independent of the shell invoking it.

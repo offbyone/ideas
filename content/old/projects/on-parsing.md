@@ -1,11 +1,12 @@
-Title: On parsing
-date: 2004-03-02 19:48
-author: offby1
+---
+title: On parsing
+slug: on-parsing
+date: "2004-03-02 19:48"
 category: Projects
 tags: projects
-slug: on-parsing
+author: offby1
 status: draft
-
+---
 I generally avoid posting on this sort of thing, because people's eyes tend to glaze over when i start talking about it, but i'm just getting some serious progress done on my first "parser":http://en.wikipedia.org/wiki/Parser and i wanted to brag a bit about it.
 
 What i'm doing, i suppose i should explain, is making an editor for "vCards":http://www.imc.org/pdi/vcardoverview.html \-- specifically, for use with my iPod's contact list. It occurred to me as i was looking for tools that there are really very few good vCard editors out there, for windows or any other platform, and so i took it upon myself to write one of my own.

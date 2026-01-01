@@ -1,11 +1,14 @@
-Title: Product placement
-date: 2003-11-23 10:57
-author: offby1
-category: General Thoughts
-tags: book, gift-giving
+---
+title: Product placement
 slug: product-placement
+date: "2003-11-23 10:57"
+category: General Thoughts
+tags:
+  - book
+  - gift-giving
+author: offby1
 status: draft
-
+---
 Since this is a personal weblog, i suppose i'm allowed to do this blatant gift-whoring :)
 
 | Here's a list of the harder-to-find things that i want for christmas\... It's by no means complete, etc.. But if, by some chance, you're looking for something to get me and have no idea what to get (ie: you've decided that computer hardware is out of the question) then perhaps some of the things below may be of interest:

@@ -1,11 +1,14 @@
-Title: Books I plan to read, websites that I think are cool.
-date: 2006-01-22 14:51
-author: offby1
-category: General Thoughts, Internet, Media
-tags: internet, media
+---
+title: Books I plan to read, websites that I think are cool.
 slug: books-i-plan-to-read-websites-that-i-think-are-cool
+date: "2006-01-22 14:51"
+category: General Thoughts, Internet, Media
+tags:
+  - internet
+  - media
+author: offby1
 status: draft
-
+---
 I was thinking, today; I have a lot of books on my plate in the immediate future. I mean, just stupid quantities of readings that I mean to get to.
 
 I'm just finishing [Tad Willams](http://www.tadwilliams.com/)' *\`Shadowmarch \<http://www.amazon.com/exec/obidos/ASIN/0756402700/ref=nosim/schoolblog-20\>\`\__* right now. I've started, and need to get around to finishing, [Stephen R. Donaldson](http://www.stephenrdonaldson.com/)'s *\`The Runes of the Earth \<http://www.isfdb.org/cgi-bin/pl.cgi?THRNSFTHRT2004\>\`\__*. I'm in the same position with [C.J. Cherryh](http://www.cherryh.com/)'s [*Collected Short Fiction*](http://www.amazon.com/exec/obidos/ASIN/0756402565/ref=nosim/schoolblog-20) and [*Precursor*](http://www.amazon.com/exec/obidos/ASIN/0886779103/ref=nosim/schoolblog-20)/\`\*Defender* \<http://www.amazon.com/exec/obidos/ASIN/0756400201/ref=nosim/schoolblog-20\>\`\__/\`\*Explorer* \<http://www.amazon.com/exec/obidos/ASIN/0756401313/ref=nosim/schoolblog-20\>\`\__.

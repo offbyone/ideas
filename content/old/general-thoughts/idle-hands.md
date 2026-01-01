@@ -1,11 +1,14 @@
-Title: Idle hands
-date: 2006-10-14 20:50
-author: offby1
-category: General Thoughts, Projects
-tags: projects, school
+---
+title: Idle hands
 slug: idle-hands
+date: "2006-10-14 20:50"
+category: General Thoughts, Projects
+tags:
+  - projects
+  - school
+author: offby1
 status: draft
-
+---
 Sitting here, alternating between idle web browsing, reading Amber novels, and dozing on the couch\...
 
 My life is pretty easy this weekend, despite the lingering aftereffects of a nasty cold that I've had all week that has left me with headaches, poor sleep, and a sense that the world is passing me by in a grey haze. I got some housework done, although not too much. I'm lazy, after all.

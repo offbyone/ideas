@@ -1,9 +1,10 @@
-Title: Azureus Autocat Plugin 1.0.1
-date: 2006-09-03 21:42
-author: offby1
+---
+title: Azureus Autocat Plugin 1.0.1
 slug: azureus-autocat-plugin
+date: "2006-09-03 21:42"
+author: offby1
 status: published
-
+---
 This is a simple support page for the Azureus Autocat plugin (linked on the Azureus page itself at [this location](http://azureus.sourceforge.net/plugin_details.php?plugin=autocat)).
 
 I've discontinued the mailbox that was receiving support requests, because of excessive spam, so I'd prefer that you place support requests in the comments on this page. I should warn you, however, that the plugin does what I want it to at the moment, so I'm a bit slow to add new features. Which is not to say I won't, just\... well, I've been very, very lazy for the last year.
@@ -14,7 +15,7 @@ The plugin itself can also be downloaded here:
 
 MD5: 0bcff6c2b2864843c7d3773645e4a428
 
-[autocat-1.2.0.zip](/?dl=autocat-1.2.0.zip)
+[autocat-1.2.0.zip](http://www.offlineblog.com/?dl=autocat-1.2.0.zip)
 
 </div>
 

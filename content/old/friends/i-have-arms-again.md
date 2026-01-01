@@ -1,11 +1,18 @@
-Title: I have arms again!
-date: 2006-11-06 15:33
-author: offby1
-category: Friends, General Thoughts
-tags: appreciation, deadlines, dislocation, health, skydiving, work
+---
+title: I have arms again!
 slug: i-have-arms-again
+date: "2006-11-06 15:33"
+category: Friends, General Thoughts
+tags:
+  - appreciation
+  - deadlines
+  - dislocation
+  - health
+  - skydiving
+  - work
+author: offby1
 status: draft
-
+---
 It's sore, it's stiff, but I have two arms, and therefore I can\...
 
 | - Finish the assignment that was due last friday

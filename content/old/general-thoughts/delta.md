@@ -1,11 +1,17 @@
-Title: Delta
-date: 2008-12-08 04:32
-author: offby1
-category: General Thoughts
-tags: baby, culture, distance, thoughts, travel
+---
+title: Delta
 slug: delta
+date: "2008-12-08 04:32"
+category: General Thoughts
+tags:
+  - baby
+  - culture
+  - distance
+  - thoughts
+  - travel
+author: offby1
 status: draft
-
+---
 *Delta(n):* A change, eg the difference from one period to the next.
 
 Time: As far as we measure it, five hours different.

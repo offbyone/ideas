@@ -1,11 +1,14 @@
-Title: Flying... low
-Date: 2003-07-26 22:27
-Author: offby1
-Category: Life
-Tags: new experience, skydiving
-Slug: flying-low
-Status: published
-
+---
+title: Flying... low
+slug: flying-low
+date: "2003-07-26 22:27"
+category: Life
+tags:
+  - new experience
+  - skydiving
+author: offby1
+status: published
+---
 # Flying... low
 
 Holy. shit. what. a. rush.

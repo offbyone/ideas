@@ -1,11 +1,15 @@
-Title: Get off my lawn!
-date: 2008-01-20 09:38
-author: offby1
-category: General Thoughts
-tags: dislocation, news, old
+---
+title: Get off my lawn!
 slug: get-off-my-lawn
+date: "2008-01-20 09:38"
+category: General Thoughts
+tags:
+  - dislocation
+  - news
+  - old
+author: offby1
 status: draft
-
+---
 Christ, do I feel like an old man this morning.
 
 My shoulder is sore and my hip hurts. I'm sitting on the couch because, damn it, I _deserve_ some relaxation at this point.

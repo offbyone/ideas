@@ -1,12 +1,13 @@
-Title: More importantly...
-date: 2002-11-11 15:24
-author: offby1
+---
+title: More importantly...
+slug: more-importantly
+date: "2002-11-11 15:24"
 category: Rants
 tags: rants
-slug: more-importantly
+author: offby1
 status: draft
-
-![image0](/images/poppy.gif)This is something that bugs me a lot. And it's getting worse, as i see it.
+---
+![image0]({static}/images/poppy.gif)This is something that bugs me a lot. And it's getting worse, as i see it.
 
 Today is Remembrance Day.
 

@@ -1,15 +1,16 @@
-Title: Chris Rose
-date: 2022-05-05 23:00
-author: Chris Rose
+---
+title: Chris Rose
 slug: cv
-status: published
+date: "2022-05-05 23:00"
+author: Chris Rose
 summary: Things I've done
-
+status: published
+---
 ## Code Plumber
 
 Seattle, WA, USA
 
-[signal](tel:2062456758) \| [whatsapp](https://wa.me/12062456758) \| [email](mailto:offline@offby1.net) \| [blog](https://offby1.website/) \| [github](https://github.com/offbyone)
+[signal](https://signal.me/#eu/b3B9r5YWLHCOPojFSN9rwKd9JHE8nXR8Wn_jYEWHtI7rPi5M3iDaqcjZDjvlk03p) \| [whatsapp](https://wa.me/12062456758) \| [email](mailto:offline@offby1.net) \| [blog](https://offby1.website/) \| [github](https://github.com/offbyone)
 
 He/Him
 
@@ -25,7 +26,7 @@ He/Him
 
 **Cloud Services**: AWS[ref]I certainly hope so\![/ref], Docker
 
-**Tools**: Emacs, Git[ref]Again, I certainly hope so\![/ref], [my tools category here]({category}tools)
+**Tools**: Emacs, Git[ref]Again, I certainly hope so\![/ref], <a href="/category/tools.html">my tools category here</a>
 
 ### Present Employment
 
@@ -97,4 +98,4 @@ University of Alberta
 
 ### Contact Me
 
-Feel free to [email](mailto:offline@offby1.net) me or reach out to me on [Signal](tel:2062456758).
+Feel free to [email](mailto:offline@offby1.net) me or reach out to me on [Signal](https://signal.me/#eu/b3B9r5YWLHCOPojFSN9rwKd9JHE8nXR8Wn_jYEWHtI7rPi5M3iDaqcjZDjvlk03p).

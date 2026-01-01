@@ -1,11 +1,15 @@
-Title: Poke and Prod
-date: 2005-02-09 22:26
-author: offby1
-category: General Thoughts, Media
-tags: media, school, work
+---
+title: Poke and Prod
 slug: poke-and-prod
+date: "2005-02-09 22:26"
+category: General Thoughts, Media
+tags:
+  - media
+  - school
+  - work
+author: offby1
 status: draft
-
+---
 I read something the other day suggesting that I should post daily so that you, my loyal three readers, have something to do.
 
 I got my hiring package from ACI Worldwide today, it's pretty nice. Decent money, although there are some provisions in the intellectual property paperwork that are giving me pause. I'll be asking about that tomorrow, hopefully, so that I can clear it up.

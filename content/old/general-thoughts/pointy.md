@@ -1,10 +1,11 @@
-Title: Pointy
-date: 2008-05-31 07:17
-author: offby1
-category: General Thoughts
+---
+title: Pointy
 slug: pointy
+date: "2008-05-31 07:17"
+category: General Thoughts
+author: offby1
 status: draft
-
+---
 Convocation is coming up in a very short time, and I'm pretty pumped about it. It marks the end of a long, long road, one that should have been shorter than it was. Better late than never is my motto at this point.
 
 Mindless Self-Indulgence (a more fitting band name I cannot imagine) is playing this tuesday, and I'm gonna go see them with a whole horde of friends. I expect bruising, which will be fun.

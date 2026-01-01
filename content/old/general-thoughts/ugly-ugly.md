@@ -1,11 +1,12 @@
-Title: Ugly, ugly
-date: 2005-04-21 12:41
-author: offby1
+---
+title: Ugly, ugly
+slug: ugly-ugly
+date: "2005-04-21 12:41"
 category: General Thoughts
 tags: school
-slug: ugly-ugly
+author: offby1
 status: draft
-
+---
 Well, that's coming back to bite me on the ass.
 
 I just managed to have one of the most horrible exams ever. Every question was a total blank for me on first read.

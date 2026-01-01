@@ -1,11 +1,12 @@
-Title: Exams
-date: 2006-04-20 07:05
-author: offby1
+---
+title: Exams
+slug: exams
+date: "2006-04-20 07:05"
 category: General Thoughts
 tags: school
-slug: exams
+author: offby1
 status: draft
-
+---
 Well, exa*m*, anyway.
 
 I just polished off the final exam for Cmput 313, a low-level networking course. (aside: I mistyped "course" as "curse." Is there such a thing as a slip of the fingers? Very freudian, that, on two levels.) It was a bit of a challenge, but I think the hardest part was maintaining my interest in the face of my disappointment about the content of the course.

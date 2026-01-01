@@ -1,11 +1,12 @@
-Title: Weekend Update
-date: 2004-06-12 10:49
-author: offby1
+---
+title: Weekend Update
+slug: weekend-update
+date: "2004-06-12 10:49"
 category: General Thoughts
 tags: work
-slug: weekend-update
+author: offby1
 status: draft
-
+---
 Another week, another few dollars in the bank.
 
 Posting from home today, as the incommunicado situation in Mayerthorpe has apparently become permanent. I'm still not sure why, but I *am* sure of that.

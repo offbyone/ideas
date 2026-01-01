@@ -1,11 +1,12 @@
-Title: I've been thinking
-date: 2004-03-24 08:46
-author: offby1
+---
+title: I've been thinking
+slug: ive-been-thinking
+date: "2004-03-24 08:46"
 category: Rants
 tags: rants
-slug: ive-been-thinking
+author: offby1
 status: draft
-
+---
 And it's not anyone specific, so don't start worrying and/or asking.
 
 Have any of you ever noticed that it's only rarely -- if at all -- that we have the same impact on the lives of those that affect us most?

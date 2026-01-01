@@ -1,11 +1,12 @@
-Title: I'll be out of touch.
-date: 2005-07-03 18:24
-author: offby1
+---
+title: I'll be out of touch.
+slug: ill-be-out-of-touch
+date: "2005-07-03 18:24"
 category: General Thoughts
 tags: moving
-slug: ill-be-out-of-touch
+author: offby1
 status: draft
-
+---
 For the next couple of days, I'll be \... difficult to reach.
 
 The usual e-mail will get to me, but not necessarily as fast, and in the evenings\... Nothing. I'll be internet-less until the 11th, which sucks the big one, but at least I can get my mail at work.

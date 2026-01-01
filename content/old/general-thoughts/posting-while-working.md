@@ -1,11 +1,14 @@
-Title: Posting while working
-date: 2003-07-16 19:08
-author: offby1
-category: General Thoughts, Meta
-tags: meta, work
+---
+title: Posting while working
 slug: posting-while-working
+date: "2003-07-16 19:08"
+category: General Thoughts, Meta
+tags:
+  - meta
+  - work
+author: offby1
 status: draft
-
+---
 So, i'm working as i type, here. Talking to a paranoid, but linguistically-skilled gal, who seems to be able to identify people she's typing to by their typing styles. Different screen name, notwithstanding, she actually twigged to it being me without even trying\...
 
 Scary.

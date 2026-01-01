@@ -1,11 +1,16 @@
-Title: Dissent in Academia
-date: 2004-11-28 11:28
-author: offby1
-category: General Thoughts, Internet, Rants
-tags: academia, free speech, internet, rants
+---
+title: Dissent in Academia
 slug: dissent-in-academia
+date: "2004-11-28 11:28"
+category: General Thoughts, Internet, Rants
+tags:
+  - academia
+  - free speech
+  - internet
+  - rants
+author: offby1
 status: draft
-
+---
 As seen on "Instapundit":http://www.instapundit.com/ today, a [New York Post editorial](http://www.nypost.com/postopinion/opedcolumnists/35147.htm) on the topic of academic uniformity that I can really see being a problem.
 
 Essentially the gist of it is that there's an overwhelming bias towards liberalism in the humanities at a few major universities, and (although the article is not clear on the source of the statistics) probably at a majority of them.

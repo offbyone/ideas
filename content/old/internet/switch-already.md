@@ -1,11 +1,14 @@
-Title: Switch, already!
-date: 2004-07-10 08:29
-author: offby1
-category: Internet, Rants
-tags: internet, rants
+---
+title: Switch, already!
 slug: switch-already
+date: "2004-07-10 08:29"
+category: Internet, Rants
+tags:
+  - internet
+  - rants
+author: offby1
 status: draft
-
+---
 Here's more help for anyone suffering growing pains using the new range of browsers:
 
 If you get strange error messages clicking on links from places like Outlook while using FireFox to browse, "this":http://www.hutteman.com/weblog/2004/06/18-186.html may be the solution for you.

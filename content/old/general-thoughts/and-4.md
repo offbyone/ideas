@@ -1,11 +1,14 @@
-Title: ...and 4!
-date: 2002-12-13 17:26
-author: offby1
-category: General Thoughts, Internet
-tags: internet, school
+---
+title: ...and 4!
 slug: and-4
+date: "2002-12-13 17:26"
+category: General Thoughts, Internet
+tags:
+  - internet
+  - school
+author: offby1
 status: draft
-
+---
 Done at last! My first four months are completed. Semester one of eight is out of the way.
 
 My final exam this afternoon was Chemistry 101, and i must confess, it was pretty gruelling. Not a lot of fun, not at all. But, at least it's over. It's not so much that i wasn't enjoying it as it is that i want to move on past the same old shit - all i did this semester, more or less, was repeat what i'd already done - just with more focus and less drinking. So there's nothing really new - even Chem was pretty much just a standard first-year science course, nothing too exciting.

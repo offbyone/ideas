@@ -1,11 +1,12 @@
-Title: Duplication efforts
-date: 2002-12-29 10:04
-author: offby1
+---
+title: Duplication efforts
+slug: duplication-efforts
+date: "2002-12-29 10:04"
 category: Events
 tags: events
-slug: duplication-efforts
+author: offby1
 status: draft
-
+---
 So [it's](http://www.canada.com/news/story.asp?id=76D83EFA-CCF7-4F50-921A-CFE4E8531FA8) finally been done\... [Maybe](http://www.canada.com/edmonton/story.asp?id=4CC7AD3B-6333-4E92-8FF4-809E659CFDCF).
 
 Cloning.

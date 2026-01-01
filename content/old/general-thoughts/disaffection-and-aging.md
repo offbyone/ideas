@@ -1,11 +1,16 @@
-Title: Disaffection and Aging
-date: 2003-01-17 23:02
-author: offby1
-category: General Thoughts
-tags: char, introspection, media, memory lane
+---
+title: Disaffection and Aging
 slug: disaffection-and-aging
+date: "2003-01-17 23:02"
+category: General Thoughts
+tags:
+  - char
+  - introspection
+  - media
+  - memory lane
+author: offby1
 status: draft
-
+---
 I'm getting old.
 
 Either that or growing up. Sometimes the difference between the two isn't all that clear, is it? This isn't a new thought, admittedly. I've gone over this through a couple of other times in my life, but this evening is one of the first times i ever really thought the idea through. It's funny that a fairly empty retro-comedy would be the spur for this, though\...

@@ -1,11 +1,12 @@
-Title: In the shadow
-Date: 2008-02-21 00:20
-Author: offby1
-Category: contemplation
-Tags: space
-Slug: in-the-shadow
-Status: published
-
+---
+title: In the shadow
+slug: in-the-shadow
+date: "2008-02-21 00:20"
+category: contemplation
+tags: space
+author: offby1
+status: published
+---
 [They](http://en.wikipedia.org/wiki/Harrison_Schmitt)
 [look](http://en.wikipedia.org/wiki/Eugene_Andrew_Cernan)
 [like](http://en.wikipedia.org/wiki/Charles_Moss_Duke%2C_Jr.)

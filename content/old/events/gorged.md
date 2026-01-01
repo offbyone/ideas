@@ -1,11 +1,12 @@
-Title: Gorged
-date: 2003-11-30 08:21
-author: offby1
+---
+title: Gorged
+slug: gorged
+date: "2003-11-30 08:21"
 category: Events
 tags: events
-slug: gorged
+author: offby1
 status: draft
-
+---
 What a weekend\...
 
 Let's see.

@@ -1,12 +1,17 @@
-Title: Signs you drink with the wrong people
-date: 2006-11-05 14:54
-author: offby1
-category: Asides, Humour, Internet, Media
-tags: asides, humour, internet, media
+---
+title: Signs you drink with the wrong people
 slug: signs-you-drink-with-the-wrong-people
+date: "2006-11-05 14:54"
+category: Asides, Humour, Internet, Media
+tags:
+  - asides
+  - humour
+  - internet
+  - media
+author: offby1
 status: draft
-
-Odds are, Beau should not be allowed to see this link: [We Are Your Friends](/images/we_are_your_friends.mov)
+---
+Odds are, Beau should not be allowed to see this link: [We Are Your Friends]({static}/images/we_are_your_friends.mov)
 
 It's video, so don't bother, on a slow connection.
 

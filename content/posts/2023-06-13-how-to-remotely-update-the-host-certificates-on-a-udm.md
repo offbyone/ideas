@@ -1,14 +1,18 @@
-Title: How to remotely update the host certificates on a UDM
+---
+title: How to remotely update the host certificates on a UDM
 slug: how-to-remotely-update-the-host-certificates-on-a-udm
-date: 2023-06-13T22:25:37.301572
+date: 2023-06-13 22:25:37.301572
 category: homelab
-tags: letsencrypt, iot, automation
+tags:
+  - letsencrypt
+  - iot
+  - automation
 author: Chris Rose
 email: offline@offby1.net
 summary: I combined a few tools -- lego and some helpers -- to get my UDM Pro's SSL certificate to renew automatically
 status: published
-toot: https://wandering.shop/users/offby1/statuses/110541002888289332
-
+toot: "https://wandering.shop/users/offby1/statuses/110541002888289332"
+---
 I struggled with whether this was worth writing up,
 
 I upgraded my NAS to DSM7 about 3 months ago, which was a whole thing on its own, but one side effect of that was that it turns out it killed the letsencrypt updater I'd used. 90 days later, I got a certificate error when I used the web interface. And\... apparently at some point, without thinking about it, I'd also set up my Unifi Dream Machine Pro (yep, that's SEO right there!) with something that expired around the same time[ref]I honestly have no recollection of this. I wish I could remember what I did\![/ref].

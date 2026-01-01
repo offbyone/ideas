@@ -1,11 +1,15 @@
-Title: Rights?  You don't want those.
-Date: 2007-12-08 10:00
-Author: offby1
-Category: Events, Internet, Media
-Tags: copyright, dmca, politics
-Slug: rights-you-dont-want-those
-Status: draft
-
+---
+title: Rights?  You don't want those.
+slug: rights-you-dont-want-those
+date: "2007-12-08 10:00"
+category: Events, Internet, Media
+tags:
+  - copyright
+  - dmca
+  - politics
+author: offby1
+status: draft
+---
 Buried under the avalanche of holiday-related product placements that
 hit once every year for about, oh, _three months_, a major change in
 Canadian copyright legislation is about to take place, and -- despite
@@ -23,12 +27,11 @@ starting point, as I'm sure that you do, I can offer a couple:
 
 | If you want a great video showing you what is happening in the US --
   whose
-  [DMCA](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
+  [DMCA](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
   "Wikipedia Entry: Digital Millennium Copyright Act") is the template
   for the act that will be introduced in Canada sometime in the next
   week and a half -- then I recommend [Lawrence
-  Lessig](http://en.wikipedia.org/wiki/Lawrence_Lessig "Wikipedia
-  Entry: Lawrence Lessig")'s TED talk:
+  Lessig](http://en.wikipedia.org/wiki/Lawrence_Lessig "Wikipedia  Entry: Lawrence Lessig")'s TED talk:
 | [How Creativity is Being Strangled By the
   Law](http://www.ted.com/index.php/talks/view/id/187). It's 20 minutes,
   but it's well worthwhile.

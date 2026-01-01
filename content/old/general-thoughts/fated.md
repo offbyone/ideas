@@ -1,11 +1,12 @@
-Title: Fated
-date: 2004-01-25 16:48
-author: offby1
+---
+title: Fated
+slug: fated
+date: "2004-01-25 16:48"
 category: General Thoughts
 tags: work
-slug: fated
+author: offby1
 status: draft
-
+---
 Well, i'm doomed.
 
 Yep. Doomed.

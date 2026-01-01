@@ -1,11 +1,15 @@
-Title: Trains, Planes, and...
-date: 2003-09-24 17:21
-author: offby1
-category: General Thoughts
-tags: planes, trains, wedding
+---
+title: Trains, Planes, and...
 slug: trains-planes-and
+date: "2003-09-24 17:21"
+category: General Thoughts
+tags:
+  - planes
+  - trains
+  - wedding
+author: offby1
 status: draft
-
+---
 Char and i have now arrived in Victoria, and are getting settled preparatory to the wedding on saturday. Plans seem, fortunately, to be more or less set already, which is good, because that means that i have very little work to put in to the party. Yay!
 
 Char made an interesting comment on the ferry across to the island, she said that between leaving Edmonton and returning on Monday, we will have traveled by train, plane, car, bus, boat, foot, and possibly bicycle throughout the trip.

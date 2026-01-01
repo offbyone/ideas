@@ -1,11 +1,16 @@
-Title: On why I choose to fly
-Date: 2008-12-13 15:47
-Author: offby1
-Category: Life
-Tags: dislocation, health, risk, skydiving
-Slug: on-why-i-choose-to-fly
-Status: published
-
+---
+title: On why I choose to fly
+slug: on-why-i-choose-to-fly
+date: "2008-12-13 15:47"
+category: Life
+tags:
+  - dislocation
+  - health
+  - risk
+  - skydiving
+author: offby1
+status: published
+---
 # On why I choose to fly
 
 Anyone that partakes in a sport that is outside the norm will have some

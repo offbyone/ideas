@@ -1,11 +1,16 @@
-Title: Like Flynn
-date: 2009-01-26 18:24
-author: offby1
-category: life
-tags: friends, home, move, simon
+---
+title: Like Flynn
 slug: like-flynn
+date: "2009-01-26 18:24"
+category: life
+tags:
+  - friends
+  - home
+  - move
+  - simon
+author: offby1
 status: published
-
+---
 And we're in.
 
 It's a pretty flash place.

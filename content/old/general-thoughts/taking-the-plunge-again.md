@@ -1,11 +1,12 @@
-Title: Taking the plunge, again
-date: 2006-04-28 12:41
-author: offby1
+---
+title: Taking the plunge, again
+slug: taking-the-plunge-again
+date: "2006-04-28 12:41"
 category: General Thoughts
 tags: skydiving
-slug: taking-the-plunge-again
+author: offby1
 status: draft
-
+---
 So, tomorrow I'm heading out, early in the morning, to get back in the saddle at [Eden North](http://www.edennorth.com/).
 
 Anyone want in?

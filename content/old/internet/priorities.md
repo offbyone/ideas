@@ -1,11 +1,12 @@
-Title: Priorities
-date: 2004-01-05 07:49
-author: offby1
+---
+title: Priorities
+slug: priorities
+date: "2004-01-05 07:49"
 category: Internet
 tags: internet
-slug: priorities
+author: offby1
 status: draft
-
+---
 Amongst others, [Wil Wheaton](http://www.wilwheaton.net/mt/archives/001479.php#001479) has commented on a news story\... no, make that [_non_ story](http://www.penny-arcade.com/news.php3?date=2004-01-03)\... that is making my blood, at least, boil.
 
 I play computer games too - and i play some fairly violent ones. And yet, oddly enough, i've never thrown a punch in anger in my life. Weird, isn't it?

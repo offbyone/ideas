@@ -1,11 +1,15 @@
-Title: Goodbye...
-Date: 2002-11-03 15:21
-Author: offby1
-Category: contemplation
-Tags: events, internet, space
-Slug: goodbye
-Status: published
-
+---
+title: Goodbye...
+slug: goodbye
+date: "2002-11-03 15:21"
+category: contemplation
+tags:
+  - events
+  - internet
+  - space
+author: offby1
+status: published
+---
 There's this piece of metal, see, and it was sent out thirteen years ago
 with the intent of learning more about the hunks of rock that share the
 sun with us.

@@ -1,11 +1,12 @@
-Title: I live!
-date: 2008-01-12 18:18
-author: offby1
+---
+title: I live!
+slug: i-live
+date: "2008-01-12 18:18"
 category: General Thoughts
 tags: work
-slug: i-live
+author: offby1
 status: draft
-
+---
 Sorta.
 
 I spent the last week tearing into a fairly complex piece of old code, digging out some poor design decisions and cleaning up the legacy of student programmers past. It was\... terrifying.

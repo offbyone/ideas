@@ -1,11 +1,17 @@
-Title: In three languages?
-date: 2006-05-25 18:12
-author: offby1
-category: General Thoughts
-tags: friends, media, philosophy, school, work
+---
+title: In three languages?
 slug: in-three-languages
+date: "2006-05-25 18:12"
+category: General Thoughts
+tags:
+  - friends
+  - media
+  - philosophy
+  - school
+  - work
+author: offby1
 status: draft
-
+---
 Well, not so much. But I really do have nothing to say.
 
 A quick sum-up:

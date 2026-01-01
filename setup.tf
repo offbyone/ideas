@@ -75,8 +75,7 @@ resource "aws_s3_bucket_acl" "blog" {
   bucket = aws_s3_bucket.blog.id
   access_control_policy {
     owner {
-      id           = data.aws_canonical_user_id.current.id
-      display_name = "offline"
+      id = data.aws_canonical_user_id.current.id
     }
   }
 }
@@ -225,8 +224,7 @@ resource "aws_s3_bucket_acl" "wwwblog" {
     }
 
     owner {
-      id           = data.aws_canonical_user_id.current.id
-      display_name = "offline"
+      id = data.aws_canonical_user_id.current.id
     }
   }
 }

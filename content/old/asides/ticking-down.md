@@ -1,11 +1,16 @@
-Title: Ticking Down
-date: 2006-12-11 20:48
-author: offby1
-category: Asides
-tags: family, gift-giving, skiing, work
+---
+title: Ticking Down
 slug: ticking-down
+date: "2006-12-11 20:48"
+category: Asides
+tags:
+  - family
+  - gift-giving
+  - skiing
+  - work
+author: offby1
 status: draft
-
+---
 A few things coming up soon;
 
 | - One, there's a ski trip happening in a few days, on the 22nd, with much of my family that will be very fun (good idea, [Char](http://xraystar.livejournal.com)!).

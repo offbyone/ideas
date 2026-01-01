@@ -1,12 +1,16 @@
-Title: Back in the good old days
-date: 2004-09-17 06:43
-author: offby1
-category: Events, General Thoughts, Media, Rants
-tags: events, media, rants
+---
+title: Back in the good old days
 slug: back-in-the-good-old-days
+date: "2004-09-17 06:43"
+category: Events, General Thoughts, Media, Rants
+tags:
+  - events
+  - media
+  - rants
+author: offby1
 status: draft
-
-This isn't really in reference to anything specific, but as a side-effect of following this "Rathergate" thing (on [instapundit](<http://instapundit.com/archives/017876.php>), among others) I came across [this comparison](<http://hughhewitt.com/index.htm#postid911>) to Johnson & Johnson's handling of a poisoned Tylenol scare.
+---
+This isn't really in reference to anything specific, but as a side-effect of following this "Rathergate" thing (on [instapundit](http://instapundit.com/archives/017876.php), among others) I came across [this comparison](http://hughhewitt.com/index.htm#postid911) to Johnson & Johnson's handling of a poisoned Tylenol scare.
 
 Now, read that article, and then tell me: Can you imagine _any_ company doing that now?
 

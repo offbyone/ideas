@@ -1,13 +1,18 @@
-Title: Twenty Years Later
+---
+title: Twenty Years Later
 slug: declaration-of-independence-of-cyberspace
-date: 2016-02-08 23:18 PST
+date: "2016-02-08 23:18 PST"
 category: internet
-tags: society, internet, cyberspace, culture
+tags:
+  - society
+  - internet
+  - cyberspace
+  - culture
 author: Chris Rose
 email: offline@offby1.net
 summary: We didn't build a better world, we just automated the excesses of the old one.
 status: published
-
+---
 First, read this: [It's not Cyberspace anymore](https://points.datasociety.net/it-s-not-cyberspace-anymore-55c659025e97).
 
 John Perry Barlow wrote the original Declaration of the Independence of Cyberspace twenty years ago. Like this author, who is apparently precisely my age, I was young and \-- nosing around the edges of hacker culture, taking baby steps into this gargantuan world outside the tiny city of my upbringing \-- in a position to absorb the unbridled optimism of the message into my personality.

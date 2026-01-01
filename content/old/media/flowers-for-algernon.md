@@ -1,11 +1,12 @@
-Title: Flowers for Algernon
-date: 2002-12-03 07:51
-author: offby1
+---
+title: Flowers for Algernon
+slug: flowers-for-algernon
+date: "2002-12-03 07:51"
 category: Media
 tags: media
-slug: flowers-for-algernon
+author: offby1
 status: draft
-
+---
 At the suggestion of my subconsious, and in response to a recently-unburied memory of having read the story - prodded by Simon's .sig and some other input, i just finished (and started) reading *Flowers for Algernon*. Whoah. What a heartbreaking book. I remember the story pretty well, but i don't remember it having that kind of an impact on me when i last read it - either the story didn't pack the same 'punch', or perhaps it was that i wasn't mature enough at the time to really appreciate the horror of what happened to Charlie. Either way, it was pretty harsh. I think that pretty much anyone who can empathize with another human - and i'm not usually the type, as most people know - will feel hard pressed not to tear up at the end of that novel.
 
 Given that i'm already in a harsh mood, maybe yesterday wasn't the best day to pick the book up :)

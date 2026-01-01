@@ -1,11 +1,16 @@
-Title: Twenty Years, and Godspeed
-Date: 2007-01-28 09:45
-Author: offby1
-Category: contemplation
-Tags: events, history, mourning, space
-Slug: twenty-years-and-godspeed
-Status: published
-
+---
+title: Twenty Years, and Godspeed
+slug: twenty-years-and-godspeed
+date: "2007-01-28 09:45"
+category: contemplation
+tags:
+  - events
+  - history
+  - mourning
+  - space
+author: offby1
+status: published
+---
 On this day, twenty years ago, seven of the best and brightest vanished
 from the world in a flash of light.
 

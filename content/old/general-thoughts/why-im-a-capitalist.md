@@ -1,11 +1,17 @@
-Title: Why I'm a Capitalist
-date: 2007-05-22 08:25
-author: offby1
-category: General Thoughts
-tags: capitalism, dependency, isms, musings, strike
+---
+title: Why I'm a Capitalist
 slug: why-im-a-capitalist
+date: "2007-05-22 08:25"
+category: General Thoughts
+tags:
+  - capitalism
+  - dependency
+  - isms
+  - musings
+  - strike
+author: offby1
 status: draft
-
+---
 Dependency.
 
 More specifically, I'm unconvinced that it's for the best to depend on others for the necessities and desires of life any more than is absolutely necessary.

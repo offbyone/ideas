@@ -1,14 +1,17 @@
-Title: Into The West
+---
+title: Into The West
 slug: grey-ships-pass
-date: 2022-08-17T00:53:58.055492
+date: 2022-08-17 00:53:58.055492
 category: amazon
-tags: AWS, changes
+tags:
+  - AWS
+  - changes
 author: Chris Rose
 email: offline@offby1.net
-toot: https://wandering.shop/@offby1/108837036785290901
 summary: Being an account of the emotional side of leaving an employer that has defined one's career.
 status: published
-
+toot: "https://wandering.shop/@offby1/108837036785290901"
+---
 I don't even know where to start with this.
 
 I'm 45 years old; I'm not "old" but I've seen a few miles here and there. I've had so many jobs that I lose track unless I actively refresh my recall. In the past 11 years, 7 months, and 3 days, I have emigrated, made new friends, lost old ones. Been divorced, raised a child, met a partner, shared a life\...

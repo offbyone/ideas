@@ -1,11 +1,12 @@
-Title: It's official.
-date: 2006-01-14 10:51
-author: offby1
+---
+title: It's official.
+slug: its-official
+date: "2006-01-14 10:51"
 category: General Thoughts
 tags: work
-slug: its-official
+author: offby1
 status: draft
-
+---
 Shades of [Pepsi Blue](http://mssv.net/wiki.cgi?PepsiBlue), but I'm taking the plunge: After years of pretty consistent Wintel dominance on my desktop, this week I take the final step away from it and, assuming that I get [sent to](http://www.offlineblog.com/backlog/2006/01/10/eclipsecon-2006/) [EclipseCon 2006](http://www.eclipsecon.org/), buy a Mac. A [Macbook](http://www.apple.com/macbookpro/), to be specific.
 
 Ye gods, that name sucks.

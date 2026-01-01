@@ -1,11 +1,15 @@
-Title: Choice of Words
-date: 2004-10-05 06:21
-author: offby1
-category: General Thoughts, Internet, Rants
-tags: internet, rants, words that I hate
+---
+title: Choice of Words
 slug: choice-of-words
+date: "2004-10-05 06:21"
+category: General Thoughts, Internet, Rants
+tags:
+  - internet
+  - rants
+  - words that I hate
+author: offby1
 status: draft
-
+---
 A [posting](http://www.metafilter.com/mefi/36037) on [Metafilter](http://www.metafilter.com/) about words used to describe the disabled provides an interesting list.
 
 Found [here](http://www.bbc.co.uk/ouch/yourspace/worstwords/), the list is composed of a mix of derogatory, clinical, and patronizing terms in an order that flat-out baffles me.

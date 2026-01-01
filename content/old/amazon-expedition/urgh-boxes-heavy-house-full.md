@@ -1,10 +1,11 @@
-Title: Urgh. Boxes Heavy. House full.
-date: 2011-07-17 15:03
-author: offby1
-category: amazon
+---
+title: Urgh. Boxes Heavy. House full.
 slug: urgh-boxes-heavy-house-full
+date: "2011-07-17 15:03"
+category: amazon
+author: offby1
 status: published
-
+---
 *Takes a breath*
 
 Okay, well, that was fun.

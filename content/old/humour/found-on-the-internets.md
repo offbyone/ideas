@@ -1,11 +1,16 @@
-Title: Found on the Internets
-date: 2006-12-14 23:32
-author: offby1
-category: Humour, Internet
-tags: humour, internet, interview, Sylvester Stallone
+---
+title: Found on the Internets
 slug: found-on-the-internets
+date: "2006-12-14 23:32"
+category: Humour, Internet
+tags:
+  - humour
+  - internet
+  - interview
+  - Sylvester Stallone
+author: offby1
 status: draft
-
+---
 Amazingly enough, despite the fact that he talks like he's got a mouthful of marbles, Sylvester Stallone makes an excellent interviewee\... by email, at least.
 
 Ain't it Cool News has a _long_ series consisting of fans asking Sly questions, and some of the answers are just comedy gold, and _not_ because I'm laughing at him, because I'm laughing _with_ him, at the questioners.

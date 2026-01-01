@@ -1,11 +1,15 @@
-Title: Faith in the Environment
-date: 2003-12-11 07:58
-author: offby1
-category: Media
-tags: environmentalism, media, smoking
+---
+title: Faith in the Environment
 slug: faith-in-the-environment
+date: "2003-12-11 07:58"
+category: Media
+tags:
+  - environmentalism
+  - media
+  - smoking
+author: offby1
 status: draft
-
+---
 Michael Chrichton made a [Commonwealth Club Speech](http://www.crichton-official.com/speeches/speeches_quote05.html) a couple of months ago on the subject of environmentalism that struck a number of chords with me. Essentially comparing environmentalism and religion, he hits a lot of the points that i wish i could, whenever the subject comes up, which is less and less these days.. (wonder why?)
 
 At any rate, lest anyone get any funny ideas, this is not me hypocritically claiming that celebrity endorsement justifies a claimed position - i think we all know how i feel about that - but it is a good read on the subject by someone whose views map well to mine, and who is a damn sight better at wording them, for example:

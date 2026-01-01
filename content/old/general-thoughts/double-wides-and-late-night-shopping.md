@@ -1,11 +1,15 @@
-Title: Double-wides and Late Night Shopping
-date: 2006-12-24 11:01
-author: offby1
-category: General Thoughts
-tags: bah-humbug, crowds, walmart
+---
+title: Double-wides and Late Night Shopping
 slug: double-wides-and-late-night-shopping
+date: "2006-12-24 11:01"
+category: General Thoughts
+tags:
+  - bah-humbug
+  - crowds
+  - walmart
+author: offby1
 status: draft
-
+---
 Jebus.
 
 So, [Char](http://xraystar.livejournal.com/) and I needed to do some last-minute stocking-stuffer shopping last night, and in what I figured was a bit of inspired wisdom we figured to beat the worst of the daytime crowds and hit the big-box beast at 1 AM.

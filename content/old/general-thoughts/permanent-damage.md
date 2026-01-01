@@ -1,11 +1,16 @@
-Title: Permanent Damage
-Date: 2007-01-05 07:42
-Author: offby1
-Category: Life
-Tags: bad news, dislocation, health, skydiving
-Slug: permanent-damage
-Status: published
-
+---
+title: Permanent Damage
+slug: permanent-damage
+date: "2007-01-05 07:42"
+category: Life
+tags:
+  - bad news
+  - dislocation
+  - health
+  - skydiving
+author: offby1
+status: published
+---
 # Permanent Damage
 
 I got a phone call from my physician on Wednesday in which he told me

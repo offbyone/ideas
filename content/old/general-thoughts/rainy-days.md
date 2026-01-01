@@ -1,11 +1,12 @@
-Title: Rainy Days
-date: 2004-06-06 04:44
-author: offby1
+---
+title: Rainy Days
+slug: rainy-days
+date: "2004-06-06 04:44"
 category: General Thoughts
 tags: work
-slug: rainy-days
+author: offby1
 status: draft
-
+---
 Thanks to the vagaries of this summer's seemingly super-humid weather, I have the day off today.
 
 W00t!

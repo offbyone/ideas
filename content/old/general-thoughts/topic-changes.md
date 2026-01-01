@@ -1,11 +1,14 @@
-Title: Topic changes?
-date: 2006-06-14 20:20
-author: offby1
-category: General Thoughts, Media
-tags: media, school
+---
+title: Topic changes?
 slug: topic-changes
+date: "2006-06-14 20:20"
+category: General Thoughts, Media
+tags:
+  - media
+  - school
+author: offby1
 status: draft
-
+---
 Well, short-term at least, this blog has talked more about hockey than anything.
 
 Not to say I've been verbose, or anything like that.

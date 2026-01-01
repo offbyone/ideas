@@ -1,11 +1,12 @@
-Title: Dystopia
-date: 2004-02-25 19:14
-author: offby1
+---
+title: Dystopia
+slug: dystopia
+date: "2004-02-25 19:14"
 category: Rants
 tags: rants
-slug: dystopia
+author: offby1
 status: draft
-
+---
 I've just finished reading a whole whackpile of Buffy comics. Both the regular series, which essentially fills in gaps in the [main chronology](http://www.upn.com/shows/buffy/backstory/index.shtml), and the [Fray](http://www.buffycollector.com/comics/fray.shtml) miniseries set some 200+ years in the future. The combined experiences leave me wondering something.
 
 Why is it that, in every comic book future, the future is portrayed as a grim, dystopian place? I'm sitting here absorbing the reads and wondering, what's the point of all this gloom? I can think of a few possible reasons, and I think i want to go over them here.

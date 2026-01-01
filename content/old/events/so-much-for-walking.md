@@ -1,9 +1,13 @@
-Title: So much for walking
-date: 2004-10-11 08:58
-author: offby1
-category: Events, Internet, Media
-tags: events, internet, media
+---
+title: So much for walking
 slug: so-much-for-walking
+date: "2004-10-11 08:58"
+category: Events, Internet, Media
+tags:
+  - events
+  - internet
+  - media
+author: offby1
 status: draft
-
+---
 [![The Death of Superman](http://www.offlineblog.com/images/kaufman_the_death_of_superman%5B1%5D.jpg)](http://www.metafilter.com/mefi/36174)

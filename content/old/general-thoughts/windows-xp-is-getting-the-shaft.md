@@ -1,11 +1,15 @@
-Title: Windows XP is getting the shaft
-date: 2003-01-09 07:05
-author: offby1
-category: General Thoughts, Rants
-tags: intellectual property, privacy, rants
+---
+title: Windows XP is getting the shaft
 slug: windows-xp-is-getting-the-shaft
+date: "2003-01-09 07:05"
+category: General Thoughts, Rants
+tags:
+  - intellectual property
+  - privacy
+  - rants
+author: offby1
 status: draft
-
+---
 There's currently some [discussion](http://help.lockergnome.com/index.php?act=ST&f=4&t=1646&s=8b2486d31144b724a342c19e167b3db4) on the [LockerGnome](http://www.lockergnome.com/) forums about some changes to Windows Update. As an *ex*-WinXP user, i still pay attention to the direction that Microsoft's latest OS takes, simply because eventually i'll be using the iteration after it. Basically, the gist of the changes is this: As of some time in the near future, Windows Update \-- as a manual service \-- will cease to work for WinXP, since XP has an automatic update feature built into it, and therefore nobody could ever need the manual service.
 
 Now, call me paranoid, but the first thing i disable on a new XP install is the automatic updates. I'm not comfortable with an outside company deciding what "upgrades" i need, even taking into account that i'm not an anti-MS zealot. How do i know that the folks over in Redmond have my best interests in mind? I prefer to handle this sort of thing myself.

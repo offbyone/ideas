@@ -1,11 +1,14 @@
-Title: ... and good luck
-date: 2008-06-10 06:49
-author: offby1
-category: Meta
-tags: meta, school
+---
+title: ... and good luck
 slug: and-good-luck
+date: "2008-06-10 06:49"
+category: Meta
+tags:
+  - meta
+  - school
+author: offby1
 status: draft
-
+---
 Good morning.
 
 As some of you may recall, once upon a time I started a blog called "schoolblog" based on my progression through the educational system. It was a tiny little side project, and really, it stayed that way all along. Now, or more specifically, yesterday, that process came to its conclusion at the U of A convocation ceremonies.

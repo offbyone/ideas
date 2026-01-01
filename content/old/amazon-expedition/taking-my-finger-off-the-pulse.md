@@ -1,11 +1,14 @@
-Title: Taking my finger off the pulse
-date: 2011-06-04 08:10
-author: offby1
-category: amazon
-tags: lifestyle, reading
+---
+title: Taking my finger off the pulse
 slug: taking-my-finger-off-the-pulse
+date: "2011-06-04 08:10"
+category: amazon
+tags:
+  - lifestyle
+  - reading
+author: offby1
 status: published
-
+---
 I'm an inveterate blog reader, which must come as a surprise to precisely nobody. I read blogs by authors, programmers, and random joes who seem to have something interesting to day. To augment that, I also read community weblogs (Metafilter being the most prominent of that lot).
 
 I read these blogs\... too much. I've traced this down to a desire to always be abreast of the latest developments in the part of the world that interests me. I don't want to miss anything. And, what ends up happening is that I miss a lot\... just nothing online. What I miss most is being a reader of books. I rarely read books any more because, well, where would I find the time?

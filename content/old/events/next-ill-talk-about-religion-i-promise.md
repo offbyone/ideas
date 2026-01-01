@@ -1,11 +1,14 @@
-Title: Next, I'll talk about Religion.  I promise!
-date: 2004-06-14 06:11
-author: offby1
-category: Events, Rants
-tags: events, rants
+---
+title: Next, I'll talk about Religion.  I promise!
 slug: next-ill-talk-about-religion-i-promise
+date: "2004-06-14 06:11"
+category: Events, Rants
+tags:
+  - events
+  - rants
+author: offby1
 status: draft
-
+---
 First off, I guess I'll get the basics off my chest: _Vote_. I don't care what reasons or excuses you make to yourself to justify your apathy in avoiding the polls, I don't care if you claim that "the system isn't working" or "nobody out there represents my interests." I really don't. And neither should you, in fact. There's a fundamental flaw in your reasoning that would be exposed if you had ever had even the briefest exposure to logic and/or a political education. If you want the system to change, *we live in ademocracy*\*\*, dumbass. Your vote _can_ change the system.
 
 Alright, now that that's (partially) off my chest, on to the meat of the post.

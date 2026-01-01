@@ -1,11 +1,15 @@
-Title: Rebel(v)
-date: 2004-12-12 11:30
-author: offby1
-category: General Thoughts, Internet, Media, Rants
-tags: internet, media, rants
+---
+title: Rebel(v)
 slug: rebelv
+date: "2004-12-12 11:30"
+category: General Thoughts, Internet, Media, Rants
+tags:
+  - internet
+  - media
+  - rants
+author: offby1
 status: draft
-
+---
 **a** **:** to act in or show opposition or disobedience \<*rebelled* against the conventions of polite society\> **b** **:** to feel or exhibit anger or revulsion \<*rebelled* at the injustice of life\>
 
 A very interesting article over at "This Magazine":http://www.thismagazine.ca which does an excellent job of summing up and slapping down the anticonsumerist movement that is so prevalent today.

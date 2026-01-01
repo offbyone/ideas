@@ -1,11 +1,12 @@
-Title: Whatta Day
-date: 2004-05-15 21:17
-author: offby1
+---
+title: Whatta Day
+slug: whatta-day
+date: "2004-05-15 21:17"
 category: General Thoughts
 tags: work
-slug: whatta-day
+author: offby1
 status: draft
-
+---
 Wow. Today really could not have gone worse than it did -- all told, at any rate. The whole day wasn't shitty, but there were sufficient -- and sufficiently bad -- incidents to mark it as a mistake from moment one.
 
 The capstone, barring any other issues with the overall day, was my singularly stupid breakage of a \$200 component of our _\$30,000_ main tool. Being dead tired (your fault, love ;) ) today at work, I mishung a battery, which \-- falling \-- pulled apart the power connecter ( a FUB, apparently, according to the makers of the Geodimeter) and toasted our total station.

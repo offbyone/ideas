@@ -1,11 +1,12 @@
-Title: At last, there's one for me!
-date: 2004-02-07 10:21
-author: offby1
+---
+title: At last, there's one for me!
+slug: at-last-theres-one-for-me
+date: "2004-02-07 10:21"
 category: General Thoughts, Internet
 tags: internet
-slug: at-last-theres-one-for-me
+author: offby1
 status: draft
-
+---
 Over at [Introvertster](http://www.airbag.ca/introvertster/), i've found the social network site for people like me. At last, a group of like-minded individuals who have chosen to _avoid_ each other :)
 
 Hey, you know, given the spew of networks that cater to the excessively social \-- "Friendster":http://www.friendster.com , "Orkut":http://www.orkut.com/ , and "Livejournal":http://www.livejournal.com/ , to name a few \-- it's nice to see one that caters to people who hate chain letters, quizzes, "what kind of \$(FOO) are you?" and all the sundry bullshit that characterizes those communities.

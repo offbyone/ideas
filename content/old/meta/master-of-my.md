@@ -1,11 +1,12 @@
-Title: Master of my...
-date: 2003-11-05 21:31
-author: offby1
+---
+title: Master of my...
+slug: master-of-my
+date: "2003-11-05 21:31"
 category: Meta
 tags: meta
-slug: master-of-my
+author: offby1
 status: draft
-
+---
 Woohoo!
 
 Well, i hope that this has propagated to all the corners of the web. If it has, then you're seeing this - the very first post i've ever had at my very own website!

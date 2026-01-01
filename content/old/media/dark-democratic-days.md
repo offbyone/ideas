@@ -1,11 +1,14 @@
-Title: Dark (Democratic) Days.
-date: 2006-03-29 19:02
-author: offby1
-category: Media, Rants
-tags: media, rants
+---
+title: Dark (Democratic) Days.
 slug: dark-democratic-days
+date: "2006-03-29 19:02"
+category: Media, Rants
+tags:
+  - media
+  - rants
+author: offby1
 status: draft
-
+---
 Ahh, politics.  I love the smell of\...
 
 Shit.

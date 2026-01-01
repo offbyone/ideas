@@ -1,11 +1,15 @@
-Title: Up, up
-date: 2004-10-27 07:33
-author: offby1
-category: General Thoughts, Internet, Rants
-tags: internet, rants, space
+---
+title: Up, up
 slug: up-up
+date: "2004-10-27 07:33"
+category: General Thoughts, Internet, Rants
+tags:
+  - internet
+  - rants
+  - space
+author: offby1
 status: draft
-
+---
 Every once in a while it strikes me (harder) that more needs to be put into realistic alternatives to the dependence that we've fostered on fossil fuels.
 
 This isn't a new thing to many of my readers, most of whom swing more to the left than I do, with commesurate (Matt, want to confirm my spelling on that?) views on environmental issues. It's not really new to me, either, although I lack the knee-jerk anti-corporate reaction to massive oil companies.

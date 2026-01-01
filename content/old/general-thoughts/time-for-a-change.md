@@ -1,11 +1,15 @@
-Title: Time for a change
-date: 2003-07-20 10:48
-author: offby1
-category: General Thoughts
-tags: cats, moving, school
+---
+title: Time for a change
 slug: time-for-a-change
+date: "2003-07-20 10:48"
+category: General Thoughts
+tags:
+  - cats
+  - moving
+  - school
+author: offby1
 status: draft
-
+---
 Well, it's official.
 
 In between a month and six weeks, Char and i are moving. We're going to be packing up the life we have in this house and hauling it all (including a hissing and spitting Chitty) a short distance away to a newly-renovated home just off of 61st Avenue.

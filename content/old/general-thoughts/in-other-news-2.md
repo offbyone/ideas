@@ -1,11 +1,12 @@
-Title: In other news...
-date: 2003-04-13 08:47
-author: offby1
+---
+title: In other news...
+slug: in-other-news-2
+date: "2003-04-13 08:47"
 category: General Thoughts
 tags: school
-slug: in-other-news-2
+author: offby1
 status: draft
-
+---
 School is coming up on its end at a furious rate. Finals start tuesday, and after thursday, i don't have to ever deal w/ English again -provided i pass the damned course, at any rate.
 
 Here's a roundup:

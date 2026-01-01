@@ -1,13 +1,19 @@
-Title: direnv and pip-tools together
+---
+title: direnv and pip-tools together
 slug: direnv-and-pip-tools-together
-date: 2020-06-16T07:15:02.430301
+date: 2020-06-16 07:15:02.430301
 category: tools
-tags: programming, direnv, python, pip-tools, automation
+tags:
+  - programming
+  - direnv
+  - python
+  - pip-tools
+  - automation
 author: Chris Rose
 email: offline@offby1.net
-status: published
 summary: A relatively simple way to automate locking your pip-tools requirements using direnv
-
+status: published
+---
 I have been experimenting with using [pip-tools](https://github.com/jazzband/pip-tools/) to manage my python project dependencies. If you're not familiar with it, I encourage you to read Hynek Schlawack's excellent [introduction to dependency management in Python](https://hynek.me/articles/python-app-deps-2018/) which introduces it and offers some comparisons to other alternatives like Poetry and Pipenv.
 
 The simple explanation, though, is that pip-tools offers two commands: `pip-compile` and `pip-sync` that work to keep a virtualenv's dependencies both reproducible and in sync with the expressed requirements. This is done by having the developer edit a `requirements.in` file, which is compiled into `requirements.txt`, and then synced into the project virtualenv.

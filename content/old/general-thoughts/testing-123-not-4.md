@@ -1,11 +1,12 @@
-Title: Testing 1,2,3... (not 4)
-date: 2002-12-12 15:22
-author: offby1
+---
+title: Testing 1,2,3... (not 4)
+slug: testing-123-not-4
+date: "2002-12-12 15:22"
 category: General Thoughts
 tags: school
-slug: testing-123-not-4
+author: offby1
 status: draft
-
+---
 Three down, one to go. Plus lab exams, of course. Progress, progress.
 
 Here's my quickie reviews: Math114: Well, i did pretty damn well at it, so i can't really bitch too much, can i? I mowed that exam down :) I was pleased to see that it focused on the elements of calculus that i understood, and because it was a cross-section test, it didn't really hit the peculiar things that Solomonovich taugh, such as higher-order corrections and such. Either way, i'll get it better next year :)

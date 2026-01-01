@@ -1,11 +1,20 @@
-Title: Maynard
-date: 2006-12-01 00:01
-author: offby1
-category: General Thoughts, Internet, Media, Rants
-tags: intellectual property, internet, media, obscenity, pornography, privacy, quote, rants
+---
+title: Maynard
 slug: maynard
+date: "2006-12-01 00:01"
+category: General Thoughts, Internet, Media, Rants
+tags:
+  - intellectual property
+  - internet
+  - media
+  - obscenity
+  - pornography
+  - privacy
+  - quote
+  - rants
+author: offby1
 status: draft
-
+---
 Nothing on internet censorship (note: If you're on a Canadian ISP and reading this, there are now sites blocked for all Canadians. Right now they're kiddie porn only\... but it's a short step from that to deciding other sites are _objectionable_ and blockable. Your ISP \-- the one you _pay to provide you with internet access_ \-- is doing this. Respond as you will).
 
 What I'm actually posting on is an excellent [interview with Maynard James Keenan](http://www.avclub.com/content/node/55757) (of Tool) at the Onion AV Club.

@@ -1,11 +1,15 @@
-Title: The further travels of...
-date: 2003-09-29 12:40
-author: offby1
-category: General Thoughts
-tags: travel, wedding, wi-fi
+---
+title: The further travels of...
 slug: the-further-travels-of
+date: "2003-09-29 12:40"
+category: General Thoughts
+tags:
+  - travel
+  - wedding
+  - wi-fi
+author: offby1
 status: draft
-
+---
 Wedding is now done\...
 
 Wow. Okay, it wasn't exactly rocket science, but there was a fair amount of work and responsibility involved in getting that wedding to go off smoothly for Beau and Sarah. At some point, when i have them in a digital form, i'll have to post some pics\... (Since you asked so nicely, John\...)

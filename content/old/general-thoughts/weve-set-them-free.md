@@ -1,11 +1,12 @@
-Title: We've set them free...
-date: 2006-01-21 00:05
-author: offby1
+---
+title: We've set them free...
+slug: weve-set-them-free
+date: "2006-01-21 00:05"
 category: General Thoughts, Meta
 tags: meta
-slug: weve-set-them-free
+author: offby1
 status: draft
-
+---
 Does that mean we *want* them to come back?
 
 If you're not sure what I mean, I'm referring to the [travels of my father and sister](http://www.offlineblog.com/morruz/), whom I have entreated to provide a web-based journal of their experiences. ([Matt](http://www.offlineblog.com/mildillson/), can you vet. that last sentence for structural correctness? I got fancy, and it seems subtly wrong, somehow).

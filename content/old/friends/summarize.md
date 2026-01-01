@@ -1,11 +1,15 @@
-Title: Summarize
-date: 2006-10-10 22:30
-author: offby1
-category: Friends, General Thoughts
-tags: friends, school, work
+---
+title: Summarize
 slug: summarize
+date: "2006-10-10 22:30"
+category: Friends, General Thoughts
+tags:
+  - friends
+  - school
+  - work
+author: offby1
 status: draft
-
+---
 Well\...
 
 I just learned how to pack a parachute.

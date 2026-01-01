@@ -1,11 +1,12 @@
-Title: Sportsmanlike Conduct
-date: 2002-11-21 20:01
-author: offby1
+---
+title: Sportsmanlike Conduct
+slug: sportsmanlike-conduct
+date: "2002-11-21 20:01"
 category: Rants
 tags: rants
-slug: sportsmanlike-conduct
+author: offby1
 status: draft
-
+---
 And then some words about my final lab - hell, those words now\... It was EASY!
 
 Nuff said.

@@ -1,11 +1,15 @@
-Title: We get the government we deserve, don't we?
-date: 2004-06-29 05:08
-author: offby1
-category: Events, Media, Rants
-tags: events, media, rants
+---
+title: We get the government we deserve, don't we?
 slug: we-get-the-government-we-deserve-dont-we
+date: "2004-06-29 05:08"
+category: Events, Media, Rants
+tags:
+  - events
+  - media
+  - rants
+author: offby1
 status: draft
-
+---
 As should be [known](http://www.cbc.ca/stories/2004/06/29/canada/elxn_wrap040629) by now, Canadians have spoken, and what they've said is, essentially, "Please, sir, can I have some more?"
 
 Faugh.

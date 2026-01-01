@@ -1,11 +1,12 @@
-Title: Back At It
-date: 2003-01-06 21:45
-author: offby1
+---
+title: Back At It
+slug: back-at-it
+date: "2003-01-06 21:45"
 category: General Thoughts
 tags: school
-slug: back-at-it
+author: offby1
 status: draft
-
+---
 Yay! Semester two began today, and i'm really looking forward to this set of courses. It's going to be a busy year, for sure, and i'm hoping that i do as well as i did last semester (Both marked courses were As).
 
 I have English again, the same course about which i've bitched over and over again - i get to find out how well i did on the midterm, which i admit i'm looking forward to. I felt pretty solid on that exam. It remains to be seen whether there's any improvement in the overall caliber of the course, though. Perhaps i'll be pleasantly surprised. And then again, perhaps not.
