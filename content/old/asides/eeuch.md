@@ -11,7 +11,8 @@ author: offby1
 status: draft
 ---
 Take a look at this:
-[![Noise, Noise](http://www.offby1.net/wordpress/wp-content/uploads/2007/08/display.thumbnail.jpg)](http://offby1.files.wordpress.com/2007/08/display.jpg)
+
+<a href="/images/2007-08-01/display.jpg"><img src="/images/2007-08-01/display.jpg" alt="Noise, Noise" /></a>
 
 Sure looks horrible, eh?
 

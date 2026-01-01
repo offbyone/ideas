@@ -10,7 +10,6 @@ tags:
 author: offby1
 status: draft
 ---
-Just something that caught my eye:
-![Petard, meet hoist]({static}/images/editorial-payne-mlk.gif)
+Just something that caught my eye: (dead link removed to silence a warning)
 
 From [here](http://cagle.msnbc.com/main.asp).

@@ -15,4 +15,4 @@ I'm reasonably certain that there's some kind of nationwide moment of silence, b
 
 Remember:
 
-![Never Again](http://offby1.files.wordpress.com/2006/11/never_again.jpg)
+![Never Again](/images/2006-11-01/never_again.jpg)

@@ -7,7 +7,7 @@ tags: events
 author: offby1
 status: draft
 ---
-![Poppy and barbed wire]({static}/images/poppy.gif)Because too many people choose to forget.
+![Poppy and barbed wire]({static}/images/poppy.jpg)Because too many people choose to forget.
 
 Because it's not fashionable to remember.
 

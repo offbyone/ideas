@@ -16,26 +16,26 @@ This might mark me as exceptionally nerdy, but I just love this set of [warning 
 
 Some favourites:
 
-![Ubiquitous Surveillance Warning](http://offby1.files.wordpress.com/2006/10/ubiquitioussurveillancewarning.jpg)
+![Ubiquitous Surveillance Warning](/images/2006-10-01/ubiquitioussurveillancewarning.jpg)
 
 This is the scary one -- it should probably be posted in most banks, office buildings, *my* building, and Britain.
 
-![Nonstandard Spacetime Warning](http://offby1.files.wordpress.com/2006/10/nonstandardspacetimewarning.jpg)
+![Nonstandard Spacetime Warning](/images/2006-10-01/nonstandardspacetimewarning.jpg)
 
 Perhaps those times when you've got a project due the next morning *"all of a sudden"* even though you *never* let things sit that long?
 
-![Lack of Internet Connectivity Warning](http://offby1.files.wordpress.com/2006/10/lackofinternetconnectivitywarning.jpg)
+![Lack of Internet Connectivity Warning](/images/2006-10-01/lackofinternetconnectivitywarning.jpg)
 
 My life, according to Shaw, some days.
 
-![Existential Warning](http://offby1.files.wordpress.com/2006/10/existentialthreatwarning.jpg)
+![Existential Warning](/images/2006-10-01/existentialthreatwarning.jpg)
 
 I can just picture this hanging in an effete coffee shop, over books by Sartre, being studiedly ignored by a gaggle of pseudo-intellectual first-year philosophy students.
 
-![Congnitive Hazard Warning](http://offby1.files.wordpress.com/2006/10/cognitivehazardwarning.jpg)
+![Congnitive Hazard Warning](/images/2006-10-01/cognitivehazardwarning.jpg)
 
 Seen over the magazine rack containing US, Cosmo, and Maxim.
 
-![Autonomous Device Warning](http://offby1.files.wordpress.com/2006/10/autonomousdevicewarning.jpg)
+![Autonomous Device Warning](/images/2006-10-01/autonomousdevicewarning.jpg)
 
 I think I should get a shirt with this one on it ;)
