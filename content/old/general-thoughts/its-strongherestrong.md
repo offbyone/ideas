@@ -9,7 +9,7 @@ status: draft
 ---
 It's HEEEEEEEEEEEEEEEEEEEEEEEERE!!!!! Yes, this is what you think it is.
 
-So, 35 more minutes\...
+So, 35 more minutes...
 
 w00t!
 

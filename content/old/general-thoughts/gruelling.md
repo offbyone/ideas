@@ -17,16 +17,16 @@ Assembler is a form of low-level programming language that, for the purposes of 
 
 <p>
 
-| getPrevious_loop:
-| sub \$s0, 1
-| bltz \$s0, getPrevious_retzero
-| move \$a0, \$s1
-| jal getElementData
-| beq \$v0, \$s2, getPrevious_found
-| move \$a0, \$s1
-| jal getNextElement \# get the next element
-| move \$s1, \$v0
-| j getPrevious_loop
+getPrevious_loop:
+sub \$s0, 1
+bltz \$s0, getPrevious_retzero
+move \$a0, \$s1
+jal getElementData
+beq \$v0, \$s2, getPrevious_found
+move \$a0, \$s1
+jal getNextElement # get the next element
+move \$s1, \$v0
+j getPrevious_loop
 
 </pre>
 

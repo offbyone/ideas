@@ -13,4 +13,4 @@ For convenience and long-term contact accessibility, I am moving my day to day e
 
 Translating that to a real address shouldn't be too hard :)
 
-Also, I've recently become the owner of a "GMail":http://gmail.google.com/ account (*offby1 at gmail dot com*) as well, courtesy of "this":http://www.plasticbag.org/ generous soul, and I imagine that sooner or later I'll get a handful of invites to pass out as well. If anyone is interested, feel free to post a request. I'll go through them on a case-by-case basis. I think I like [Tom's model](http://www.plasticbag.org/archives/2004/06/anyone_for_gmail.shtml), ie: Amuse me somehow.
+Also, I've recently become the owner of a [GMail](http://gmail.google.com/) account (*offby1 at gmail dot com*) as well, courtesy of [this](http://www.plasticbag.org/) generous soul, and I imagine that sooner or later I'll get a handful of invites to pass out as well. If anyone is interested, feel free to post a request. I'll go through them on a case-by-case basis. I think I like [Tom's model](http://www.plasticbag.org/archives/2004/06/anyone_for_gmail.shtml), ie: Amuse me somehow.

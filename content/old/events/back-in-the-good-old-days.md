@@ -20,7 +20,7 @@ What's interesting isn't the fact that it'd never happen again, what's interesti
 
 One, people sue too easily. The fastest way to a fat judgement is to admit culpability, and recalling all of the tainted goods (or their various equivalents) is tantamount to a guilty plea in this age of massive lawsuits. Most companies can't afford that, nor should they have to.
 
-Two, the corporate culture is, for that reason and more, becoming more and more secretive. It's been shown conclusively over the years that hiding things works. Sure, a few really visible folks get the shaft, but that's the point \-- don't live too high on the hog and you can spend _years_ screwing your customers, employees, and shareholders out of millions of dollars.
+Two, the corporate culture is, for that reason and more, becoming more and more secretive. It's been shown conclusively over the years that hiding things works. Sure, a few really visible folks get the shaft, but that's the point -- don't live too high on the hog and you can spend _years_ screwing your customers, employees, and shareholders out of millions of dollars.
 
 Three, people are just assholes, but by some miracle J&J was run by decent people once upon a time, at least for a week or two.
 

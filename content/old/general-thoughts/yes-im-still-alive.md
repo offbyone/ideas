@@ -21,4 +21,4 @@ Oh well.
 
 In other news, midterms are coming up, so soon i'll be actually stressing.. Woohoo! :)
 
-All you readers out there\... Are any of you still commenting? :) Reading? Posting?\...?
+All you readers out there... Are any of you still commenting? :) Reading? Posting?...?

@@ -15,9 +15,9 @@ I'm beginning to think that I won't be working tomorrow :)
 
 So far, the floor is dry, but it's still early. I don't imagine that staying up and waiting will help anything, but I can't help but think that I'm going to have a hard time sleeping with this happening. The yard is as clear as it has ever been, so hopefully that's all it'll take.
 
-Stay dry, damn it, stay dry\...
+Stay dry, damn it, stay dry...
 
-\### Update (x2):
+### Update (x2):
 
 One: Yes, I am working. Sympathy is welcome, as I expect to be knee deep in muck for most of the day (since, instead of surveying, my foreman has decided that I'm most useful as a labourer. Yay, filter cloth!)
 

@@ -10,7 +10,7 @@ tags:
 author: offby1
 status: draft
 ---
-I wish I had the memory required to make this a regular feature: I've been wanting to do periodic highlights of things I've seen in the news_paper\_ that chafed me, or amused me, or really need to be seen. However, the facts that I a) do not have an electronic Journal subscription and b) forget to post them by the time I get to a computer, have prevented this.
+I wish I had the memory required to make this a regular feature: I've been wanting to do periodic highlights of things I've seen in the news_paper_ that chafed me, or amused me, or really need to be seen. However, the facts that I a) do not have an electronic Journal subscription and b) forget to post them by the time I get to a computer, have prevented this.
 
 Until now.
 

@@ -13,4 +13,4 @@ status: draft
 
 Arguably one of the best Wing Commander games in the whole series just got a complete remake treatment, free-software-like.
 
-Honestly, is there anything that geeks with too much spare time "can't":http://exult.sourceforge.net/ "do":http://www.scummvm.org/?
+Honestly, is there anything that geeks with too much spare time [can't](http://exult.sourceforge.net/) [do](http://www.scummvm.org/?)

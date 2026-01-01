@@ -7,9 +7,9 @@ tags: work
 author: offby1
 status: draft
 ---
-Today was my second day of training at the International Airport. It's certainly an interesting environment to work it, make no mistake. Maureen (Mo, apparently, is good enough), who is the training manager, seems a bit\... flighty. Off topic more often than on, if you take my meaning. And some of my co-workers seem to be\... Is it me, or is it a **bad** sign when someone has to ask "What month comes before July?" and can't seem to reconcile the idea that she had to *live* in Calgary in order to work there, and could not have done both that and live and work 300Km away at the same time?
+Today was my second day of training at the International Airport. It's certainly an interesting environment to work it, make no mistake. Maureen (Mo, apparently, is good enough), who is the training manager, seems a bit... flighty. Off topic more often than on, if you take my meaning. And some of my co-workers seem to be... Is it me, or is it a **bad** sign when someone has to ask "What month comes before July?" and can't seem to reconcile the idea that she had to *live* in Calgary in order to work there, and could not have done both that and live and work 300Km away at the same time?
 
-Christ, i don't know sometimes\...
+Christ, i don't know sometimes...
 
 People.
 

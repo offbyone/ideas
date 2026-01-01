@@ -13,6 +13,6 @@ We've got a big demo this morning for the business folks at a large American fin
 
 It's been fun, but I look forward to winding down for an hour or three.
 
-Is it a good, or bad, sign when you think about work even on your days off? Meaning, "Hm. I wonder if I could fix with \...?"
+Is it a good, or bad, sign when you think about work even on your days off? Meaning, "Hm. I wonder if I could fix with ...?"
 
 Heh.

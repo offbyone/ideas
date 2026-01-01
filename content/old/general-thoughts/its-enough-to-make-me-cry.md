@@ -11,6 +11,6 @@ Just half an hour ago, the server upon which I have stored all my e-mail for yea
 
 Basically, it ate an entire filesystem entire.
 
-So, now I have no mail archive, and in fact the mail server doesn't seem to be working any more at all. So I'll be migrating to gmail after all, it seems \-- although there's not much to worry about with regards to changing addresses this time around, since the old addresses will just forward to gmail.
+So, now I have no mail archive, and in fact the mail server doesn't seem to be working any more at all. So I'll be migrating to gmail after all, it seems -- although there's not much to worry about with regards to changing addresses this time around, since the old addresses will just forward to gmail.
 
 Bah. This _really_ sucks.

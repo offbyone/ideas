@@ -16,6 +16,6 @@ One thing i liked about the train, when i wasn't trying to sleep on it, was the 
 
 Full o' old people, though :)
 
-Anyway, i post this from my fave seat in the world, the one in front of my very own computer. It's nice to be home at last\... or it would be, if i weren't a week behind on my classes and generally kinda lost in three of my five courses.
+Anyway, i post this from my fave seat in the world, the one in front of my very own computer. It's nice to be home at last... or it would be, if i weren't a week behind on my classes and generally kinda lost in three of my five courses.
 
 Oh well, so be it. Back to the front!

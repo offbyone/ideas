@@ -12,7 +12,7 @@ tags:
 author: offby1
 status: draft
 ---
-Just because I figure it's been a while, a friend of mine passed me "this":http://www.hackcanada.com/canadian/freedom/barwatch/barwatch.html just a moment ago.
+Just because I figure it's been a while, a friend of mine passed me [this](http://www.hackcanada.com/canadian/freedom/barwatch/barwatch.html) just a moment ago.
 
 Now, I know that you all aren't exactly heavy duty Edmonton area barhounds, but this still might raise your hackles a bit.
 

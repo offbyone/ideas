@@ -9,7 +9,7 @@ tags:
 author: offby1
 status: draft
 ---
-As the strains of John Williams' score waft from the speakers, and the 1977 edition of the opening text scrolls by\...
+As the strains of John Williams' score waft from the speakers, and the 1977 edition of the opening text scrolls by...
 
 This is a bit like coming home after a long voyage, or finding a friend long thought lost.
 

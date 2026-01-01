@@ -15,9 +15,9 @@ toot: "https://wandering.shop/users/offby1/statuses/110541002888289332"
 ---
 I struggled with whether this was worth writing up,
 
-I upgraded my NAS to DSM7 about 3 months ago, which was a whole thing on its own, but one side effect of that was that it turns out it killed the letsencrypt updater I'd used. 90 days later, I got a certificate error when I used the web interface. And\... apparently at some point, without thinking about it, I'd also set up my Unifi Dream Machine Pro (yep, that's SEO right there!) with something that expired around the same time[ref]I honestly have no recollection of this. I wish I could remember what I did\![/ref].
+I upgraded my NAS to DSM7 about 3 months ago, which was a whole thing on its own, but one side effect of that was that it turns out it killed the letsencrypt updater I'd used. 90 days later, I got a certificate error when I used the web interface. And... apparently at some point, without thinking about it, I'd also set up my Unifi Dream Machine Pro (yep, that's SEO right there!) with something that expired around the same time[ref]I honestly have no recollection of this. I wish I could remember what I did![/ref].
 
-So\...
+So...
 
 # Why is this hard for me?
 
@@ -29,7 +29,7 @@ The main groundwork here is that I have a modified version of the aforelinked IO
 
 # LetsEncrypt / ACME on the Synology
 
-This part was surprisingly easy. Not because I solved it myself, but someone already did it[ref]the third-best kind of code is "working code that someone else wrote"[/ref], and it's basically perfect. [\@JessThysoee](https://github.com/JessThrysoee/synology-letsencrypt) made a package that sets up a complete suite of LetsEncrypt (well, really, ACME) tools on the Synology that does 95% of what I needed. Since that tool supports both customization (via an `env` file) and integration with Synology's certificate machinery (via `hooks`) I was sorted. The `AWS_SHARED_CREDENTIALS_FILE` is created by my IOT integration, renewed every 30 minutes (unless `us-east-1` is down, of course\![ref]For context in the future, this post was written on a day where us-east-1 experienced a major outage.[/ref]).
+This part was surprisingly easy. Not because I solved it myself, but someone already did it[ref]the third-best kind of code is "working code that someone else wrote"[/ref], and it's basically perfect. [\@JessThysoee](https://github.com/JessThrysoee/synology-letsencrypt) made a package that sets up a complete suite of LetsEncrypt (well, really, ACME) tools on the Synology that does 95% of what I needed. Since that tool supports both customization (via an `env` file) and integration with Synology's certificate machinery (via `hooks`) I was sorted. The `AWS_SHARED_CREDENTIALS_FILE` is created by my IOT integration, renewed every 30 minutes (unless `us-east-1` is down, of course![ref]For context in the future, this post was written on a day where us-east-1 experienced a major outage.[/ref]).
 
 My `env` looks like this:
 
@@ -46,9 +46,9 @@ The hooks file is the default from the `synology-letsencrypt` package. It really
 
 # The Unifi Dream Machine SSL Cert
 
-To get the UDM certificates installed, though, I needed to [patch the letsencrypt script package](https://github.com/JessThrysoee/synology-letsencrypt/pull/6) a bit. Specifically, I added two features: One, don't nuke the hook script each run, and two, let me have more than one configuration. That second part isn't [strictly]{#strictly}\_ necessary, but it made it way easier.
+To get the UDM certificates installed, though, I needed to [patch the letsencrypt script package](https://github.com/JessThrysoee/synology-letsencrypt/pull/6) a bit. Specifically, I added two features: One, don't nuke the hook script each run, and two, let me have more than one configuration. That second part isn't [strictly]{#strictly}_ necessary, but it made it way easier.
 
-I created an SSH key to access my UDM from my Synology as `root`. That makes the hook passwordless. Not perfect, but if someone has root access on my hosts, I have bigger problems[ref]Now that I think about it, I wonder if I could make a webhook on the Synology that just gives out a tarball of the latest certificates, and then run a cron job on the UDM\... nah, I don't think that's a good investment of my time.[/ref].
+I created an SSH key to access my UDM from my Synology as `root`. That makes the hook passwordless. Not perfect, but if someone has root access on my hosts, I have bigger problems[ref]Now that I think about it, I wonder if I could make a webhook on the Synology that just gives out a tarball of the latest certificates, and then run a cron job on the UDM... nah, I don't think that's a good investment of my time.[/ref].
 
 Once I had that, I set this as my hook script for certificate renewal:
 

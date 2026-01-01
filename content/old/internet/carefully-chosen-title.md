@@ -11,4 +11,4 @@ Found on Salon.com (you have to view a short ad to check it out, but it's worth 
 
 I'm just sayin'
 
-(Via, of course, "mefi":http://www.metafilter.com/mefi/31934 )
+(Via, of course, [mefi](http://www.metafilter.com/mefi/31934) )

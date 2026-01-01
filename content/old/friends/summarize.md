@@ -10,7 +10,7 @@ tags:
 author: offby1
 status: draft
 ---
-Well\...
+Well...
 
 I just learned how to pack a parachute.
 

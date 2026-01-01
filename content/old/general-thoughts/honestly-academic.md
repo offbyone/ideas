@@ -15,10 +15,10 @@ Instead, these kids have decided that the project we've been given is too hard f
 
 Pah.
 
-So\... I know that these people are cheating. And i know that i'm offended by it. what do i do now? I'm more than a bit inclined to bring this to the attention of the prof\...
+So... I know that these people are cheating. And i know that i'm offended by it. what do i do now? I'm more than a bit inclined to bring this to the attention of the prof...
 
-And there's the conflict. I've learned through years of abuse that ratting out on people doesn't get you anywhere, and is in itself an ethical position. But \... I can't really argue much in favour of this, since it's, well, not a very good ethical position.
+And there's the conflict. I've learned through years of abuse that ratting out on people doesn't get you anywhere, and is in itself an ethical position. But ... I can't really argue much in favour of this, since it's, well, not a very good ethical position.
 
 Hm.
 
-I think perhaps making this one clear and open to the prof might be the best course after all\...
+I think perhaps making this one clear and open to the prof might be the best course after all...

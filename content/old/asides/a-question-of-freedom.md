@@ -12,10 +12,10 @@ status: draft
 ---
 Seen on a forum today:
 
-| \> Which is more free?
-| \>
-| \> 1. that which ensures freedom or
-| \> 2. that which grants so much freedom that it permits denial of freedom
+> Which is more free?
+>
+> 1. that which ensures freedom or
+> 2. that which grants so much freedom that it permits denial of freedom
 
 I know my perspective on this one, but I'm interested in hearing yours, before I weigh in myself.
 

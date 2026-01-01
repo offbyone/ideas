@@ -11,6 +11,6 @@ So, tomorrow I'm heading out, early in the morning, to get back in the saddle at
 
 Anyone want in?
 
-\### Update
+### Update
 
-Sadly, no jumping today, as the winds were too strong. Maybe tomorrow, although with rain forecasted all day, I'm not hopeful. Worst case? Next weekend\...
+Sadly, no jumping today, as the winds were too strong. Maybe tomorrow, although with rain forecasted all day, I'm not hopeful. Worst case? Next weekend...

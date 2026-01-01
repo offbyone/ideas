@@ -13,7 +13,7 @@ Having an attack *of* confidence is great.
 
 I checked my mark rankings in CS 313 yesterday, and discovered that --contrary to my expectations -- I'm #6 in the class of 35. It's still not great, but it's tolerable. So I feel better about that.
 
-I've had a week to poke around at my [new toy](http://www.apple.com/macbookpro), and I must say, I like it. It's fast, it's pretty, and it has a nice set of tools that just\... work. Video playback is still a work in progress, but I already knew that.
+I've had a week to poke around at my [new toy](http://www.apple.com/macbookpro), and I must say, I like it. It's fast, it's pretty, and it has a nice set of tools that just... work. Video playback is still a work in progress, but I already knew that.
 
 Looks good, though.
 

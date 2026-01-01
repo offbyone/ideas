@@ -17,7 +17,7 @@ If you want to while away a few hours, and find out more about one of the more u
 
 What I get out of this is a low-level sense of fear that the reportage we get on the subject of scientology -- or the lack thereof, more accurately -- is a reflection of a more thorough penetration of the media by this _very_ media-savvy organization.
 
-And then I accuse myself of being paranoid and move on\... but never completely without a care.
+And then I accuse myself of being paranoid and move on... but never completely without a care.
 
 Scientology is the one and only thing that makes me _glad_ it is impossible to be elected in the US or Canada without professing to some christian belief system.
 

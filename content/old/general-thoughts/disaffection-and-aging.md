@@ -13,9 +13,9 @@ status: draft
 ---
 I'm getting old.
 
-Either that or growing up. Sometimes the difference between the two isn't all that clear, is it? This isn't a new thought, admittedly. I've gone over this through a couple of other times in my life, but this evening is one of the first times i ever really thought the idea through. It's funny that a fairly empty retro-comedy would be the spur for this, though\...
+Either that or growing up. Sometimes the difference between the two isn't all that clear, is it? This isn't a new thought, admittedly. I've gone over this through a couple of other times in my life, but this evening is one of the first times i ever really thought the idea through. It's funny that a fairly empty retro-comedy would be the spur for this, though...
 
-So, Char and I watched Detroit Rock City tonight. Surprisingly good film, that. Against my expectations, i enjoyed it immensely. After the film was done, though, and i'd tucked Char into bed for the night, i was washing the dishes and thinking back to myself at that pseudo-age. I say pseudo-age because i never really hit that particular stage until about 19 years old. Disaffected, bitter, angsty\... All the usual teenager clichés. Late bloomer, i guess.
+So, Char and I watched Detroit Rock City tonight. Surprisingly good film, that. Against my expectations, i enjoyed it immensely. After the film was done, though, and i'd tucked Char into bed for the night, i was washing the dishes and thinking back to myself at that pseudo-age. I say pseudo-age because i never really hit that particular stage until about 19 years old. Disaffected, bitter, angsty... All the usual teenager clichés. Late bloomer, i guess.
 
 My thoughts turned to another teen road trip movie. The Doom Generation. I'm sitting there, scrubbing the breadpan that Char cooked us Nachos in, and it struck me that movies, and indeed outlooks, like that no longer really apply to me anymore. I'm past it. When I first saw that film, it neatly captured the hate and hopelessness that i felt was the birthright of anybody that saw the world differently. Now, well, i think back to the contents of the movie, and i feel that i wouldn't get anything out of it anymore. I'm not the same person as the one who watched and identified with that life.
 

@@ -7,7 +7,7 @@ tags: appreciation
 author: offby1
 status: draft
 ---
-Moving right along\...
+Moving right along...
 
 This is where it gets a bit more complicated. Most of the people I'm going to be writing about in this vein now are people who read the blog with varying degrees of frequency. I'm not really sure how I feel about talking about them in such a public forum, and more to the point, I'm not sure how comfortable _they_ are with it.
 

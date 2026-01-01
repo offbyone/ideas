@@ -7,13 +7,13 @@ tags: humour
 author: offby1
 status: draft
 ---
-Okay, this one is a bit\... uhh\... racy. But funny as all hell. In the extended entry below is the entire text of a letter to Dan Savage, as printed in this week's Onion and with emphasis added by yours truly. The last paragraph is probably the truest thing ever spoken about\...
+Okay, this one is a bit... uhh... racy. But funny as all hell. In the extended entry below is the entire text of a letter to Dan Savage, as printed in this week's Onion and with emphasis added by yours truly. The last paragraph is probably the truest thing ever spoken about...
 
-\...
+...
 
-Anyway\... I'm not gonna give it away or offend by putting it here. But it's funny, and raunchy. If you're gonna be offended, don't click the link. That's all i ask :)
+Anyway... I'm not gonna give it away or offend by putting it here. But it's funny, and raunchy. If you're gonna be offended, don't click the link. That's all i ask :)
 
-| Enjoy.
+Enjoy.
 
 > I have a different take on autofellatio, autofellatio in front of your girlfriend, and swallowing one's own come than you presented in your column last week: It's a humiliation/submissive/rape-type fantasy.
 >

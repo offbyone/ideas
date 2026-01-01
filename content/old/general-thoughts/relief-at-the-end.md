@@ -13,5 +13,5 @@ W00t!
 
 Naturally, A in both CMPT courses was a foregone conclusion, but i also had the opportunity to confirm that, so all's well that end well, i guess.
 
-| Heh heh heh\...
-| One down, three to six to go!
+Heh heh heh...
+One down, three to six to go!

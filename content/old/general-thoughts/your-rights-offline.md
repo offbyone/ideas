@@ -10,7 +10,7 @@ tags:
 author: offby1
 status: draft
 ---
-Although we already pay a levy on our blank media under the assumption that we will illegally copy media, thereby \-- under the law of the land \-- rendering such copying legal, it seems that some segments of our lawmaking bodies wish to [strip this right from us](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1118271756635_30/?hub=CTVNewsAt11).
+Although we already pay a levy on our blank media under the assumption that we will illegally copy media, thereby -- under the law of the land -- rendering such copying legal, it seems that some segments of our lawmaking bodies wish to [strip this right from us](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1118271756635_30/?hub=CTVNewsAt11).
 
 Which is, regrettably, not surprising in the least.
 

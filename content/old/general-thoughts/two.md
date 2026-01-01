@@ -10,7 +10,7 @@ tags:
 author: offby1
 status: draft
 ---
-\... days left in my degree.
+... days left in my degree.
 
 This fills me with both apprehension and joy; the latter is for obvious reasons, the former is because the desire to get into school and the drive to finish it have been a major part of my life for the last decade. Who and/or what will I be, now that this goal has been achieved?
 

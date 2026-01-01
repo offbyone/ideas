@@ -16,7 +16,7 @@ So, [Char](http://xraystar.livejournal.com/) and I needed to do some last-minute
 
 Oh, man. What a _mistake_.
 
-I think that the fact that Wal-Mart was busier than I've ever seen it, _at 1:00 in the morning_, is probably a sign of the end times. When I got there, the store was borderline unnavigable. The aisles were full to the brim with shoppers, many of whom were wider than their carts (no joke! I counted at least twenty women whose hind ends fit firmly into the "charged for two seats on planes until obesity was ruled to be a disability, and now are among the 'conveniently-parked' crowd" category in the checkout line alone, forget the woman who was walking through the toy section distorting spacetime and pressing the noisemaker button on a toy in her cart _over and over and over and over and over and over\..._ again.
+I think that the fact that Wal-Mart was busier than I've ever seen it, _at 1:00 in the morning_, is probably a sign of the end times. When I got there, the store was borderline unnavigable. The aisles were full to the brim with shoppers, many of whom were wider than their carts (no joke! I counted at least twenty women whose hind ends fit firmly into the "charged for two seats on planes until obesity was ruled to be a disability, and now are among the 'conveniently-parked' crowd" category in the checkout line alone, forget the woman who was walking through the toy section distorting spacetime and pressing the noisemaker button on a toy in her cart _over and over and over and over and over and over..._ again.
 
 Madness has come to us.
 

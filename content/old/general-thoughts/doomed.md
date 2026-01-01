@@ -10,7 +10,7 @@ tags:
 author: offby1
 status: draft
 ---
-As can also be gleaned over [here](http://www.offlineblog.com/mildillson/index.php?p=260), "Doom 3":http://www.doom3.com/ has been released, and I have acquired a copy for myself as well. I'm holding off purchasing it until payday (or the one after -- but I *am* going to buy it)
+As can also be gleaned over [here](http://www.offlineblog.com/mildillson/index.php?p=260), [Doom 3](http://www.doom3.com/) has been released, and I have acquired a copy for myself as well. I'm holding off purchasing it until payday (or the one after -- but I *am* going to buy it)
 
 Jebus, this game is gorgeous.
 

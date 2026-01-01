@@ -13,7 +13,7 @@ Two days ago, there was a general announcement that the coming long weekend woul
 
 Yesterday, Ron, the owner of the company, called up from California, called the job foreman a "lame fuck" and decreed that the shutdown not occur.
 
-So\... After how many people made plans?
+So... After how many people made plans?
 
 Anyway, I just said "Sorry, already have plans. Can't cancel. Have a nice weekend! ;) "
 

@@ -7,11 +7,11 @@ tags: appreciation
 author: offby1
 status: draft
 ---
-I think it's time that I resurrect this feature of the site. I'm not spending enough time writing nice things about nice people, and that's a shame. So, without further ado\...
+I think it's time that I resurrect this feature of the site. I'm not spending enough time writing nice things about nice people, and that's a shame. So, without further ado...
 
-| Matt is\...
-| 
-| interesting.
+Matt is...
+
+interesting.
 
 No, seriously. There aren't many people with whom I can disagree, and come out of the discussion in a mood for compromise. This isn't a unique thing, either, constrained to a single topic. I like the opportunity to debate things that have meaning and importance, and then to jump seamlessly to a scatological punfest.
 

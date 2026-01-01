@@ -11,11 +11,11 @@ tags:
 author: offby1
 status: draft
 ---
-As seen on "Instapundit":http://www.instapundit.com/ today, a [New York Post editorial](http://www.nypost.com/postopinion/opedcolumnists/35147.htm) on the topic of academic uniformity that I can really see being a problem.
+As seen on [Instapundit](http://www.instapundit.com/) today, a [New York Post editorial](http://www.nypost.com/postopinion/opedcolumnists/35147.htm) on the topic of academic uniformity that I can really see being a problem.
 
 Essentially the gist of it is that there's an overwhelming bias towards liberalism in the humanities at a few major universities, and (although the article is not clear on the source of the statistics) probably at a majority of them.
 
-There's a few pretty clear arguments as to how this happens here, as well \-- ones that might be valid, might not, but they're convincing to me. The truth of it is that it *is* hard to get a position in studies of social issues unless you agree with the prevailing opinion. Try to imagine the last person you knew of who was studying race relations in a humanities program who was opposed to affirmative action. While I imagine that there exists an example or two, contrast those with the uniform majority.
+There's a few pretty clear arguments as to how this happens here, as well -- ones that might be valid, might not, but they're convincing to me. The truth of it is that it *is* hard to get a position in studies of social issues unless you agree with the prevailing opinion. Try to imagine the last person you knew of who was studying race relations in a humanities program who was opposed to affirmative action. While I imagine that there exists an example or two, contrast those with the uniform majority.
 
 One comment that was really telling/galling in the article was a (para)quote from a linguistics professor at Berkeley:
 

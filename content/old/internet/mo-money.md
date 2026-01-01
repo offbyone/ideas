@@ -7,6 +7,6 @@ tags: internet
 author: offby1
 status: draft
 ---
-[The Misanthropic Bitch](http://www.misanthropic-bitch.com/mymoney.html) has pretty much hit my feelings for this one on the head\...
+[The Misanthropic Bitch](http://www.misanthropic-bitch.com/mymoney.html) has pretty much hit my feelings for this one on the head...
 
 Yay parasites!

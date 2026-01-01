@@ -24,8 +24,8 @@ I miss having Char here.
 
 Even if we're not doing something in the same room, or even if we're fighting about something, it feels right to know that she's here, and that -- if I wanted to -- I could just walk up the stairs and talk to her. This week, though, I haven't had that comfort, and I can feel a difference.
 
-So, as to how this relates to monogamy and all that other rot\...
+So, as to how this relates to monogamy and all that other rot...
 
-I have something so good here that even a week of it being gone feels unnatural and empty. This is no more "my'" house than, I imagine, it would be "Hers." Rather, it's ours, and so is everything else that I've gained in the years Char's been with me. The idea of trading that in for a string of entertaining, but ultimately unsatisfying 'partners'\... Well, I'd have to be insane.
+I have something so good here that even a week of it being gone feels unnatural and empty. This is no more "my'" house than, I imagine, it would be "Hers." Rather, it's ours, and so is everything else that I've gained in the years Char's been with me. The idea of trading that in for a string of entertaining, but ultimately unsatisfying 'partners'... Well, I'd have to be insane.
 
 I think that I've failed to accurately convey my feelings here, but I suppose the limit of my wordsmithing has been reached.

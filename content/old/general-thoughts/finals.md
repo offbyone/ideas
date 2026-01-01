@@ -9,11 +9,11 @@ status: draft
 ---
 Although it's obviously no longer the focus of this little piece of the web, I _do_ have my final grades in for my courses for this semester:
 
-| * Psych 258: B- (the lowest grade)
-| * Math 225: A- (the next lowest)
-| * Cmpt 204: A
-| * Cmpt 291: A
-| * Stat 222: A (the one of which I am most proud, given that it was my lowest mark last semester)
+* Psych 258: B- (the lowest grade)
+* Math 225: A- (the next lowest)
+* Cmpt 204: A
+* Cmpt 291: A
+* Stat 222: A (the one of which I am most proud, given that it was my lowest mark last semester)
 
 So there are the results.
 

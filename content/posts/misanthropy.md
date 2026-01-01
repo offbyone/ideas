@@ -19,7 +19,7 @@ I used to think I was a misanthrope. I was an angry teenager and an angry young 
 
 I got older and the hot anger I felt at the world has cooled into a curmudgeony crust that covers a real temper that I've learned to restrain and direct productively. I don't hate the world any more, and some of that is due to personal growth: I've had the chance to realize that the anger I felt at the world was a reflection of unhappiness with who I was and where I was. And some of the anger was just the gap between my expectations and the reality of life; opportunity and results are unevenly distributed, and I used to be pretty mad at that.
 
-But\...
+But...
 
 But, but, but.
 

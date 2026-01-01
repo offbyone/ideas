@@ -9,8 +9,8 @@ tags:
 author: offby1
 status: draft
 ---
-| \## Update
-| Support requests can now be filed at [my support site](http://offby1.no-ip.org:8080)
+## Update
+Support requests can now be filed at [my support site](http://offby1.no-ip.org:8080)
 
 Please use the appropriate project, and _leave a valid e-mail address_ or don't expect a lot of action.
 

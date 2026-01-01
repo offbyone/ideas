@@ -9,6 +9,6 @@ tags:
 author: offby1
 status: draft
 ---
-After only five years (or so) of searching for the missing element of my Tad Williams "\`Otherland \<http://www.tadwilliams.com/volume1.html\>\`\__" hardcover set, I finally found a copy that wasn't some wildly-overpriced "first edition" in poor condition.
+After only five years (or so) of searching for the missing element of my Tad Williams "\`Otherland \<http://www.tadwilliams.com/volume1.html\>\`__" hardcover set, I finally found a copy that wasn't some wildly-overpriced "first edition" in poor condition.
 
 It's very pretty, and now I have all four.

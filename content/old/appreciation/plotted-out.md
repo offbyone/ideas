@@ -18,6 +18,6 @@ I think the conspiracy yesterday was to make me actually _feel_ old, by working 
 
 I love you all ;)
 
-Squash is responsible for a sore forearm and back, biking for sore legs, and disc golf for a sore shoulder. My mind is awash with details I never knew about good friends and family, which is great \-- I'm going to get Char to forward me the emails that she assembled into the fantastic party game that we played, and I intend to read over them all.
+Squash is responsible for a sore forearm and back, biking for sore legs, and disc golf for a sore shoulder. My mind is awash with details I never knew about good friends and family, which is great -- I'm going to get Char to forward me the emails that she assembled into the fantastic party game that we played, and I intend to read over them all.
 
 Thank you all so very much, those of you who were able to come out last night. I had a great time, and it was arguably the best birthday e-var!1!!bang

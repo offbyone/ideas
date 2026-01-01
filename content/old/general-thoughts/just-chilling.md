@@ -19,7 +19,7 @@ The weather is windy and cloudy, threatening rain.
 
 I saw the Bourne Supremacy tonight, and other than a strong desire to throttle the cinematographer, it was excellent, tense and fast and exciting.
 
-The book that I'm reading\... Okay, _one_ of the books that I'm reading is about Faerie and it's really nifty. Anyone that likes fantasy should really read Tad Williams' _The War of the Flowers_ at their soonest convenience.
+The book that I'm reading... Okay, _one_ of the books that I'm reading is about Faerie and it's really nifty. Anyone that likes fantasy should really read Tad Williams' _The War of the Flowers_ at their soonest convenience.
 
 Amongst the other books that I'm reading is Neal Stephenson's _The Diamond Age_, which looks to be an interesting take on the cyberpunk idiom, and Bruce Schneier's _Applied Cryptography_ -- required reading for any cryptonuts in the crowd.
 

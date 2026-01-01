@@ -7,9 +7,9 @@ tags: events
 author: offby1
 status: draft
 ---
-Interesting\...
+Interesting...
 
-Char and I, sitting in our apartment, noticed a strange siren from outside the door. Turns out our building isn't really all that well-equipped with loud fire alarms. Not that I mind; I'd notice them. Char, however, would not, if she were sleeping\...
+Char and I, sitting in our apartment, noticed a strange siren from outside the door. Turns out our building isn't really all that well-equipped with loud fire alarms. Not that I mind; I'd notice them. Char, however, would not, if she were sleeping...
 
 But I digress.
 
@@ -19,8 +19,8 @@ I'm pretty pleased with the fire department -- less than one hour from alarm to 
 
 Nifty stuff, this whole "Fire" thing.
 
-| Updates inside\...
-| 
-| Turns out that the fire was, in fact, confined to the balcony of the suite. Hockey equipment + careless smoker == no hockey equipment + lots of smoke.
+Updates inside...
+
+Turns out that the fire was, in fact, confined to the balcony of the suite. Hockey equipment + careless smoker == no hockey equipment + lots of smoke.
 
 You live, you learn, I guess.

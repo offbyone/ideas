@@ -11,11 +11,11 @@ School is coming up on its end at a furious rate. Finals start tuesday, and afte
 
 Here's a roundup:
 
-| - There's MATH115 - Calculus. Woo! I'm not looking forward to this one, but it has to be done. All in all, i'll probably do alright with it.
-| - Then, there's ENGL101 - my nemesis, as far as courses go. To be done with soon, and there will be much rejoicing. Much.
-| - Next up, now in no particular order, is CHEM102. Oh, joy. Feel my glee. I expect a high 80 on this one, but that is subject to change with little warning.
-| - CMPT115. Do i really have to comment?
-| - And CMPT272. All in all, i'll have to call this one my fave course for the year. I'm sad that it's over. But all will be well in the future, since i get more and more fun stuff to learn as i advance :)
+- There's MATH115 - Calculus. Woo! I'm not looking forward to this one, but it has to be done. All in all, i'll probably do alright with it.
+- Then, there's ENGL101 - my nemesis, as far as courses go. To be done with soon, and there will be much rejoicing. Much.
+- Next up, now in no particular order, is CHEM102. Oh, joy. Feel my glee. I expect a high 80 on this one, but that is subject to change with little warning.
+- CMPT115. Do i really have to comment?
+- And CMPT272. All in all, i'll have to call this one my fave course for the year. I'm sad that it's over. But all will be well in the future, since i get more and more fun stuff to learn as i advance :)
 
 Here, now, is what i have to look forward to for next year:
 
@@ -29,7 +29,7 @@ CMPT201: This is the basic codemonkey course. Here, at last, i get to learn how 
 
 CMPT204: Algorithms. Apparently, for all of the numerical misordering, 204 is essentially a continuation of 272. As i've said in conversations with my classmates, 272 is the heart of computer science, and as i see it, 204 is the computer side of 272. This course matters, and it matters a lot. When i've finished it, i will be more clear on how to do some of the tasks that await me in my personal IDE project.
 
-CMPT229: Machine architecture is the engineering course for CompSci. Here's the circuits, here's how to speak in binary, etc\... A requirement, but not my cup of tea. Luckily, the prof is Nick, and Nick's a lot of fun.
+CMPT229: Machine architecture is the engineering course for CompSci. Here's the circuits, here's how to speak in binary, etc... A requirement, but not my cup of tea. Luckily, the prof is Nick, and Nick's a lot of fun.
 
 CMPT291: The meat and potatoes course. If i forgo a master's degree, this course is probably going to be the one that makes the most difference in my wage when i leave school. Databases are everywhere, and right now, everyone needs to know how to use them. Sadly, that's all this course teaches. Me, i'd rather be learning how to *write* databases :)
 

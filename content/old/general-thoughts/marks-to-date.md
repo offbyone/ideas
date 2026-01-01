@@ -7,7 +7,7 @@ tags: school
 author: offby1
 status: draft
 ---
-So, i can't really quote my math mark, cos it doesn't count, and i don't get the midterm for it back until later today, but my Chem101 marks are in for both midterms, and i'm sitting at a 92.2% average. Not too shabby, all told\...
+So, i can't really quote my math mark, cos it doesn't count, and i don't get the midterm for it back until later today, but my Chem101 marks are in for both midterms, and i'm sitting at a 92.2% average. Not too shabby, all told...
 
 CMPT114 is at 95.5%
 

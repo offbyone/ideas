@@ -7,7 +7,7 @@ tags: rants
 author: offby1
 status: draft
 ---
-In this [photo weblog](http://www.angelfire.com/extreme4/kiddofspeed/page2.html) [(alt link)](http://www.ninja-assassin.com/mirror/Chernobyl/) by a self-described "kid of speed" that i found posted on "metafilter":http://www.metafilter.com/mefi/31584 today, i caught my first *real* glimpse of the devastation that the Chernobyl disaster left behind it. She has photographed \-- and described \-- the "dead zone" that surrounds the chernobyl site, and it really is awe-inspiring.
+In this [photo weblog](http://www.angelfire.com/extreme4/kiddofspeed/page2.html) [(alt link)](http://www.ninja-assassin.com/mirror/Chernobyl/) by a self-described "kid of speed" that i found posted on [metafilter](http://www.metafilter.com/mefi/31584) today, i caught my first *real* glimpse of the devastation that the Chernobyl disaster left behind it. She has photographed -- and described -- the "dead zone" that surrounds the chernobyl site, and it really is awe-inspiring.
 
 It's the casual statement that "people must start to populate those area already in some 900 years," as if that was so short a time.
 

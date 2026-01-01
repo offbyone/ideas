@@ -9,7 +9,7 @@ status: draft
 ---
 Sorta.
 
-I spent the last week tearing into a fairly complex piece of old code, digging out some poor design decisions and cleaning up the legacy of student programmers past. It was\... terrifying.
+I spent the last week tearing into a fairly complex piece of old code, digging out some poor design decisions and cleaning up the legacy of student programmers past. It was... terrifying.
 
 But I've survived, and the world is a better place for it.
 

@@ -15,7 +15,7 @@ summary: Exposing web APIs on my tailnet to the world
 status: published
 toot: "https://wandering.shop/@offby1/109898670642861642"
 ---
-I've become a huge fan of [Tailscale](https://tailscale.com/) as a VPN / software-defined network for my homelab. They've even introduced a really fantastic new alpha feature "Funnels" that lets you expose a service to the internet at `https://<your-hostname>.<your-tailnet>`. It's really cool\... **but** the URL you get is forever tied to Tailscale, instead of being on your own domain.
+I've become a huge fan of [Tailscale](https://tailscale.com/) as a VPN / software-defined network for my homelab. They've even introduced a really fantastic new alpha feature "Funnels" that lets you expose a service to the internet at `https://<your-hostname>.<your-tailnet>`. It's really cool... **but** the URL you get is forever tied to Tailscale, instead of being on your own domain.
 
 Now, there are ways around this; I could, for example, have a `CNAME` that points to the tailnet address. That'd be the *easy* way. Instead, what I built (and it's not super complicated!) is a reverse proxy living in a cloud provider, with a dedicated public IP, that acts as a bridge to my tailnet.
 
@@ -76,7 +76,7 @@ pro-22_04-lts
 pro-22_04-lts-gen2
 ```
 
-(A note on generation; choosing a -gen2 image forces you on to the gen 2 hypervisor for Azure, which apparently the VM SKU I chose didn't support. So\... don't just try gen2 without consideration.)
+(A note on generation; choosing a -gen2 image forces you on to the gen 2 hypervisor for Azure, which apparently the VM SKU I chose didn't support. So... don't just try gen2 without consideration.)
 
 In the end, I had in hand a VM size, Image SKU, and region. On to terraform! I stared by copying the [Public IP example](https://github.com/hashicorp/terraform-provider-azurerm/tree/main/examples/virtual-machines/linux/public-ip) from the terraform provider docs, with a few changes, mainly in the VM definition:
 
@@ -220,7 +220,7 @@ Lastly, enable the ACL too:
 
 The last thing to do is to set up DNS. I use AWS Route53 for my DNS, so all of the records are there. Rather than copy the public IP over from Azure to it, I take advantage of the ability of Terraform to interact with multiple cloud providers. The `bastion-pip` and `bastion-resources` names in the data below refer to the public IP resource name and group that the public IP server example defined.
 
-I created a `bastion.offby1.net` A record, which is the default server for the bastion, and then defined a `CNAME` for bookwyrm. I'm \... honestly not sure it's the best way. Should I have created an A record for the subsite? I don't know; please feel free to tell me in the comments :D
+I created a `bastion.offby1.net` A record, which is the default server for the bastion, and then defined a `CNAME` for bookwyrm. I'm ... honestly not sure it's the best way. Should I have created an A record for the subsite? I don't know; please feel free to tell me in the comments :D
 
 ``` terraform
 terraform {
