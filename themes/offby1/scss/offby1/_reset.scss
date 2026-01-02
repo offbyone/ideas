@@ -1,0 +1,46 @@
+// CSS Reset and base styles
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: var(--font-body);
+    line-height: 1.6;
+    color: var(--color-font);
+    background-color: var(--color-bg);
+    image-rendering: pixelated;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+// Links
+a {
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: color 0.2s;
+    
+    &:hover {
+        color: var(--color-secondary);
+    }
+}
+
+// Images
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+// Pixel-art images should render crisp
+img.pixel-art,
+.pixel-art img {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}

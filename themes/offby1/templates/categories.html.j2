@@ -1,0 +1,45 @@
+{% extends "base.html.j2" %}
+
+{% block title %}Categories - {{ SITENAME }}{% endblock %}
+{% block body_class %}categories-page{% endblock %}
+
+{% block content %}
+<div class="section-header">
+    <h1>All Categories</h1>
+</div>
+
+<ul class="category-list">
+    {% for category, articles in categories|sort %}
+    <li>
+        <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a>
+        <span class="count">({{ articles|length }})</span>
+    </li>
+    {% endfor %}
+</ul>
+
+<style>
+.category-list {
+    list-style: none;
+    margin: var(--space-lg) 0;
+}
+
+.category-list li {
+    padding: var(--space-sm);
+    border-bottom: 1px solid var(--color-divider);
+}
+
+.category-list li:last-child {
+    border-bottom: none;
+}
+
+.category-list a {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.category-list .count {
+    color: var(--color-mute);
+    font-size: 0.9rem;
+}
+</style>
+{% endblock %}

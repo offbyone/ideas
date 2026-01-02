@@ -1,0 +1,38 @@
+// Footer styles
+
+footer {
+    margin-top: var(--space-sm); // Further reduced from md (1.5rem) to sm (1rem)
+    padding: var(--space-xl) var(--space-md);
+    background: var(--color-surface);
+    border-top: 3px solid var(--color-primary);
+}
+
+.footer-content {
+    max-width: var(--max-width-content);
+    margin: 0 auto;
+    text-align: center;
+    color: var(--color-mute);
+}
+
+.footer-links {
+    margin-bottom: var(--space-md);
+    display: flex;
+    justify-content: center;
+    gap: var(--space-md);
+    flex-wrap: wrap;
+    
+    a {
+        color: var(--color-primary);
+        text-decoration: none;
+        font-weight: $font-weight-semibold;
+        
+        &:hover {
+            color: var(--color-secondary);
+            text-decoration: underline;
+        }
+    }
+    
+    span {
+        color: var(--color-divider);
+    }
+}

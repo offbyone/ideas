@@ -1,0 +1,149 @@
+// Article styles
+
+article {
+    margin-bottom: 0; // Footer has its own top margin
+}
+
+.article-meta {
+    color: var(--color-mute);
+    font-size: 0.95rem;
+    margin-bottom: var(--space-lg);
+    display: flex;
+    gap: var(--space-sm);
+    align-items: center;
+    flex-wrap: wrap;
+    
+    time {
+        font-weight: $font-weight-semibold;
+    }
+    
+    .separator {
+        color: var(--color-divider);
+    }
+    
+    a {
+        color: var(--color-primary);
+        text-decoration: none;
+        
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.article-content {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: var(--space-lg);
+    
+    p {
+        margin-bottom: var(--space-md);
+    }
+    
+    h2, h3, h4, h5, h6 {
+        margin-top: var(--space-lg);
+        margin-bottom: var(--space-md);
+    }
+    
+    img {
+        margin: var(--space-lg) 0;
+        border-radius: 6px;
+    }
+    
+    figure {
+        margin: var(--space-lg) 0;
+        
+        figcaption {
+            text-align: center;
+            color: var(--color-mute);
+            font-size: 0.9rem;
+            margin-top: var(--space-xs);
+        }
+    }
+}
+
+// Featured article (no border, prominent display)
+.featured-article {
+    margin-bottom: var(--space-2xl);
+    
+    h2 {
+        font-size: 2.5rem;
+        color: var(--color-primary);
+        margin-bottom: var(--space-sm);
+        line-height: 1.2;
+        
+        a {
+            color: inherit;
+            text-decoration: none;
+            
+            &:hover {
+                color: var(--color-secondary);
+            }
+        }
+    }
+}
+
+// Article footer (tags section)
+article > footer {
+    margin-top: var(--space-xl);
+}
+
+// Article feedback section
+.article-feedback {
+    margin-top: var(--space-sm); // Reduced from lg (2rem) to sm (1rem)
+    padding-top: 0; // Removed padding, no border anymore
+    margin-bottom: 0; // Minimize space before footer
+    
+    h3 {
+        font-size: 1.5rem;
+        color: var(--color-primary);
+        margin-bottom: var(--space-md);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+    
+    p {
+        line-height: 1.6;
+        margin-bottom: var(--space-md);
+    }
+    
+    a {
+        color: var(--color-primary);
+        text-decoration: none;
+        
+        &:hover {
+            color: var(--color-secondary);
+            text-decoration: underline;
+        }
+    }
+    
+    .sc-mastodon {
+        font-weight: $font-weight-semibold;
+    }
+    
+    // Federated comments container
+    .comments {
+        margin-bottom: 0; // Remove extra space below comments
+        
+        p {
+            margin-bottom: var(--space-sm); // Reduce spacing between comment paragraphs
+        }
+    }
+}
+
+.no-comments {
+    p {
+        color: var(--color-mute);
+    }
+}
+
+// Responsive adjustments
+@media (max-width: $width-md) {
+    .featured-article h2 {
+        font-size: 1.75rem;
+    }
+    
+    .article-content {
+        font-size: 1rem;
+    }
+}

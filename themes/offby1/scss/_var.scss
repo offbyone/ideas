@@ -10,14 +10,31 @@ $font-weight-bold: 600;
 $font-weight-semibold: 600;
 $font-weight-normal: 400;
 $font-weight-light: 400;
-$body-font: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', 'Arial', 'Helvetica Neue',
-  'Helvetica', 'PingFang SC', 'Hiragino Sans GB', 'Source Han Sans CN', 'Source Han Sans SC',
-  'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif !default;
-$mono-font: 'Cascadia Code', 'SF Mono', 'Fira Code', 'Consolas', -apple-system, BlinkMacSystemFont,
-  'SF Pro Text', 'Segoe UI', 'Arial', 'Helvetica Neue', 'Helvetica', 'PingFang SC',
-  'Hiragino Sans GB', 'Source Han Sans CN', 'Source Han Sans SC', 'Microsoft YaHei',
-  'WenQuanYi Micro Hei', monospace !default;
-$title-font: 'Product Sans', $body-font !default;
+$body-font:
+    -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", "Arial",
+    "Helvetica Neue", "Helvetica", "PingFang SC", "Hiragino Sans GB",
+    "Source Han Sans CN", "Source Han Sans SC", "Microsoft YaHei",
+    "WenQuanYi Micro Hei", sans-serif !default;
+$mono-font:
+    "Cascadia Code",
+    "SF Mono",
+    "Fira Code",
+    "Consolas",
+    -apple-system,
+    BlinkMacSystemFont,
+    "SF Pro Text",
+    "Segoe UI",
+    "Arial",
+    "Helvetica Neue",
+    "Helvetica",
+    "PingFang SC",
+    "Hiragino Sans GB",
+    "Source Han Sans CN",
+    "Source Han Sans SC",
+    "Microsoft YaHei",
+    "WenQuanYi Micro Hei",
+    monospace !default;
+$title-font: "Product Sans", $body-font !default;
 $body-font-size: 16px !default;
 
 // @primer/css/support/variables/typography.scss
@@ -28,41 +45,47 @@ $lh-default: 1.35rem;
 // fontawesome webfonts are found ... here!
 $fa-font-path: "../webfonts";
 
+$width-sm: 480px;
 $width-md: 768px;
 
-$light-color-primary: #8aa2d3 !default; // https://irocore.com/aofuji/
-$light-color-secondary: #8f82bc !default; // https://irocore.com/fujimurasaki/
-$light-color-focus: #3b469b !default; // https://irocore.com/aomurasaki/
-$light-color-mute: #9ea1a3 !default; // https://irocore.com/suzu-iro/
-$light-color-font: #3f4551 !default; // https://irocore.com/konnezu/
-$light-color-divider: #e5e2e4 !default; // https://irocore.com/komachinezu/
-$light-color-bg: #fffffd !default; // https://irocore.com/shiro/
-$light-color-codebg: #f6f8fa !default; // GitHub
+$light-color-primary: #FF006E !default; // CYBERPUNK: Hot pink/magenta
+$light-color-secondary: #00D9FF !default; // CYBERPUNK: Bright cyan
+$light-color-focus: #8B00FF !default; // CYBERPUNK: Electric purple
+$light-color-mute: #6B7280 !default; // CYBERPUNK: Cool gray for muted text
+$light-color-font: #1F2937 !default; // CYBERPUNK: Dark text for readability
+$light-color-divider: #E5E7EB !default; // CYBERPUNK: Light divider
+$light-color-bg: #F9FAFB !default; // CYBERPUNK: Off-white background (light mode)
+$light-color-codebg: #F3F4F6 !default; // CYBERPUNK: Light code blocks
+$dark-image-path: "light";
 
-$dark-color-primary: #8aa2d3 !default; // https://irocore.com/aofuji/
-$dark-color-secondary: #bab1df !default; // kai https://irocore.com/fujimurasaki/
-$dark-color-focus: #e6e6e6 !default; // https://irocore.com/shironezumi/
-$dark-color-mute: #9ea1a3 !default; // https://irocore.com/suzu-iro/
-$dark-color-font: #c0c0c0 !default; // https://irocore.com/gin-iro/
-$dark-color-divider: #4d5158 !default; // Discord
-$dark-color-bg: #2f3136 !default; // Discord
-$dark-color-codebg: #414449 !default; // kai GitHub
+$dark-color-primary: #ff006e !default; // CYBERPUNK: Hot pink/magenta
+$dark-color-secondary: #00f5ff !default; // CYBERPUNK: Neon cyan (brighter in dark)
+$dark-color-focus: #ff00ff !default; // CYBERPUNK: Bright magenta focus
+$dark-color-mute: #7a8ba0 !default; // CYBERPUNK: Dimmed text
+$dark-color-font: #e0f7fa !default; // CYBERPUNK: Cyan-white text
+$dark-color-divider: #2a2f45 !default; // CYBERPUNK: Subtle dividers
+$dark-color-bg: #0a0e27 !default; // CYBERPUNK: Deep dark background
+$dark-color-codebg: #1a1f3a !default; // CYBERPUNK: Code block background
+$dark-image-path: "dark";
 
 @font-face {
-  font-family: 'Product Sans';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: local('Product Sans Bold'), local('ProductSans-Bold'),
-    url('https://cdn.jsdelivr.net/gh/amzrk2/web-font-archive@2/product-sans/product-sans-bold.woff2')
-      format('woff2');
+    font-family: "Product Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local("Product Sans Bold"),
+        local("ProductSans-Bold"),
+        url("https://cdn.jsdelivr.net/gh/amzrk2/web-font-archive@2/product-sans/product-sans-bold.woff2")
+            format("woff2");
 }
 
 @font-face {
-  font-family: 'Cascadia Code';
-  font-style: normal;
-  font-display: swap;
-  src: local('Cascadia Code Regular'),
-    url('https://cdn.jsdelivr.net/gh/amzrk2/web-font-archive@2/cascadia-code/cascadia-code.woff2')
-      format('woff2');
+    font-family: "Cascadia Code";
+    font-style: normal;
+    font-display: swap;
+    src:
+        local("Cascadia Code Regular"),
+        url("https://cdn.jsdelivr.net/gh/amzrk2/web-font-archive@2/cascadia-code/cascadia-code.woff2")
+            format("woff2");
 }

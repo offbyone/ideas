@@ -1,0 +1,55 @@
+// offby1 theme CSS custom properties
+// These work with the existing _var.scss light/dark color scheme
+
+:root {
+    // Colors (light mode) - using existing variables from _var.scss
+    --color-primary: #{$light-color-primary};
+    --color-secondary: #{$light-color-secondary};
+    --color-focus: #{$light-color-focus};
+    --color-mute: #{$light-color-mute};
+    --color-font: #{$light-color-font};
+    --color-divider: #{$light-color-divider};
+    --color-bg: #{$light-color-bg};
+    --color-codebg: #{$light-color-codebg};
+    --color-surface: #{$light-color-bg};
+    --color-surface-offset: #{darken($light-color-bg, 2%)}; // Subtle darkening for tag backgrounds
+    
+    // Spacing system
+    --space-xs: 0.5rem;
+    --space-sm: 1rem;
+    --space-md: 1.5rem;
+    --space-lg: 2rem;
+    --space-xl: 3rem;
+    --space-2xl: 4rem;
+    
+    // Typography
+    --font-body: #{$body-font};
+    --font-title: #{$title-font};
+    --font-mono: #{$mono-font};
+    
+    // Layout
+    --max-width-content: 1200px;
+    --max-width-article: 800px;
+    
+    // Pixel-art assets
+    --title-logo: url('../images/light/title.png');
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        // Colors (dark mode)
+        --color-primary: #{$dark-color-primary};
+        --color-secondary: #{$dark-color-secondary};
+        --color-focus: #{$dark-color-focus};
+        --color-mute: #{$dark-color-mute};
+        --color-font: #{$dark-color-font};
+        --color-divider: #{$dark-color-divider};
+        --color-bg: #{$dark-color-bg};
+        --color-codebg: #{$dark-color-codebg};
+        --color-surface: #{$dark-color-bg};
+        --color-surface-offset: #{lighten($dark-color-bg, 5%)}; // Subtle lightening for tag backgrounds
+        
+        // Pixel-art assets (dark mode)
+        --title-logo: url('../images/dark/title.png');
+    }
+}
