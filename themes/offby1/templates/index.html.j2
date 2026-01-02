@@ -1,45 +1,69 @@
-{% set FEED_ATOM = FEED_ALL_ATOM %}
 {% extends "base.html.j2" %}
-{% block content_title %}{% endblock %}
+{% set FEED_ATOM = FEED_ALL_ATOM %}
+
+{% block title %}{{ SITENAME }}{% endblock %}
+{% block body_class %}index-page{% endblock %}
 
 {% block content %}
-<div class="col-12 col-md-9 float-left content">
-	{% for article in articles %}
+{# Featured Article (Latest Post with Full Content) #}
+{% if articles %}
+{% set featured = articles[0] %}
+<article class="featured-article">
+    <h2><a href="{{ SITEURL }}/{{ featured.url }}">{{ featured.title }}</a></h2>
+    <div class="article-meta">
+        <time datetime="{{ featured.date.isoformat() }}">{{ featured.locale_date }}</time>
+        {% if featured.category %}
+        <span class="separator">·</span>
+        <a href="{{ SITEURL }}/{{ featured.category.url }}">{{ featured.category }}</a>
+        {% endif %}
+    </div>
+    <div class="article-content">
+        {{ featured.content }}
+    </div>
+    {% if featured.tags %}
+    <div class="article-tags">
+        {% for tag in featured.tags %}
+        <a href="{{ SITEURL }}/{{ tag.url }}" class="tag">{{ tag }}</a>
+        {% endfor %}
+    </div>
+    {% endif %}
+</article>
 
-	{% if loop.index == 1 %}
-	<article>
-		<div class="post wrapper">
-			{% include "metadata.html.j2" %}
-			<div class="post-item post-content markdown-body">
-				{{ article.content }}
-			</div>
-			{% if article.photo_gallery %}
-			<div class="post-meta{{ class_suffix | default('') }} post-gallery-link">
-				<span><a href="{{ SITEURL }}/{{ article.url }}#post-gallery-1">
-						<i class="fas fa-images"></i>&nbsp;Gallery inside
-				</a></span>
-			</div>
-			{% endif %}
-		</div>
-	</article>
+{# Recent Posts Grid (Next 4 Articles) #}
+{% if articles|length > 1 %}
+<section>
+    <h3 class="recent-posts-heading">Recent Posts</h3>
+    
+    <div class="recent-posts-grid">
+        {% for article in articles[1:5] %}
+        <article class="post-card">
+            <h4><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h4>
+            <div class="meta">
+                <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+                {% if article.category %} · {{ article.category }}{% endif %}
+            </div>
+            {% if article.summary %}
+            <p class="excerpt">{{ article.summary | striptags | truncate(150) }}</p>
+            {% else %}
+            <p class="excerpt">{{ article.content | striptags | truncate(150) }}</p>
+            {% endif %}
+            {% if article.tags %}
+            <div class="tags">
+                {% for tag in article.tags[:3] %}
+                <a href="{{ SITEURL }}/{{ tag.url }}" class="tag">{{ tag }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </article>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
 
-	{% if loop.length > 1 %}
-	<h2>More Ideas</h2>
-	{% endif %}
-
-	{% elif loop.index < 7 %}
-	<div class="post">
-		{% with class_suffix="-archive" %}
-		{% include 'metadata.html.j2' %}
-		{% endwith %}
-	</div>
-	{% endif %}
-	{% endfor %}
-
-	<div class="page-info">
-		<span>More posts in the <a href="{{ SITEURL }}/archives.html">archive</a></span>
-	</div>
-
-
+{# Archive link #}
+<div class="archive-link">
+    <p>More posts in the <a href="{{ SITEURL }}/archives.html">archive</a></p>
 </div>
-{% endblock content %}
+
+{% endif %}
+{% endblock %}

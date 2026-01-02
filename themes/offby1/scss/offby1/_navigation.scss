@@ -1,0 +1,58 @@
+// Navigation styles
+
+nav {
+    background: var(--color-surface);
+    border-bottom: 2px solid var(--color-divider);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+nav ul {
+    max-width: var(--max-width-content);
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    gap: var(--space-md);
+    padding: var(--space-sm) var(--space-md);
+    justify-content: center;
+}
+
+nav li {
+    margin: 0;
+}
+
+nav a {
+    color: var(--color-font);
+    text-decoration: none;
+    padding: var(--space-xs) var(--space-sm);
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+    font-weight: $font-weight-semibold;
+    display: block;
+    
+    &:hover {
+        color: var(--color-primary);
+        border-bottom-color: var(--color-primary);
+    }
+    
+    &.active {
+        color: var(--color-primary);
+        border-bottom-color: var(--color-primary);
+    }
+}
+
+// Responsive adjustments
+@media (max-width: $width-md) {
+    nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: var(--space-xs);
+    }
+    
+    nav a {
+        padding: var(--space-xs);
+        font-size: 0.9rem;
+    }
+}

@@ -1,61 +1,27 @@
 {% extends "base.html.j2" %}
-{% set content_url = '/' + page.url %}
 
-{% block title %}{{ page.title }}- {{ SITENAME }}{% endblock %}
-{% block meta %}
-    {% if page.author %}
-        <meta name="author" content="{{ page.author }}" />
-    {% else %}
-        <meta name="author" content="{{ AUTHOR }}" />
-    {% endif %}
-    {% if page.summary %}
-        <meta name="description" content="{{ page.summary|striptags|escape }}" />
-    {% endif %}
-{% endblock %}
-{% block opengraph %}
-    {% if OPEN_GRAPH_FB_APP_ID %}
-        <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
-    {% endif %}
-    <meta property="og:site_name" content="{{ SITENAME }}" />
-    <meta property="og:type" content="article"/>
-    <meta property="og:title" content="{{ page.title|striptags|escape }}"/>
-    <meta property="og:url" content="{{ FEED_DOMAIN }}/{{ page.url }}"/>
-    <meta property="og:description" content="{{ page.summary|striptags|escape }}" />
-    {% if page.og_image %}
-        <meta property="og:image"
-              content="{{ FEED_DOMAIN }}/{{ page.og_image }}"/>
-    {% elif OPEN_GRAPH_IMAGE %}
-        <meta property="og:image"
-              content="{{ FEED_DOMAIN }}/{{ OPEN_GRAPH_IMAGE }}"/>
-    {% endif %}
-{% endblock %}
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+{% block description %}{{ (page.summary or page.content) | striptags | e | truncate(160) }}{% endblock %}
 
-{% block page_title %}
-    <a class="title-main" href="{{ content_url }}">
-        {{ page.title }}
-    </a>
-{% endblock %}
+{% block og_title %}{{ page.title }}{% endblock %}
+{% block og_description %}{{ (page.summary or page.content) | striptags | e | truncate(160) }}{% endblock %}
+{% block og_url %}{{ SITEURL }}/{{ page.url }}{% endblock %}
+
+{% block body_class %}page{% endblock %}
 
 {% block content %}
-<div class="col-12 col-md-9 float-left content">
-    <article class="h-entry">
-        <div class="post wrapper">
-            <!-- <h2 class="post-item post-title p-name">{{ page.title }}</h2> -->
-            <div class="post-content markdown-body e-content">
-                {% if page.photo_image %}<img src="{{ SITEURL }}/{{ page.photo_image[1] }}" />{% endif %}
-                {{ page.content }}
-                {% if page.photo_gallery %}
-                <div class="gallery">
-                    {% for title, gallery in page.photo_gallery %}
-                        <h1 id="post-gallery-{{ loop.index }}">{{ title }}</h1>
-                        {% for name, photo, thumb, exif, caption in gallery %}
-                            <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-                {% endif %}
-            </div>
+<article class="single-article">
+    <header>
+        <h1>{{ page.title }}</h1>
+        {% if page.modified %}
+        <div class="article-meta">
+            <span>Updated: <time datetime="{{ page.modified.isoformat() }}">{{ page.modified.strftime('%B %d, %Y') }}</time></span>
         </div>
-    </article>
-</div>
+        {% endif %}
+    </header>
+    
+    <div class="article-content">
+        {{ page.content }}
+    </div>
+</article>
 {% endblock %}

@@ -1,0 +1,59 @@
+// Typography styles
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-title);
+    font-weight: $font-weight-bold;
+    line-height: 1.2;
+    color: var(--color-primary);
+    margin-bottom: var(--space-sm);
+}
+
+h1 { font-size: $font-size-0; }
+h2 { font-size: $font-size-1; }
+h3 { font-size: $font-size-2; }
+h4 { font-size: $font-size-3; }
+h5, h6 { font-size: $font-size-4; }
+
+p {
+    margin-bottom: var(--space-md);
+}
+
+code, pre {
+    font-family: var(--font-mono);
+    background: var(--color-codebg);
+}
+
+code {
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+pre {
+    padding: var(--space-md);
+    overflow-x: auto;
+    border-radius: 6px;
+    margin-bottom: var(--space-md);
+    
+    code {
+        padding: 0;
+        background: transparent;
+    }
+}
+
+blockquote {
+    border-left: 4px solid var(--color-primary);
+    padding-left: var(--space-md);
+    margin: var(--space-md) 0;
+    color: var(--color-mute);
+    font-style: italic;
+}
+
+ul, ol {
+    margin-left: var(--space-lg);
+    margin-bottom: var(--space-md);
+}
+
+li {
+    margin-bottom: var(--space-xs);
+}

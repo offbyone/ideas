@@ -1,51 +1,87 @@
 {% extends "base.html.j2" %}
-{% block title %}Archive - {{ SITENAME }}{% endblock %}
 
-{% block scripts %}
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
-{% endblock %}
-
+{% block title %}Archives - {{ SITENAME }}{% endblock %}
+{% block body_class %}archives-page{% endblock %}
 
 {% block content %}
-<div class="col-12 col-md-9 float-left content">
-	<div id="jquerytabs" class="wrapper main">
-		<ul class="tabmenu clearfix tabnav">
-			<li><a href="#archive-by-date">By date</a></li>
-			<li><a href="#archive-by-tag">By topic</a></li>
-		</ul>
-
-		<div id="archive-by-date">
-			{% for year, date_year in dates|groupby( 'date.year' )|sort(reverse=True) %}
-			<div class="page-info">
-				<h3>{{ year }}</h3>
-			</div>
-
-			{% for article in date_year %}
-			{% with class_suffix="-archive" %}
-			{% include 'metadata.html.j2' %}
-			{% endwith %}
-			{% endfor %}
-			{% endfor %}
-		</div>
-
-		<div id="archive-by-tag">
-			<div class="page-info">
-				<h3>Tags</h3>
-			</div>
-			<ul class="tagcloud">
-				{% for tag in tag_cloud|sort %}
-				<li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
-				{% endfor %}
-			</ul>
-		</div>
-	</div>
+<div class="section-header">
+    <h1>Archives</h1>
 </div>
 
-<script>
- $(function() {
-	 console.log("Yo, this is real");
-	 $("#jquerytabs").tabs();
- });
-</script>
+{% for year, year_articles in dates|groupby('date.year')|reverse %}
+<section class="archive-year">
+    <h2>{{ year }}</h2>
+    <ul class="archive-list">
+        {% for article in year_articles %}
+        <li>
+            <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            {% if article.category %}
+            <span class="category">in {{ article.category }}</span>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+{% endfor %}
+
+<style>
+.archive-year {
+    margin-bottom: var(--space-2xl);
+}
+
+.archive-year h2 {
+    color: var(--color-primary);
+    font-size: $font-size-1;
+    margin-bottom: var(--space-lg);
+    padding-bottom: var(--space-sm);
+    border-bottom: 2px solid var(--color-divider);
+}
+
+.archive-list {
+    list-style: none;
+    margin: 0;
+}
+
+.archive-list li {
+    padding: var(--space-sm) 0;
+    border-bottom: 1px solid var(--color-divider);
+    display: flex;
+    gap: var(--space-md);
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+.archive-list li:last-child {
+    border-bottom: none;
+}
+
+.archive-list time {
+    color: var(--color-mute);
+    font-size: 0.9rem;
+    min-width: 150px;
+    flex-shrink: 0;
+}
+
+.archive-list a {
+    font-weight: 600;
+    flex-grow: 1;
+}
+
+.archive-list .category {
+    color: var(--color-mute);
+    font-size: 0.85rem;
+}
+
+@media (max-width: $width-md) {
+    .archive-list li {
+        flex-direction: column;
+        gap: var(--space-xs);
+    }
+    
+    .archive-list time {
+        min-width: auto;
+    }
+}
+</style>
 {% endblock %}

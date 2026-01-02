@@ -1,26 +1,34 @@
 {% extends "base.html.j2" %}
+
 {% block title %}{{ category }} - {{ SITENAME }}{% endblock %}
-{% block meta %}
-<meta name="author" content="{{ AUTHOR }}" />
-<meta name="keywords" content="{{ category }}" />
-{% endblock %}
+{% block body_class %}category-page{% endblock %}
 
 {% block content %}
-<div class="col-12 col-md-9 float-left content">
-
-
-<div class="page-info">
-	<span>Posts categorized under: {{ category }}</span>
+<div class="section-header">
+    <h1>Category: {{ category }}</h1>
+    <p>{{ articles|length }} post{% if articles|length != 1 %}s{% endif %}</p>
 </div>
 
-{% for article in articles %}
-<div class="post">
-	{% include 'metadata.html.j2' %}
-	<div class="post-item post-summary markdown-body">
-		{{ article.summary }}
-		<a href="{{ SITEURL }}/{{ article.url }}">read more →</a>
-	</div>
-</div>
-{% endfor %}
+<div class="recent-posts-grid">
+    {% for article in articles %}
+    <article class="post-card">
+        <h4><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h4>
+        <div class="meta">
+            <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+        </div>
+        {% if article.summary %}
+        <p class="excerpt">{{ article.summary | striptags | truncate(150) }}</p>
+        {% else %}
+        <p class="excerpt">{{ article.content | striptags | truncate(150) }}</p>
+        {% endif %}
+        {% if article.tags %}
+        <div class="tags">
+            {% for tag in article.tags[:3] %}
+            <a href="{{ SITEURL }}/{{ tag.url }}" class="tag">{{ tag }}</a>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </article>
+    {% endfor %}
 </div>
 {% endblock %}

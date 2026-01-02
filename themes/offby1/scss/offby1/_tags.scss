@@ -1,0 +1,98 @@
+// Tag and category styling with pixel-art aesthetic
+// Option 1: Retro Computer Chip style
+
+.article-tags,
+.post-tags,
+.tags {
+    display: flex;
+    gap: var(--space-xs);
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.2rem 0.8rem;
+    background: var(--color-surface-offset);
+    color: var(--color-secondary);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: $font-weight-semibold;
+    position: relative;
+    font-family: 'Courier New', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: all 0.1s;
+    
+    // Two-tone pixel borders with gradient lines
+    &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: 
+            linear-gradient(90deg, var(--color-primary) 0%, var(--color-primary) 2px, transparent 2px),
+            linear-gradient(180deg, var(--color-primary) 0%, var(--color-primary) 2px, transparent 2px),
+            linear-gradient(-90deg, var(--color-secondary) 0%, var(--color-secondary) 2px, transparent 2px),
+            linear-gradient(0deg, var(--color-secondary) 0%, var(--color-secondary) 2px, transparent 2px);
+        z-index: -1;
+        pointer-events: none;
+    }
+    
+    // Pixel corners in contrasting colors
+    &::after {
+        content: '';
+        position: absolute;
+        width: 4px;
+        height: 4px;
+        background: var(--color-primary);
+        top: -2px;
+        left: -2px;
+        box-shadow: 
+            calc(100% + 4px) 0 0 var(--color-secondary),
+            0 calc(100% + 4px) 0 var(--color-secondary),
+            calc(100% + 4px) calc(100% + 4px) 0 var(--color-primary);
+        pointer-events: none;
+    }
+    
+    &:hover {
+        background: var(--color-primary);
+        color: var(--color-bg);
+        transform: translate(2px, 2px);
+    }
+}
+
+// Smaller tags in post cards
+.post-card .tag {
+    padding: 0.15rem 0.6rem;
+    font-size: 0.75rem;
+}
+
+// Tag cloud
+.tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    margin: var(--space-lg) 0;
+    
+    .tag {
+        &.tag-1 { 
+            font-size: 0.75rem;
+            padding: 0.15rem 0.6rem;
+        }
+        &.tag-2 { 
+            font-size: 0.8rem;
+            padding: 0.18rem 0.7rem;
+        }
+        &.tag-3 { 
+            font-size: 0.85rem;
+            padding: 0.2rem 0.8rem;
+        }
+        &.tag-4 { 
+            font-size: 0.9rem;
+            padding: 0.22rem 0.85rem;
+        }
+    }
+}

@@ -1,0 +1,20 @@
+// Index page specific styles
+// This is where the featured + grid layout lives
+
+.index-page {
+    // Additional index-specific styles can go here if needed
+}
+
+.recent-posts-heading {
+    font-size: $font-size-2;
+    color: var(--color-primary);
+    font-weight: $font-weight-semibold;
+    margin-bottom: var(--space-lg);
+    // No border
+}
+
+.archive-link {
+    text-align: center;
+    margin-top: var(--space-lg);
+    color: var(--color-mute);
+}

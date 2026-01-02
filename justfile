@@ -24,6 +24,10 @@ prepare_fonts:
     node_modules/@fortawesome/fontawesome-free/webfonts/ \
     themes/offby1/static/webfonts/
 
+clean:
+  rm -rf output/theme/.webassets-cache
+  rm -f output/theme/css/*.css
+
 build settings="pelicanconf.py": prepare_fonts
   uv run pelican --fatal=errors -s {{settings}} -o output content
 

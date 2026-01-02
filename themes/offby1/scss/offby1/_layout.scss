@@ -1,0 +1,32 @@
+// Layout and container styles
+
+main {
+    max-width: var(--max-width-content);
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-md);
+}
+
+.container {
+    max-width: var(--max-width-content);
+    margin: 0 auto;
+    padding: 0 var(--space-md);
+}
+
+.section-header {
+    margin-bottom: var(--space-lg);
+    padding-bottom: var(--space-sm);
+    border-bottom: 2px solid var(--color-divider);
+    
+    h3 {
+        font-size: $font-size-2;
+        color: var(--color-primary);
+        font-weight: $font-weight-semibold;
+    }
+}
+
+// Responsive adjustments
+@media (max-width: $width-md) {
+    main {
+        padding: var(--space-lg) var(--space-sm);
+    }
+}

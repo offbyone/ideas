@@ -39,7 +39,7 @@ class Social(StyledLink):
 AUTHOR = "Chris R"
 AUTHOR_EMAIL = "offline@offby1.net"
 SITENAME = "Ideas.Offby1"
-DESCRIPTION = "Close Enough"
+DESCRIPTION = "This is such an <em>extremely</em> specific complaint"
 SITEURL = "//offby1.website"
 # Use relative URLs during development. This is overridden in publishconf.py
 RELATIVE_URLS = True
