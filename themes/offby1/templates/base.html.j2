@@ -55,10 +55,12 @@
     <body class="{% block body_class %}{% endblock %}">
         <header>
             <div class="header-content">
-                <div class="avatar">
-                    {# TODO: Add actual headshot image #}
-                    👤
-                </div>
+                <a href="{{ SITEURL }}/" class="avatar">
+                    <picture>
+                        <source srcset="{{ SITEURL }}/theme/images/dark/headshot.png" media="(prefers-color-scheme: dark)">
+                        <img src="{{ SITEURL }}/theme/images/light/headshot.png" alt="{{ AUTHOR }}">
+                    </picture>
+                </a>
                 <div class="site-title">
                     <a href="{{ SITEURL }}/" class="title-logo" role="img" aria-label="{{ SITENAME }}"></a>
                     <p class="tagline">{{ DESCRIPTION }}</p>
