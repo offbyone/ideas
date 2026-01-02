@@ -1,0 +1,28 @@
+// Littlefoot footnotes - minimal cyberpunk theme customization
+// Import base littlefoot styles from node_modules
+@import "littlefoot/dist/littlefoot";
+
+// Cyberpunk theme customization
+.littlefoot {
+  // Cyan buttons that turn pink when active
+  --button-background-color: var(--color-primary);
+  --button-active-background-color: var(--color-secondary);
+  
+  // Cyan-bordered popovers with matching background/text
+  --popover-border: 2px solid var(--color-primary);
+  --popover-shadow: 0 0 15px rgba(0, 245, 255, 0.2);
+  --popover-background-color: var(--color-bg);
+  --popover-text-color: var(--color-font);
+  
+  // Use the same font as the rest of the page
+  --popover-font-family: var(--font-body);
+  --popover-font-size: 1rem;
+  --popover-line-height: 1.35rem;
+}
+
+// Dark mode: stronger glow
+@media (prefers-color-scheme: dark) {
+  .littlefoot {
+    --popover-shadow: 0 0 20px rgba(0, 245, 255, 0.4);
+  }
+}

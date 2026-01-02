@@ -98,6 +98,20 @@
         </footer>
 
         {% block scripts %}
+        {# Littlefoot footnotes - loaded from node_modules via webassets #}
+        {% assets output="js/littlefoot.js", "littlefoot/dist/littlefoot.js" %}
+        <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
+        {% endassets %}
+        <script type="text/javascript">
+            littlefoot.littlefoot({
+                anchorPattern: /(sf-cv-|sf-|footnote-|note-)\d+/gi,
+                anchorParentSelector: 'sup',
+                footnoteSelector: 'ol.simple-footnotes li',
+                allowMultiple: false,
+                buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>"><% number %></button>'
+            });
+        </script>
+        
         {# Ad-blocker detection script #}
         <script src="{{ SITEURL }}/theme/js/adblocker.js"></script>
         {% endblock %}

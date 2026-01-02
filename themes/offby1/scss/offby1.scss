@@ -20,11 +20,14 @@
 @import "offby1/gallery";
 @import "offby1/footer";
 
-// 4. Ad-blocker detection
+// 4. Third-party components
+@import "offby1/littlefoot";  // Littlefoot footnotes with cyberpunk theme
+
+// 5. Ad-blocker detection
 @import "nativeads.js";
 @import "adblock-detect";
 
-// 5. Page-specific styles
+// 6. Page-specific styles
 @import "offby1/index";
 @import "offby1/single";
 

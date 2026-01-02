@@ -127,7 +127,10 @@ WEBASSETS_SOURCE_PATHS = [
     "scss",
 ]
 
-# find all node modules that contain min.js files and add thoes to the source paths
+# Add node_modules to webassets search path for JS/CSS dependencies
+WEBASSETS_SOURCE_PATHS.append(str(Path(__file__).parent / "node_modules"))
+
+# find all node modules that contain min.js files and add those to the source paths
 for p in Path("node_modules").resolve().glob("**/*min.js"):
     WEBASSETS_SOURCE_PATHS.append(str(p.parent))
 
