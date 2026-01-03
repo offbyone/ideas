@@ -280,6 +280,77 @@ def new_post(c, title=None, post_type="md"):
     c.run(f"git add '{new_post_path}'")
 
 
+@task
+def new_post_from_template(c, template, title=None, category=None, summary=None):
+    """Create a new post from a template (photo-essay, til, hero-image, plain-text)"""
+    import re
+
+    template_map = {
+        "photo-essay": "photo-essay.md",
+        "til": "til.md",
+        "hero-image": "hero-image.md",
+        "plain-text": "plain-text.md",
+    }
+
+    if template not in template_map:
+        console.print(f"[bold red]Error:[/bold red] Unknown template '{template}'")
+        console.print(f"Available templates: {', '.join(template_map.keys())}")
+        return
+
+    # Get title if not provided
+    if title is None:
+        console.print("[bold magenta]Please enter the title:[/bold magenta]")
+        title = Prompt.ask("Title", default="New Post")
+
+    # Get category if not provided
+    if category is None:
+        console.print("[bold magenta]Please enter the category:[/bold magenta]")
+        category = Prompt.ask("Category", default="general-thoughts")
+
+    # Get summary if not provided
+    if summary is None:
+        console.print("[bold magenta]Please enter a summary:[/bold magenta]")
+        summary = Prompt.ask("Summary", default="A new post")
+
+    # Read template
+    template_path = (
+        Path(__file__).parent / "content" / "templates" / template_map[template]
+    )
+    template_content = template_path.read_text()
+
+    # Generate new values
+    slug = slugify(title)
+    date = datetime.datetime.now().isoformat()
+
+    # Update frontmatter fields using regex
+    content = re.sub(
+        r"^title:.*$", f"title: {title}", template_content, flags=re.MULTILINE
+    )
+    content = re.sub(r"^slug:.*$", f"slug: {slug}", content, flags=re.MULTILINE)
+    content = re.sub(r"^date:.*$", f"date: {date}", content, flags=re.MULTILINE)
+    content = re.sub(
+        r"^category:.*$", f"category: {category}", content, flags=re.MULTILINE
+    )
+    content = re.sub(
+        r"^summary:.*$", f"summary: {summary}", content, flags=re.MULTILINE
+    )
+
+    # Remove 'templates' tag from the tags list
+    content = re.sub(r"^  - templates\n", "", content, flags=re.MULTILINE)
+
+    # Create new post file
+    new_post_path = (
+        Path(SETTINGS["PATH"])
+        / "posts"
+        / f"{datetime.date.today().isoformat()}-{slug}.md"
+    )
+
+    new_post_path.write_text(content)
+    console.print(f"[bold green]Created:[/bold green] {new_post_path}")
+
+    c.run(f"git add '{new_post_path}'")
+
+
 class Visitor(docutils.nodes.NodeVisitor):
     def __init__(self, doc):
         super().__init__(doc)

@@ -64,6 +64,80 @@
     transition: opacity 0.3s ease;
 }
 
+// MyST-generated gallery sections
+// When using MyST markdown with gallery sections, it creates <section id="*gallery*">
+// with <figure class="align-default"> children
+section[id*="gallery"] {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 3rem 0;
+    
+    // The h1 heading should span all columns
+    > h1, > h2 {
+        grid-column: 1 / -1;
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        color: var(--color-primary);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+    
+    // Style the figure elements as gallery items
+    > figure.align-default {
+        position: relative;
+        margin: 0;
+        border: 2px solid var(--color-surface);
+        background: var(--color-surface);
+        transition: all 0.3s ease;
+        overflow: hidden;
+        
+        &:hover {
+            border-color: var(--color-primary);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            
+            img {
+                transform: scale(1.05);
+            }
+        }
+        
+        // The link wrapping the image
+        > a.gallery-image {
+            display: block;
+            
+            img {
+                width: 100%;
+                height: 250px;
+                object-fit: cover;
+                display: block;
+                transition: transform 0.3s ease;
+            }
+        }
+        
+        // Caption styling
+        figcaption {
+            padding: 0.75rem;
+            background: var(--color-surface-variant);
+            
+            p {
+                margin: 0;
+                font-size: 0.875rem;
+                color: var(--color-text-secondary);
+                
+                .caption-text {
+                    color: var(--color-text);
+                }
+                
+                // Hide the permalink icon in captions
+                .headerlink {
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
 // Responsive adjustments
 @media (max-width: $width-md) {
     .gallery-grid {
@@ -74,10 +148,28 @@
     .gallery-item img {
         height: 150px;
     }
+    
+    section[id*="gallery"] {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+        
+        > figure.align-default > a.gallery-image img {
+            height: 200px;
+        }
+    }
 }
 
 @media (max-width: $width-sm) {
     .gallery-grid {
         grid-template-columns: repeat(2, 1fr);
+    }
+    
+    section[id*="gallery"] {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
+        
+        > figure.align-default > a.gallery-image img {
+            height: 150px;
+        }
     }
 }

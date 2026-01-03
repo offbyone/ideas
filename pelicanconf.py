@@ -238,6 +238,7 @@ MYST_READER = {
     "myst_enable_extensions": {
         "linkify",  # Auto-detect links
         "colon_fence",  # Enable ::: directive syntax for dropdowns
+        "attrs_inline",  # Enable {#id} and {.class} syntax for headings
     },
     "myst_disable_syntax": [],  # Don't disable any syntax
     "myst_heading_anchors": 3,  # Add anchors to headings

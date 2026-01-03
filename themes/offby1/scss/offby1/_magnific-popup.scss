@@ -1,0 +1,76 @@
+// Magnific Popup styles
+// Note: Base magnific-popup.css should be loaded via webassets in the template
+
+// Custom styling for image galleries
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: var(--space-md);
+  margin: var(--space-lg) 0;
+}
+
+.gallery-item {
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 6px;
+  transition: transform 0.2s ease;
+  
+  &:hover {
+    transform: scale(1.02);
+  }
+  
+  img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+// Customize Magnific Popup to match cyberpunk theme
+.mfp-bg {
+  background: var(--color-bg);
+  opacity: 0.95;
+}
+
+.mfp-figure figure {
+  background: var(--color-surface);
+}
+
+.mfp-title {
+  color: var(--color-font);
+  font-family: var(--font-body);
+}
+
+.mfp-arrow {
+  &:before {
+    border-right-color: var(--color-primary);
+  }
+  
+  &:after {
+    border-right-color: var(--color-primary);
+  }
+}
+
+.mfp-arrow-left {
+  &:before {
+    border-right-color: var(--color-primary);
+  }
+  
+  &:after {
+    border-right-color: var(--color-primary);
+  }
+}
+
+.mfp-close {
+  color: var(--color-primary);
+  
+  &:hover {
+    color: var(--color-secondary);
+  }
+}
+
+.mfp-counter {
+  color: var(--color-mute);
+}

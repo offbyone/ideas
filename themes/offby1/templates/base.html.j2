@@ -40,6 +40,11 @@
         "offby1.scss" %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
         {% endassets %}
+        
+        {# Magnific Popup CSS #}
+        {% assets output="css/magnific-popup.css", "magnific-popup/dist/magnific-popup.css" %}
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
+        {% endassets %}
 
         {# Feeds #}
         {% if FEED_ATOM %}
@@ -98,6 +103,15 @@
         </footer>
 
         {% block scripts %}
+        {# jQuery - required for Magnific Popup #}
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        
+        {# Magnific Popup for image galleries #}
+        {% assets output="js/magnific-popup.js", "magnific-popup/dist/jquery.magnific-popup.js" %}
+        <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
+        {% endassets %}
+        <script src="{{ SITEURL }}/theme/js/gallery.js"></script>
+        
         {# Littlefoot footnotes - loaded from node_modules via webassets #}
         {% assets output="js/littlefoot.js", "littlefoot/dist/littlefoot.js" %}
         <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
