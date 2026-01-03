@@ -63,3 +63,18 @@ li {
 .article-content ol.simple li p {
     margin-bottom: 0;
 }
+
+/* Simplify MyST/docutils inline literals to look like normal <code> tags */
+span.docutils.literal {
+    font-family: var(--font-mono);
+    background: var(--color-codebg);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+    
+    /* Remove the nested span.pre wrapper styling */
+    span.pre {
+        padding: 0;
+        background: transparent;
+    }
+}

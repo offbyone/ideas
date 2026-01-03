@@ -1,0 +1,3 @@
+# Ignore SCSS files - we prefer manual formatting
+*.scss
+themes/offby1/scss/
