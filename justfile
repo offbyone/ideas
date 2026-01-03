@@ -6,6 +6,9 @@ pelican:
   uv run pelican
 
 serve:
+  overmind start
+
+livereload:
   uv run inv livereload
 
 upload:
