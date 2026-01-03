@@ -16,6 +16,7 @@ $body-font:
     "Source Han Sans CN", "Source Han Sans SC", "Microsoft YaHei",
     "WenQuanYi Micro Hei", sans-serif !default;
 $mono-font:
+    "MonoLisa",
     "Cascadia Code",
     "SF Mono",
     "Fira Code",
@@ -81,11 +82,101 @@ $dark-image-path: "dark";
 }
 
 @font-face {
-    font-family: "Cascadia Code";
+    font-family: "MonoLisa";
     font-style: normal;
+    font-weight: 300;
     font-display: swap;
     src:
-        local("Cascadia Code Regular"),
-        url("https://cdn.jsdelivr.net/gh/amzrk2/web-font-archive@2/cascadia-code/cascadia-code.woff2")
-            format("woff2");
+        local("MonoLisa Light"),
+        url("../webfonts/MonoLisa-Light.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src:
+        local("MonoLisa Light Italic"),
+        url("../webfonts/MonoLisa-LightItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        local("MonoLisa Regular"),
+        url("../webfonts/MonoLisa-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        local("MonoLisa Regular Italic"),
+        url("../webfonts/MonoLisa-RegularItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src:
+        local("MonoLisa Medium"),
+        url("../webfonts/MonoLisa-Medium.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src:
+        local("MonoLisa Medium Italic"),
+        url("../webfonts/MonoLisa-MediumItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src:
+        local("MonoLisa SemiBold"),
+        url("../webfonts/MonoLisa-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src:
+        local("MonoLisa SemiBold Italic"),
+        url("../webfonts/MonoLisa-SemiBoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local("MonoLisa Bold"),
+        url("../webfonts/MonoLisa-Bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MonoLisa";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local("MonoLisa Bold Italic"),
+        url("../webfonts/MonoLisa-BoldItalic.woff2") format("woff2");
 }

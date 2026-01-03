@@ -46,6 +46,9 @@
         <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
         {% endassets %}
 
+        {# Pygments syntax highlighting CSS #}
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" type="text/css" />
+
         {# Feeds #}
         {% if FEED_ATOM %}
             <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />

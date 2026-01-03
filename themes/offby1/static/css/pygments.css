@@ -1,0 +1,97 @@
+/* Custom Pygments theme for cyberpunk aesthetic with light/dark mode support */
+
+/* Light mode syntax highlighting */
+@media (prefers-color-scheme: light) {
+    /* Base text color inherits from code block */
+    .highlight, pre.code {
+        color: #1F2937;
+    }
+    
+    /* Comments - muted gray */
+    .c, .ch, .cm, .cp, .cpf, .c1, .cs { color: #6B7280; font-style: italic; }
+    
+    /* Keywords - electric purple */
+    .k, .kc, .kd, .kn, .kp, .kr, .kt { color: #8B00FF; font-weight: 600; }
+    
+    /* Names - standard text */
+    .n, .na, .nb, .nc, .no, .nd, .ni, .ne, .nf, .nl, .nn, .nt, .nv { color: #1F2937; }
+    
+    /* Name.Function - hot pink */
+    .nf { color: #FF006E; font-weight: 500; }
+    
+    /* Name.Class, Name.Decorator - cyan */
+    .nc, .nd { color: #00D9FF; font-weight: 500; }
+    
+    /* Strings - teal/green */
+    .s, .s1, .s2, .sa, .sb, .sc, .sd, .se, .sh, .si, .sx { color: #059669; }
+    
+    /* Numbers - orange */
+    .m, .mb, .mf, .mh, .mi, .mo { color: #EA580C; }
+    
+    /* Operators - purple */
+    .o, .ow { color: #8B00FF; }
+    
+    /* Punctuation - standard text */
+    .p { color: #1F2937; }
+    
+    /* Generic (prompts, output, etc) */
+    .gp { color: #6B7280; font-weight: 600; } /* Prompt ($ in shell) */
+    .go { color: #059669; } /* Output */
+    .err { color: #DC2626; background-color: #FEE2E2; } /* Error */
+    
+    /* Variables - standard text */
+    .w { color: transparent; } /* Whitespace */
+}
+
+/* Dark mode syntax highlighting */
+@media (prefers-color-scheme: dark) {
+    /* Base text color - cyan-white */
+    .highlight, pre.code {
+        color: #e0f7fa;
+    }
+    
+    /* Comments - dimmed cyan */
+    .c, .ch, .cm, .cp, .cpf, .c1, .cs { color: #7a8ba0; font-style: italic; }
+    
+    /* Keywords - bright magenta */
+    .k, .kc, .kd, .kn, .kp, .kr, .kt { color: #ff00ff; font-weight: 600; }
+    
+    /* Names - cyan-white */
+    .n, .na, .nb, .nc, .no, .nd, .ni, .ne, .nf, .nl, .nn, .nt, .nv { color: #e0f7fa; }
+    
+    /* Name.Function - hot pink */
+    .nf { color: #ff006e; font-weight: 500; }
+    
+    /* Name.Class, Name.Decorator - neon cyan */
+    .nc, .nd { color: #00f5ff; font-weight: 500; }
+    
+    /* Strings - bright green */
+    .s, .s1, .s2, .sa, .sb, .sc, .sd, .se, .sh, .si, .sx { color: #00ff9f; }
+    
+    /* Numbers - bright orange */
+    .m, .mb, .mf, .mh, .mi, .mo { color: #ff9500; }
+    
+    /* Operators - bright magenta */
+    .o, .ow { color: #ff00ff; }
+    
+    /* Punctuation - cyan-white */
+    .p { color: #e0f7fa; }
+    
+    /* Generic (prompts, output, etc) */
+    .gp { color: #7a8ba0; font-weight: 600; } /* Prompt ($ in shell) */
+    .go { color: #00ff9f; } /* Output */
+    .err { color: #ff4444; background-color: #4a0000; } /* Error */
+    
+    /* Variables */
+    .w { color: transparent; } /* Whitespace */
+}
+
+/* Common styles for both modes */
+pre { 
+    line-height: 1.5;
+}
+
+/* Ensure inline code doesn't get syntax highlighting colors */
+p code, li code, td code {
+    color: inherit;
+}

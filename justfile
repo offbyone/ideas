@@ -23,6 +23,9 @@ prepare_fonts:
   rsync -pthrvz \
     node_modules/@fortawesome/fontawesome-free/webfonts/ \
     themes/offby1/static/webfonts/
+  rsync -pthrvz \
+    themes/offby1/fonts/ \
+    themes/offby1/static/webfonts/
 
 clean:
   rm -rf output/theme/.webassets-cache
