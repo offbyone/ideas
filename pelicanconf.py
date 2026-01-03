@@ -86,6 +86,12 @@ LINKS = [
     StyledLink(
         "Tools", "/defaults.html", style="tools", icon_style="fa-solid fa-toolbox"
     ),
+    StyledLink(
+        "Projects",
+        "/projects.html",
+        style="projects",
+        icon_style="fa-solid fa-diagram-project",
+    ),
 ]
 
 # Social widget
@@ -102,6 +108,7 @@ DEFAULT_PAGINATION = 10
 PLUGIN_PATHS = ["./plugins"]
 PLUGINS = [
     "extract_linked_metadata",
+    "myst_reader",
     "pelican_edit_url",
     "pelican_embed_microblog",
     "pelican_gist",
