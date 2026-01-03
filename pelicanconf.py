@@ -40,9 +40,13 @@ AUTHOR = "Chris R"
 AUTHOR_EMAIL = "offline@offby1.net"
 SITENAME = "Ideas.Offby1"
 DESCRIPTION = "This is such an <em>extremely</em> specific complaint"
-SITEURL = "//offby1.website"
-# Use relative URLs during development. This is overridden in publishconf.py
-RELATIVE_URLS = True
+if "SITEURL" in os.environ:
+    SITEURL = os.environ["SITEURL"]
+    RELATIVE_URLS = False
+else:
+    SITEURL = "//offby1.website"
+    # Use relative URLs during development. This is overridden in publishconf.py
+    RELATIVE_URLS = True
 
 PATH = Path("content")
 
@@ -91,6 +95,8 @@ SOCIAL = (
     Social("Bluesky", "https://bsky.app/profile/offby1.net"),
 )
 
+OPEN_GRAPH_IMAGE = "/theme/images/dark/headshot.png"
+
 DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ["./plugins"]
@@ -103,6 +109,7 @@ PLUGINS = [
     "photos",
     "simple_footnotes",
     "sitemap",
+    "social_cards",
     "tag_cloud",
     "webassets",
 ]
