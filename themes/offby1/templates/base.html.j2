@@ -137,11 +137,10 @@
         {% endassets %}
         <script type="text/javascript">
             littlefoot.littlefoot({
-                anchorPattern: /(sf-cv-|sf-|footnote-|note-)\d+/gi,
+                anchorPattern: /(sf-[a-z0-9-]+-\d+|footnote-\d+|note-\d+)/gi,
                 anchorParentSelector: 'sup',
                 footnoteSelector: 'ol.simple-footnotes li',
                 allowMultiple: false,
-                buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>"><% number %></button>'
             });
         </script>
         
