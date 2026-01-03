@@ -57,3 +57,9 @@ ul, ol {
 li {
     margin-bottom: var(--space-xs);
 }
+
+/* tighten up the margins in docutils-style simple lists */
+.article-content ul.simple li p,
+.article-content ol.simple li p {
+    margin-bottom: 0;
+}
