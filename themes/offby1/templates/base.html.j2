@@ -42,7 +42,7 @@
         {% endassets %}
         
         {# Magnific Popup CSS #}
-        {% assets output="css/magnific-popup.css", "magnific-popup/dist/magnific-popup.css" %}
+        {% assets output="css/magnific-popup.min.css", "magnific-popup/dist/magnific-popup.css" %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
         {% endassets %}
 
@@ -104,16 +104,18 @@
 
         {% block scripts %}
         {# jQuery - required for Magnific Popup #}
-        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        {% assets output="js/jquery.min.js", "jquery/dist/jquery.min.js" %}
+        <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
+        {% endassets %}
         
         {# Magnific Popup for image galleries #}
-        {% assets output="js/magnific-popup.js", "magnific-popup/dist/jquery.magnific-popup.js" %}
+        {% assets output="js/magnific-popup.min.js", "magnific-popup/dist/jquery.magnific-popup.min.js" %}
         <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
         {% endassets %}
         <script src="{{ SITEURL }}/theme/js/gallery.js"></script>
         
         {# Littlefoot footnotes - loaded from node_modules via webassets #}
-        {% assets output="js/littlefoot.js", "littlefoot/dist/littlefoot.js" %}
+        {% assets output="js/littlefoot.min.js", "littlefoot/dist/littlefoot.js" %}
         <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
         {% endassets %}
         <script type="text/javascript">

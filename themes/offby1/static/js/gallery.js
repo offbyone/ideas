@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
   
-  // Initialize Magnific Popup on all gallery images (do this once after processing all sections)
+  // Initialize Magnific Popup on manually created gallery images
   if (document.querySelectorAll('.gallery-image').length > 0) {
     jQuery('.gallery-image').magnificPopup({
       type: 'image',
@@ -43,6 +43,52 @@ document.addEventListener('DOMContentLoaded', function() {
       },
       image: {
         titleSrc: 'title'
+      }
+    });
+  }
+  
+  // Initialize Magnific Popup for photos plugin galleries
+  // These are already created by the pelican photos plugin
+  if (document.querySelectorAll('.gallery-item').length > 0) {
+    jQuery('.gallery-item').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1]
+      },
+      image: {
+        titleSrc: function(item) {
+          // Use data-caption if available, otherwise use title attribute
+          const caption = item.el.attr('data-caption');
+          const exif = item.el.attr('data-exif');
+          let title = caption || item.el.attr('title') || '';
+          
+          // Add EXIF data as an expandable details section if available
+          if (exif && exif !== 'None') {
+            title += '<details class="mfp-exif-details"><summary>Photo details</summary><small>' + exif + '</small></details>';
+          }
+          
+          return title;
+        },
+        markup: '<div class="mfp-figure">' +
+                  '<div class="mfp-close"></div>' +
+                  '<div class="mfp-img"></div>' +
+                  '<div class="mfp-bottom-bar">' +
+                    '<div class="mfp-title"></div>' +
+                    '<div class="mfp-counter"></div>' +
+                  '</div>' +
+                '</div>'
+      },
+      callbacks: {
+        markupParse: function(template, values, item) {
+          // Manually set the title HTML to avoid escaping
+          if (values.title) {
+            setTimeout(() => {
+              template.find('.mfp-title').html(values.title);
+            }, 0);
+          }
+        }
       }
     });
   }

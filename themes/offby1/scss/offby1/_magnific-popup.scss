@@ -74,3 +74,34 @@
 .mfp-counter {
   color: var(--color-mute);
 }
+
+// EXIF details expansion
+.mfp-title {
+  details.mfp-exif-details {
+    margin-top: 0.5rem;
+    
+    summary {
+      cursor: pointer;
+      color: var(--color-mute);
+      font-size: 0.875rem;
+      user-select: none;
+      transition: color 0.2s ease;
+      
+      &:hover {
+        color: var(--color-primary);
+      }
+      
+      &::marker {
+        color: var(--color-primary);
+      }
+    }
+    
+    small {
+      display: block;
+      margin-top: 0.25rem;
+      color: var(--color-mute);
+      font-size: 0.75rem;
+      line-height: 1.4;
+    }
+  }
+}

@@ -52,9 +52,9 @@
             {% for name, photo, thumb, exif, caption in gallery %}
             <a href="{{ SITEURL }}/{{ photo }}" 
                class="gallery-item" 
-               title="{{ name }}"
-               {% if exif %}data-exif="{{ exif }}"{% endif %}
-               {% if caption %}data-caption="{{ caption }}"{% endif %}>
+               title="{{ name }}"{% if exif %}
+               data-exif="{{ exif }}"{% endif %}{% if caption %}
+               data-caption="{{ caption }}"{% endif %}>
                 <img src="{{ SITEURL }}/{{ thumb }}" alt="{{ caption or name }}" loading="lazy">
                 {% if caption %}
                 <div class="gallery-caption">{{ caption }}</div>
