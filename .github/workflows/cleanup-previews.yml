@@ -1,0 +1,273 @@
+---
+name: Cleanup Expired Previews
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  pull-requests: write
+  actions: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Download current GitHub Pages artifact
+        id: download-artifact
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: github-pages-previews
+          path: current-site
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract and clean expired previews
+        id: cleanup
+        run: |
+          #!/bin/bash
+          set -e
+          
+          mkdir -p cleaned-site
+          
+          # Extract current site if it exists
+          if [ -f "current-site/artifact.tar" ]; then
+            echo "Extracting current site..."
+            tar -xf current-site/artifact.tar -C cleaned-site/
+          else
+            echo "No existing site found, nothing to clean"
+            echo "removed_count=0" >> $GITHUB_OUTPUT
+            echo "needs_deployment=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          CURRENT_TIME=$(date -u +%s)
+          REMOVED_PREVIEWS=()
+          
+          if [ ! -d "cleaned-site/.preview-metadata" ]; then
+            echo "No preview metadata directory found"
+            echo "removed_count=0" >> $GITHUB_OUTPUT
+            echo "needs_deployment=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          cd cleaned-site/.preview-metadata
+          
+          for metadata_file in *.json; do
+            if [ ! -f "$metadata_file" ]; then
+              continue
+            fi
+            
+            PREVIEW_ID=$(basename "$metadata_file" .json)
+            EXPIRES_AT=$(jq -r '.expires_at' "$metadata_file")
+            EXPIRES_TIMESTAMP=$(date -d "$EXPIRES_AT" +%s 2>/dev/null || echo 0)
+            PR_NUMBER=$(jq -r '.pr_number' "$metadata_file")
+            
+            if [ "$CURRENT_TIME" -gt "$EXPIRES_TIMESTAMP" ]; then
+              echo "Preview $PREVIEW_ID for PR #$PR_NUMBER has expired (expired at $EXPIRES_AT)"
+              
+              # Remove the preview directory
+              if [ -d "../previews/$PREVIEW_ID" ]; then
+                rm -rf "../previews/$PREVIEW_ID"
+                echo "Removed preview directory: previews/$PREVIEW_ID"
+              fi
+              
+              # Remove the metadata file
+              rm "$metadata_file"
+              echo "Removed metadata file: $metadata_file"
+              
+              REMOVED_PREVIEWS+=("$PREVIEW_ID:$PR_NUMBER")
+            else
+              echo "Preview $PREVIEW_ID for PR #$PR_NUMBER is still valid (expires at $EXPIRES_AT)"
+            fi
+          done
+          
+          cd ../..
+          
+          # Save removed previews for the comment step
+          if [ ${#REMOVED_PREVIEWS[@]} -gt 0 ]; then
+            printf '%s\n' "${REMOVED_PREVIEWS[@]}" > /tmp/removed_previews.txt
+            echo "removed_count=${#REMOVED_PREVIEWS[@]}" >> $GITHUB_OUTPUT
+            echo "needs_deployment=true" >> $GITHUB_OUTPUT
+          else
+            echo "removed_count=0" >> $GITHUB_OUTPUT
+            echo "needs_deployment=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Regenerate previews index
+        if: steps.cleanup.outputs.needs_deployment == 'true'
+        run: |
+          cd cleaned-site
+          
+          # Create index of remaining previews
+          cat > previews/index.html << 'INDEXEOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <title>PR Previews</title>
+            <meta charset="UTF-8">
+            <style>
+              body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+                max-width: 900px; 
+                margin: 40px auto; 
+                padding: 0 20px;
+                background: #f5f5f5;
+              }
+              h1 { color: #333; border-bottom: 3px solid #007bff; padding-bottom: 10px; }
+              .preview { 
+                background: white;
+                border: 1px solid #ddd; 
+                padding: 20px; 
+                margin: 15px 0; 
+                border-radius: 8px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+              }
+              .preview h3 { margin-top: 0; color: #007bff; }
+              .preview h3 a { color: #007bff; text-decoration: none; }
+              .preview h3 a:hover { text-decoration: underline; }
+              .meta { color: #666; font-size: 0.9em; }
+              .meta div { margin: 5px 0; }
+              .loading { text-align: center; padding: 40px; color: #666; }
+              .error { color: #d32f2f; background: #ffebee; padding: 15px; border-radius: 5px; }
+            </style>
+          </head>
+          <body>
+            <h1>🔍 Active PR Previews</h1>
+            <div id="previews" class="loading">Loading previews...</div>
+            <script>
+              async function loadPreviews() {
+                try {
+                  const response = await fetch('../.preview-metadata/');
+                  const html = await response.text();
+                  const parser = new DOMParser();
+                  const doc = parser.parseFromString(html, 'text/html');
+                  const links = Array.from(doc.querySelectorAll('a'))
+                    .filter(a => a.href.endsWith('.json'))
+                    .map(a => a.href);
+                  
+                  if (links.length === 0) {
+                    document.getElementById('previews').innerHTML = '<p>No active previews found.</p>';
+                    return;
+                  }
+                  
+                  const previews = await Promise.all(
+                    links.map(url => fetch(url).then(r => r.json()))
+                  );
+                  
+                  previews.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+                  
+                  document.getElementById('previews').innerHTML = previews.map(p => `
+                    <div class="preview">
+                      <h3><a href="../${p.preview_id}/">PR #${p.pr_number}: ${p.pr_title}</a></h3>
+                      <div class="meta">
+                        <div><strong>Author:</strong> ${p.pr_author}</div>
+                        <div><strong>Created:</strong> ${new Date(p.created_at).toLocaleString()}</div>
+                        <div><strong>Expires:</strong> ${new Date(p.expires_at).toLocaleString()}</div>
+                        <div><strong>Preview ID:</strong> <code>${p.preview_id}</code></div>
+                      </div>
+                    </div>
+                  `).join('');
+                } catch (error) {
+                  console.error('Error loading previews:', error);
+                  document.getElementById('previews').innerHTML = 
+                    '<div class="error">Error loading previews. Check console for details.</div>';
+                }
+              }
+              
+              loadPreviews();
+            </script>
+          </body>
+          </html>
+          INDEXEOF
+
+      - name: Upload cleaned Pages artifact
+        if: steps.cleanup.outputs.needs_deployment == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: cleaned-site
+          name: github-pages-previews
+
+      - name: Deploy to GitHub Pages
+        if: steps.cleanup.outputs.needs_deployment == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-previews
+
+      - name: Comment on PRs about expired previews
+        if: steps.cleanup.outputs.removed_count != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            if (!fs.existsSync('/tmp/removed_previews.txt')) {
+              return;
+            }
+            
+            const removedPreviews = fs.readFileSync('/tmp/removed_previews.txt', 'utf8')
+              .split('\n')
+              .filter(line => line.trim())
+              .map(line => {
+                const [previewId, prNumber] = line.split(':');
+                return { previewId, prNumber: parseInt(prNumber) };
+              });
+            
+            for (const {previewId, prNumber} of removedPreviews) {
+              try {
+                // Check if PR is still open
+                const { data: pr } = await github.rest.pulls.get({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: prNumber,
+                });
+                
+                if (pr.state === 'open') {
+                  // Find the preview comment
+                  const comments = await github.rest.issues.listComments({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: prNumber,
+                  });
+                  
+                  const previewComment = comments.data.find(comment => 
+                    comment.user.type === 'Bot' && 
+                    comment.body.includes('🔍 PR Preview') &&
+                    comment.body.includes(previewId)
+                  );
+                  
+                  if (previewComment) {
+                    const updatedBody = previewComment.body + '\n\n---\n\n⚠️ **This preview has expired and been removed** (expired after 7 days)';
+                    
+                    await github.rest.issues.updateComment({
+                      owner: context.repo.owner,
+                      repo: context.repo.repo,
+                      comment_id: previewComment.id,
+                      body: updatedBody
+                    });
+                    
+                    console.log(`Updated comment on PR #${prNumber}`);
+                  }
+                }
+              } catch (error) {
+                console.log(`Could not update PR #${prNumber}: ${error.message}`);
+              }
+            }
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ "${{ steps.cleanup.outputs.removed_count }}" -eq "0" ]; then
+            echo "✅ No expired previews found"
+          else
+            echo "🧹 Removed ${{ steps.cleanup.outputs.removed_count }} expired preview(s)"
+          fi

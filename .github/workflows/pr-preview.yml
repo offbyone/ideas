@@ -1,0 +1,290 @@
+---
+name: PR Preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  pull-requests: write
+
+# Allow only one concurrent deployment per PR
+concurrency:
+  group: "pages-preview-${{ github.event.pull_request.number }}"
+  cancel-in-progress: true
+
+jobs:
+  build-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Install just
+        uses: extractions/setup-just@e33e0265a09d6d736e2ee1e0eb685ef1de4669ff # v3
+      - name: Install uv
+        uses: astral-sh/setup-uv@7edac99f961f18b581bbd960d59d049f04c0002f # v6.4.1
+      - uses: jdx/mise-action@146a28175021df8ca24f8ee1828cc2a60f980bd5 # v3.5.1
+      - name: Install dependencies
+        run: just setup-gha
+
+      - name: Generate or retrieve UUID for preview
+        id: uuid
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // Try to find existing preview for this PR
+            let previewId = null;
+            
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            const botComment = comments.data.find(comment => 
+              comment.user.type === 'Bot' && 
+              comment.body.includes('🔍 PR Preview') &&
+              comment.body.includes('Preview ID:')
+            );
+            
+            if (botComment) {
+              const match = botComment.body.match(/Preview ID:\s*`([a-f0-9-]+)`/);
+              if (match) {
+                previewId = match[1];
+                console.log(`Found existing preview ID: ${previewId}`);
+              }
+            }
+            
+            if (!previewId) {
+              // Generate new UUID
+              const crypto = require('crypto');
+              previewId = crypto.randomUUID();
+              console.log(`Generated new preview ID: ${previewId}`);
+            }
+            
+            fs.writeFileSync(process.env.GITHUB_OUTPUT, `preview_id=${previewId}\n`, { flag: 'a' });
+
+      - name: Store preview metadata
+        run: |
+          mkdir -p .preview-metadata
+          cat > .preview-metadata/${{ steps.uuid.outputs.preview_id }}.json << EOF
+          {
+            "pr_number": ${{ github.event.pull_request.number }},
+            "preview_id": "${{ steps.uuid.outputs.preview_id }}",
+            "created_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+            "expires_at": "$(date -u -d '+7 days' +%Y-%m-%dT%H:%M:%SZ)",
+            "pr_title": $(jq -n --arg title "${{ github.event.pull_request.title }}" '$title'),
+            "pr_author": "${{ github.event.pull_request.user.login }}",
+            "commit_sha": "${{ github.event.pull_request.head.sha }}"
+          }
+          EOF
+          cat .preview-metadata/${{ steps.uuid.outputs.preview_id }}.json
+
+      - name: Build site with preview configuration
+        env:
+          SITEURL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/previews/${{ steps.uuid.outputs.preview_id }}"
+        run: |
+          just generate
+
+      - name: Download existing previews artifact
+        id: download-artifact
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: github-pages-previews
+          path: existing-previews
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Prepare full site deployment
+        run: |
+          # Create the full deployment structure
+          mkdir -p full-site/previews/${{ steps.uuid.outputs.preview_id }}
+          mkdir -p full-site/.preview-metadata
+          
+          # Copy existing previews if they exist
+          if [ -d "existing-previews" ]; then
+            echo "Merging with existing previews..."
+            tar -xf existing-previews/artifact.tar -C full-site/ 2>/dev/null || true
+          fi
+          
+          # Add/update this preview
+          cp -r output/* full-site/previews/${{ steps.uuid.outputs.preview_id }}/
+          cp .preview-metadata/${{ steps.uuid.outputs.preview_id }}.json full-site/.preview-metadata/
+          
+          # Create index of previews
+          cat > full-site/previews/index.html << 'INDEXEOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <title>PR Previews</title>
+            <meta charset="UTF-8">
+            <style>
+              body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+                max-width: 900px; 
+                margin: 40px auto; 
+                padding: 0 20px;
+                background: #f5f5f5;
+              }
+              h1 { color: #333; border-bottom: 3px solid #007bff; padding-bottom: 10px; }
+              .preview { 
+                background: white;
+                border: 1px solid #ddd; 
+                padding: 20px; 
+                margin: 15px 0; 
+                border-radius: 8px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+              }
+              .preview h3 { margin-top: 0; color: #007bff; }
+              .preview h3 a { color: #007bff; text-decoration: none; }
+              .preview h3 a:hover { text-decoration: underline; }
+              .meta { color: #666; font-size: 0.9em; }
+              .meta div { margin: 5px 0; }
+              .loading { text-align: center; padding: 40px; color: #666; }
+              .error { color: #d32f2f; background: #ffebee; padding: 15px; border-radius: 5px; }
+            </style>
+          </head>
+          <body>
+            <h1>🔍 Active PR Previews</h1>
+            <div id="previews" class="loading">Loading previews...</div>
+            <script>
+              async function loadPreviews() {
+                try {
+                  const response = await fetch('../.preview-metadata/');
+                  const html = await response.text();
+                  const parser = new DOMParser();
+                  const doc = parser.parseFromString(html, 'text/html');
+                  const links = Array.from(doc.querySelectorAll('a'))
+                    .filter(a => a.href.endsWith('.json'))
+                    .map(a => a.href);
+                  
+                  if (links.length === 0) {
+                    document.getElementById('previews').innerHTML = '<p>No active previews found.</p>';
+                    return;
+                  }
+                  
+                  const previews = await Promise.all(
+                    links.map(url => fetch(url).then(r => r.json()))
+                  );
+                  
+                  previews.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+                  
+                  document.getElementById('previews').innerHTML = previews.map(p => `
+                    <div class="preview">
+                      <h3><a href="../${p.preview_id}/">PR #${p.pr_number}: ${p.pr_title}</a></h3>
+                      <div class="meta">
+                        <div><strong>Author:</strong> ${p.pr_author}</div>
+                        <div><strong>Created:</strong> ${new Date(p.created_at).toLocaleString()}</div>
+                        <div><strong>Expires:</strong> ${new Date(p.expires_at).toLocaleString()}</div>
+                        <div><strong>Preview ID:</strong> <code>${p.preview_id}</code></div>
+                      </div>
+                    </div>
+                  `).join('');
+                } catch (error) {
+                  console.error('Error loading previews:', error);
+                  document.getElementById('previews').innerHTML = 
+                    '<div class="error">Error loading previews. Check console for details.</div>';
+                }
+              }
+              
+              loadPreviews();
+            </script>
+          </body>
+          </html>
+          INDEXEOF
+          
+          # Create root index redirect
+          cat > full-site/index.html << 'ROOTEOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta http-equiv="refresh" content="0; url=previews/">
+            <title>Redirecting to Previews</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="previews/">previews index</a>...</p>
+          </body>
+          </html>
+          ROOTEOF
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: full-site
+          name: github-pages-previews
+
+      - name: Comment PR with preview URL
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const previewUrl = `https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/previews/${{ steps.uuid.outputs.preview_id }}/`;
+            const expiresAt = new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toISOString();
+            
+            // Find existing preview comment
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            const botComment = comments.data.find(comment => 
+              comment.user.type === 'Bot' && 
+              comment.body.includes('🔍 PR Preview')
+            );
+            
+            const body = `## 🔍 PR Preview
+            
+            A preview of this PR has been deployed!
+            
+            **Preview URL:** ${previewUrl}
+            
+            🕐 This preview will expire on ${new Date(expiresAt).toUTCString()}
+            
+            ---
+            <details>
+            <summary>Preview Details</summary>
+            
+            - **Preview ID:** \`${{ steps.uuid.outputs.preview_id }}\`
+            - **Commit:** \`${{ github.event.pull_request.head.sha }}\`
+            - **Created:** ${new Date().toUTCString()}
+            
+            </details>`;
+            
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: body
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+            }
+
+  deploy-preview:
+    needs: build-preview
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-previews
