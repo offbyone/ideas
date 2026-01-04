@@ -7,7 +7,7 @@ article {
 .article-meta {
     color: var(--color-mute);
     font-size: 0.95rem;
-    margin-bottom: var(--space-lg);
+    margin-bottom: var(--space-sm);
     display: flex;
     gap: var(--space-sm);
     align-items: center;
@@ -46,18 +46,22 @@ article {
     }
     
     img {
-        margin: var(--space-lg) 0;
+        margin: var(--space-md) 0;
         border-radius: 6px;
     }
     
     figure {
-        margin: var(--space-lg) 0;
+        margin: var(--space-md) 0;
         
         figcaption {
             text-align: center;
             color: var(--color-mute);
             font-size: 0.9rem;
             margin-top: var(--space-xs);
+        }
+
+        img {
+            margin: 0;
         }
     }
 }
@@ -85,7 +89,7 @@ article {
 
 // Article footer (tags section)
 article > footer {
-    margin-top: var(--space-xl);
+    margin-top: var(--space-md);
 }
 
 // Article feedback section
