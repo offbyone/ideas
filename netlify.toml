@@ -1,0 +1,19 @@
+[build]
+command = "just install-deps generate"
+publish = "output"
+# don't deploy on pushes to main
+ignore = "exit 0"
+
+[build.environment]
+NODE_VERSION = "22"
+
+[[plugins]]
+package = "./plugins/netlify-plugin-install-tools"
+
+[context.deploy-preview]
+command = "just generate-for-preview"
+ignore = "exit 1"
+
+[context.deploy-preview.environment]
+SITEURL = "$DEPLOY_PRIME_URL"
+NODE_VERSION = "22"
