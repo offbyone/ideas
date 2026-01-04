@@ -3,12 +3,11 @@
 from __future__ import unicode_literals
 
 import os
+import zoneinfo
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
-
-import pytz
 
 
 @dataclass
@@ -64,7 +63,7 @@ PHOTO_EXIF_COPYRIGHT_AUTHOR = "Chris Rose"
 SITEMAP = {"format": "xml", "exclude": ["tag/", "category/"]}
 
 TIMEZONE = "America/Los_Angeles"
-TZ = pytz.timezone(TIMEZONE)
+TZ = zoneinfo.ZoneInfo(TIMEZONE)
 PUBLICATION_TIME = datetime.now(TZ)
 
 
