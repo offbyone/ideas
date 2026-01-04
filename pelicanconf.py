@@ -112,6 +112,7 @@ PLUGINS = [
     "pelican_embed_microblog",
     "pelican_gist",
     "pelican_redirect",
+    "pelican.plugins.similar_posts",
     "photos",
     "simple_footnotes",
     "sitemap",

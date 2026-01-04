@@ -43,6 +43,7 @@ dependencies = [
     "myst-parser[linkify]>=4.0.1",
     "python-frontmatter>=1.1.0",
     "ruamel-yaml>=0.19.1",
+    "pelican-similar-posts~=1.0",
 ]
 
 [tool.uv]
