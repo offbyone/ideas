@@ -38,9 +38,20 @@ build settings="pelicanconf.py": prepare_fonts
   uv run pelican --fatal=errors -s {{settings}} -o output content
 
 debug settings="pelicanconf.py": prepare_fonts
-  uv run pelican --fatal=errors -s {{settings}} -o output content --debug
+  uv run pelican --fatal=errors -s {{settings}} -o output content --debug --log-handler=plain
 
 generate: (build "publishconf.py")
+
+generate-debug: (debug "publishconf.py")
+
+generate-for-preview: install-deps prepare_fonts
+    #!/bin/bash
+    set -e
+    uv run pelican --fatal=errors\
+        -s publishconf.py \
+        -o output content \
+        --debug --log-handler=plain \
+        -e PHOTO_RESIZE_JOBS=1 "SITEURL=\"$DEPLOY_PRIME_URL\""
 
 generate-dev: build
 

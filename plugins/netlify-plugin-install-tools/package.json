@@ -1,0 +1,7 @@
+{
+  "name": "netlify-plugin-install-tools",
+  "version": "1.0.0",
+  "description": "Installs mise, just, and uv for Netlify builds",
+  "main": "index.js",
+  "keywords": ["netlify", "netlify-plugin", "mise", "just", "uv"]
+}

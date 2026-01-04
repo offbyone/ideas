@@ -2,17 +2,20 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import multiprocessing
+
 # This file is only used if you use `make publish` or
 # explicitly specify it as your config file.
-
 import os
 import sys
-import multiprocessing
 
 sys.path.append(os.curdir)
 from pelicanconf import *  # noqa: F403, E402
 
-SITEURL = "https://offby1.website"
+if "SITEURL" in os.environ:
+    SITEURL = os.environ["SITEURL"]
+else:
+    SITEURL = "https://offby1.website"
 RELATIVE_URLS = False
 
 FEED_DOMAIN = SITEURL
