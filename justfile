@@ -34,10 +34,14 @@ clean:
   rm -rf output/theme/.webassets-cache
   rm -f output/theme/css/*.css
 
-build settings="pelicanconf.py": prepare_fonts
-  uv run pelican --fatal=errors -s {{settings}} -o output content
+build settings="pelicanconf.py": prepare_fonts (run_pelican settings)
 
-debug settings="pelicanconf.py": prepare_fonts
+run_pelican settings="pelicanconf.py":
+    uv run pelican --fatal=errors -s {{settings}} -o output content
+
+debug settings="pelicanconf.py": prepare_fonts (run_debug_pelican settings)
+
+run_debug_pelican settings="pelicanconf.py":
   uv run pelican --fatal=errors -s {{settings}} -o output content --debug --log-handler=plain
 
 generate: (build "publishconf.py")
