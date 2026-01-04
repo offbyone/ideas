@@ -24,7 +24,7 @@ So... What's the most common refrain? Well, on one hand we have people who are a
 
 What the fuck, you ask?
 
-Well, see, that last group "\`believe in free speech, but... \<http://www.metafilter.com/mefi/49353#1216948\>\`__"
+Well, see, that last group "[believe in free speech, but...](http://www.metafilter.com/mefi/49353#1216948)"
 
 Beware of [anyone who prefaces a statement with that line](http://www.offlineblog.com/backlog/2005/10/13/corporalte-punishment/). They probably don't have your best interests at heart, and they're a liar, to boot.
 

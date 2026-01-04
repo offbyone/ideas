@@ -44,7 +44,7 @@ So, the question that's worth asking -- and is well asked at the Wired blog that
 >
 > And what's your justification for choosing what kind of people are reprehensible enough to you that their private lives should be splayed on the internet for anyone, from family to friends to co-workers to acquaintances to their bosses, to see?
 
-*\`--from Wired 27B Stroke 6 \<http://blog.wired.com/27BStroke6/index.blog?entry_id=1553813\>\`__*
+*[--from Wired 27B Stroke 6](http://blog.wired.com/27BStroke6/index.blog?entry_id=1553813)*
 
 So, tempest in a teapot? Violation on a par with rape? Just short of? Sadistic action of a man-child? Sociopathic cruelty?
 

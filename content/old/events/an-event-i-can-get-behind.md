@@ -9,7 +9,7 @@ tags:
 author: offby1
 status: draft
 ---
-Apparently, although this is news to me, March 15th has become the "\`International Eat an Animal for PETA \<http://www.yourish.com/archives/2005/mar6-12_2005.html#2005030803\>\`__" day. (Via [Instapundit](http://instapundit.com/archives/021657.php))
+Apparently, although this is news to me, March 15th has become the "[International Eat an Animal for PETA](http://www.yourish.com/archives/2005/mar6-12_2005.html#2005030803)" day. (Via [Instapundit](http://instapundit.com/archives/021657.php))
 
 It doesn't have the same linguistic flair that, say, Talk Like a Pirate day does, but it's still something that I'll approve of. Apparently, joined by many others, although most of them have left the blogging thing -- or at least re-done their links -- since they participated, so no links.
 

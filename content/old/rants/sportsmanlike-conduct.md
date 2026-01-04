@@ -12,7 +12,7 @@ And then some words about my final lab - hell, those words now... It was EASY!
 
 Nuff said.
 
-Now, onto the main topic. There's some *\`discussion \<http://www.metafilter.com/comments.mefi/21787\>\`__* going on about a really badly lost/thoroughly won [basketball game](http://espn.go.com/moresports/news/2002/1121/1464158.html). Now, this game (as you'll see from the article) was a high-school playoff game, and it was *very* poorly matched - the eventual score was 115-2. So, the uptick of this discussion, and the gist of the article seems to be that winning by a large amount is 'unsporting'. Now, i'm not one to support the madness of hockey dads pushing 4-yr-old Joey to be the next Gretzky, but i do subscribe to a fairly simple philosophy of sport.
+Now, onto the main topic. There's some *[discussion](http://www.metafilter.com/comments.mefi/21787)* going on about a really badly lost/thoroughly won [basketball game](http://espn.go.com/moresports/news/2002/1121/1464158.html). Now, this game (as you'll see from the article) was a high-school playoff game, and it was *very* poorly matched - the eventual score was 115-2. So, the uptick of this discussion, and the gist of the article seems to be that winning by a large amount is 'unsporting'. Now, i'm not one to support the madness of hockey dads pushing 4-yr-old Joey to be the next Gretzky, but i do subscribe to a fairly simple philosophy of sport.
 
 Do Your Best.
 

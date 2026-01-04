@@ -8,7 +8,7 @@ tags:
 author: offby1
 status: draft
 ---
-By now, i'm sure everyone has read about the [86-year](http://www.guardian.co.uk/elsewhere/journalist/story/0,7792,1003688,00.html)\`-old man \<http://www.sptimes.com/2003/07/22/Opinion/Danger_at_the_wheel.shtml\>\`__ who [drove his](http://www.newsday.com/news/nationworld/nation/la-me-smcrash17jul17,0,3789886.story?coll=ny-nationalnews-headlines) car [through a crowded market](http://abcnews.go.com/wire/US/ap20030718_700.html).
+By now, i'm sure everyone has read about the [86-year](http://www.guardian.co.uk/elsewhere/journalist/story/0,7792,1003688,00.html)[-old man](http://www.sptimes.com/2003/07/22/Opinion/Danger_at_the_wheel.shtml) who [drove his](http://www.newsday.com/news/nationworld/nation/la-me-smcrash17jul17,0,3789886.story?coll=ny-nationalnews-headlines) car [through a crowded market](http://abcnews.go.com/wire/US/ap20030718_700.html).
 
 Not really news, is it?
 
