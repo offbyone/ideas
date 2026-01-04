@@ -7,7 +7,7 @@ tags:
   - obituary
   - science fiction
 author: offby1
-status: draft
+status: published
 ---
 In the later hours of this day, Arthur C. Clarke -- creator and muse --ended 90 years of looking past the stars in order to share with us the wonders that he saw there.
 

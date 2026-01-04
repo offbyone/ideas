@@ -33,6 +33,7 @@ prepare_fonts:
 clean:
   rm -rf output/theme/.webassets-cache
   rm -f output/theme/css/*.css
+  rm -rf cache/
 
 build settings="pelicanconf.py": prepare_fonts (run_pelican settings)
 
