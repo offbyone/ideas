@@ -30,20 +30,20 @@ Hopefully Jacques gets here soon with the shop-vac so that I can suck up some of
 ### Update
 
 Here are some pics from the disaster (be warned, the large images are _quite_ large):
-[![TV Room 1](http://www.offlineblog.com/images/thumb-Flooding_001.jpg)](http://www.offlineblog.com/images/Flooding_001.jpg)
+[![TV Room 1](/images/2004-07-11/Flooding_001.jpeg)](http://www.offlineblog.com/images/Flooding_001.jpg)
 
-[![TV Room 2](http://www.offlineblog.com/images/thumb-Flooding_002.jpg)](http://www.offlineblog.com/images/Flooding_002.jpg)
+[![TV Room 2](/images/2004-07-11/Flooding_002.jpeg)](http://www.offlineblog.com/images/Flooding_002.jpg)
 
-[![TV Room 3](http://www.offlineblog.com/images/thumb-Flooding_003.jpg)](http://www.offlineblog.com/images/Flooding_003.jpg)
+[![TV Room 3](/images/2004-07-11/Flooding_003.jpeg)](http://www.offlineblog.com/images/Flooding_003.jpg)
 
-[![Garden](http://www.offlineblog.com/images/thumb-Flooding_004.jpg)](http://www.offlineblog.com/images/Flooding_004.jpg)
+[![Garden](/images/2004-07-11/Flooding_004.jpeg)](http://www.offlineblog.com/images/Flooding_004.jpg)
 
-[![Front Yard](http://www.offlineblog.com/images/thumb-Flooding_005.jpg)](http://www.offlineblog.com/images/Flooding_005.jpg)
+[![Front Yard](/images/2004-07-11/Flooding_005.jpeg)](http://www.offlineblog.com/images/Flooding_005.jpg)
 
-[![Depression in the side of the yard](http://www.offlineblog.com/images/thumb-Flooding_006.jpg)](http://www.offlineblog.com/images/Flooding_006.jpg)
+[![Depression in the side of the yard](/images/2004-07-11/Flooding_006.jpeg)](http://www.offlineblog.com/images/Flooding_006.jpg)
 
-[![Back Yard under the tree](http://www.offlineblog.com/images/thumb-Flooding_007.jpg)](http://www.offlineblog.com/images/Flooding_007.jpg)
+[![Back Yard under the tree](/images/2004-07-11/Flooding_007.jpeg)](http://www.offlineblog.com/images/Flooding_007.jpg)
 
-[![Firepit](http://www.offlineblog.com/images/thumb-Flooding_008.jpg)](http://www.offlineblog.com/images/Flooding_008.jpg)
+[![Firepit](/images/2004-07-11/Flooding_008.jpeg)](http://www.offlineblog.com/images/Flooding_008.jpg)
 
 That's all of them for now.

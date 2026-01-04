@@ -15,8 +15,8 @@ Wankery.
 
 *However*, in the name of being a wanker myself, here's a couple of pics Char and I took of our weirdest cat last night. Tell me, has anyone ever seen a cat do this?
 
-[![Fritz in blissful repose](http://www.offlineblog.com/images/thumb-Bliss.jpg)](http://www.offlineblog.com/images/Bliss.jpg)
+[![Fritz in blissful repose](/images/2004-07-19/Bliss.jpeg)](http://www.offlineblog.com/images/Bliss.jpg)
 
-[![Fritz: Pays no attention to the water running on him. Ivan: Pays attention to nothing but the water.](http://www.offlineblog.com/images/thumb-Priorities.jpg)](http://www.offlineblog.com/images/Priorities.jpg)
+[![Fritz: Pays no attention to the water running on him. Ivan: Pays attention to nothing but the water.](/images/2004-07-19/Priorities.jpeg)](http://www.offlineblog.com/images/Priorities.jpg)
 
 (click for enlarged versions)

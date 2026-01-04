@@ -9,4 +9,4 @@ tags:
 author: offby1
 status: draft
 ---
-[![The Death of Superman](http://www.offlineblog.com/images/kaufman_the_death_of_superman%5B1%5D.jpg)](http://www.metafilter.com/mefi/36174)
+[![The Death of Superman](/images/2004-10-11/kaufman_the_death_of_superman5B15D.jpg)](http://www.metafilter.com/mefi/36174)
