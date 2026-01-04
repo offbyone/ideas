@@ -123,5 +123,36 @@
             </div>
         {% endif %}
     </div>
+    
+    {# Similar Posts Section #}
+    {% if article.similar_posts %}
+    <section class="related-posts-section">
+        <h3 class="recent-posts-heading">Similar Posts</h3>
+        
+        <div class="recent-posts-grid">
+            {% for similar in article.similar_posts[:4] %}
+            <article class="post-card">
+                <h4><a href="{{ SITEURL }}/{{ similar.url }}">{{ similar.title }}</a></h4>
+                <div class="meta">
+                    <time datetime="{{ similar.date.isoformat() }}">{{ similar.locale_date }}</time>
+                    {% if similar.category %} · {{ similar.category }}{% endif %}
+                </div>
+                {% if similar.summary %}
+                <p class="excerpt">{{ similar.summary | striptags | truncate(150) }}</p>
+                {% else %}
+                <p class="excerpt">{{ similar.content | striptags | truncate(150) }}</p>
+                {% endif %}
+                {% if similar.tags %}
+                <div class="tags">
+                    {% for tag in similar.tags[:3] %}
+                    <a href="{{ SITEURL }}/{{ tag.url }}" class="tag">{{ tag }}</a>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </article>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
 </article>
 {% endblock %}
