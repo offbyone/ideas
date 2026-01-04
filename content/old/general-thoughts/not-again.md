@@ -1,11 +1,10 @@
 ---
 title: Not again!
 slug: not-again
-date: "2004-07-17 23:32"
-category: General Thoughts
+date: 2004-07-17 23:32
 tags:
-  - sleep
-  - work
+- sleep
+- work
 author: offby1
 status: draft
 ---

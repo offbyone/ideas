@@ -1,9 +1,9 @@
 ---
 title: Missing
 slug: missing
-date: "2004-05-01 04:06"
-category: General Thoughts
-tags: work
+date: 2004-05-01 04:06
+tags:
+- work
 author: offby1
 status: draft
 ---

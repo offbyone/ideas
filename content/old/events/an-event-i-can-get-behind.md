@@ -1,12 +1,11 @@
 ---
 title: An event I can get behind
 slug: an-event-i-can-get-behind
-date: "2005-03-09 08:19"
-category: Events, Humour, Internet
+date: 2005-03-09 08:19
 tags:
-  - events
-  - humour
-  - internet
+- events
+- humour
+- internet
 author: offby1
 status: draft
 ---

@@ -1,9 +1,10 @@
 ---
 title: More ENGL101 follies
 slug: more-engl101-follies
-date: "2002-11-21 11:54"
-category: General Thoughts
-tags: school
+date: 2002-11-21 11:54
+tags:
+- matt-dixon
+- school
 author: offby1
 status: draft
 ---

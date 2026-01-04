@@ -1,9 +1,11 @@
 ---
 title: Sexual Politics in the age of Girls Gone Wild
 slug: sexual-politics-in-the-age-of-girls-gone-wild
-date: "2003-11-20 08:12"
-category: Rants
-tags: rants
+date: 2003-11-20 08:12
+tags:
+- rant
+- rants
+- school
 author: offby1
 status: draft
 ---

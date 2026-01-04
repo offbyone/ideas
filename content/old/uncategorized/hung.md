@@ -1,8 +1,7 @@
 ---
 title: Hung
 slug: hung
-date: "2010-04-28 01:30"
-category: Uncategorized
+date: 2010-04-28 01:30
 author: offby1
 status: draft
 ---

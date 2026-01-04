@@ -1,11 +1,10 @@
 ---
 title: Hey, gimme that!
 slug: hey-gimme-that
-date: "2010-04-19 00:05"
-category: pics
+date: 2010-04-19 00:05
 tags:
-  - project 365
-  - matt
+- matt-dixon
+- project 365
 author: offby1
 status: draft
 ---

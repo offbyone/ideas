@@ -1,9 +1,10 @@
 ---
 title: Carefully-chosen Title
 slug: carefully-chosen-title
-date: "2004-03-22 14:27"
-category: Internet
-tags: internet
+date: 2004-03-22 14:27
+tags:
+- internet
+- school
 author: offby1
 status: draft
 ---

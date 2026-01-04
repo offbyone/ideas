@@ -1,9 +1,9 @@
 ---
 title: Back At It
 slug: back-at-it
-date: "2003-01-06 21:45"
-category: General Thoughts
-tags: school
+date: 2003-01-06 21:45
+tags:
+- school
 author: offby1
 status: draft
 ---

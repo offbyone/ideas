@@ -2,16 +2,20 @@
 title: How to remotely update the host certificates on a UDM
 slug: how-to-remotely-update-the-host-certificates-on-a-udm
 date: 2023-06-13 22:25:37.301572
-category: homelab
+category: hacking
 tags:
-  - letsencrypt
-  - iot
-  - automation
+- letsencrypt
+- udm
+- unifi
+- certificates
+- automation
+- iot
+- aws
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: I combined a few tools -- lego and some helpers -- to get my UDM Pro's SSL certificate to renew automatically
-status: published
-toot: "https://wandering.shop/users/offby1/statuses/110541002888289332"
+toot: https://wandering.shop/users/offby1/statuses/110541002888289332
 ---
 I struggled with whether this was worth writing up,
 

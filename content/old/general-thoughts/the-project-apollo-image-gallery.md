@@ -1,11 +1,10 @@
 ---
 title: The Project Apollo Image Gallery
 slug: the-project-apollo-image-gallery
-date: "2004-07-22 08:23"
-category: General Thoughts, Internet
+date: 2004-07-22 08:23
 tags:
-  - internet
-  - space
+- internet
+- space
 author: offby1
 status: draft
 ---

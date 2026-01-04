@@ -1,12 +1,12 @@
 ---
 title: Picking up the reins
 slug: picking-up-the-reins
-date: "2011-06-09 11:18"
-category: amazon
+date: 2011-06-09 11:18
 tags:
-  - details omitted to protect the innocent
-  - workflow
-  - AWS
+- AWS
+- details omitted to protect the innocent
+- school
+- workflow
 author: offby1
 status: published
 ---

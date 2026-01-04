@@ -1,11 +1,13 @@
 ---
 title: Historical Associations
 slug: historical-associations
-date: "2006-04-23 09:55"
-category: Friends, General Thoughts
+date: 2006-04-23 09:55
 tags:
-  - friends
-  - memory lane
+- edmonton
+- friends
+- matt-dixon
+- memory lane
+- school
 author: offby1
 status: draft
 ---

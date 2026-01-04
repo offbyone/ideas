@@ -1,13 +1,12 @@
 ---
 title: Ah, man...
 slug: ah-man
-date: "2008-05-17 12:43"
-category: General Thoughts
+date: 2008-05-17 12:43
 tags:
-  - apathy
-  - friends
-  - hangover
-  - skydiving
+- apathy
+- friends
+- hangover
+- skydiving
 author: offby1
 status: draft
 ---

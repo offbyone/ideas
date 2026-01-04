@@ -1,12 +1,14 @@
 ---
 title: Upcoming, Downgoing
 slug: upcoming-downgoing
-date: "2004-08-22 08:01"
-category: Events, Friends, General Thoughts, Meta
+date: 2004-08-22 08:01
 tags:
-  - events
-  - friends
-  - meta
+- amy
+- beau
+- events
+- friends
+- matt-dixon
+- meta
 author: offby1
 status: draft
 ---

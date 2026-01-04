@@ -1,12 +1,12 @@
 ---
 title: From the past?
 slug: from-the-past
-date: "2004-07-21 21:45"
-category: Events, Internet, Media
+date: 2004-07-21 21:45
 tags:
-  - events
-  - internet
-  - media
+- char
+- events
+- internet
+- media
 author: offby1
 status: draft
 ---

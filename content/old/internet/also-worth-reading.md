@@ -1,9 +1,10 @@
 ---
 title: Also worth reading
 slug: also-worth-reading
-date: "2004-02-20 09:04"
-category: Internet
-tags: internet
+date: 2004-02-20 09:04
+tags:
+- internet
+- school
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Fated
 slug: fated
-date: "2004-01-25 16:48"
-category: General Thoughts
-tags: work
+date: 2004-01-25 16:48
+tags:
+- work
 author: offby1
 status: draft
 ---

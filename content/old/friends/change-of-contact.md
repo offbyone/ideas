@@ -1,9 +1,9 @@
 ---
 title: Change of Contact
 slug: change-of-contact
-date: "2004-06-24 07:21"
-category: Friends, General Thoughts
-tags: friends
+date: 2004-06-24 07:21
+tags:
+- friends
 author: offby1
 status: draft
 ---

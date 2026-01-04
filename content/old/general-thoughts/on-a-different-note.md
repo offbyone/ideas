@@ -1,14 +1,14 @@
 ---
 title: On a different note
 slug: on-a-different-note
-date: "2004-05-30 08:16"
-category: General Thoughts
+date: 2004-05-30 08:16
 tags:
-  - edmonton
-  - friends
-  - memory lane
-  - moving
-  - school
+- char
+- edmonton
+- friends
+- memory lane
+- moving
+- school
 author: offby1
 status: draft
 ---

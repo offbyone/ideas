@@ -1,12 +1,11 @@
 ---
 title: On Incompleteness
 slug: on-incompleteness
-date: "2005-03-20 00:21"
-category: Internet, Media
+date: 2005-03-20 00:21
 tags:
-  - internet
-  - media
-  - science
+- internet
+- media
+- science
 author: offby1
 status: draft
 ---

@@ -1,15 +1,15 @@
 ---
 title: Crunch, and Success
 slug: crunch-and-success
-date: "2006-11-17 08:29"
-category: Friends, General Thoughts
+date: 2006-11-17 08:29
 tags:
-  - exams
-  - friends
-  - ldap
-  - school
-  - stress
-  - work
+- exams
+- friends
+- ldap
+- school
+- simon
+- stress
+- work
 author: offby1
 status: draft
 ---

@@ -1,9 +1,10 @@
 ---
 title: Restricted News
 slug: restricted-news
-date: "2004-07-12 06:03"
-category: Media
-tags: media
+date: 2004-07-12 06:03
+tags:
+- edmonton
+- media
 author: offby1
 status: draft
 ---

@@ -1,12 +1,12 @@
 ---
 title: Double-wides and Late Night Shopping
 slug: double-wides-and-late-night-shopping
-date: "2006-12-24 11:01"
-category: General Thoughts
+date: 2006-12-24 11:01
 tags:
-  - bah-humbug
-  - crowds
-  - walmart
+- bah-humbug
+- char
+- crowds
+- walmart
 author: offby1
 status: draft
 ---

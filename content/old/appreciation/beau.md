@@ -1,9 +1,10 @@
 ---
 title: Beau
 slug: beau
-date: "2004-08-01 17:18"
-category: Appreciation
-tags: appreciation
+date: 2004-08-01 17:18
+tags:
+- appreciation
+- beau
 author: offby1
 status: draft
 ---

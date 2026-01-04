@@ -1,17 +1,18 @@
 ---
 title: Obscenity is Fun!
 slug: obscenity-is-fun
-date: "2006-12-31 11:19"
-category: Asides, Humour
+date: 2006-12-31 11:19
 tags:
-  - Alan Moore
-  - censorship
-  - customs
-  - gifts
-  - Lost Girls
-  - obscenity
-  - pornography
-  - undue risk
+- alan moore
+- lost girls
+- censorship
+- char
+- customs
+- gifts
+- matt-dixon
+- obscenity
+- pornography
+- undue risk
 author: offby1
 status: draft
 ---

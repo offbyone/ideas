@@ -1,12 +1,11 @@
 ---
 title: Free Speech for the dumb, too
 slug: free-speech-for-the-dumb-too
-date: "2003-04-13 19:06"
-category: Media
+date: 2003-04-13 19:06
 tags:
-  - free speech
-  - freedom
-  - media
+- free speech
+- freedom
+- media
 author: offby1
 status: draft
 ---

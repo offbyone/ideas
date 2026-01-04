@@ -1,11 +1,10 @@
 ---
 title: Sometimes I worry
 slug: sometimes-i-worry
-date: "2005-12-05 23:45"
-category: General Thoughts
+date: 2005-12-05 23:45
 tags:
-  - musings
-  - temper
+- musings
+- temper
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Done
 slug: done
-date: "2003-12-17 02:19"
-category: Media
-tags: media
+date: 2003-12-17 02:19
+tags:
+- media
 author: offby1
 status: draft
 ---

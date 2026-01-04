@@ -1,12 +1,14 @@
 ---
 title: Couple of things
 slug: couple-of-things
-date: "2005-02-18 08:28"
-category: Friends, General Thoughts, Internet
+date: 2005-02-18 08:28
 tags:
-  - friends
-  - internet
-  - school
+- aaron
+- alberta
+- char
+- friends
+- internet
+- school
 author: offby1
 status: draft
 ---

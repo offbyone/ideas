@@ -1,12 +1,11 @@
 ---
 title: Get off my lawn!
 slug: get-off-my-lawn
-date: "2008-01-20 09:38"
-category: General Thoughts
+date: 2008-01-20 09:38
 tags:
-  - dislocation
-  - news
-  - old
+- dislocation
+- news
+- old
 author: offby1
 status: draft
 ---

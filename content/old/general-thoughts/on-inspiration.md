@@ -1,9 +1,10 @@
 ---
 title: On Inspiration
 slug: on-inspiration
-date: "2004-08-08 23:32"
-category: General Thoughts, Projects
-tags: projects
+date: 2004-08-08 23:32
+tags:
+- projects
+- school
 author: offby1
 status: draft
 ---

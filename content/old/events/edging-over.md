@@ -1,11 +1,10 @@
 ---
 title: Edging over
 slug: edging-over
-date: "2005-02-12 07:56"
-category: Events, General Thoughts, Media
+date: 2005-02-12 07:56
 tags:
-  - events
-  - media
+- events
+- media
 author: offby1
 status: draft
 ---

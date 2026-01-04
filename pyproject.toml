@@ -41,6 +41,8 @@ dependencies = [
     "aws-log-parser~=3.0",
     "pelican-myst-reader>=1.4.0",
     "myst-parser[linkify]>=4.0.1",
+    "python-frontmatter>=1.1.0",
+    "ruamel-yaml>=0.19.1",
 ]
 
 [tool.uv]
@@ -55,6 +57,7 @@ email = "offline@offby1.net"
 
 [dependency-groups]
 dev = [
+    "flask>=3.1.2",
     "livereload>=2.7.1",
 ]
 

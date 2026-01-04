@@ -1,14 +1,14 @@
 ---
 title: Michael Geist - The Search for Net Neutrality
 slug: michael-geist-the-search-for-net-neutrality
-date: "2005-12-19 15:34"
-category: General Thoughts, Internet, Media, Rants
+date: 2005-12-19 15:34
 tags:
-  - intellectual property
-  - internet
-  - media
-  - privacy
-  - rants
+- intellectual property
+- internet
+- media
+- privacy
+- rants
+- school
 author: offby1
 status: draft
 ---

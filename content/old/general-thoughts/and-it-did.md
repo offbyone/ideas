@@ -1,13 +1,12 @@
 ---
-title: ... and it did.
+title: '... and it did.'
 slug: and-it-did
-date: "2007-01-16 11:56"
-category: Life
+date: 2007-01-16 11:56
 tags:
-  - bad news
-  - dislocation
-  - health
-  - skydiving
+- bad news
+- dislocation
+- health
+- skydiving
 author: offby1
 status: published
 ---

@@ -1,12 +1,13 @@
 ---
 title: Post Slug
 slug: post-slug
-date: "2006-04-08 11:41"
-category: Asides, Friends, General Thoughts
+date: 2006-04-08 11:41
 tags:
-  - asides
-  - friends
-  - school
+- asides
+- char
+- friends
+- school
+- simon
 author: offby1
 status: draft
 ---

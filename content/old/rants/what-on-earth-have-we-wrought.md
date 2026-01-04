@@ -1,9 +1,10 @@
 ---
 title: What on earth have we wrought?
 slug: what-on-earth-have-we-wrought
-date: "2004-03-05 08:09"
-category: Rants
-tags: rants
+date: 2004-03-05 08:09
+tags:
+- rant
+- rants
 author: offby1
 status: draft
 ---

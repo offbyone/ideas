@@ -4,15 +4,16 @@ slug: stop-putting-nix-setup-in-your-checked-in-envrc-files
 date: 2025-07-07 11:05:38.566927
 category: programming
 tags:
-  - petpeeve
-  - nix
-  - direnv
+- nix
+- direnv
+- rant
+- workflow
 author: Chris Rose
-email: offline@offby1.net
-summary: Nix-using developers who use direnv, please stop checking in your .envrc files; they break your project for other contributors.
 status: published
-lobsters: "https://lobste.rs/s/nm5lho/stop_putting_nix_setup_your_checked_envrc"
-toot: "https://wandering.shop/@offby1/114753269522469030"
+email: offline@offby1.net
+lobsters: https://lobste.rs/s/nm5lho/stop_putting_nix_setup_your_checked_envrc
+summary: Nix-using developers who use direnv, please stop checking in your .envrc files; they break your project for other contributors.
+toot: https://wandering.shop/@offby1/114753269522469030
 ---
 This is, as [glyph pointed out a while back](https://mastodon.social/@glyph/114753285581802594), an "extremely specific complaint", but here's the short version:
 

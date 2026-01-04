@@ -1,13 +1,14 @@
 ---
 title: Holiday Roundup
 slug: holiday-roundup
-date: "2004-12-30 09:21"
-category: Friends, General Thoughts, Projects, Rants
+date: 2004-12-30 09:21
+category: programming
 tags:
-  - friends
-  - projects
-  - rants
-  - school
+- char
+- friends
+- projects
+- rants
+- school
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Re-synchronization
 slug: re-synchronization
-date: "2006-01-06 07:42"
-category: General Thoughts, Media
-tags: media
+date: 2006-01-06 07:42
+tags:
+- media
 author: offby1
 status: draft
 ---

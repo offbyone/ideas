@@ -1,11 +1,12 @@
 ---
 title: Employ MY Abilities
 slug: employ-my-abilities
-date: "2005-02-03 14:00"
-category: General Thoughts
+date: 2005-02-03 14:00
 tags:
-  - school
-  - work
+- alberta
+- edmonton
+- school
+- work
 author: offby1
 status: draft
 ---

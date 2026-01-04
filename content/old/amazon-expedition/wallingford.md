@@ -1,11 +1,10 @@
 ---
 title: Wallingford
 slug: wallingford
-date: "2011-06-01 22:06"
-category: amazon
+date: 2011-06-01 22:06
 tags:
-  - home
-  - seattle
+- home
+- seattle
 author: offby1
 status: published
 ---

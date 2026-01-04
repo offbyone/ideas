@@ -1,12 +1,11 @@
 ---
 title: Poke and Prod
 slug: poke-and-prod
-date: "2005-02-09 22:26"
-category: General Thoughts, Media
+date: 2005-02-09 22:26
 tags:
-  - media
-  - school
-  - work
+- media
+- school
+- work
 author: offby1
 status: draft
 ---

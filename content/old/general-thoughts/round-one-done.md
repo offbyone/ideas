@@ -1,9 +1,9 @@
 ---
 title: Round one done
 slug: round-one-done
-date: "2003-02-26 16:27"
-category: General Thoughts
-tags: school
+date: 2003-02-26 16:27
+tags:
+- school
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Home off the holidays
 slug: home-off-the-holidays
-date: "2004-06-26 11:04"
-category: General Thoughts
-tags: work
+date: 2004-06-26 11:04
+tags:
+- work
 author: offby1
 status: draft
 ---

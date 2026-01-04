@@ -1,9 +1,11 @@
 ---
 title: One down, an infinitude to go...
 slug: one-down-an-infinitude-to-go
-date: "2003-01-01 10:15"
-category: Events
-tags: events
+date: 2003-01-01 10:15
+tags:
+- char
+- events
+- school
 author: offby1
 status: draft
 ---

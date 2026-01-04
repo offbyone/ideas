@@ -1,11 +1,12 @@
 ---
 title: Ours is
 slug: ours-is
-date: "2005-03-18 07:35"
-category: Events
+date: 2005-03-18 07:35
 tags:
-  - events
-  - science
+- events
+- school
+- science
+- simon
 author: offby1
 status: draft
 ---

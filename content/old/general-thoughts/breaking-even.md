@@ -1,13 +1,13 @@
 ---
 title: Breaking (even?)
 slug: breaking-even
-date: "2004-09-06 08:34"
-category: General Thoughts
+date: 2004-09-06 08:34
 tags:
-  - computer
-  - failure
-  - savages
-  - vandalism
+- computer
+- failure
+- savages
+- simon
+- vandalism
 author: offby1
 status: draft
 ---

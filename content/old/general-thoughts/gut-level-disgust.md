@@ -1,15 +1,15 @@
 ---
 title: Gut-level disgust
 slug: gut-level-disgust
-date: "2003-02-28 06:54"
-category: General Thoughts, Rants
+date: 2003-02-28 06:54
 tags:
-  - asshole
-  - free speech
-  - hypocrisy
-  - idiocy
-  - privacy
-  - rants
+- asshole
+- char
+- free speech
+- hypocrisy
+- idiocy
+- privacy
+- rants
 author: offby1
 status: draft
 ---

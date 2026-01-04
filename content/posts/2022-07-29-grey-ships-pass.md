@@ -4,13 +4,15 @@ slug: grey-ships-pass
 date: 2022-08-17 00:53:58.055492
 category: amazon
 tags:
-  - AWS
-  - changes
+- aws
+- career
+- reflection
+- leaving
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Being an account of the emotional side of leaving an employer that has defined one's career.
-status: published
-toot: "https://wandering.shop/@offby1/108837036785290901"
+toot: https://wandering.shop/@offby1/108837036785290901
 ---
 I don't even know where to start with this.
 

@@ -1,9 +1,9 @@
 ---
 title: That damned wall
 slug: that-damned-wall
-date: "2004-09-02 18:33"
-category: Projects
-tags: projects
+date: 2004-09-02 18:33
+tags:
+- projects
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Absentia
 slug: absentia
-date: "2005-03-21 11:38"
-category: General Thoughts
-tags: school
+date: 2005-03-21 11:38
+tags:
+- school
 author: offby1
 status: draft
 ---

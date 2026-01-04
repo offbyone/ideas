@@ -1,11 +1,12 @@
 ---
 title: A review of OmniWeb 5.5, and commentary on polish.
 slug: a-review-of-omniweb-55-and-commentary-on-polish
-date: "2006-09-07 07:02"
-category: Internet, Rants
+date: 2006-09-07 07:02
+category: tools
 tags:
-  - internet
-  - rants
+- internet
+- rants
+- school
 author: offby1
 status: draft
 ---

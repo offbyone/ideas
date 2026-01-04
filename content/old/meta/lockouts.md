@@ -1,9 +1,9 @@
 ---
 title: Lockouts
 slug: lockouts
-date: "2006-10-04 07:02"
-category: Meta
-tags: meta
+date: 2006-10-04 07:02
+tags:
+- meta
 author: offby1
 status: draft
 ---

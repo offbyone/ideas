@@ -1,9 +1,9 @@
 ---
 title: Ooooo!
 slug: ooooo
-date: "2003-11-06 14:35"
-category: Media
-tags: media
+date: 2003-11-06 14:35
+tags:
+- media
 author: offby1
 status: draft
 ---

@@ -1,11 +1,10 @@
 ---
 title: Call to action
 slug: call-to-action
-date: "2006-01-25 17:19"
-category: Internet, Media
+date: 2006-01-25 17:19
 tags:
-  - internet
-  - media
+- internet
+- media
 author: offby1
 status: draft
 ---

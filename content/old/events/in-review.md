@@ -1,11 +1,12 @@
 ---
 title: In review
 slug: in-review
-date: "2003-12-27 14:50"
-category: contemplation
+date: 2003-12-27 14:50
 tags:
-  - events
-  - space
+- beau
+- char
+- events
+- space
 author: offby1
 status: published
 ---

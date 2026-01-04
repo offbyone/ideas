@@ -1,13 +1,12 @@
 ---
 title: Lasers!
 slug: lasers
-date: "2008-05-09 08:42"
-category: General Thoughts
+date: 2008-05-09 08:42
 tags:
-  - family
-  - friends
-  - laser tag
-  - party
+- family
+- friends
+- laser tag
+- party
 author: offby1
 status: draft
 ---

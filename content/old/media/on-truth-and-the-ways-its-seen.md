@@ -1,9 +1,10 @@
 ---
 title: On truth and the ways it's seen
 slug: on-truth-and-the-ways-its-seen
-date: "2003-05-05 13:27"
-category: Media
-tags: media
+date: 2003-05-05 13:27
+tags:
+- media
+- school
 author: offby1
 status: draft
 ---

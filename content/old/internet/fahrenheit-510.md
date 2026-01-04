@@ -1,11 +1,10 @@
 ---
 title: Fahrenheit 5/10
 slug: fahrenheit-510
-date: "2004-06-30 05:15"
-category: Internet, Media
+date: 2004-06-30 05:15
 tags:
-  - internet
-  - media
+- internet
+- media
 author: offby1
 status: draft
 ---

@@ -1,13 +1,14 @@
 ---
 title: Dissent in Academia
 slug: dissent-in-academia
-date: "2004-11-28 11:28"
-category: General Thoughts, Internet, Rants
+date: 2004-11-28 11:28
 tags:
-  - academia
-  - free speech
-  - internet
-  - rants
+- academia
+- free speech
+- internet
+- matt-dixon
+- rants
+- school
 author: offby1
 status: draft
 ---

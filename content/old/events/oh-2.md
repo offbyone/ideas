@@ -1,9 +1,9 @@
 ---
 title: Oh
 slug: oh-2
-date: "2004-05-05 13:47"
-category: Events
-tags: events
+date: 2004-05-05 13:47
+tags:
+- events
 author: offby1
 status: draft
 ---

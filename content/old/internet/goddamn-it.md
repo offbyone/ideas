@@ -1,11 +1,10 @@
 ---
 title: Goddamn It
 slug: goddamn-it
-date: "2006-12-15 20:03"
-category: Internet
+date: 2006-12-15 20:03
 tags:
-  - internet
-  - meme
+- internet
+- meme
 author: offby1
 status: draft
 ---

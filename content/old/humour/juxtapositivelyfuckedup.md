@@ -1,13 +1,12 @@
 ---
 title: Juxtapositivelyfuckedup
 slug: juxtapositivelyfuckedup
-date: "2009-02-12 16:19"
-category: humour
+date: 2009-02-12 16:19
 tags:
-  - juxtaposition
-  - random
-  - Telus
-  - video
+- Telus
+- juxtaposition
+- random
+- video
 author: offby1
 status: published
 ---

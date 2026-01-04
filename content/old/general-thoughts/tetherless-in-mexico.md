@@ -1,13 +1,13 @@
 ---
 title: Tetherless in Mexico
 slug: tetherless-in-mexico
-date: "2005-02-22 21:03"
-category: General Thoughts
+date: 2005-02-22 21:03
 tags:
-  - school
-  - security
-  - travel
-  - wi-fi
+- char
+- school
+- security
+- travel
+- wi-fi
 author: offby1
 status: draft
 ---

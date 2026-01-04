@@ -1,12 +1,11 @@
 ---
 title: It's here!
 slug: its-here
-date: "2004-10-05 18:26"
-category: General Thoughts
+date: 2004-10-05 18:26
 tags:
-  - apple
-  - ipod
-  - music
+- apple
+- ipod
+- music
 author: offby1
 status: draft
 ---

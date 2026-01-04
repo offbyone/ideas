@@ -1,13 +1,13 @@
 ---
 title: Rejection and the Studying man
 slug: rejection-and-the-studying-man
-date: "2003-09-19 09:26"
-category: General Thoughts, Rants
+date: 2003-09-19 09:26
 tags:
-  - fuck telus
-  - rants
-  - school
-  - work
+- alberta
+- fuck telus
+- rants
+- school
+- work
 author: offby1
 status: draft
 ---

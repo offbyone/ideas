@@ -1,9 +1,9 @@
 ---
 title: Due to Due Dates
 slug: due-to-due-dates
-date: "2005-02-11 13:20"
-category: General Thoughts
-tags: school
+date: 2005-02-11 13:20
+tags:
+- school
 author: offby1
 status: draft
 ---

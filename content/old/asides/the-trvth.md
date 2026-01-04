@@ -1,9 +1,9 @@
 ---
 title: The Trvth
 slug: the-trvth
-date: "2007-09-07 07:58"
-category: Asides, General Thoughts
-tags: quote
+date: 2007-09-07 07:58
+tags:
+- quote
 author: offby1
 status: draft
 ---

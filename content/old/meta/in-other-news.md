@@ -1,9 +1,9 @@
 ---
 title: In other news
 slug: in-other-news
-date: "2004-05-30 08:58"
-category: Meta
-tags: meta
+date: 2004-05-30 08:58
+tags:
+- meta
 author: offby1
 status: draft
 ---

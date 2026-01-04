@@ -1,13 +1,14 @@
 ---
 title: Plaudits
 slug: plaudits
-date: "2007-11-06 16:04"
-category: Media
+date: 2007-11-06 16:04
 tags:
-  - admiration
-  - family
-  - medicine
-  - radiation
+- admiration
+- char
+- family
+- media
+- medicine
+- radiation
 author: offby1
 status: draft
 ---

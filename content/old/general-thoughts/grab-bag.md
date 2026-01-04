@@ -1,14 +1,13 @@
 ---
 title: Grab bag
 slug: grab-bag
-date: "2004-04-23 17:34"
-category: General Thoughts
+date: 2004-04-23 17:34
 tags:
-  - academia
-  - free speech
-  - philosophy
-  - school
-  - truth
+- academia
+- free speech
+- philosophy
+- school
+- truth
 author: offby1
 status: draft
 ---

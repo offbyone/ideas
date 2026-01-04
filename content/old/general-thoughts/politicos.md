@@ -1,9 +1,9 @@
 ---
 title: Politicos
 slug: politicos
-date: "2003-01-13 16:26"
-category: General Thoughts
-tags: school
+date: 2003-01-13 16:26
+tags:
+- school
 author: offby1
 status: draft
 ---

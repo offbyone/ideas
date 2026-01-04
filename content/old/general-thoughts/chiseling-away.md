@@ -1,14 +1,15 @@
 ---
 title: Chiseling away
 slug: chiseling-away
-date: "2004-06-23 15:03"
-category: General Thoughts, Internet, Media, Rants
+date: 2004-06-23 15:03
 tags:
-  - intellectual property
-  - internet
-  - media
-  - privacy
-  - rants
+- alberta
+- edmonton
+- intellectual property
+- internet
+- media
+- privacy
+- rants
 author: offby1
 status: draft
 ---

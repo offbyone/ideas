@@ -1,11 +1,10 @@
 ---
-title: "Also:"
+title: 'Also:'
 slug: also-3
-date: "2007-01-28 10:35"
-category: Asides, Humour
+date: 2007-01-28 10:35
 tags:
-  - geeky
-  - recursion
+- geeky
+- recursion
 author: offby1
 status: draft
 ---

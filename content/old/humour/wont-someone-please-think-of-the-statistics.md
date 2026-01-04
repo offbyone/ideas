@@ -1,13 +1,12 @@
 ---
 title: Won't someone please think of the statistics?
 slug: wont-someone-please-think-of-the-statistics
-date: "2006-08-11 06:42"
-category: Humour, Internet, Media, Rants
+date: 2006-08-11 06:42
 tags:
-  - humour
-  - internet
-  - media
-  - rants
+- humour
+- internet
+- media
+- rants
 author: offby1
 status: draft
 ---

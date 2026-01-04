@@ -1,9 +1,9 @@
 ---
 title: One down...
 slug: one-down
-date: "2004-09-09 08:26"
-category: General Thoughts
-tags: school
+date: 2004-09-09 08:26
+tags:
+- school
 author: offby1
 status: draft
 ---

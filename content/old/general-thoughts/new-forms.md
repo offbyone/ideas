@@ -1,9 +1,9 @@
 ---
 title: New forms
 slug: new-forms
-date: "2004-01-12 09:39"
-category: General Thoughts
-tags: school
+date: 2004-01-12 09:39
+tags:
+- school
 author: offby1
 status: draft
 ---

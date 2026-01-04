@@ -1,9 +1,9 @@
 ---
 title: Blah.
 slug: blah
-date: "2003-06-26 10:05"
-category: General Thoughts
-tags: ping
+date: 2003-06-26 10:05
+tags:
+- ping
 author: offby1
 status: draft
 ---

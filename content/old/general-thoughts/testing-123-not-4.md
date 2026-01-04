@@ -1,9 +1,9 @@
 ---
 title: Testing 1,2,3... (not 4)
 slug: testing-123-not-4
-date: "2002-12-12 15:22"
-category: General Thoughts
-tags: school
+date: 2002-12-12 15:22
+tags:
+- school
 author: offby1
 status: draft
 ---

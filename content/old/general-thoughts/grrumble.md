@@ -1,9 +1,10 @@
 ---
 title: Grr(umble)...
 slug: grrumble
-date: "2006-06-10 10:10"
-category: General Thoughts
-tags: sick
+date: 2006-06-10 10:10
+tags:
+- sick
+- skydiving
 author: offby1
 status: draft
 ---

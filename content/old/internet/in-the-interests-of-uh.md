@@ -1,9 +1,9 @@
 ---
 title: In the interests of, uh...
 slug: in-the-interests-of-uh
-date: "2003-02-17 09:52"
-category: Internet
-tags: internet
+date: 2003-02-17 09:52
+tags:
+- internet
 author: offby1
 status: draft
 ---

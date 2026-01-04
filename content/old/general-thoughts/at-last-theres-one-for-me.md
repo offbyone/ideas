@@ -1,9 +1,11 @@
 ---
 title: At last, there's one for me!
 slug: at-last-theres-one-for-me
-date: "2004-02-07 10:21"
-category: General Thoughts, Internet
-tags: internet
+date: 2004-02-07 10:21
+tags:
+- char
+- internet
+- matt-dixon
 author: offby1
 status: draft
 ---

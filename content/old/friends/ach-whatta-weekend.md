@@ -1,13 +1,14 @@
 ---
 title: Ach.  Whatta Weekend
 slug: ach-whatta-weekend
-date: "2007-03-12 15:09"
-category: Friends
+date: 2007-03-12 15:09
 tags:
-  - family
-  - stupidity
-  - travel
-  - wedding
+- char
+- family
+- friends
+- stupidity
+- travel
+- wedding
 author: offby1
 status: draft
 ---

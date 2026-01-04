@@ -1,9 +1,9 @@
 ---
 title: Relief at the end
 slug: relief-at-the-end
-date: "2003-04-29 15:44"
-category: General Thoughts
-tags: school
+date: 2003-04-29 15:44
+tags:
+- school
 author: offby1
 status: draft
 ---

@@ -1,12 +1,12 @@
 ---
 title: Renovations
 slug: renovations
-date: "2005-12-07 11:12"
-category: Asides, Friends, Meta
+date: 2005-12-07 11:12
 tags:
-  - asides
-  - friends
-  - meta
+- asides
+- char
+- friends
+- meta
 author: offby1
 status: draft
 ---

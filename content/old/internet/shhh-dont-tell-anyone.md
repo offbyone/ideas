@@ -1,11 +1,11 @@
 ---
 title: Shhh!  Don't Tell Anyone!
 slug: shhh-dont-tell-anyone
-date: "2007-08-14 20:09"
-category: Internet
+date: 2007-08-14 20:09
 tags:
-  - conspiracy
-  - link
+- conspiracy
+- link
+- school
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Signatures Galore
 slug: signatures-galore
-date: "2003-01-04 19:35"
-category: General Thoughts
-tags: work
+date: 2003-01-04 19:35
+tags:
+- work
 author: offby1
 status: draft
 ---

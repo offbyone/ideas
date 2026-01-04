@@ -1,9 +1,9 @@
 ---
 title: Waiting for the other shoe
 slug: waiting-for-the-other-shoe
-date: "2007-01-10 22:41"
-category: Asides, General Thoughts
-tags: impending doom
+date: 2007-01-10 22:41
+tags:
+- impending doom
 author: offby1
 status: draft
 ---

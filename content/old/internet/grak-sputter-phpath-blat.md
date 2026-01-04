@@ -1,11 +1,10 @@
 ---
 title: Grak Sputter Phpath Blat!
 slug: grak-sputter-phpath-blat
-date: "2005-02-02 08:58"
-category: Internet, Rants
+date: 2005-02-02 08:58
 tags:
-  - internet
-  - rants
+- internet
+- rants
 author: offby1
 status: draft
 ---

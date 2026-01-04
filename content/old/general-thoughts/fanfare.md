@@ -1,9 +1,11 @@
 ---
 title: Fanfare
 slug: fanfare
-date: "2003-11-17 18:46"
-category: General Thoughts
-tags: lord of the rings
+date: 2003-11-17 18:46
+tags:
+- char
+- lord of the rings
+- simon
 author: offby1
 status: draft
 ---

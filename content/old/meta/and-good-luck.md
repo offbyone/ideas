@@ -1,11 +1,10 @@
 ---
-title: ... and good luck
+title: '... and good luck'
 slug: and-good-luck
-date: "2008-06-10 06:49"
-category: Meta
+date: 2008-06-10 06:49
 tags:
-  - meta
-  - school
+- meta
+- school
 author: offby1
 status: draft
 ---

@@ -1,9 +1,11 @@
 ---
 title: Burning Building
 slug: burning-building
-date: "2006-02-10 22:22"
-category: Events, General Thoughts
-tags: events
+date: 2006-02-10 22:22
+tags:
+- char
+- events
+- matt-dixon
 author: offby1
 status: draft
 ---

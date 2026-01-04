@@ -1,9 +1,9 @@
 ---
 title: Quietus
 slug: quietus
-date: "2004-01-20 15:21"
-category: General Thoughts
-tags: ping
+date: 2004-01-20 15:21
+tags:
+- ping
 author: offby1
 status: draft
 ---

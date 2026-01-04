@@ -1,11 +1,10 @@
 ---
 title: Alive
 slug: alive
-date: "2007-09-06 10:05"
-category: General Thoughts
+date: 2007-09-06 10:05
 tags:
-  - games
-  - work
+- games
+- work
 author: offby1
 status: draft
 ---

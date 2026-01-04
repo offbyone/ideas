@@ -1,8 +1,7 @@
 ---
 title: BBQ
 slug: bbq
-date: "2010-05-27 05:12"
-category: Uncategorized
+date: 2010-05-27 05:12
 author: offby1
 status: draft
 ---

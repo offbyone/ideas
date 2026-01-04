@@ -1,11 +1,10 @@
 ---
 title: How to raise a good kid, volume 1
 slug: how-to-raise-a-good-kid-volume-1
-date: "2010-05-01 20:49"
-category: life
+date: 2010-05-01 20:49
 tags:
-  - parenting
-  - matt
+- matt-dixon
+- parenting
 author: offby1
 status: published
 ---

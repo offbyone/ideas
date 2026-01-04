@@ -1,9 +1,12 @@
 ---
 title: A TV person's critique
 slug: a-tv-persons-critique
-date: "2002-12-16 06:58"
-category: Rants
-tags: rants
+date: 2002-12-16 06:58
+tags:
+- beau
+- rant
+- rants
+- school
 author: offby1
 status: draft
 ---

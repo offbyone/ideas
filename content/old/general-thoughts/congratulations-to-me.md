@@ -1,9 +1,9 @@
 ---
 title: Congratulations to me!
 slug: congratulations-to-me
-date: "2004-03-30 22:51"
-category: General Thoughts
-tags: char
+date: 2004-03-30 22:51
+tags:
+- char
 author: offby1
 status: draft
 ---

@@ -1,9 +1,10 @@
 ---
 title: In the shadow
 slug: in-the-shadow
-date: "2008-02-21 00:20"
-category: contemplation
-tags: space
+date: 2008-02-21 00:20
+tags:
+- char
+- space
 author: offby1
 status: published
 ---

@@ -1,11 +1,11 @@
 ---
 title: Please land...
 slug: please-land
-date: "2003-10-15 07:54"
-category: contemplation
+date: 2003-10-15 07:54
 tags:
-  - events
-  - space
+- events
+- school
+- space
 author: offby1
 status: published
 ---

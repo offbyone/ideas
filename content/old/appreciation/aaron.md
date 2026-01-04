@@ -1,9 +1,10 @@
 ---
 title: Aaron
 slug: aaron
-date: "2004-08-21 13:33"
-category: Appreciation
-tags: appreciation
+date: 2004-08-21 13:33
+tags:
+- aaron
+- appreciation
 author: offby1
 status: draft
 ---

@@ -1,12 +1,11 @@
 ---
 title: A natural selection for my weblog
 slug: a-natural-selection-for-my-weblog
-date: "2007-10-19 07:17"
-category: General Thoughts
+date: 2007-10-19 07:17
 tags:
-  - counterintuitive
-  - evolution
-  - statistics
+- counterintuitive
+- evolution
+- statistics
 author: offby1
 status: draft
 ---

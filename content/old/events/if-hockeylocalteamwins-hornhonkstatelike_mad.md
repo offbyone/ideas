@@ -1,9 +1,9 @@
 ---
 title: if (hockey.localTeam().wins()) { horn.honk(State.LIKE_MAD); }
 slug: if-hockeylocalteamwins-hornhonkstatelike_mad
-date: "2006-05-17 21:13"
-category: Events, General Thoughts
-tags: events
+date: 2006-05-17 21:13
+tags:
+- events
 author: offby1
 status: draft
 ---

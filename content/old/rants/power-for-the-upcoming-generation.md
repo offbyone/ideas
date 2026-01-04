@@ -1,9 +1,12 @@
 ---
 title: Power for the upcoming generation
 slug: power-for-the-upcoming-generation
-date: "2004-05-24 07:52"
-category: Rants
-tags: rants
+date: 2004-05-24 07:52
+tags:
+- matt-dixon
+- rant
+- rants
+- school
 author: offby1
 status: draft
 ---

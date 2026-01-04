@@ -1,12 +1,11 @@
 ---
 title: Dangerous Terms
 slug: dangerous-terms
-date: "2005-03-05 07:58"
-category: General Thoughts, Internet
+date: 2005-03-05 07:58
 tags:
-  - intellectual property
-  - internet
-  - privacy
+- intellectual property
+- internet
+- privacy
 author: offby1
 status: draft
 ---

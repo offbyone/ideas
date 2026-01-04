@@ -1,12 +1,15 @@
 ---
 title: Ideas for my upcoming birthday
 slug: ideas-for-my-upcoming-birthday
-date: "2006-04-10 23:14"
-category: Events, Friends, General Thoughts, Media
+date: 2006-04-10 23:14
 tags:
-  - events
-  - friends
-  - media
+- amy
+- char
+- events
+- friends
+- media
+- school
+- simon
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: A step past
 slug: a-step-past
-date: "2003-03-05 06:22"
-category: General Thoughts
-tags: school
+date: 2003-03-05 06:22
+tags:
+- school
 author: offby1
 status: draft
 ---

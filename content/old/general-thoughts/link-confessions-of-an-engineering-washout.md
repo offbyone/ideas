@@ -1,12 +1,11 @@
 ---
-title: "Link: Confessions of an Engineering Washout"
+title: 'Link: Confessions of an Engineering Washout'
 slug: link-confessions-of-an-engineering-washout
-date: "2005-09-28 07:17"
-category: General Thoughts, Internet, Media
+date: 2005-09-28 07:17
 tags:
-  - internet
-  - media
-  - school
+- internet
+- media
+- school
 author: offby1
 status: draft
 ---

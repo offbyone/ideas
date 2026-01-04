@@ -1,13 +1,15 @@
 ---
 title: On Names, and Nano
 slug: on-names-and-nano
-date: "2007-03-06 13:15"
-category: Internet, Meta, Rants
+date: 2007-03-06 13:15
 tags:
-  - ludditism
-  - science
-  - snark
-  - stupidity
+- char
+- ludditism
+- matt-dixon
+- school
+- science
+- snark
+- stupidity
 author: offby1
 status: draft
 ---

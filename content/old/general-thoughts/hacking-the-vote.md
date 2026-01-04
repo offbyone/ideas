@@ -1,12 +1,11 @@
 ---
 title: Hacking the Vote
 slug: hacking-the-vote
-date: "2003-09-30 11:56"
-category: General Thoughts, Rants
+date: 2003-09-30 11:56
 tags:
-  - intellectual property
-  - privacy
-  - rants
+- intellectual property
+- privacy
+- rants
 author: offby1
 status: draft
 ---

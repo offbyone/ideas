@@ -1,11 +1,11 @@
 ---
 title: G'morning.  I'm bored, already!
 slug: gmorning-im-bored-already
-date: "2004-07-11 07:29"
-category: General Thoughts, Projects
+date: 2004-07-11 07:29
+category: programming
 tags:
-  - projects
-  - work
+- projects
+- work
 author: offby1
 status: draft
 ---

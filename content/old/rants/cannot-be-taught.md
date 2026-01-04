@@ -1,13 +1,13 @@
 ---
 title: Cannot Be Taught
 slug: cannot-be-taught
-date: "2009-02-18 16:20"
-category: society
+date: 2009-02-18 16:20
 tags:
-  - education
-  - entitlement
-  - parenting
-  - society
+- education
+- entitlement
+- parenting
+- school
+- society
 author: offby1
 status: draft
 ---

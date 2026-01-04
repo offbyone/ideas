@@ -1,14 +1,13 @@
 ---
 title: Unbridled Optimism
 slug: unbridled-optimism
-date: "2008-02-05 18:36"
-category: General Thoughts
+date: 2008-02-05 18:36
 tags:
-  - cybernetics
-  - good design
-  - good news
-  - medicine
-  - technology
+- cybernetics
+- good design
+- good news
+- medicine
+- technology
 author: offby1
 status: draft
 ---

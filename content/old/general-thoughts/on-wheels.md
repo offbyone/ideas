@@ -1,13 +1,12 @@
 ---
 title: On Wheels
 slug: on-wheels
-date: "2007-04-25 06:27"
-category: General Thoughts
+date: 2007-04-25 06:27
 tags:
-  - bike
-  - birthday
-  - commuting
-  - work
+- bike
+- birthday
+- commuting
+- work
 author: offby1
 status: draft
 ---

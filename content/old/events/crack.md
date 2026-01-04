@@ -1,13 +1,12 @@
 ---
 title: Crack
 slug: crack
-date: "2005-02-16 08:41"
-category: Events, General Thoughts, Internet
+date: 2005-02-16 08:41
 tags:
-  - events
-  - intellectual property
-  - internet
-  - privacy
+- events
+- intellectual property
+- internet
+- privacy
 author: offby1
 status: draft
 ---

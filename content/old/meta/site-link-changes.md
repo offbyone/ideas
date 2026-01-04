@@ -1,9 +1,11 @@
 ---
 title: Site link changes
 slug: site-link-changes
-date: "2004-06-23 09:07"
-category: Meta
-tags: meta
+date: 2004-06-23 09:07
+category: hacking
+tags:
+- char
+- meta
 author: offby1
 status: draft
 ---

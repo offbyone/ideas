@@ -1,9 +1,9 @@
 ---
 title: A most peculiar kind of art
 slug: a-most-peculiar-kind-of-art
-date: "2002-11-26 07:45"
-category: Internet
-tags: internet
+date: 2002-11-26 07:45
+tags:
+- internet
 author: offby1
 status: draft
 ---

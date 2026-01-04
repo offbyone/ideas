@@ -1,9 +1,9 @@
 ---
 title: Air(side|head)
 slug: airsidehead
-date: "2002-12-10 16:43"
-category: General Thoughts
-tags: work
+date: 2002-12-10 16:43
+tags:
+- work
 author: offby1
 status: draft
 ---

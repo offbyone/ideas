@@ -1,12 +1,11 @@
 ---
 title: Two...
 slug: two
-date: "2008-04-09 08:22"
-category: General Thoughts
+date: 2008-04-09 08:22
 tags:
-  - lifestyle
-  - navelgazing
-  - school
+- lifestyle
+- navelgazing
+- school
 author: offby1
 status: draft
 ---

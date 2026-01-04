@@ -1,11 +1,11 @@
 ---
 title: Not sure why this comes to mind
 slug: not-sure-why-this-comes-to-mind
-date: "2004-07-14 06:31"
-category: General Thoughts, Internet, Rants
+date: 2004-07-14 06:31
 tags:
-  - internet
-  - rants
+- internet
+- rants
+- school
 author: offby1
 status: draft
 ---

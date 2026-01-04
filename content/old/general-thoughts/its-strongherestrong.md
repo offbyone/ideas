@@ -1,9 +1,9 @@
 ---
 title: It's here!
 slug: its-strongherestrong
-date: "2002-11-12 18:12"
-category: General Thoughts
-tags: lord of the rings
+date: 2002-11-12 18:12
+tags:
+- lord of the rings
 author: offby1
 status: draft
 ---

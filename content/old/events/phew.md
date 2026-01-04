@@ -1,9 +1,9 @@
 ---
 title: Phew
 slug: phew
-date: "2005-01-10 18:14"
-category: Events, General Thoughts
-tags: events
+date: 2005-01-10 18:14
+tags:
+- events
 author: offby1
 status: draft
 ---

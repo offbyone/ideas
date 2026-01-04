@@ -1,11 +1,10 @@
 ---
 title: Rapt Attention
 slug: rapt-attention
-date: "2010-04-16 16:38"
-category: pics
+date: 2010-04-16 16:38
 tags:
-  - project 365
-  - matt
+- matt-dixon
+- project 365
 author: offby1
 status: draft
 ---

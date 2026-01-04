@@ -1,12 +1,11 @@
 ---
 title: Justify my paranoia?
 slug: justify-my-paranoia
-date: "2005-02-07 07:37"
-category: General Thoughts, Internet
+date: 2005-02-07 07:37
 tags:
-  - intellectual property
-  - internet
-  - privacy
+- intellectual property
+- internet
+- privacy
 author: offby1
 status: draft
 ---

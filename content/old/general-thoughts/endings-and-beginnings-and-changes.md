@@ -1,13 +1,13 @@
 ---
 title: Endings and Beginnings and Changes
 slug: endings-and-beginnings-and-changes
-date: "2003-06-09 08:42"
-category: General Thoughts
+date: 2003-06-09 08:42
 tags:
-  - friends
-  - love
-  - memory lane
-  - wedding
+- char
+- friends
+- love
+- memory lane
+- wedding
 author: offby1
 status: draft
 ---

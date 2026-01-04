@@ -1,11 +1,10 @@
 ---
 title: I Don't Want to Get My Hopes Up, but...
 slug: i-dont-want-to-get-my-hopes-up-but
-date: "2004-01-14 22:39"
-category: Events, General Thoughts
+date: 2004-01-14 22:39
 tags:
-  - events
-  - space
+- events
+- space
 author: offby1
 status: draft
 ---

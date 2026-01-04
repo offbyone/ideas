@@ -1,13 +1,13 @@
 ---
 title: Time again
 slug: time-again
-date: "2005-04-09 08:14"
-category: Events, General Thoughts, Media, Rants
+date: 2005-04-09 08:14
 tags:
-  - events
-  - media
-  - rants
-  - school
+- edmonton
+- events
+- media
+- rants
+- school
 author: offby1
 status: draft
 ---

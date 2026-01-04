@@ -1,9 +1,10 @@
 ---
 title: Database Headbeatery
 slug: database-headbeatery
-date: "2004-04-28 14:47"
-category: Projects
-tags: projects
+date: 2004-04-28 14:47
+category: programming
+tags:
+- projects
 author: offby1
 status: draft
 ---

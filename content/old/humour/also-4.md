@@ -1,11 +1,11 @@
 ---
 title: Also
 slug: also-4
-date: "2008-01-14 19:34"
-category: Humour
+date: 2008-01-14 19:34
 tags:
-  - cats
-  - char
+- cats
+- char
+- humour
 author: offby1
 status: draft
 ---

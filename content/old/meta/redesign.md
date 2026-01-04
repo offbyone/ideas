@@ -1,9 +1,9 @@
 ---
 title: Redesign
 slug: redesign
-date: "2004-10-06 19:01"
-category: Meta
-tags: meta
+date: 2004-10-06 19:01
+tags:
+- meta
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: More U foolery
 slug: more-u-foolery
-date: "2004-04-26 09:04"
-category: General Thoughts
-tags: school
+date: 2004-04-26 09:04
+tags:
+- school
 author: offby1
 status: draft
 ---

@@ -1,9 +1,10 @@
 ---
 title: Tokenism
 slug: tokenism
-date: "2005-02-18 13:33"
-category: Asides
-tags: asides
+date: 2005-02-18 13:33
+tags:
+- asides
+- simon
 author: offby1
 status: draft
 ---

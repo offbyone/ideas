@@ -1,9 +1,9 @@
 ---
 title: What this site looks like
 slug: what-this-site-looks-like
-date: "2002-11-06 07:20"
-category: Meta
-tags: meta
+date: 2002-11-06 07:20
+tags:
+- meta
 author: offby1
 status: draft
 ---

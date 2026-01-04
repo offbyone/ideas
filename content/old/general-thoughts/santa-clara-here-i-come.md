@@ -1,11 +1,11 @@
 ---
 title: Santa Clara, here I come!
 slug: santa-clara-here-i-come
-date: "2006-01-18 20:46"
-category: General Thoughts
+date: 2006-01-18 20:46
 tags:
-  - school
-  - work
+- california
+- school
+- work
 author: offby1
 status: draft
 ---

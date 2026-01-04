@@ -1,9 +1,10 @@
 ---
 title: Weekend Update
 slug: weekend-update
-date: "2004-06-12 10:49"
-category: General Thoughts
-tags: work
+date: 2004-06-12 10:49
+tags:
+- char
+- work
 author: offby1
 status: draft
 ---

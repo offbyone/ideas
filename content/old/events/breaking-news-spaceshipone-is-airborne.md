@@ -1,12 +1,11 @@
 ---
 title: Airborne
 slug: breaking-news-spaceshipone-is-airborne
-date: "2004-06-21 07:43"
-category: Events, General Thoughts, Media
+date: 2004-06-21 07:43
 tags:
-  - events
-  - media
-  - space
+- events
+- media
+- space
 author: offby1
 status: draft
 ---

@@ -1,17 +1,18 @@
 ---
 title: Worldcon
 slug: worldcon-2015
-date: "2015-08-23 08:39 PST"
-category: life
+date: 2015-08-23 08:39 PST
 tags:
-  - scifi
-  - hugos
-  - books
-  - conferences
+- scifi
+- conventions
+- worldcon
+- hugos
+- books
+- fandom
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Fandom turns out to be pretty nifty
-status: published
 ---
 My first Worldcon was quite the experience, given that it occurred in conjunction with the rise of the [barking-mad puppy brigade](http://file770.com/?page_id=22881) trying to torpedo the Hugo awards. As a result, I was paying a bit more attention to the awards than otherwise I might have, instead of just roaming the convention and enjoying the experience.
 

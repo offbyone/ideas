@@ -1,9 +1,9 @@
 ---
 title: Postings not working?
 slug: postings-not-working
-date: "2004-02-26 10:12"
-category: Meta
-tags: meta
+date: 2004-02-26 10:12
+tags:
+- meta
 author: offby1
 status: draft
 ---

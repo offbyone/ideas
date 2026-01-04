@@ -1,9 +1,9 @@
 ---
 title: Sad, and Waiting
 slug: sad-and-waiting
-date: "2006-02-14 15:35"
-category: Asides, General Thoughts
-tags: asides
+date: 2006-02-14 15:35
+tags:
+- asides
 author: offby1
 status: draft
 ---

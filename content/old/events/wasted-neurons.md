@@ -1,15 +1,14 @@
 ---
 title: Wasted Neurons
 slug: wasted-neurons
-date: "2004-08-18 05:11"
-category: Events, General Thoughts, Internet, Media, Rants
+date: 2004-08-18 05:11
 tags:
-  - events
-  - intellectual property
-  - internet
-  - media
-  - privacy
-  - rants
+- events
+- intellectual property
+- internet
+- media
+- privacy
+- rants
 author: offby1
 status: draft
 ---

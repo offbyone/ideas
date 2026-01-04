@@ -1,9 +1,9 @@
 ---
 title: Gmail Goodness
 slug: gmail-goodness
-date: "2004-09-14 19:58"
-category: Internet
-tags: internet
+date: 2004-09-14 19:58
+tags:
+- internet
 author: offby1
 status: draft
 ---

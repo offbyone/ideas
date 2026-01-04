@@ -1,9 +1,9 @@
 ---
 title: Dreaming of high places
 slug: dreaming-of-high-places
-date: "2003-02-17 09:19"
-category: Internet
-tags: internet
+date: 2003-02-17 09:19
+tags:
+- internet
 author: offby1
 status: draft
 ---

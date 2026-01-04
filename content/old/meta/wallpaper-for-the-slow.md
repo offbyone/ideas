@@ -1,9 +1,9 @@
 ---
 title: Wallpaper For The Slow
 slug: wallpaper-for-the-slow
-date: "2006-10-02 21:10"
-category: Meta
-tags: meta
+date: 2006-10-02 21:10
+tags:
+- meta
 author: offby1
 status: draft
 ---

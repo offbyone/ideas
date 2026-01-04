@@ -1,12 +1,13 @@
 ---
 title: Happy bloody new year!
 slug: happy-bloody-new-year
-date: "2004-01-01 10:15"
-category: General Thoughts
+date: 2004-01-01 10:15
 tags:
-  - asshole
-  - police
-  - speeding
+- asshole
+- char
+- police
+- simon
+- speeding
 author: offby1
 status: draft
 ---

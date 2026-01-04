@@ -1,13 +1,12 @@
 ---
 title: Week, man.  Just week.
 slug: week-man-just-week
-date: "2006-02-16 22:44"
-category: General Thoughts, Internet, Projects
+date: 2006-02-16 22:44
 tags:
-  - internet
-  - projects
-  - school
-  - work
+- internet
+- projects
+- school
+- work
 author: offby1
 status: draft
 ---

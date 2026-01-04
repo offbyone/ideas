@@ -1,9 +1,9 @@
 ---
 title: The tide of change
 slug: the-tide-of-change
-date: "2004-01-28 07:43"
-category: Media
-tags: media
+date: 2004-01-28 07:43
+tags:
+- media
 author: offby1
 status: draft
 ---

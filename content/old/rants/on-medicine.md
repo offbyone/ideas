@@ -1,9 +1,12 @@
 ---
 title: On medicine
 slug: on-medicine
-date: "2004-06-18 08:00"
-category: Rants
-tags: rants
+date: 2004-06-18 08:00
+tags:
+- char
+- rant
+- rants
+- school
 author: offby1
 status: draft
 ---

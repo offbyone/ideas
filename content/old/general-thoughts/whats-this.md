@@ -1,9 +1,10 @@
 ---
 title: What's this?
 slug: whats-this
-date: "2005-05-06 21:05"
-category: General Thoughts
-tags: work
+date: 2005-05-06 21:05
+tags:
+- char
+- work
 author: offby1
 status: draft
 ---

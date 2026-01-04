@@ -1,9 +1,10 @@
 ---
 title: Dyed in the Wool?
 slug: dyed-in-the-wool
-date: "2006-07-02 11:51"
-category: General Thoughts, Rants
-tags: rants
+date: 2006-07-02 11:51
+tags:
+- rants
+- school
 author: offby1
 status: draft
 ---

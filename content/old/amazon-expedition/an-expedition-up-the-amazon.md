@@ -1,12 +1,14 @@
 ---
 title: An Expedition up the Amazon
 slug: an-expedition-up-the-amazon
-date: "2011-06-01 01:46"
+date: 2011-06-01 01:46
 category: amazon
 tags:
-  - amazon
-  - emigration
-  - seattle
+- amazon
+- char
+- emigration
+- matt
+- seattle
 author: offby1
 status: published
 ---

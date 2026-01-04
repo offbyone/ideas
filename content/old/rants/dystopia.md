@@ -1,9 +1,12 @@
 ---
 title: Dystopia
 slug: dystopia
-date: "2004-02-25 19:14"
-category: Rants
-tags: rants
+date: 2004-02-25 19:14
+tags:
+- char
+- rant
+- rants
+- school
 author: offby1
 status: draft
 ---

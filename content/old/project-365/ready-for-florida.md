@@ -1,12 +1,11 @@
 ---
 title: Ready for Florida
 slug: ready-for-florida
-date: "2010-04-25 19:10"
-category: Project 365
+date: 2010-04-25 19:10
 tags:
-  - char
-  - project 365
-  - vacation
+- char
+- project 365
+- vacation
 author: offby1
 status: draft
 ---

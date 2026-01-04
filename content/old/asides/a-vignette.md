@@ -1,9 +1,10 @@
 ---
 title: A Vignette
 slug: a-vignette
-date: "2005-05-26 06:40"
-category: Asides, General Thoughts
-tags: asides
+date: 2005-05-26 06:40
+tags:
+- asides
+- beau
 author: offby1
 status: draft
 ---

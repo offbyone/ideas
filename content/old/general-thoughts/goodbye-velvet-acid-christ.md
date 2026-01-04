@@ -1,14 +1,13 @@
 ---
 title: Goodbye, Velvet Acid Christ
 slug: goodbye-velvet-acid-christ
-date: "2004-09-08 07:38"
-category: General Thoughts, Internet, Media, Rants
+date: 2004-09-08 07:38
 tags:
-  - intellectual property
-  - internet
-  - media
-  - privacy
-  - rants
+- intellectual property
+- internet
+- media
+- privacy
+- rants
 author: offby1
 status: draft
 ---

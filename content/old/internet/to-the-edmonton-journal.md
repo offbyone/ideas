@@ -1,13 +1,14 @@
 ---
 title: To the Edmonton Journal
 slug: to-the-edmonton-journal
-date: "2006-01-30 09:42"
-category: Internet, Media, Rants
+date: 2006-01-30 09:42
+category: programming
 tags:
-  - fuck telus
-  - internet
-  - media
-  - rants
+- edmonton
+- fuck telus
+- internet
+- media
+- rants
 author: offby1
 status: draft
 ---

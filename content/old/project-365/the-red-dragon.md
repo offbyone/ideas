@@ -1,9 +1,9 @@
 ---
 title: The Red Dragon
 slug: the-red-dragon
-date: "2010-04-23 01:19"
-category: pics
-tags: project 365
+date: 2010-04-23 01:19
+tags:
+- project 365
 author: offby1
 status: draft
 ---

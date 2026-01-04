@@ -1,9 +1,9 @@
 ---
 title: I'll bet Santorum likes underdogs
 slug: ill-bet-santorum-likes-underdogs
-date: "2008-03-10 08:26"
-category: General Thoughts, Media
-tags: underdog
+date: 2008-03-10 08:26
+tags:
+- underdog
 author: offby1
 status: draft
 ---

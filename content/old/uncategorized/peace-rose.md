@@ -1,8 +1,10 @@
 ---
 title: Peace Rose
 slug: peace-rose
-date: "2010-05-09 15:44"
-category: Uncategorized
+date: 2010-05-09 15:44
+tags:
+- char
+- matt-dixon
 author: offby1
 status: draft
 ---

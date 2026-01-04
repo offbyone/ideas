@@ -1,9 +1,11 @@
 ---
 title: And I'm off.
 slug: and-im-off
-date: "2006-03-17 17:42"
-category: General Thoughts
-tags: work
+date: 2006-03-17 17:42
+tags:
+- california
+- char
+- work
 author: offby1
 status: draft
 ---

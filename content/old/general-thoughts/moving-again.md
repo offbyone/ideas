@@ -1,9 +1,11 @@
 ---
 title: Moving again.
 slug: moving-again
-date: "2005-06-30 09:53"
-category: General Thoughts
-tags: moving
+date: 2005-06-30 09:53
+tags:
+- char
+- edmonton
+- moving
 author: offby1
 status: draft
 ---

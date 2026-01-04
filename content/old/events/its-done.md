@@ -1,11 +1,10 @@
 ---
 title: It's done.
 slug: its-done
-date: "2004-10-04 12:49"
-category: Events, General Thoughts
+date: 2004-10-04 12:49
 tags:
-  - events
-  - space
+- events
+- space
 author: offby1
 status: draft
 ---

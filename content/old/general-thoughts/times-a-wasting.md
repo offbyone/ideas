@@ -1,9 +1,9 @@
 ---
 title: Time's a-wasting
 slug: times-a-wasting
-date: "2003-09-09 11:28"
-category: General Thoughts
-tags: school
+date: 2003-09-09 11:28
+tags:
+- school
 author: offby1
 status: draft
 ---

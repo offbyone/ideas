@@ -1,9 +1,9 @@
 ---
 title: Geek Poetry
 slug: geek-poetry
-date: "2003-10-08 07:33"
-category: Humour
-tags: humour
+date: 2003-10-08 07:33
+tags:
+- humour
 author: offby1
 status: draft
 ---

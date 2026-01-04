@@ -1,9 +1,10 @@
 ---
 title: My 'Tolkien' attempts at humour
 slug: my-tolkien-attempts-at-humour
-date: "2003-01-07 15:56"
-category: Internet
-tags: internet
+date: 2003-01-07 15:56
+tags:
+- internet
+- school
 author: offby1
 status: draft
 ---

@@ -1,11 +1,10 @@
 ---
 title: League of Ordinary Men
 slug: league-of-ordinary-men
-date: "2004-03-15 16:55"
-category: Asides, Rants
+date: 2004-03-15 16:55
 tags:
-  - asides
-  - rants
+- asides
+- rants
 author: offby1
 status: draft
 ---

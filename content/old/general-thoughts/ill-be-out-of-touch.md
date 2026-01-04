@@ -1,9 +1,10 @@
 ---
 title: I'll be out of touch.
 slug: ill-be-out-of-touch
-date: "2005-07-03 18:24"
-category: General Thoughts
-tags: moving
+date: 2005-07-03 18:24
+tags:
+- moving
+- school
 author: offby1
 status: draft
 ---

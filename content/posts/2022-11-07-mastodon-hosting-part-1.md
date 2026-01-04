@@ -2,17 +2,19 @@
 title: Mastodon Hosting, Part 1
 slug: mastodon-hosting-part-1
 date: 2022-11-07 17:01:33.869988
-category: internet
+category: hacking
 tags:
-  - software
-  - mastodon
-  - tailscale
-  - infrastructure
-  - wandering.shop
+- mastodon
+- infrastructure
+- tailscale
+- wandering-shop
+- docker
+- postgres
+- scaling
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: I inherited the system admin role for a Mastodon instance a couple of months ago, and recently I've needed to scale it. Here's a bit of how that went (and it's not done yet!)
-status: published
 ---
 A few months ago, the owners of [wandering.shop](https://wandering.shop)[ref]A small [Mastodon](https://joinmastodon.org) instance focusing on SF/F and crafty folk, mainly[/ref] decided they were looking to hand off ownership (and paying for hosting) for the instance. As I had settled on that instance some time ago for [my own Mastodon home](https://wandering.shop/@offby1), I had a vested interest in seeing it stay viable, so I volunteered to take over the technical side of running it.
 

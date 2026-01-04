@@ -1,12 +1,11 @@
 ---
 title: About confidence
 slug: about-confidence
-date: "2005-05-11 07:05"
-category: Events, Media, Rants
+date: 2005-05-11 07:05
 tags:
-  - events
-  - media
-  - rants
+- events
+- media
+- rants
 author: offby1
 status: draft
 ---

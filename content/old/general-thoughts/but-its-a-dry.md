@@ -1,9 +1,11 @@
 ---
 title: But it's a dry...
 slug: but-its-a-dry
-date: "2005-08-07 11:19"
-category: General Thoughts
-tags: work
+date: 2005-08-07 11:19
+tags:
+- aaron
+- edmonton
+- work
 author: offby1
 status: draft
 ---

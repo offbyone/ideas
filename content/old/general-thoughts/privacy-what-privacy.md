@@ -1,14 +1,15 @@
 ---
 title: Privacy?  What privacy?
 slug: privacy-what-privacy
-date: "2006-09-09 16:39"
-category: General Thoughts, Internet, Media, Rants
+date: 2006-09-09 16:39
 tags:
-  - asshole
-  - craigslist
-  - entrapment
-  - internet
-  - privacy
+- asshole
+- char
+- craigslist
+- entrapment
+- internet
+- privacy
+- school
 author: offby1
 status: draft
 ---

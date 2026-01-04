@@ -1,9 +1,10 @@
 ---
 title: Sportsmanlike Conduct
 slug: sportsmanlike-conduct
-date: "2002-11-21 20:01"
-category: Rants
-tags: rants
+date: 2002-11-21 20:01
+tags:
+- rant
+- rants
 author: offby1
 status: draft
 ---

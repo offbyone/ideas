@@ -1,11 +1,10 @@
 ---
 title: Unpleasant Newses
 slug: unpleasant-newses
-date: "2004-04-16 23:29"
-category: General Thoughts
+date: 2004-04-16 23:29
 tags:
-  - family
-  - health
+- family
+- health
 author: offby1
 status: draft
 ---

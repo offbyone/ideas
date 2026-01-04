@@ -1,12 +1,11 @@
 ---
 title: Sexy Pictures
 slug: sexy-pictures
-date: "2008-02-17 16:02"
-category: Internet
+date: 2008-02-17 16:02
 tags:
-  - erotica
-  - pornography
-  - sex
+- erotica
+- pornography
+- sex
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Irritation with CSS
 slug: irritation-with-css
-date: "2002-11-07 22:18"
-category: Meta
-tags: meta
+date: 2002-11-07 22:18
+tags:
+- meta
 author: offby1
 status: draft
 ---

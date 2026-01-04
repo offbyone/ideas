@@ -1,9 +1,10 @@
 ---
 title: More midterms
 slug: more-midterms
-date: "2002-11-02 13:46"
-category: General Thoughts
-tags: school
+date: 2002-11-02 13:46
+tags:
+- beau
+- school
 author: offby1
 status: draft
 ---

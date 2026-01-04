@@ -1,12 +1,11 @@
 ---
 title: A question of freedom.
 slug: a-question-of-freedom
-date: "2006-11-08 07:49"
-category: Asides, General Thoughts
+date: 2006-11-08 07:49
 tags:
-  - debate
-  - freedom
-  - philosophy
+- debate
+- freedom
+- philosophy
 author: offby1
 status: draft
 ---

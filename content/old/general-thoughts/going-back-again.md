@@ -1,11 +1,10 @@
 ---
 title: Going back again
 slug: going-back-again
-date: "2003-06-06 13:33"
-category: General Thoughts
+date: 2003-06-06 13:33
 tags:
-  - memory lane
-  - wedding
+- memory lane
+- wedding
 author: offby1
 status: draft
 ---

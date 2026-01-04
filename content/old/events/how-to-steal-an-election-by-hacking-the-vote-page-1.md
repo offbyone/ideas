@@ -1,12 +1,11 @@
 ---
 title: How to steal an election by hacking the vote
 slug: how-to-steal-an-election-by-hacking-the-vote-page-1
-date: "2006-10-26 17:27"
-category: Events, Internet, Rants
+date: 2006-10-26 17:27
 tags:
-  - events
-  - internet
-  - rants
+- events
+- internet
+- rants
 author: offby1
 status: draft
 ---

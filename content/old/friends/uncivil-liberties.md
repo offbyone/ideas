@@ -1,15 +1,14 @@
 ---
 title: Uncivil "Liberties"
 slug: uncivil-liberties
-date: "2002-12-23 14:29"
-category: Friends, General Thoughts, Internet, Rants
+date: 2002-12-23 14:29
 tags:
-  - freedom
-  - friends
-  - internet
-  - rants
-  - school
-  - security theatre
+- freedom
+- friends
+- internet
+- rants
+- school
+- security theatre
 author: offby1
 status: draft
 ---

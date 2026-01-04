@@ -1,12 +1,11 @@
 ---
 title: Another straw (or two)
 slug: another-straw-or-two
-date: "2008-04-05 00:28"
-category: Internet, Media
+date: 2008-04-05 00:28
 tags:
-  - culture
-  - depressing
-  - society
+- culture
+- depressing
+- society
 author: offby1
 status: draft
 ---

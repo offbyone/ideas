@@ -1,12 +1,12 @@
 ---
 title: Sick tactics
 slug: sick-tactics
-date: "2003-05-24 18:08"
-category: Rants
+date: 2003-05-24 18:08
 tags:
-  - asshole
-  - idiocy
-  - rants
+- asshole
+- idiocy
+- rant
+- rants
 author: offby1
 status: draft
 ---

@@ -1,9 +1,10 @@
 ---
 title: New site design
 slug: new-site-design
-date: "2002-11-17 23:41"
-category: Meta
-tags: meta
+date: 2002-11-17 23:41
+tags:
+- meta
+- simon
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Gruelling
 slug: gruelling
-date: "2003-11-18 22:54"
-category: General Thoughts
-tags: school
+date: 2003-11-18 22:54
+tags:
+- school
 author: offby1
 status: draft
 ---

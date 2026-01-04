@@ -1,13 +1,12 @@
 ---
 title: Disaffection and Aging
 slug: disaffection-and-aging
-date: "2003-01-17 23:02"
-category: General Thoughts
+date: 2003-01-17 23:02
 tags:
-  - char
-  - introspection
-  - media
-  - memory lane
+- char
+- introspection
+- media
+- memory lane
 author: offby1
 status: draft
 ---

@@ -1,9 +1,13 @@
 ---
 title: Norm was a poor followup
 slug: norm-was-a-poor-followup
-date: "2005-07-31 16:24"
-category: Friends, General Thoughts
-tags: friends
+date: 2005-07-31 16:24
+tags:
+- alberta
+- beau
+- disc-golf
+- friends
+- school
 author: offby1
 status: draft
 ---

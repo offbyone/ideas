@@ -1,9 +1,11 @@
 ---
 title: Duplication efforts
 slug: duplication-efforts
-date: "2002-12-29 10:04"
-category: Events
-tags: events
+date: 2002-12-29 10:04
+tags:
+- edmonton
+- events
+- matt-dixon
 author: offby1
 status: draft
 ---

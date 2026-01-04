@@ -1,9 +1,9 @@
 ---
 title: Ticking...
 slug: ticking
-date: "2006-02-08 21:05"
-category: General Thoughts
-tags: news
+date: 2006-02-08 21:05
+tags:
+- news
 author: offby1
 status: draft
 ---

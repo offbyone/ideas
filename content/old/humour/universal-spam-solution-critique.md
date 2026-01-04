@@ -1,13 +1,13 @@
 ---
 title: Universal Spam Solution Critique
 slug: universal-spam-solution-critique
-date: "2007-10-11 20:59"
-category: Humour, Internet
+date: 2007-10-11 20:59
+category: work
 tags:
-  - checklist
-  - humour
-  - murder
-  - spam
+- checklist
+- humour
+- murder
+- spam
 author: offby1
 status: draft
 ---

@@ -1,12 +1,11 @@
 ---
 title: Infotainment Glut
 slug: infotainment-glut
-date: "2004-11-09 08:16"
-category: General Thoughts, Internet, Media, Rants
+date: 2004-11-09 08:16
 tags:
-  - internet
-  - media
-  - rants
+- internet
+- media
+- rants
 author: offby1
 status: draft
 ---

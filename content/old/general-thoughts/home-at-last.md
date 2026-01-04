@@ -1,15 +1,14 @@
 ---
 title: Home at last
 slug: home-at-last
-date: "2009-01-23 10:53"
-category: life
+date: 2009-01-23 10:53
 tags:
-  - cats
-  - char
-  - thoughts
-  - homeownership
-  - moving
-  - stress
+- cats
+- char
+- homeownership
+- moving
+- stress
+- thoughts
 author: offby1
 status: published
 ---

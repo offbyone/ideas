@@ -1,13 +1,12 @@
 ---
 title: Johnny Slappleseed
 slug: johnny-slappleseed
-date: "2007-03-03 01:25"
-category: Media, Rants
+date: 2007-03-03 01:25
 tags:
-  - equivocation
-  - immaturity
-  - primitive superstition
-  - sex
+- equivocation
+- immaturity
+- primitive superstition
+- sex
 author: offby1
 status: draft
 ---

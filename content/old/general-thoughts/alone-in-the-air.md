@@ -1,9 +1,9 @@
 ---
 title: Alone in the air
 slug: alone-in-the-air
-date: "2005-08-14 14:47"
-category: Life
-tags: skydiving
+date: 2005-08-14 14:47
+tags:
+- skydiving
 author: offby1
 status: published
 ---

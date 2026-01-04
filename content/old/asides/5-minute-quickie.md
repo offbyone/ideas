@@ -1,15 +1,14 @@
 ---
 title: 5-minute quickie
 slug: 5-minute-quickie
-date: "2007-01-25 09:59"
-category: Asides, Friends
+date: 2007-01-25 09:59
 tags:
-  - apology
-  - friends
-  - school
-  - stress
-  - time
-  - work
+- apology
+- friends
+- school
+- stress
+- time
+- work
 author: offby1
 status: draft
 ---

@@ -1,11 +1,11 @@
 ---
 title: The Factory is In
 slug: the-factory-is-in
-date: "2011-07-03 21:28"
-category: amazon
+date: 2011-07-03 21:28
 tags:
-  - beer
-  - seattle
+- beer
+- char
+- seattle
 author: offby1
 status: published
 ---

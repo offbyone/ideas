@@ -1,9 +1,9 @@
 ---
 title: Periodic cry for attention...
 slug: periodic-cry-for-attention
-date: "2006-02-03 13:52"
-category: Meta
-tags: meta
+date: 2006-02-03 13:52
+tags:
+- meta
 author: offby1
 status: draft
 ---

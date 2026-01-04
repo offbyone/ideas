@@ -1,9 +1,9 @@
 ---
 title: Eternal Truths
 slug: eternal-truths
-date: "2006-10-07 11:44"
-category: Internet
-tags: internet
+date: 2006-10-07 11:44
+tags:
+- internet
 author: offby1
 status: draft
 ---

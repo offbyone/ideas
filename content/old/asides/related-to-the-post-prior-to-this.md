@@ -1,12 +1,11 @@
 ---
 title: Related to the post prior to this
 slug: related-to-the-post-prior-to-this
-date: "2006-02-20 23:53"
-category: Asides, Internet, Media
+date: 2006-02-20 23:53
 tags:
-  - asides
-  - internet
-  - media
+- asides
+- internet
+- media
 author: offby1
 status: draft
 ---

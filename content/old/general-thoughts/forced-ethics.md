@@ -1,14 +1,15 @@
 ---
 title: Forced ethics
 slug: forced-ethics
-date: "2006-01-25 09:32"
-category: General Thoughts, Internet, Media, Rants
+date: 2006-01-25 09:32
+category: programming
 tags:
-  - intellectual property
-  - internet
-  - media
-  - privacy
-  - rants
+- char
+- intellectual property
+- internet
+- media
+- privacy
+- rants
 author: offby1
 status: draft
 ---

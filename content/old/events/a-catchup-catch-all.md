@@ -1,14 +1,13 @@
 ---
 title: A Catchup, Catch-all,
 slug: a-catchup-catch-all
-date: "2007-12-02 08:25"
-category: Events, Friends, General Thoughts, Meta
+date: 2007-12-02 08:25
 tags:
-  - book
-  - char
-  - dislocation
-  - travel
-  - work
+- book
+- char
+- dislocation
+- travel
+- work
 author: offby1
 status: draft
 ---

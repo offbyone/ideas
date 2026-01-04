@@ -1,12 +1,12 @@
 ---
 title: Slow Communication
 slug: slow-communication
-date: "2005-01-26 11:36"
-category: Friends, General Thoughts
+date: 2005-01-26 11:36
 tags:
-  - friends
-  - school
-  - work
+- char
+- friends
+- school
+- work
 author: offby1
 status: draft
 ---

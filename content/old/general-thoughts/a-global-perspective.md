@@ -1,13 +1,12 @@
 ---
 title: A global perspective
 slug: a-global-perspective
-date: "2006-12-16 08:56"
-category: General Thoughts
+date: 2006-12-16 08:56
 tags:
-  - doodads
-  - perspective
-  - software
-  - space
+- doodads
+- perspective
+- software
+- space
 author: offby1
 status: draft
 ---

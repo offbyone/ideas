@@ -1,12 +1,13 @@
 ---
 title: Aaaarghhh!
 slug: aaaarghhh
-date: "2004-01-04 13:00"
-category: society
+date: 2004-01-04 13:00
+category: meta
 tags:
-  - intellectual property
-  - privacy
-  - Rants
+- Rants
+- aaron-swartz
+- intellectual property
+- privacy
 author: offby1
 status: draft
 ---

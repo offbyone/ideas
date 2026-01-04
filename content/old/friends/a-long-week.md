@@ -1,9 +1,10 @@
 ---
 title: A long week.
 slug: a-long-week
-date: "2006-09-29 20:33"
-category: Friends, General Thoughts
-tags: friends
+date: 2006-09-29 20:33
+tags:
+- char
+- friends
 author: offby1
 status: draft
 ---

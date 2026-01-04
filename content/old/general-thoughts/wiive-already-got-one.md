@@ -1,14 +1,13 @@
 ---
 title: Wii've Already Got One
 slug: wiive-already-got-one
-date: "2007-05-27 01:13"
-category: General Thoughts
+date: 2007-05-27 01:13
 tags:
-  - browncoat
-  - firefly
-  - gadgets
-  - serenity
-  - wii
+- browncoat
+- firefly
+- gadgets
+- serenity
+- wii
 author: offby1
 status: draft
 ---

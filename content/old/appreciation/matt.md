@@ -1,9 +1,12 @@
 ---
 title: Matt
 slug: matt
-date: "2006-11-21 16:25"
-category: Appreciation
-tags: appreciation
+date: 2006-11-21 16:25
+tags:
+- aaron
+- amy
+- appreciation
+- matt-dixon
 author: offby1
 status: draft
 ---

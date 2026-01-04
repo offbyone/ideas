@@ -1,9 +1,10 @@
 ---
 title: Head in ass syndrome
 slug: head-in-ass-syndrome
-date: "2003-03-19 20:31"
-category: General Thoughts
-tags: school
+date: 2003-03-19 20:31
+tags:
+- char
+- school
 author: offby1
 status: draft
 ---

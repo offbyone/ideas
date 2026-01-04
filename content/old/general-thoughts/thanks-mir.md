@@ -1,11 +1,10 @@
 ---
 title: Thanks, Mir
 slug: thanks-mir
-date: "2006-06-12 14:49"
-category: General Thoughts
+date: 2006-06-12 14:49
 tags:
-  - family
-  - hockey
+- family
+- hockey
 author: offby1
 status: draft
 ---

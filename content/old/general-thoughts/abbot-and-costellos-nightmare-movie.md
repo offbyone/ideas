@@ -1,11 +1,13 @@
 ---
 title: Abbot and Costello's Nightmare Movie
 slug: abbot-and-costellos-nightmare-movie
-date: "2004-05-30 20:45"
-category: General Thoughts, Media, Rants
+date: 2004-05-30 20:45
 tags:
-  - media
-  - rants
+- char
+- media
+- rants
+- school
+- simon
 author: offby1
 status: draft
 ---

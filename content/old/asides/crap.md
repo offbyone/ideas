@@ -1,9 +1,9 @@
 ---
 title: Crap
 slug: crap
-date: "2007-08-22 23:25"
-category: Asides
-tags: look at you hacker a pathetic creature of meat and bone
+date: 2007-08-22 23:25
+tags:
+- look at you hacker a pathetic creature of meat and bone
 author: offby1
 status: draft
 ---

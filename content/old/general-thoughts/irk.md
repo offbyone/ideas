@@ -1,9 +1,9 @@
 ---
 title: Irk
 slug: irk
-date: "2004-10-13 11:40"
-category: General Thoughts
-tags: school
+date: 2004-10-13 11:40
+tags:
+- school
 author: offby1
 status: draft
 ---

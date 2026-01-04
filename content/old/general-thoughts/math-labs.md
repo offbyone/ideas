@@ -1,9 +1,9 @@
 ---
 title: Math labs
 slug: math-labs
-date: "2003-01-28 16:23"
-category: General Thoughts
-tags: school
+date: 2003-01-28 16:23
+tags:
+- school
 author: offby1
 status: draft
 ---

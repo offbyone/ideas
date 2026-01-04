@@ -2,20 +2,19 @@
 title: Expose Your Tailnet Hosts as Ansible Facts
 slug: tailnet-hosts-as-ansible-facts
 date: 2025-06-01 08:02:42.139266
-category: internet
+category: hacking
 tags:
-  - tailscale
-  - ansible
-  - software
-  - mastodon
-  - infrastructure
-  - wandering.shop
-  - homelab
+- tailscale
+- ansible
+- automation
+- infrastructure
+- mastodon
+- wandering-shop
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Expose your Tailscale hosts as Ansible facts. Make peer node IPs and tags available in your playbooks
-status: published
-toot: "https://wandering.shop/@offby1/114608855854673274"
+toot: https://wandering.shop/@offby1/114608855854673274
 ---
 [Tailscale](https://tailscale.com) is an encrypted overlay network that "just works", so well that I have adopted it both for my homelab and for the infrastructure of [wandering.shop](https://wandering.shop). In the latter case, I've heavily used [Ansible](https://ansible.com) to make the infrastructure easy to replicate and manage.
 

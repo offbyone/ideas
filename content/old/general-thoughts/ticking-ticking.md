@@ -1,11 +1,10 @@
 ---
 title: Ticking, ticking...
 slug: ticking-ticking
-date: "2005-07-02 15:33"
-category: General Thoughts
+date: 2005-07-02 15:33
 tags:
-  - friends
-  - moving
+- friends
+- moving
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: And the marks are in!
 slug: and-the-marks-are-in
-date: "2003-12-19 17:00"
-category: General Thoughts
-tags: school
+date: 2003-12-19 17:00
+tags:
+- school
 author: offby1
 status: draft
 ---

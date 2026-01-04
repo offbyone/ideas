@@ -1,9 +1,9 @@
 ---
 title: Yep, I'm to be Certified
 slug: yep-im-to-be-certified
-date: "2006-06-25 09:13"
-category: Life
-tags: skydiving
+date: 2006-06-25 09:13
+tags:
+- skydiving
 author: offby1
 status: published
 ---

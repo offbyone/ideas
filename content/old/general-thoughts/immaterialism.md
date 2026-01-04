@@ -1,14 +1,15 @@
 ---
 title: Immaterialism
 slug: immaterialism
-date: "2004-07-23 16:53"
-category: General Thoughts
+date: 2004-07-23 16:53
 tags:
-  - coffee
-  - doodads
-  - gifts
-  - ipod
-  - music
+- coffee
+- doodads
+- gifts
+- ipod
+- music
+- school
+- skydiving
 author: offby1
 status: draft
 ---

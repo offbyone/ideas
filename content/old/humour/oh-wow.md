@@ -1,13 +1,12 @@
 ---
 title: Oh, wow.
 slug: oh-wow
-date: "2007-08-18 21:40"
-category: Humour, Internet
+date: 2007-08-18 21:40
 tags:
-  - batshitinsane
-  - forums
-  - lamer
-  - nerds
+- batshitinsane
+- forums
+- lamer
+- nerds
 author: offby1
 status: draft
 ---

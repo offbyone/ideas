@@ -1,11 +1,11 @@
 ---
 title: Planning on a night out
 slug: planning-on-a-night-out
-date: "2006-07-08 21:37"
-category: General Thoughts
+date: 2006-07-08 21:37
 tags:
-  - bar
-  - beer
+- bar
+- beau
+- beer
 author: offby1
 status: draft
 ---

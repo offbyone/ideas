@@ -1,9 +1,9 @@
 ---
 title: The eyes have it...
 slug: the-eyes-have-it
-date: "2003-08-10 20:29"
-category: Media
-tags: media
+date: 2003-08-10 20:29
+tags:
+- media
 author: offby1
 status: draft
 ---

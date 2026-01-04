@@ -1,9 +1,12 @@
 ---
 title: Hot, hot, hot.
 slug: hot-hot-hot
-date: "2007-07-13 07:12"
-category: Asides
-tags: random
+date: 2007-07-13 07:12
+tags:
+- char
+- matt-dixon
+- random
+- school
 author: offby1
 status: draft
 ---

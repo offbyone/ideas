@@ -1,15 +1,14 @@
 ---
 title: Ordered
 slug: ordered
-date: "2007-12-16 15:32"
-category: General Thoughts
+date: 2007-12-16 15:32
 tags:
-  - arrogance
-  - assholes
-  - blinders
-  - geeky
-  - ideology
-  - programming
+- arrogance
+- assholes
+- blinders
+- geeky
+- ideology
+- programming
 author: offby1
 status: draft
 ---

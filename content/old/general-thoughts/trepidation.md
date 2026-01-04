@@ -1,9 +1,9 @@
 ---
 title: Trepidation
 slug: trepidation
-date: "2006-02-26 13:53"
-category: General Thoughts
-tags: school
+date: 2006-02-26 13:53
+tags:
+- school
 author: offby1
 status: draft
 ---

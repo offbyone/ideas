@@ -1,9 +1,11 @@
 ---
 title: Pain and Suffering
 slug: pain-and-suffering
-date: "2004-10-10 17:24"
-category: General Thoughts, Meta
-tags: meta
+date: 2004-10-10 17:24
+category: hacking
+tags:
+- matt-dixon
+- meta
 author: offby1
 status: draft
 ---

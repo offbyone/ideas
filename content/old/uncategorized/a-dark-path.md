@@ -1,8 +1,7 @@
 ---
 title: A dark path
 slug: a-dark-path
-date: "2010-04-27 01:30"
-category: Uncategorized
+date: 2010-04-27 01:30
 author: offby1
 status: draft
 ---

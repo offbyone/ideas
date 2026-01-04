@@ -1,12 +1,12 @@
 ---
 title: Your rights, offline
 slug: your-rights-offline
-date: "2005-06-11 11:10"
-category: General Thoughts
+date: 2005-06-11 11:10
 tags:
-  - intellectual property
-  - privacy
-  - work
+- char
+- intellectual property
+- privacy
+- work
 author: offby1
 status: draft
 ---

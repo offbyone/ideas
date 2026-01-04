@@ -1,11 +1,11 @@
 ---
 title: The great adventure...
 slug: the-great-adventure
-date: "2005-09-23 06:55"
-category: General Thoughts
+date: 2005-09-23 06:55
 tags:
-  - computer
-  - linux
+- computer
+- linux
+- school
 author: offby1
 status: draft
 ---

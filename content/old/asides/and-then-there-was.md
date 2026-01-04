@@ -1,9 +1,9 @@
 ---
 title: And then there was...
 slug: and-then-there-was
-date: "2006-11-27 09:21"
-category: Asides
-tags: apology
+date: 2006-11-27 09:21
+tags:
+- apology
 author: offby1
 status: draft
 ---

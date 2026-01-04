@@ -1,11 +1,10 @@
 ---
 title: Growing pain
 slug: growing-pain
-date: "2003-01-30 06:31"
-category: General Thoughts
+date: 2003-01-30 06:31
 tags:
-  - computer
-  - health
+- computer
+- health
 author: offby1
 status: draft
 ---

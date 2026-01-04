@@ -1,9 +1,9 @@
 ---
 title: Hobbits!
 slug: hobbits
-date: "2002-11-26 21:33"
-category: Internet
-tags: internet
+date: 2002-11-26 21:33
+tags:
+- internet
 author: offby1
 status: draft
 ---

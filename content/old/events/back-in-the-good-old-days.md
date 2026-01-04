@@ -1,12 +1,11 @@
 ---
 title: Back in the good old days
 slug: back-in-the-good-old-days
-date: "2004-09-17 06:43"
-category: Events, General Thoughts, Media, Rants
+date: 2004-09-17 06:43
 tags:
-  - events
-  - media
-  - rants
+- events
+- media
+- rants
 author: offby1
 status: draft
 ---

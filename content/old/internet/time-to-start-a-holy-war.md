@@ -1,11 +1,11 @@
 ---
 title: Time to start a holy war...
 slug: time-to-start-a-holy-war
-date: "2002-11-18 18:44"
-category: Internet, Rants
+date: 2002-11-18 18:44
 tags:
-  - debate
-  - religion
+- debate
+- matt-dixon
+- religion
 author: offby1
 status: draft
 ---

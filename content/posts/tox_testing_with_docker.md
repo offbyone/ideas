@@ -1,16 +1,18 @@
 ---
 title: Using Docker to run tox without adding Pythons to your system
 slug: docker-runner-for-tox
-date: "2015-03-07 12:38"
+date: 2015-03-07 12:38
 category: programming
 tags:
-  - python
-  - tox
-  - docker
+- python
+- tox
+- docker
+- testing
+- containers
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Build a Docker image that can run tox for you
-status: published
 ---
 If you would like to test python applications in a repeatable way, especially if for interpreters beyond the ones you keep on your development system, there are some ways to pull that off -- I've usually fallen back on [pyenv](https://github.com/yyuu/pyenv), personally -- but they're all a bit less than optimal. One of the worst things about them is trying to get them to play nicely with [tox](http://tox.readthedocs.org/), which is an amazing way to run cross-python tests.
 

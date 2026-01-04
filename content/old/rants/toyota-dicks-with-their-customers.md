@@ -1,9 +1,11 @@
 ---
 title: Toyota Dicks with their customers
 slug: toyota-dicks-with-their-customers
-date: "2004-06-02 17:34"
-category: Rants
-tags: rants
+date: 2004-06-02 17:34
+tags:
+- char
+- rant
+- rants
 author: offby1
 status: draft
 ---

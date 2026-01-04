@@ -1,11 +1,10 @@
 ---
-title: ... to end all wars.
+title: '... to end all wars.'
 slug: to-end-all-wars
-date: "2005-01-19 18:00"
-category: Events, General Thoughts, Rants
+date: 2005-01-19 18:00
 tags:
-  - events
-  - rants
+- events
+- rants
 author: offby1
 status: draft
 ---

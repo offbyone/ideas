@@ -1,12 +1,12 @@
 ---
 title: Looking Out for my Rights
 slug: looking-out-for-my-rights
-date: "2006-07-30 11:01"
-category: General Thoughts, Projects
+date: 2006-07-30 11:01
 tags:
-  - intellectual property
-  - privacy
-  - projects
+- intellectual property
+- privacy
+- projects
+- school
 author: offby1
 status: draft
 ---

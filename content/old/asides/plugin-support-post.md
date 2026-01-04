@@ -1,11 +1,10 @@
 ---
 title: Place your support requests here.
 slug: plugin-support-post
-date: "2003-11-12 11:20"
-category: Asides, Projects
+date: 2003-11-12 11:20
 tags:
-  - asides
-  - projects
+- asides
+- projects
 author: offby1
 status: draft
 ---

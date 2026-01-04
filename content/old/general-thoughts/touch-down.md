@@ -1,11 +1,10 @@
 ---
 title: Touch, down
 slug: touch-down
-date: "2006-03-25 12:35"
-category: General Thoughts
+date: 2006-03-25 12:35
 tags:
-  - eclipse
-  - work
+- eclipse
+- work
 author: offby1
 status: draft
 ---

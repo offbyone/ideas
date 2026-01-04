@@ -1,13 +1,13 @@
 ---
 title: She sued him for WHAT?
 slug: she-sued-him-for-what
-date: "2008-01-14 19:28"
-category: Internet, Media, Rants
+date: 2008-01-14 19:28
 tags:
-  - drugs
-  - law
-  - news
-  - responsibility
+- drugs
+- law
+- matt-dixon
+- news
+- responsibility
 author: offby1
 status: draft
 ---

@@ -1,12 +1,11 @@
 ---
 title: Goodbye...
 slug: goodbye
-date: "2002-11-03 15:21"
-category: contemplation
+date: 2002-11-03 15:21
 tags:
-  - events
-  - internet
-  - space
+- events
+- internet
+- space
 author: offby1
 status: published
 ---

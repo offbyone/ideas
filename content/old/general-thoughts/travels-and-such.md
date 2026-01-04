@@ -1,13 +1,16 @@
 ---
 title: Travels and such
 slug: travels-and-such
-date: "2006-07-17 08:35"
-category: General Thoughts
+date: 2006-07-17 08:35
 tags:
-  - concert
-  - disc golf
-  - road trip
-  - speeding
+- beau
+- concert
+- disc golf
+- disc-golf
+- road trip
+- school
+- simon
+- speeding
 author: offby1
 status: draft
 ---

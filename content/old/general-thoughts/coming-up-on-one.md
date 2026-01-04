@@ -1,9 +1,9 @@
 ---
 title: Coming up on one!
 slug: coming-up-on-one
-date: "2002-11-27 23:03"
-category: General Thoughts
-tags: school
+date: 2002-11-27 23:03
+tags:
+- school
 author: offby1
 status: draft
 ---

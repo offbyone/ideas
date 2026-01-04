@@ -1,11 +1,10 @@
 ---
 title: A job?  No thanks, i've already got two!
 slug: a-job-no-thanks-ive-already-got-two
-date: "2002-12-05 14:38"
-category: General Thoughts
+date: 2002-12-05 14:38
 tags:
-  - fuck telus
-  - work
+- fuck telus
+- work
 author: offby1
 status: draft
 ---

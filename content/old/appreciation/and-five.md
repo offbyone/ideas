@@ -1,11 +1,11 @@
 ---
 title: And... Five!
 slug: and-five
-date: "2006-03-31 07:49"
-category: Appreciation, Events, General Thoughts
+date: 2006-03-31 07:49
 tags:
-  - appreciation
-  - events
+- appreciation
+- char
+- events
 author: offby1
 status: draft
 ---

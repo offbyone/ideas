@@ -1,12 +1,12 @@
 ---
 title: Music to my ears
 slug: music-to-my-ears
-date: "2006-01-20 11:18"
-category: Asides, Internet, Media
+date: 2006-01-20 11:18
 tags:
-  - asides
-  - internet
-  - media
+- asides
+- char
+- internet
+- media
 author: offby1
 status: draft
 ---

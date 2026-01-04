@@ -1,13 +1,13 @@
 ---
 title: Studying too hard
 slug: studying-too-hard
-date: "2003-04-15 06:48"
-category: General Thoughts
+date: 2003-04-15 06:48
 tags:
-  - geeky
-  - humour
-  - school
-  - sex
+- char
+- geeky
+- humour
+- school
+- sex
 author: offby1
 status: draft
 ---

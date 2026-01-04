@@ -4,15 +4,16 @@ slug: habits-in-the-shell-shared
 date: 2025-07-25 09:26:31.883943
 category: tools
 tags:
-  - shell
-  - chezmoi
-  - habits
-  - til
+- shell
+- chezmoi
+- fortune
+- til
+- automation
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Sharing shell tools habits between all of my hosts using chezmoi, building on a fantastic post by Mark
-status: published
-toot: "https://wandering.shop/@offby1/114915020091223294"
+toot: https://wandering.shop/@offby1/114915020091223294
 ---
 [A post I saw today](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/) about "using `fortune` to remind me of the shell tools I have installed, instead of the old ones I use by reflex" got me really excited by the idea of the reminders. 
 

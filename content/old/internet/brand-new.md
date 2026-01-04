@@ -1,15 +1,15 @@
 ---
 title: Brand New
 slug: brand-new
-date: "2008-01-02 08:35"
-category: Internet, Media
+date: 2008-01-02 08:35
 tags:
-  - new
-  - old
-  - philosophy
-  - politics
-  - questions
-  - science
+- char
+- new
+- old
+- philosophy
+- politics
+- questions
+- science
 author: offby1
 status: draft
 ---

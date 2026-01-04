@@ -1,12 +1,11 @@
 ---
 title: Moods
 slug: moods
-date: "2002-12-21 05:40"
-category: General Thoughts
+date: 2002-12-21 05:40
 tags:
-  - asshole
-  - char
-  - introspection
+- asshole
+- char
+- introspection
 author: offby1
 status: draft
 ---

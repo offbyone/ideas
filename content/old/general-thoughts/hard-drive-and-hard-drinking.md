@@ -1,12 +1,12 @@
 ---
 title: Hard drive and hard drinking
 slug: hard-drive-and-hard-drinking
-date: "2004-08-25 13:20"
-category: General Thoughts
+date: 2004-08-25 13:20
 tags:
-  - computer
-  - failure
-  - party
+- char
+- computer
+- failure
+- party
 author: offby1
 status: draft
 ---

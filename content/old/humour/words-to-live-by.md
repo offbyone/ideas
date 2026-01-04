@@ -1,9 +1,9 @@
 ---
 title: Words to live by...
 slug: words-to-live-by
-date: "2003-10-18 17:54"
-category: Humour
-tags: humour
+date: 2003-10-18 17:54
+tags:
+- humour
 author: offby1
 status: draft
 ---

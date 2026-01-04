@@ -1,9 +1,12 @@
 ---
 title: Hey, nonny...
 slug: hey-nonny
-date: "2005-08-31 07:15"
-category: General Thoughts, Meta
-tags: meta
+date: 2005-08-31 07:15
+tags:
+- alberta
+- meta
+- simon
+- skydiving
 author: offby1
 status: draft
 ---

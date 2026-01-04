@@ -1,9 +1,9 @@
 ---
 title: Marks to date
 slug: marks-to-date
-date: "2002-11-05 10:10"
-category: General Thoughts
-tags: school
+date: 2002-11-05 10:10
+tags:
+- school
 author: offby1
 status: draft
 ---

@@ -1,11 +1,11 @@
 ---
 title: 28044 pence, none the wiser
 slug: 28044-pence-none-the-wiser
-date: "2004-10-14 10:45"
-category: General Thoughts
+date: 2004-10-14 10:45
 tags:
-  - better living through...
-  - health
+- better living through...
+- health
+- school
 author: offby1
 status: draft
 ---

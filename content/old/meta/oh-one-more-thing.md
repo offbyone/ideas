@@ -1,9 +1,9 @@
 ---
 title: Oh, one more thing...
 slug: oh-one-more-thing
-date: "2005-05-02 22:07"
-category: Meta
-tags: meta
+date: 2005-05-02 22:07
+tags:
+- meta
 author: offby1
 status: draft
 ---

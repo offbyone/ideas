@@ -1,12 +1,15 @@
 ---
 title: Yeah, it's a bit behind the times
 slug: yeah-its-a-bit-behind-the-times
-date: "2004-12-10 12:22"
-category: Events, General Thoughts, Media, Rants
+date: 2004-12-10 12:22
 tags:
-  - events
-  - media
-  - rants
+- alberta
+- edmonton
+- events
+- matt-dixon
+- media
+- rants
+- school
 author: offby1
 status: draft
 ---

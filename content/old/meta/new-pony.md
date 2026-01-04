@@ -1,9 +1,9 @@
 ---
 title: New pony!
 slug: new-pony
-date: "2005-02-15 16:29"
-category: Meta
-tags: meta
+date: 2005-02-15 16:29
+tags:
+- meta
 author: offby1
 status: draft
 ---

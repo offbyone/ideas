@@ -1,11 +1,11 @@
 ---
 title: Required Reading
 slug: required-reading
-date: "2004-07-30 20:31"
-category: General Thoughts
+date: 2004-07-30 20:31
 tags:
-  - book
-  - solitude
+- book
+- matt-dixon
+- solitude
 author: offby1
 status: draft
 ---

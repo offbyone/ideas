@@ -1,16 +1,16 @@
 ---
 title: Getting Closer
 slug: getting-closer
-date: "2007-02-12 20:31"
-category: Events, Friends
+date: 2007-02-12 20:31
 tags:
-  - japan
-  - projects
-  - school
-  - time
-  - vacation
-  - websphere
-  - work
+- char
+- japan
+- projects
+- school
+- time
+- vacation
+- websphere
+- work
 author: offby1
 status: draft
 ---

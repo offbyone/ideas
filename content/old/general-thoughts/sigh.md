@@ -1,12 +1,11 @@
 ---
 title: Sigh
 slug: sigh
-date: "2004-09-11 22:04"
-category: General Thoughts
+date: 2004-09-11 22:04
 tags:
-  - apple
-  - char
-  - ipod
+- apple
+- char
+- ipod
 author: offby1
 status: draft
 ---

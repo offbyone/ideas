@@ -1,11 +1,12 @@
 ---
 title: What a show
 slug: what-a-show
-date: "2002-11-11 12:35"
-category: Events, Friends, General Thoughts
+date: 2002-11-11 12:35
 tags:
-  - events
-  - friends
+- beau
+- jamie
+- events
+- friends
 author: offby1
 status: draft
 ---

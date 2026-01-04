@@ -1,9 +1,9 @@
 ---
 title: Back!!!
 slug: back
-date: "2003-09-06 18:25"
-category: Meta
-tags: meta
+date: 2003-09-06 18:25
+tags:
+- meta
 author: offby1
 status: draft
 ---

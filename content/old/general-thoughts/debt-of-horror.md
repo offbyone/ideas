@@ -1,9 +1,9 @@
 ---
 title: Debt of Horror
 slug: debt-of-horror
-date: "2003-02-12 06:48"
-category: General Thoughts
-tags: school
+date: 2003-02-12 06:48
+tags:
+- school
 author: offby1
 status: draft
 ---

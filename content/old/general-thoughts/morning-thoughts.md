@@ -1,13 +1,13 @@
 ---
 title: Morning thoughts
 slug: morning-thoughts
-date: "2005-09-15 07:22"
-category: General Thoughts
+date: 2005-09-15 07:22
 tags:
-  - geeky
-  - school
-  - simon
-  - work
+- char
+- geeky
+- school
+- simon
+- work
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Finals
 slug: finals
-date: "2004-04-30 13:09"
-category: General Thoughts
-tags: school
+date: 2004-04-30 13:09
+tags:
+- school
 author: offby1
 status: draft
 ---

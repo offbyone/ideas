@@ -2,21 +2,17 @@
 title: Masculine Energy and Aggression in the Workplace
 slug: masculine-energy-and-aggression-in-the-workplace
 date: 2025-01-19 10:35:44.451961
-category: work
 tags:
-  - thoughts
-  - AWS
-  - culture
-  - feminism
-  - character
-  - culture
-  - career
-  - misanthropy
+- work
+- culture
+- feminism
+- aws
+- reflection
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: My thoughts on how aggression and "Masculine Energy" have played out in my career, with references to recent bullshit from Meta and Zuckerberg
-status: published
-toot: "https://wandering.shop/@offby1/113856615279060547"
+toot: https://wandering.shop/@offby1/113856615279060547
 ---
 A lot of recent digital ink has been spilled about the implications of Mark Zuckerberg's recent changes to Meta's corporate culture, to reflect a more "Masculine Energy" that he believes is necessary to succeed[ref][USA Today](https://www.usatoday.com/story/life/health-wellness/2025/01/17/mark-zuckerberg-meta-workforce-masculine-energy/77755286007/), [The Guardian](https://www.theguardian.com/commentisfree/2025/jan/18/mark-zuckerberg-masculine-energy), [The Cut](https://www.thecut.com/article/mark-zuckerberg-thinks-companies-need-masculine-energy.html), [CBC](https://www.cbc.ca/news/business/mark-zuckerberg-masculinity-future-of-meta-1.7430950), etc...[/ref]. The article that spurred this post, though, is [this one by Kelley Greene](https://www.yahoo.com/news/woman-worked-tech-industry-15-214617926.html)[ref]Find her at [https://kelleygreene.pizza/](https://kelleygreene.pizza/) for more[/ref] on how aggression in the workplace plays out in practice. It's worth reading. 
 

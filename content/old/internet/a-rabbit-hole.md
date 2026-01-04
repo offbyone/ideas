@@ -1,15 +1,14 @@
 ---
 title: A Rabbit Hole
 slug: a-rabbit-hole
-date: "2008-01-31 08:47"
-category: Internet, Media
+date: 2008-01-31 08:47
 tags:
-  - internet
-  - media
-  - operation clambake
-  - religion
-  - scientology
-  - xenu
+- internet
+- media
+- operation clambake
+- religion
+- scientology
+- xenu
 author: offby1
 status: draft
 ---

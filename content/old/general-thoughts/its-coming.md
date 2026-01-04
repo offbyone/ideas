@@ -1,9 +1,9 @@
 ---
 title: It's Coming!!!!
 slug: its-coming
-date: "2002-11-09 22:33"
-category: General Thoughts
-tags: lord of the rings
+date: 2002-11-09 22:33
+tags:
+- lord of the rings
 author: offby1
 status: draft
 ---

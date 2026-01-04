@@ -1,13 +1,13 @@
 ---
 title: One-sided conversations
 slug: one-sided-conversations
-date: "2003-04-04 15:35"
-category: General Thoughts
+date: 2003-04-04 15:35
 tags:
-  - apology
-  - asshole
-  - events
-  - friends
+- apology
+- asshole
+- events
+- friends
+- school
 author: offby1
 status: draft
 ---

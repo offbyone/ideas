@@ -1,11 +1,10 @@
 ---
 title: A black day
 slug: a-black-day
-date: "2003-02-01 09:29"
-category: contemplation
+date: 2003-02-01 09:29
 tags:
-  - events
-  - space
+- events
+- space
 author: offby1
 status: published
 ---

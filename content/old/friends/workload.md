@@ -1,11 +1,10 @@
 ---
 title: Workload
 slug: workload
-date: "2004-10-18 17:54"
-category: Friends, General Thoughts
+date: 2004-10-18 17:54
 tags:
-  - friends
-  - school
+- friends
+- school
 author: offby1
 status: draft
 ---

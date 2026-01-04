@@ -1,11 +1,10 @@
 ---
 title: Week (so far) in review
 slug: week-so-far-in-review
-date: "2003-01-23 13:48"
-category: General Thoughts
+date: 2003-01-23 13:48
 tags:
-  - failure
-  - health
+- failure
+- health
 author: offby1
 status: draft
 ---

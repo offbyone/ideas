@@ -1,9 +1,9 @@
 ---
 title: On parsing
 slug: on-parsing
-date: "2004-03-02 19:48"
-category: Projects
-tags: projects
+date: 2004-03-02 19:48
+tags:
+- projects
 author: offby1
 status: draft
 ---

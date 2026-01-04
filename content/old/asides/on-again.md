@@ -1,11 +1,11 @@
 ---
 title: On again,
 slug: on-again
-date: "2005-07-16 12:29"
-category: Asides, General Thoughts
+date: 2005-07-16 12:29
 tags:
-  - asides
-  - work
+- asides
+- char
+- work
 author: offby1
 status: draft
 ---

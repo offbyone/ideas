@@ -1,8 +1,7 @@
 ---
 title: It's not deep thought, but it's funny.
 slug: its-not-deep-thought-but-its-funny
-date: "2011-09-24 13:58"
-category: pics
+date: 2011-09-24 13:58
 author: offby1
 status: draft
 ---

@@ -1,12 +1,12 @@
 ---
 title: Hey, guess what!
 slug: hey-guess-what
-date: "2005-11-05 10:21"
-category: Friends, General Thoughts, Projects
+date: 2005-11-05 10:21
 tags:
-  - friends
-  - projects
-  - work
+- friends
+- projects
+- school
+- work
 author: offby1
 status: draft
 ---

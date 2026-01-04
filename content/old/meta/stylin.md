@@ -1,9 +1,9 @@
 ---
 title: Stylin'
 slug: stylin
-date: "2004-07-03 21:36"
-category: Meta
-tags: meta
+date: 2004-07-03 21:36
+tags:
+- meta
 author: offby1
 status: draft
 ---

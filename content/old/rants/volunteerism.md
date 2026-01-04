@@ -1,12 +1,13 @@
 ---
 title: Volunteerism
 slug: volunteerism
-date: "2008-02-27 23:59"
-category: Rants
+date: 2008-02-27 23:59
 tags:
-  - development porn
-  - isms
-  - volunteering
+- char
+- development porn
+- isms
+- rant
+- volunteering
 author: offby1
 status: draft
 ---

@@ -1,13 +1,12 @@
 ---
 title: Double-plus ungood
 slug: double-plus-ungood
-date: "2005-03-07 23:29"
-category: General Thoughts, Internet, Rants
+date: 2005-03-07 23:29
 tags:
-  - intellectual property
-  - internet
-  - privacy
-  - rants
+- intellectual property
+- internet
+- privacy
+- rants
 author: offby1
 status: draft
 ---

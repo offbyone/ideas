@@ -1,13 +1,13 @@
 ---
 title: Again, the words
 slug: again-the-words
-date: "2005-04-19 09:13"
-category: Friends, General Thoughts, Projects
+date: 2005-04-19 09:13
 tags:
-  - friends
-  - projects
-  - school
-  - work
+- char
+- friends
+- projects
+- school
+- work
 author: offby1
 status: draft
 ---

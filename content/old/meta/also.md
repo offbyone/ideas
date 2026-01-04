@@ -1,9 +1,9 @@
 ---
 title: Also...
 slug: also
-date: "2003-09-09 11:58"
-category: Meta
-tags: meta
+date: 2003-09-09 11:58
+tags:
+- meta
 author: offby1
 status: draft
 ---

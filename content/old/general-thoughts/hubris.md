@@ -1,11 +1,10 @@
 ---
 title: Hubris
 slug: hubris
-date: "2004-09-28 06:05"
-category: General Thoughts
+date: 2004-09-28 06:05
 tags:
-  - AI
-  - school
+- AI
+- school
 author: offby1
 status: draft
 ---

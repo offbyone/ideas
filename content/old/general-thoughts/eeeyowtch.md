@@ -1,11 +1,10 @@
 ---
 title: Eeeyowtch!
 slug: eeeyowtch
-date: "2006-10-22 19:04"
-category: Life
+date: 2006-10-22 19:04
 tags:
-  - dislocation
-  - skydiving
+- dislocation
+- skydiving
 author: offby1
 status: published
 ---

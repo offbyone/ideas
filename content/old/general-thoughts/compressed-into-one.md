@@ -1,13 +1,13 @@
 ---
 title: Compressed into one...
 slug: compressed-into-one
-date: "2005-06-03 17:12"
-category: General Thoughts
+date: 2005-06-03 17:12
 tags:
-  - art
-  - humour
-  - plays
-  - shakespeare
+- art
+- humour
+- plays
+- school
+- shakespeare
 author: offby1
 status: draft
 ---

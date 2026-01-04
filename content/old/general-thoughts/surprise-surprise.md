@@ -1,14 +1,15 @@
 ---
 title: Surprise, Surprise...
 slug: surprise-surprise
-date: "2004-04-17 23:40"
-category: General Thoughts
+date: 2004-04-17 23:40
 tags:
-  - book
-  - doodads
-  - gift-giving
-  - gifts
-  - projects
+- book
+- doodads
+- gift-giving
+- gifts
+- matt-dixon
+- projects
+- school
 author: offby1
 status: draft
 ---

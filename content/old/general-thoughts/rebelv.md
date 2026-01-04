@@ -1,12 +1,13 @@
 ---
 title: Rebel(v)
 slug: rebelv
-date: "2004-12-12 11:30"
-category: General Thoughts, Internet, Media, Rants
+date: 2004-12-12 11:30
+category: hacking
 tags:
-  - internet
-  - media
-  - rants
+- internet
+- matt-dixon
+- media
+- rants
 author: offby1
 status: draft
 ---

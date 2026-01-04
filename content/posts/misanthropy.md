@@ -1,17 +1,16 @@
 ---
 title: I'm Not a Misanthrope
 slug: misanthropy
-date: "2020-02-07T12:30:00-0800"
-category: society
+date: 2020-02-07T12:30:00-0800
 tags:
-  - attitude
-  - misanthropy
-  - feminism
-  - bigotry
+- feminism
+- bigotry
+- social-justice
+- rant
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: I used to think I was a misanthrope, and then I met the real ones.
-status: published
 ---
 (from a conversation at work)
 

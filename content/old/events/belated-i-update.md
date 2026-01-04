@@ -1,13 +1,12 @@
 ---
 title: Belated, I Update.
 slug: belated-i-update
-date: "2004-08-17 04:14"
-category: Events, Friends, General Thoughts
+date: 2004-08-17 04:14
 tags:
-  - events
-  - friends
-  - school
-  - work
+- events
+- friends
+- school
+- work
 author: offby1
 status: draft
 ---

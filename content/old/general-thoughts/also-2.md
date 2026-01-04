@@ -1,11 +1,11 @@
 ---
 title: Also
 slug: also-2
-date: "2005-01-16 10:22"
-category: General Thoughts
+date: 2005-01-16 10:22
 tags:
-  - fuck telus
-  - moving
+- char
+- fuck telus
+- moving
 author: offby1
 status: draft
 ---

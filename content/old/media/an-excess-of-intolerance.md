@@ -1,9 +1,9 @@
 ---
 title: An Excess of (in)Tolerance
 slug: an-excess-of-intolerance
-date: "2002-12-26 09:22"
-category: Media
-tags: media
+date: 2002-12-26 09:22
+tags:
+- media
 author: offby1
 status: draft
 ---

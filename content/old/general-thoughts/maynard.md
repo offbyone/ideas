@@ -1,17 +1,16 @@
 ---
 title: Maynard
 slug: maynard
-date: "2006-12-01 00:01"
-category: General Thoughts, Internet, Media, Rants
+date: 2006-12-01 00:01
 tags:
-  - intellectual property
-  - internet
-  - media
-  - obscenity
-  - pornography
-  - privacy
-  - quote
-  - rants
+- intellectual property
+- internet
+- media
+- obscenity
+- pornography
+- privacy
+- quote
+- rants
 author: offby1
 status: draft
 ---

@@ -1,14 +1,13 @@
 ---
 title: Let me count the ways
 slug: let-me-count-the-ways
-date: "2004-08-07 05:43"
-category: General Thoughts, Internet, Media, Rants
+date: 2004-08-07 05:43
 tags:
-  - intellectual property
-  - internet
-  - media
-  - politics
-  - rants
+- intellectual property
+- internet
+- media
+- politics
+- rants
 author: offby1
 status: draft
 ---

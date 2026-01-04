@@ -1,13 +1,13 @@
 ---
 title: Presenting
 slug: presenting
-date: "2006-12-05 21:18"
-category: General Thoughts
+date: 2006-12-05 21:18
 tags:
-  - deadlines
-  - exams
-  - presentation
-  - websphere
+- deadlines
+- exams
+- presentation
+- school
+- websphere
 author: offby1
 status: draft
 ---

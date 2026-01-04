@@ -4,16 +4,17 @@ slug: updating-your-nexus-enrollment-after-naturalizing-as-a-us-citizen
 date: 2023-03-20 16:13:27.502692
 category: immigration
 tags:
-  - howto
-  - immigration
-  - uscis
-  - canada
-  - united states
+- nexus
+- citizenship
+- immigration
+- canada
+- united-states
+- howto
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: I recently naturalized as a US citizen and I had a hell of a time identifying exactly which steps I needed to take to get my Nexus card updated to reflect my new citizenship status. Here, I list out the steps that were needed in practice to update my card to reflect my dual citizenship.
-status: published
-toot: "https://wandering.shop/@offby1/110058483223840031"
+toot: https://wandering.shop/@offby1/110058483223840031
 ---
 I recently naturalized as a US citizen and I had a hell of a time identifying exactly which steps I needed to take to get my Nexus card updated to reflect my new citizenship status. Thanks to a tip from [Adam Harvey](https://tldr.nettime.org/@adam_harvey) while socializing at PyCascades in Vancouver, though, I believe I have it sorted.
 

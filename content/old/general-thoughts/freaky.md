@@ -1,12 +1,13 @@
 ---
 title: Freaky
 slug: freaky
-date: "2006-06-18 20:43"
-category: General Thoughts
+date: 2006-06-18 20:43
 tags:
-  - accident
-  - asshole
-  - driving
+- accident
+- asshole
+- beau
+- driving
+- edmonton
 author: offby1
 status: draft
 ---

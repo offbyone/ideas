@@ -1,9 +1,10 @@
 ---
 title: Working long hours
 slug: working-long-hours
-date: "2005-11-30 07:25"
-category: General Thoughts
-tags: work
+date: 2005-11-30 07:25
+tags:
+- char
+- work
 author: offby1
 status: draft
 ---

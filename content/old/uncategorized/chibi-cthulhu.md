@@ -1,8 +1,7 @@
 ---
 title: Chibi-Cthulhu
 slug: chibi-cthulhu
-date: "2010-05-02 23:04"
-category: pics
+date: 2010-05-02 23:04
 author: offby1
 status: published
 ---

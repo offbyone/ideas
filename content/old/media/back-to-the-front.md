@@ -1,9 +1,10 @@
 ---
 title: Back to the front
 slug: back-to-the-front
-date: "2004-04-21 13:29"
-category: Media
-tags: media
+date: 2004-04-21 13:29
+tags:
+- char
+- media
 author: offby1
 status: draft
 ---

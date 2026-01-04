@@ -1,13 +1,13 @@
 ---
 title: Why not?
 slug: why-not
-date: "2003-10-24 07:58"
-category: General Thoughts, Internet, Rants
+date: 2003-10-24 07:58
 tags:
-  - intellectual property
-  - internet
-  - privacy
-  - rants
+- intellectual property
+- internet
+- privacy
+- rants
+- school
 author: offby1
 status: draft
 ---

@@ -1,12 +1,15 @@
 ---
 title: Tick, Tock
 slug: tick-tock
-date: "2011-06-25 08:52"
-category: amazon
+date: 2011-06-25 08:52
 tags:
-  - home
-  - nightlife
-  - socializing
+- char
+- edmonton
+- home
+- matt
+- nightlife
+- seattle
+- socializing
 author: offby1
 status: published
 ---

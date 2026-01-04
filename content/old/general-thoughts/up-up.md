@@ -1,12 +1,12 @@
 ---
 title: Up, up
 slug: up-up
-date: "2004-10-27 07:33"
-category: General Thoughts, Internet, Rants
+date: 2004-10-27 07:33
 tags:
-  - internet
-  - rants
-  - space
+- internet
+- matt-dixon
+- rants
+- space
 author: offby1
 status: draft
 ---

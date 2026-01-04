@@ -1,11 +1,10 @@
 ---
 title: Site death and shitty hardware
 slug: site-death-and-shitty-hardware
-date: "2002-12-28 13:54"
-category: General Thoughts
+date: 2002-12-28 13:54
 tags:
-  - computer
-  - failure
+- computer
+- failure
 author: offby1
 status: draft
 ---

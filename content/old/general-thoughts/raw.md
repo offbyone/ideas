@@ -1,12 +1,12 @@
 ---
 title: Raw
 slug: raw
-date: "2004-02-01 20:34"
-category: General Thoughts
+date: 2004-02-01 20:34
 tags:
-  - fear
-  - impending doom
-  - primitive superstition
+- char
+- fear
+- impending doom
+- primitive superstition
 author: offby1
 status: draft
 ---

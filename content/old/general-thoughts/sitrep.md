@@ -1,22 +1,21 @@
 ---
 title: Sitrep
 slug: sitrep
-date: "2007-05-10 12:40"
-category: General Thoughts
+date: 2007-05-10 12:40
 tags:
-  - alive
-  - bike
-  - char
-  - commuting
-  - dislocation
-  - fear
-  - health
-  - meta
-  - politics
-  - primitive superstition
-  - skydiving
-  - undue risk
-  - work
+- alive
+- bike
+- char
+- commuting
+- dislocation
+- fear
+- health
+- meta
+- politics
+- primitive superstition
+- skydiving
+- undue risk
+- work
 author: offby1
 status: draft
 ---

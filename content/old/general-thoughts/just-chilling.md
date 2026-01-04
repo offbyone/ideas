@@ -1,13 +1,13 @@
 ---
 title: Just Chilling
 slug: just-chilling
-date: "2004-07-26 21:03"
-category: General Thoughts
+date: 2004-07-26 21:03
 tags:
-  - book
-  - cryptography
-  - movie
-  - steadicam
+- book
+- char
+- cryptography
+- movie
+- steadicam
 author: offby1
 status: draft
 ---

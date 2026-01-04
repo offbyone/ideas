@@ -1,14 +1,15 @@
 ---
 title: Irony in Philosophy
 slug: irony-in-philosophy
-date: "2004-09-13 10:08"
-category: General Thoughts, Internet, Rants
+date: 2004-09-13 10:08
 tags:
-  - intellectual property
-  - internet
-  - privacy
-  - rants
-  - school
+- alberta
+- intellectual property
+- internet
+- matt-dixon
+- privacy
+- rants
+- school
 author: offby1
 status: draft
 ---

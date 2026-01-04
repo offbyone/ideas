@@ -1,9 +1,9 @@
 ---
 title: Oddly Appropriate
 slug: oddly-appropriate
-date: "2007-06-23 08:13"
-category: General Thoughts, Internet, Meta
-tags: autism
+date: 2007-06-23 08:13
+tags:
+- autism
 author: offby1
 status: draft
 ---

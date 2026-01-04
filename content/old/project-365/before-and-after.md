@@ -1,9 +1,9 @@
 ---
 title: Before and After
 slug: before-and-after
-date: "2010-04-24 06:58"
-category: pics
-tags: project 365
+date: 2010-04-24 06:58
+tags:
+- project 365
 author: offby1
 status: draft
 ---

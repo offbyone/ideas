@@ -1,13 +1,12 @@
 ---
 title: Absentmindless
 slug: absentmindless
-date: "2003-03-14 20:11"
-category: General Thoughts
+date: 2003-03-14 20:11
 tags:
-  - fuck telus
-  - ping
-  - school
-  - work
+- fuck telus
+- ping
+- school
+- work
 author: offby1
 status: draft
 ---

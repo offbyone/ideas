@@ -1,9 +1,9 @@
 ---
 title: I talked to Wesley!
 slug: i-talked-to-wesley
-date: "2002-11-20 20:03"
-category: Media
-tags: media
+date: 2002-11-20 20:03
+tags:
+- media
 author: offby1
 status: draft
 ---

@@ -1,13 +1,13 @@
 ---
 title: Is there really a point?
 slug: is-there-really-a-point
-date: "2005-08-20 07:36"
-category: General Thoughts, Internet, Rants
+date: 2005-08-20 07:36
 tags:
-  - intellectual property
-  - internet
-  - privacy
-  - rants
+- edmonton
+- intellectual property
+- internet
+- privacy
+- rants
 author: offby1
 status: draft
 ---

@@ -1,9 +1,11 @@
 ---
 title: Oh, Victor, you badass!
 slug: oh-victor-you-badass
-date: "2003-01-18 07:22"
-category: Events
-tags: events
+date: 2003-01-18 07:22
+tags:
+- california
+- events
+- school
 author: offby1
 status: draft
 ---

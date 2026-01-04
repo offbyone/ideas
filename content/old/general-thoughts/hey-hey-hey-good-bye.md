@@ -1,9 +1,9 @@
 ---
 title: Hey hey hey, good bye
 slug: hey-hey-hey-good-bye
-date: "2005-11-23 13:17"
-category: General Thoughts
-tags: fuck telus
+date: 2005-11-23 13:17
+tags:
+- fuck telus
 author: offby1
 status: draft
 ---

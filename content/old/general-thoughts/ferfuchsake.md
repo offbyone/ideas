@@ -1,12 +1,13 @@
 ---
 title: Ferfuchsake
 slug: ferfuchsake
-date: "2004-01-26 10:44"
-category: General Thoughts, Rants
+date: 2004-01-26 10:44
+category: programming
 tags:
-  - intellectual property
-  - privacy
-  - rants
+- intellectual property
+- privacy
+- rants
+- simon
 author: offby1
 status: draft
 ---

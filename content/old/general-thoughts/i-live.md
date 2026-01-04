@@ -1,9 +1,9 @@
 ---
 title: I live!
 slug: i-live
-date: "2008-01-12 18:18"
-category: General Thoughts
-tags: work
+date: 2008-01-12 18:18
+tags:
+- work
 author: offby1
 status: draft
 ---

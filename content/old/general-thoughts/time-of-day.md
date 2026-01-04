@@ -1,11 +1,12 @@
 ---
 title: Time of Day
 slug: time-of-day
-date: "2004-09-22 06:55"
-category: General Thoughts
+date: 2004-09-22 06:55
 tags:
-  - art
-  - beauty
+- art
+- beau
+- beauty
+- school
 author: offby1
 status: draft
 ---

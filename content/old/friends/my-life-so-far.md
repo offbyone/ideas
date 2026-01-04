@@ -1,13 +1,14 @@
 ---
 title: My life, so far
 slug: my-life-so-far
-date: "2006-03-07 08:36"
-category: Friends, General Thoughts, Media, Projects, Rants
+date: 2006-03-07 08:36
 tags:
-  - friends
-  - media
-  - projects
-  - rants
+- char
+- friends
+- media
+- projects
+- rants
+- school
 author: offby1
 status: draft
 ---

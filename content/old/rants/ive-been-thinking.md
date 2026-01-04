@@ -1,9 +1,11 @@
 ---
 title: I've been thinking
 slug: ive-been-thinking
-date: "2004-03-24 08:46"
-category: Rants
-tags: rants
+date: 2004-03-24 08:46
+tags:
+- matt-dixon
+- rant
+- rants
 author: offby1
 status: draft
 ---

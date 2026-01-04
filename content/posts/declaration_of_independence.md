@@ -1,17 +1,17 @@
 ---
 title: Twenty Years Later
 slug: declaration-of-independence-of-cyberspace
-date: "2016-02-08 23:18 PST"
-category: internet
+date: 2016-02-08 23:18 PST
 tags:
-  - society
-  - internet
-  - cyberspace
-  - culture
+- internet
+- cyberspace
+- culture
+- society
+- jpb
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: We didn't build a better world, we just automated the excesses of the old one.
-status: published
 ---
 First, read this: [It's not Cyberspace anymore](https://points.datasociety.net/it-s-not-cyberspace-anymore-55c659025e97).
 

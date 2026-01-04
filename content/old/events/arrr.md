@@ -1,9 +1,9 @@
 ---
 title: Arrr!
 slug: arrr
-date: "2003-09-19 13:38"
-category: Events
-tags: events
+date: 2003-09-19 13:38
+tags:
+- events
 author: offby1
 status: draft
 ---

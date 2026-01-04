@@ -1,11 +1,15 @@
 ---
 title: Hitches and Glitches and 22,000 feet travelled at speed
 slug: hitches-and-glitches-and-22000-feet-travelled-at-speed
-date: "2004-08-29 13:05"
-category: Events, Friends, General Thoughts
+date: 2004-08-29 13:05
 tags:
-  - events
-  - friends
+- amy
+- beau
+- char
+- events
+- friends
+- matt-dixon
+- simon
 author: offby1
 status: draft
 ---

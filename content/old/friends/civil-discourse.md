@@ -1,9 +1,13 @@
 ---
 title: Civil discourse
 slug: civil-discourse
-date: "2003-07-31 08:06"
-category: Friends
-tags: friends
+date: 2003-07-31 08:06
+tags:
+- amy
+- friends
+- matt
+- school
+- skydiving
 author: offby1
 status: draft
 ---

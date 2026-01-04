@@ -1,9 +1,10 @@
 ---
 title: One on hold, a new one started
 slug: one-on-hold-a-new-one-started
-date: "2003-06-30 13:43"
-category: Projects
-tags: projects
+date: 2003-06-30 13:43
+category: programming
+tags:
+- projects
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
-title: ...
+title: '...'
 slug: dot-dot-dot
-date: "2002-12-01 22:44"
-category: Friends, General Thoughts
-tags: friends
+date: 2002-12-01 22:44
+tags:
+- friends
 author: offby1
 status: draft
 ---

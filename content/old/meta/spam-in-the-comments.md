@@ -1,9 +1,9 @@
 ---
 title: Spam in the comments
 slug: spam-in-the-comments
-date: "2003-11-11 21:04"
-category: Meta
-tags: meta
+date: 2003-11-11 21:04
+tags:
+- meta
 author: offby1
 status: draft
 ---

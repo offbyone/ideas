@@ -1,9 +1,10 @@
 ---
 title: And then there was one...
 slug: and-then-there-was-one
-date: "2006-05-27 21:46"
-category: Events
-tags: events
+date: 2006-05-27 21:46
+tags:
+- edmonton
+- events
 author: offby1
 status: draft
 ---

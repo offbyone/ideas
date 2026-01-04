@@ -1,11 +1,11 @@
 ---
-title: "Classified: Funny"
+title: 'Classified: Funny'
 slug: classified-funny
-date: "2008-02-14 08:01"
-category: Humour, Internet
+date: 2008-02-14 08:01
 tags:
-  - aggro
-  - craigslist
+- aggro
+- craigslist
+- school
 author: offby1
 status: draft
 ---

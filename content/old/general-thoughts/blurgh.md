@@ -1,12 +1,11 @@
 ---
 title: Blurgh
 slug: blurgh
-date: "2005-10-10 11:20"
-category: General Thoughts
+date: 2005-10-10 11:20
 tags:
-  - apathy
-  - computer
-  - ennui
+- apathy
+- computer
+- ennui
 author: offby1
 status: draft
 ---

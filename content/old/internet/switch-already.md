@@ -1,11 +1,10 @@
 ---
 title: Switch, already!
 slug: switch-already
-date: "2004-07-10 08:29"
-category: Internet, Rants
+date: 2004-07-10 08:29
 tags:
-  - internet
-  - rants
+- internet
+- rants
 author: offby1
 status: draft
 ---

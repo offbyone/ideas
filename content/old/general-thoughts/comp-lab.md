@@ -1,9 +1,9 @@
 ---
 title: Comp Lab
 slug: comp-lab
-date: "2002-11-22 08:48"
-category: General Thoughts
-tags: school
+date: 2002-11-22 08:48
+tags:
+- school
 author: offby1
 status: draft
 ---

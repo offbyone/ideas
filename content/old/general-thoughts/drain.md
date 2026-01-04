@@ -1,11 +1,10 @@
 ---
 title: Drain
 slug: drain
-date: "2007-03-18 14:26"
-category: General Thoughts
+date: 2007-03-18 14:26
 tags:
-  - school
-  - stress
+- school
+- stress
 author: offby1
 status: draft
 ---

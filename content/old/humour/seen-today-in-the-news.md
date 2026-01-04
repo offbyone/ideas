@@ -1,12 +1,11 @@
 ---
 title: Seen today in the news
 slug: seen-today-in-the-news
-date: "2007-03-01 09:38"
-category: Humour, Media
+date: 2007-03-01 09:38
 tags:
-  - batshitinsane
-  - government
-  - ufo
+- batshitinsane
+- government
+- ufo
 author: offby1
 status: draft
 ---

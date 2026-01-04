@@ -1,9 +1,9 @@
 ---
 title: Vulnerable to Error
 slug: vulnerable-to-error
-date: "2003-11-04 09:50"
-category: General Thoughts
-tags: school
+date: 2003-11-04 09:50
+tags:
+- school
 author: offby1
 status: draft
 ---

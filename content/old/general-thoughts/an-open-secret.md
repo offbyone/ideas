@@ -1,12 +1,13 @@
 ---
 title: An open secret
 slug: an-open-secret
-date: "2003-04-08 16:35"
-category: General Thoughts, Rants
+date: 2003-04-08 16:35
+category: hacking
 tags:
-  - intellectual property
-  - privacy
-  - rants
+- intellectual property
+- matt-dixon
+- privacy
+- rants
 author: offby1
 status: draft
 ---

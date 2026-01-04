@@ -1,9 +1,9 @@
 ---
 title: Countdown to the weekend
 slug: countdown-to-the-weekend
-date: "2004-05-20 21:41"
-category: General Thoughts
-tags: work
+date: 2004-05-20 21:41
+tags:
+- work
 author: offby1
 status: draft
 ---

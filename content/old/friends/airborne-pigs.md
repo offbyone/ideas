@@ -1,11 +1,13 @@
 ---
 title: Airborne pigs!
 slug: airborne-pigs
-date: "2003-01-03 10:58"
-category: Friends, General Thoughts
+date: 2003-01-03 10:58
 tags:
-  - friends
-  - school
+- beau
+- char
+- friends
+- school
+- simon
 author: offby1
 status: draft
 ---

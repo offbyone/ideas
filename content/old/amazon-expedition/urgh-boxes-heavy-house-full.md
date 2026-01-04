@@ -1,8 +1,10 @@
 ---
 title: Urgh. Boxes Heavy. House full.
 slug: urgh-boxes-heavy-house-full
-date: "2011-07-17 15:03"
-category: amazon
+date: 2011-07-17 15:03
+tags:
+- amy
+- char
 author: offby1
 status: published
 ---

@@ -1,9 +1,9 @@
 ---
 title: The working man's blues
 slug: the-working-mans-blues
-date: "2003-02-06 06:48"
-category: General Thoughts
-tags: work
+date: 2003-02-06 06:48
+tags:
+- work
 author: offby1
 status: draft
 ---

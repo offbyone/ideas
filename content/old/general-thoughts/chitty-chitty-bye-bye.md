@@ -1,11 +1,11 @@
 ---
 title: Chitty Chitty Bye Bye
 slug: chitty-chitty-bye-bye
-date: "2007-03-30 06:27"
-category: General Thoughts
+date: 2007-03-30 06:27
 tags:
-  - cats
-  - goodbye
+- cats
+- char
+- goodbye
 author: offby1
 status: draft
 ---

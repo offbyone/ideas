@@ -1,14 +1,14 @@
 ---
 title: It's key.
 slug: its-key
-date: "2006-03-22 10:46"
-category: Events, General Thoughts
+date: 2006-03-22 10:46
+category: programming
 tags:
-  - events
-  - intellectual property
-  - privacy
-  - words that I hate
-  - work
+- events
+- intellectual property
+- privacy
+- words that I hate
+- work
 author: offby1
 status: draft
 ---

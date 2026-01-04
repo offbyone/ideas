@@ -1,8 +1,11 @@
 ---
 title: July and August (And Beyond)
 slug: july-and-august-and-beyond
-date: "2011-08-24 10:20"
-category: amazon
+date: 2011-08-24 10:20
+tags:
+- char
+- seattle
+- simon
 author: offby1
 status: published
 ---

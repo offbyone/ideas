@@ -1,11 +1,10 @@
 ---
 title: Approaching Health in a New Way
 slug: health-care-and-a-new-approach
-date: "2004-07-05 07:32"
-category: Internet, Rants
+date: 2004-07-05 07:32
 tags:
-  - internet
-  - rants
+- internet
+- rants
 author: offby1
 status: draft
 ---

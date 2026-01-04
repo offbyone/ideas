@@ -1,9 +1,10 @@
 ---
 title: Gorged
 slug: gorged
-date: "2003-11-30 08:21"
-category: Events
-tags: events
+date: 2003-11-30 08:21
+tags:
+- char
+- events
 author: offby1
 status: draft
 ---

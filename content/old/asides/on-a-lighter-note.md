@@ -1,11 +1,10 @@
 ---
 title: On a lighter note
 slug: on-a-lighter-note
-date: "2005-12-07 08:20"
-category: Asides, Meta
+date: 2005-12-07 08:20
 tags:
-  - asides
-  - meta
+- asides
+- meta
 author: offby1
 status: draft
 ---

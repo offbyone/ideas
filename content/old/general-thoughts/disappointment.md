@@ -1,13 +1,12 @@
 ---
 title: Disappointment
 slug: disappointment
-date: "2004-02-20 08:58"
-category: General Thoughts
+date: 2004-02-20 08:58
 tags:
-  - disappointment
-  - memory lane
-  - primitive superstition
-  - religion
+- disappointment
+- memory lane
+- primitive superstition
+- religion
 author: offby1
 status: draft
 ---

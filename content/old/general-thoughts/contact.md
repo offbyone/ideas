@@ -1,12 +1,15 @@
 ---
 title: Contact
 slug: contact
-date: "2005-07-17 10:56"
-category: General Thoughts
+date: 2005-07-17 10:56
 tags:
-  - friends
-  - moving
-  - party
+- char
+- friends
+- matt-dixon
+- moving
+- party
+- school
+- simon
 author: offby1
 status: draft
 ---

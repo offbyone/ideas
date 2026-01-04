@@ -1,11 +1,10 @@
 ---
 title: Siteside again
 slug: siteside-again
-date: "2004-12-19 09:52"
-category: General Thoughts, Meta
+date: 2004-12-19 09:52
 tags:
-  - meta
-  - school
+- meta
+- school
 author: offby1
 status: draft
 ---

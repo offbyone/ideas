@@ -1,12 +1,11 @@
 ---
 title: That ol' "impending doom" feeling...
 slug: that-ol-impending-doom-feeling
-date: "2004-02-04 23:25"
-category: General Thoughts
+date: 2004-02-04 23:25
 tags:
-  - family
-  - fear
-  - health
+- family
+- fear
+- health
 author: offby1
 status: draft
 ---

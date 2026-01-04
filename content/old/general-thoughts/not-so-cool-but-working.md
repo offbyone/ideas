@@ -1,9 +1,11 @@
 ---
 title: Not so cool, but working.
 slug: not-so-cool-but-working
-date: "2005-06-01 12:22"
-category: General Thoughts
-tags: work
+date: 2005-06-01 12:22
+tags:
+- char
+- simon
+- work
 author: offby1
 status: draft
 ---

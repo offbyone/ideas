@@ -1,12 +1,12 @@
 ---
-title: ":-)"
+title: :-)
 slug: big-damned-grin
-date: "2004-09-29 16:06"
-category: Appreciation, Events, Friends, General Thoughts
+date: 2004-09-29 16:06
 tags:
-  - appreciation
-  - events
-  - friends
+- appreciation
+- char
+- events
+- friends
 author: offby1
 status: draft
 ---

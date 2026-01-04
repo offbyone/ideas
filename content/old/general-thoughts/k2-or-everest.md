@@ -1,9 +1,9 @@
 ---
 title: K2, or Everest?
 slug: k2-or-everest
-date: "2003-01-17 06:49"
-category: General Thoughts
-tags: school
+date: 2003-01-17 06:49
+tags:
+- school
 author: offby1
 status: draft
 ---

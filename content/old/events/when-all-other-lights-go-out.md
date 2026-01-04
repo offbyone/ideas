@@ -1,11 +1,10 @@
 ---
-title: ...when all other lights go out.
+title: '...when all other lights go out.'
 slug: when-all-other-lights-go-out
-date: "2008-03-18 23:27"
-category: Events
+date: 2008-03-18 23:27
 tags:
-  - obituary
-  - science fiction
+- obituary
+- science fiction
 author: offby1
 status: published
 ---

@@ -1,11 +1,12 @@
 ---
 title: Air Travel
 slug: air-travel
-date: "2011-10-26 20:16"
-category: travel
+date: 2011-10-26 20:16
 tags:
-  - culture
-  - travel
+- culture
+- school
+- seattle
+- travel
 author: offby1
 status: published
 ---

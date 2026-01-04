@@ -1,12 +1,12 @@
 ---
 title: Character Reference
 slug: character-reference
-date: "2011-02-14 00:05"
-category: life
+date: 2011-02-14 00:05
 tags:
-  - character
-  - pathfinder
-  - gaming
+- char
+- character
+- gaming
+- pathfinder
 author: offby1
 status: published
 ---

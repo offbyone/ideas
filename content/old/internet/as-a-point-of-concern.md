@@ -1,9 +1,10 @@
 ---
 title: As a point of concern
 slug: as-a-point-of-concern
-date: "2006-01-02 07:31"
-category: Internet
-tags: internet
+date: 2006-01-02 07:31
+tags:
+- internet
+- school
 author: offby1
 status: draft
 ---

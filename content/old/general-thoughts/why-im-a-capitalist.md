@@ -1,14 +1,14 @@
 ---
 title: Why I'm a Capitalist
 slug: why-im-a-capitalist
-date: "2007-05-22 08:25"
-category: General Thoughts
+date: 2007-05-22 08:25
 tags:
-  - capitalism
-  - dependency
-  - isms
-  - musings
-  - strike
+- capitalism
+- dependency
+- isms
+- musings
+- school
+- strike
 author: offby1
 status: draft
 ---

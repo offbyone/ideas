@@ -1,11 +1,10 @@
 ---
 title: I Must Really Like My Co-workers
 slug: i-must-really-like-my-co-workers
-date: "2006-06-09 21:03"
-category: Friends, General Thoughts
+date: 2006-06-09 21:03
 tags:
-  - friends
-  - work
+- friends
+- work
 author: offby1
 status: draft
 ---

@@ -1,9 +1,10 @@
 ---
 title: Flat-out scared
 slug: flat-out-scared
-date: "2004-04-16 09:14"
-category: General Thoughts
-tags: school
+date: 2004-04-16 09:14
+tags:
+- alberta
+- school
 author: offby1
 status: draft
 ---

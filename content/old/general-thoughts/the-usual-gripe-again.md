@@ -1,9 +1,9 @@
 ---
 title: The usual gripe again...
 slug: the-usual-gripe-again
-date: "2003-02-20 09:30"
-category: General Thoughts
-tags: school
+date: 2003-02-20 09:30
+tags:
+- school
 author: offby1
 status: draft
 ---

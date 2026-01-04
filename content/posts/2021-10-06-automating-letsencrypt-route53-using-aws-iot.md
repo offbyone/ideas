@@ -2,18 +2,20 @@
 title: Using AWS IoT to provision an IAM role for home lab devices
 slug: automating-letsencrypt-route53-using-aws-iot
 date: 2021-10-06 23:17:22.563676
-category: homelab
+category: hacking
 tags:
-  - aws
-  - iot
-  - terraform
-  - ansible
-  - letsencrypt
-  - automation
+- aws
+- iot
+- terraform
+- ansible
+- letsencrypt
+- automation
+- certificates
+- route53
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Being a description of the steps I went through to turn my Raspberry Pi devices into IoT things so that I could eventually have them automatically use letsencrypt.
-status: published
 ---
 I'm going to start with a bit of a rambling preamble (pre-ramble?) about what I wanted to achieve, and some of the semi-arbitrary constraints I set for myself.
 

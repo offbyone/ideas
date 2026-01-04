@@ -1,9 +1,10 @@
 ---
 title: Silence
 slug: silence
-date: "2003-03-22 08:30"
-category: Meta
-tags: meta
+date: 2003-03-22 08:30
+tags:
+- meta
+- school
 author: offby1
 status: draft
 ---

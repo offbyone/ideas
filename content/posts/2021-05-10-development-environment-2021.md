@@ -4,13 +4,17 @@ slug: development-environment-2021
 date: 2021-05-10 07:34:39.057246
 category: tools
 tags:
-  - tools
-  - emacs
-  - direnv
+- chezmoi
+- doom-emacs
+- direnv
+- starship
+- asdf
+- python
+- development
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Some of the things I use in my day to day computering
-status: published
 ---
 I've had a good couple of years in terms of tool discovery. Rather than try to tweet about them in bits and bobs, I figured I would write up a few bits and pieces that I like.
 

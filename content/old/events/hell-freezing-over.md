@@ -1,11 +1,13 @@
 ---
 title: Hell Freezing Over
 slug: hell-freezing-over
-date: "2004-08-23 06:50"
-category: Events, General Thoughts, Rants
+date: 2004-08-23 06:50
+category: amazon
 tags:
-  - events
-  - rants
+- char
+- events
+- rants
+- school
 author: offby1
 status: draft
 ---

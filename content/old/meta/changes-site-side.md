@@ -1,9 +1,9 @@
 ---
 title: Changes site-side
 slug: changes-site-side
-date: "2002-11-02 19:52"
-category: Meta
-tags: meta
+date: 2002-11-02 19:52
+tags:
+- meta
 author: offby1
 status: draft
 ---

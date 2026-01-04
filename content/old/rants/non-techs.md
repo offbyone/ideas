@@ -1,9 +1,11 @@
 ---
 title: Non-techs
 slug: non-techs
-date: "2004-03-10 07:25"
-category: Rants
-tags: rants
+date: 2004-03-10 07:25
+tags:
+- matt-dixon
+- rant
+- rants
 author: offby1
 status: draft
 ---

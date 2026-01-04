@@ -1,9 +1,9 @@
 ---
 title: An atmosphere of witlessness
 slug: an-atmosphere-of-witlessness
-date: "2004-01-09 14:36"
-category: Humour
-tags: humour
+date: 2004-01-09 14:36
+tags:
+- humour
 author: offby1
 status: draft
 ---

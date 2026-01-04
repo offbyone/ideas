@@ -1,9 +1,10 @@
 ---
 title: Vacation time and overruling
 slug: vacation-time-and-overruling
-date: "2004-05-16 21:38"
-category: General Thoughts
-tags: work
+date: 2004-05-16 21:38
+tags:
+- california
+- work
 author: offby1
 status: draft
 ---

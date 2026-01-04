@@ -1,9 +1,9 @@
 ---
 title: Honestly Academic
 slug: honestly-academic
-date: "2003-11-14 00:59"
-category: General Thoughts
-tags: school
+date: 2003-11-14 00:59
+tags:
+- school
 author: offby1
 status: draft
 ---

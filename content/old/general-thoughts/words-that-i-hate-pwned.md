@@ -1,9 +1,9 @@
 ---
-title: "Words that I hate:  Pwned"
+title: 'Words that I hate:  Pwned'
 slug: words-that-i-hate-pwned
-date: "2006-06-04 15:39"
-category: General Thoughts
-tags: words that I hate
+date: 2006-06-04 15:39
+tags:
+- words that I hate
 author: offby1
 status: draft
 ---

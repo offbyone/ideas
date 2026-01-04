@@ -1,11 +1,11 @@
 ---
 title: To Know Me
 slug: to-know-me
-date: "2006-04-05 23:20"
-category: Asides, Friends, General Thoughts
+date: 2006-04-05 23:20
 tags:
-  - asides
-  - friends
+- asides
+- char
+- friends
 author: offby1
 status: draft
 ---

@@ -1,13 +1,12 @@
 ---
 title: Twenty Years, and Godspeed
 slug: twenty-years-and-godspeed
-date: "2007-01-28 09:45"
-category: contemplation
+date: 2007-01-28 09:45
 tags:
-  - events
-  - history
-  - mourning
-  - space
+- events
+- history
+- mourning
+- space
 author: offby1
 status: published
 ---

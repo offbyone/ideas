@@ -1,11 +1,11 @@
 ---
 title: From the "It only matters to Chris" department
 slug: from-the-it-only-matters-to-chris-department
-date: "2005-12-19 07:51"
-category: Asides, General Thoughts, Projects
+date: 2005-12-19 07:51
 tags:
-  - asides
-  - projects
+- asides
+- matt-dixon
+- projects
 author: offby1
 status: draft
 ---

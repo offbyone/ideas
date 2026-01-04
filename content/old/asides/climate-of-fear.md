@@ -1,12 +1,11 @@
 ---
 title: Climate of fear
 slug: climate-of-fear
-date: "2008-04-10 19:03"
-category: Asides
+date: 2008-04-10 19:03
 tags:
-  - common sense
-  - fear
-  - protectiveness
+- common sense
+- fear
+- protectiveness
 author: offby1
 status: draft
 ---

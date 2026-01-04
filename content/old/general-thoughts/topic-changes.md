@@ -1,11 +1,10 @@
 ---
 title: Topic changes?
 slug: topic-changes
-date: "2006-06-14 20:20"
-category: General Thoughts, Media
+date: 2006-06-14 20:20
 tags:
-  - media
-  - school
+- media
+- school
 author: offby1
 status: draft
 ---

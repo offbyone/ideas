@@ -1,17 +1,16 @@
 ---
 title: Free, huh?
 slug: free-huh
-date: "2005-04-04 07:43"
-category: General Thoughts, Internet, Media, Rants
+date: 2005-04-04 07:43
 tags:
-  - free speech
-  - intellectual property
-  - internet
-  - media
-  - politics
-  - privacy
-  - rants
-  - school
+- free speech
+- intellectual property
+- internet
+- media
+- politics
+- privacy
+- rants
+- school
 author: offby1
 status: draft
 ---

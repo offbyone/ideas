@@ -1,9 +1,10 @@
 ---
 title: More Rights
 slug: more-rights
-date: "2003-01-05 07:16"
-category: Rants
-tags: rants
+date: 2003-01-05 07:16
+tags:
+- rant
+- rants
 author: offby1
 status: draft
 ---

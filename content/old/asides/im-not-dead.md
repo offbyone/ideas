@@ -1,9 +1,10 @@
 ---
 title: I'm not dead
 slug: im-not-dead
-date: "2007-04-07 22:44"
-category: Asides
-tags: alive
+date: 2007-04-07 22:44
+tags:
+- alive
+- school
 author: offby1
 status: draft
 ---

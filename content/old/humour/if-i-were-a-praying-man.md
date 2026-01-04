@@ -1,11 +1,10 @@
 ---
 title: If I were a praying man...
 slug: if-i-were-a-praying-man
-date: "2006-09-07 18:27"
-category: Humour, Internet
+date: 2006-09-07 18:27
 tags:
-  - humour
-  - internet
+- humour
+- internet
 author: offby1
 status: draft
 ---

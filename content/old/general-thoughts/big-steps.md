@@ -1,14 +1,14 @@
 ---
 title: Big steps
 slug: big-steps
-date: "2008-11-24 17:53"
-category: General Thoughts
+date: 2008-11-24 17:53
 tags:
-  - accomodations
-  - char
-  - future
-  - housing market
-  - stress
+- accomodations
+- char
+- edmonton
+- future
+- housing market
+- stress
 author: offby1
 status: draft
 ---

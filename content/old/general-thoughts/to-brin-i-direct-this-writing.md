@@ -1,12 +1,12 @@
 ---
 title: To Brin, I Direct this Writing
 slug: to-brin-i-direct-this-writing
-date: "2006-05-20 10:21"
-category: General Thoughts, Rants
+date: 2006-05-20 10:21
 tags:
-  - intellectual property
-  - privacy
-  - rants
+- intellectual property
+- privacy
+- rants
+- school
 author: offby1
 status: draft
 ---

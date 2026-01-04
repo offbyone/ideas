@@ -1,11 +1,11 @@
 ---
 title: Weather; You like it or not.
 slug: weather-you-like-it-or-not
-date: "2004-07-09 17:54"
-category: Events, Friends, General Thoughts
+date: 2004-07-09 17:54
 tags:
-  - events
-  - friends
+- edmonton
+- events
+- friends
 author: offby1
 status: draft
 ---

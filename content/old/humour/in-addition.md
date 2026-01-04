@@ -1,9 +1,10 @@
 ---
 title: In addition...
 slug: in-addition
-date: "2004-03-10 07:51"
-category: Humour
-tags: humour
+date: 2004-03-10 07:51
+tags:
+- char
+- humour
 author: offby1
 status: draft
 ---

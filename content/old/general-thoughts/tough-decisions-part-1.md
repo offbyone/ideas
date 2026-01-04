@@ -1,11 +1,11 @@
 ---
 title: Tough decisions (Part 1)
 slug: tough-decisions-part-1
-date: "2005-02-02 08:33"
-category: General Thoughts
+date: 2005-02-02 08:33
 tags:
-  - cats
-  - health
+- cats
+- health
+- school
 author: offby1
 status: draft
 ---

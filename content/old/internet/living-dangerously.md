@@ -1,9 +1,9 @@
 ---
 title: Living Dangerously
 slug: living-dangerously
-date: "2003-12-01 07:35"
-category: Internet
-tags: internet
+date: 2003-12-01 07:35
+tags:
+- internet
 author: offby1
 status: draft
 ---

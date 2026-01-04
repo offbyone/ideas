@@ -1,9 +1,9 @@
 ---
 title: Upcoming
 slug: upcoming
-date: "2004-04-06 07:53"
-category: General Thoughts
-tags: school
+date: 2004-04-06 07:53
+tags:
+- school
 author: offby1
 status: draft
 ---

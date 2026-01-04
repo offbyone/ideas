@@ -1,9 +1,9 @@
 ---
 title: Making a dent
 slug: making-a-dent
-date: "2003-05-14 00:46"
-category: Internet
-tags: internet
+date: 2003-05-14 00:46
+tags:
+- internet
 author: offby1
 status: draft
 ---

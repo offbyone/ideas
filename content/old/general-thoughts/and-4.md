@@ -1,11 +1,10 @@
 ---
-title: ...and 4!
+title: '...and 4!'
 slug: and-4
-date: "2002-12-13 17:26"
-category: General Thoughts, Internet
+date: 2002-12-13 17:26
 tags:
-  - internet
-  - school
+- internet
+- school
 author: offby1
 status: draft
 ---

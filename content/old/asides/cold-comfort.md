@@ -1,11 +1,11 @@
 ---
 title: Cold Comfort
 slug: cold-comfort
-date: "2007-12-31 13:33"
-category: Asides, Events, Friends, General Thoughts
+date: 2007-12-31 13:33
 tags:
-  - new year
-  - questions
+- new year
+- questions
+- school
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: And it's done!
 slug: and-its-done
-date: "2003-04-26 02:22"
-category: General Thoughts
-tags: school
+date: 2003-04-26 02:22
+tags:
+- school
 author: offby1
 status: draft
 ---

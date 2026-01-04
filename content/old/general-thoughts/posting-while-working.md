@@ -1,11 +1,11 @@
 ---
 title: Posting while working
 slug: posting-while-working
-date: "2003-07-16 19:08"
-category: General Thoughts, Meta
+date: 2003-07-16 19:08
 tags:
-  - meta
-  - work
+- char
+- meta
+- work
 author: offby1
 status: draft
 ---

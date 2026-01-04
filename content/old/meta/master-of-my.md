@@ -1,9 +1,9 @@
 ---
 title: Master of my...
 slug: master-of-my
-date: "2003-11-05 21:31"
-category: Meta
-tags: meta
+date: 2003-11-05 21:31
+tags:
+- meta
 author: offby1
 status: draft
 ---

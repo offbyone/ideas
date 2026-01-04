@@ -1,12 +1,13 @@
 ---
 title: Summarize
 slug: summarize
-date: "2006-10-10 22:30"
-category: Friends, General Thoughts
+date: 2006-10-10 22:30
 tags:
-  - friends
-  - school
-  - work
+- char
+- friends
+- school
+- skydiving
+- work
 author: offby1
 status: draft
 ---

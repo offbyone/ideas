@@ -1,9 +1,10 @@
 ---
 title: Exams
 slug: exams
-date: "2006-04-20 07:05"
-category: General Thoughts
-tags: school
+date: 2006-04-20 07:05
+tags:
+- school
+- simon
 author: offby1
 status: draft
 ---

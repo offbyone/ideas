@@ -1,9 +1,9 @@
 ---
 title: Fit in much?
 slug: fit-in-much
-date: "2003-10-02 07:59"
-category: Internet
-tags: internet
+date: 2003-10-02 07:59
+tags:
+- internet
 author: offby1
 status: draft
 ---

@@ -1,11 +1,11 @@
 ---
 title: Monday morning updates
 slug: monday-morning-updates
-date: "2005-05-30 07:02"
-category: Friends, General Thoughts, Projects
+date: 2005-05-30 07:02
 tags:
-  - friends
-  - projects
+- aaron
+- friends
+- projects
 author: offby1
 status: draft
 ---

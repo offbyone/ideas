@@ -1,13 +1,13 @@
 ---
 title: Because i haven't posted in a while
 slug: because-i-havent-posted-in-a-while
-date: "2004-04-13 12:36"
-category: Events
+date: 2004-04-13 12:36
 tags:
-  - events
-  - free speech
-  - freedom
-  - internet
+- events
+- free speech
+- freedom
+- internet
+- school
 author: offby1
 status: draft
 ---

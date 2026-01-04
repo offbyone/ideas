@@ -1,9 +1,10 @@
 ---
 title: On the line again
 slug: on-the-line-again
-date: "2004-05-12 22:14"
-category: General Thoughts
-tags: internet
+date: 2004-05-12 22:14
+tags:
+- char
+- internet
 author: offby1
 status: draft
 ---

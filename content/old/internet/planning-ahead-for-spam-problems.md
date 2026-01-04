@@ -1,11 +1,10 @@
 ---
 title: Planning ahead for spam problems
 slug: planning-ahead-for-spam-problems
-date: "2005-10-12 16:52"
-category: Internet, Meta
+date: 2005-10-12 16:52
 tags:
-  - internet
-  - meta
+- internet
+- meta
 author: offby1
 status: draft
 ---

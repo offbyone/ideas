@@ -1,9 +1,9 @@
 ---
 title: What are you doing in my bath?
 slug: what-are-you-doing-in-my-bath
-date: "2010-05-27 05:12"
-category: pics
-tags: matt
+date: 2010-05-27 05:12
+tags:
+- matt
 author: offby1
 status: published
 ---

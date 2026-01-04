@@ -1,15 +1,15 @@
 ---
 title: I have arms again!
 slug: i-have-arms-again
-date: "2006-11-06 15:33"
-category: Friends, General Thoughts
+date: 2006-11-06 15:33
 tags:
-  - appreciation
-  - deadlines
-  - dislocation
-  - health
-  - skydiving
-  - work
+- appreciation
+- char
+- deadlines
+- dislocation
+- health
+- skydiving
+- work
 author: offby1
 status: draft
 ---

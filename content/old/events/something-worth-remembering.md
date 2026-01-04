@@ -1,9 +1,9 @@
 ---
 title: Something worth remembering
 slug: something-worth-remembering
-date: "2006-09-27 07:55"
-category: Events
-tags: events
+date: 2006-09-27 07:55
+tags:
+- events
 author: offby1
 status: draft
 ---

@@ -1,11 +1,11 @@
 ---
 title: Dark (Democratic) Days.
 slug: dark-democratic-days
-date: "2006-03-29 19:02"
-category: Media, Rants
+date: 2006-03-29 19:02
 tags:
-  - media
-  - rants
+- char
+- media
+- rants
 author: offby1
 status: draft
 ---

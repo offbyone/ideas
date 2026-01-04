@@ -1,12 +1,12 @@
 ---
-title: ...and home at last
+title: '...and home at last'
 slug: and-home-at-last
-date: "2003-09-29 19:24"
-category: General Thoughts
+date: 2003-09-29 19:24
 tags:
-  - planes
-  - trains
-  - travel
+- planes
+- school
+- trains
+- travel
 author: offby1
 status: draft
 ---

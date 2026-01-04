@@ -1,15 +1,15 @@
 ---
 title: Hola, all
 slug: hola-all
-date: "2008-04-24 22:10"
-category: General Thoughts
+date: 2008-04-24 22:10
 tags:
-  - integration
-  - projects
-  - travel
-  - unicode
-  - utf-8
-  - work
+- char
+- integration
+- projects
+- travel
+- unicode
+- utf-8
+- work
 author: offby1
 status: draft
 ---

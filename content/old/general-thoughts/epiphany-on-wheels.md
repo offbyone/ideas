@@ -1,11 +1,10 @@
 ---
 title: Epiphany on Wheels
 slug: epiphany-on-wheels
-date: "2007-05-17 07:36"
-category: General Thoughts
+date: 2007-05-17 07:36
 tags:
-  - bike
-  - traffic
+- bike
+- traffic
 author: offby1
 status: draft
 ---

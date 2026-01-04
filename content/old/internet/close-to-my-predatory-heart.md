@@ -1,13 +1,12 @@
 ---
 title: Close to my (predatory?) heart
 slug: close-to-my-predatory-heart
-date: "2007-09-13 13:27"
-category: Internet, Media, Rants
+date: 2007-09-13 13:27
 tags:
-  - family
-  - fear
-  - paranoia
-  - society
+- family
+- fear
+- paranoia
+- society
 author: offby1
 status: draft
 ---

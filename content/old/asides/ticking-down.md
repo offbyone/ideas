@@ -1,13 +1,13 @@
 ---
 title: Ticking Down
 slug: ticking-down
-date: "2006-12-11 20:48"
-category: Asides
+date: 2006-12-11 20:48
 tags:
-  - family
-  - gift-giving
-  - skiing
-  - work
+- char
+- family
+- gift-giving
+- skiing
+- work
 author: offby1
 status: draft
 ---

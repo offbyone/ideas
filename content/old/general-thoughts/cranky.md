@@ -1,8 +1,7 @@
 ---
 title: Cranky
 slug: cranky
-date: "2008-03-03 19:17"
-category: General Thoughts
+date: 2008-03-03 19:17
 author: offby1
 status: draft
 ---

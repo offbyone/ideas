@@ -1,13 +1,15 @@
 ---
 title: Nothing to say, but I can say it in three languages
 slug: nothing-to-say-but-i-can-say-it-in-three-languages
-date: "2004-10-23 09:03"
-category: Friends, General Thoughts, Internet, Meta
+date: 2004-10-23 09:03
 tags:
-  - friends
-  - internet
-  - meta
-  - school
+- amy
+- char
+- friends
+- internet
+- matt-dixon
+- meta
+- school
 author: offby1
 status: draft
 ---

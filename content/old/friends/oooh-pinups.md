@@ -1,12 +1,12 @@
 ---
 title: Oooh, pinups!
 slug: oooh-pinups
-date: "2005-05-10 21:21"
-category: Friends, General Thoughts, Meta
+date: 2005-05-10 21:21
 tags:
-  - friends
-  - meta
-  - work
+- char
+- friends
+- meta
+- work
 author: offby1
 status: draft
 ---

@@ -1,11 +1,11 @@
 ---
 title: Falling from really high up
 slug: falling-from-really-high-up
-date: "2004-08-18 17:31"
-category: Events, Friends, General Thoughts
+date: 2004-08-18 17:31
 tags:
-  - events
-  - friends
+- events
+- friends
+- skydiving
 author: offby1
 status: draft
 ---

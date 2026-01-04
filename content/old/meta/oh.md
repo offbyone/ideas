@@ -1,9 +1,9 @@
 ---
 title: Oh...
 slug: oh
-date: "2003-05-30 09:34"
-category: Meta
-tags: meta
+date: 2003-05-30 09:34
+tags:
+- meta
 author: offby1
 status: draft
 ---

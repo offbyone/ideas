@@ -1,9 +1,11 @@
 ---
 title: The world of visions
 slug: the-world-of-visions
-date: "2004-09-26 14:16"
-category: General Thoughts, Media
-tags: media
+date: 2004-09-26 14:16
+tags:
+- beau
+- char
+- media
 author: offby1
 status: draft
 ---

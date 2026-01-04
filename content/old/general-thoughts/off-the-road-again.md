@@ -1,9 +1,9 @@
 ---
 title: Off the road again
 slug: off-the-road-again
-date: "2004-06-18 06:32"
-category: General Thoughts
-tags: work
+date: 2004-06-18 06:32
+tags:
+- work
 author: offby1
 status: draft
 ---

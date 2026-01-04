@@ -1,14 +1,13 @@
 ---
 title: Warning Signs for Tomorrow
 slug: warning-signs-for-tomorrow
-date: "2006-10-15 12:42"
-category: Humour
+date: 2006-10-15 12:42
 tags:
-  - future
-  - humour
-  - internet
-  - meme
-  - snark
+- future
+- humour
+- internet
+- meme
+- snark
 author: offby1
 status: draft
 ---

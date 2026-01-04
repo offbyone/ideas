@@ -1,11 +1,11 @@
 ---
 title: Dear lord...
 slug: dear-lord
-date: "2003-10-04 07:08"
-category: General Thoughts
+date: 2003-10-04 07:08
 tags:
-  - geeky
-  - lord of the rings
+- edmonton
+- geeky
+- lord of the rings
 author: offby1
 status: draft
 ---

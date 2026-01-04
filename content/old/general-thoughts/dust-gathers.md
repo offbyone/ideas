@@ -1,11 +1,10 @@
 ---
 title: Dust gathers...
 slug: dust-gathers
-date: "2006-10-25 14:39"
-category: General Thoughts, Meta
+date: 2006-10-25 14:39
 tags:
-  - apology
-  - dislocation
+- apology
+- dislocation
 author: offby1
 status: draft
 ---

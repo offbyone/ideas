@@ -1,9 +1,10 @@
 ---
 title: Siteside Fixen
 slug: siteside-fixen
-date: "2005-03-09 11:29"
-category: Meta
-tags: meta
+date: 2005-03-09 11:29
+tags:
+- matt-dixon
+- meta
 author: offby1
 status: draft
 ---

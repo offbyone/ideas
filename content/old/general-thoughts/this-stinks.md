@@ -1,11 +1,10 @@
 ---
 title: This stinks!
 slug: this-stinks
-date: "2004-07-16 06:58"
-category: General Thoughts
+date: 2004-07-16 06:58
 tags:
-  - cleaning
-  - smell
+- cleaning
+- smell
 author: offby1
 status: draft
 ---

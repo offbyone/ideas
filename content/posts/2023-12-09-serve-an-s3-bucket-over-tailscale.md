@@ -2,16 +2,18 @@
 title: Serve an S3 bucket over tailscale
 slug: serve-an-s3-bucket-over-tailscale
 date: 2023-12-09 22:24:21.463022
-category: homelab
+category: hacking
 tags:
-  - tailscale
-  - s3
-  - None
+- tailscale
+- s3
+- golang
+- networking
+- proxy
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: A short intro to the idea of serving an S3 bucket on your tailnet
-status: published
-toot: "https://wandering.shop/@offby1/111555217869127815"
+toot: https://wandering.shop/@offby1/111555217869127815
 ---
 I found myself wanting to host a private website that I could reliably update, but only serve it to users on my tailnet.
 

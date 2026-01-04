@@ -1,14 +1,15 @@
 ---
 title: Updatey Things
 slug: updatey-things
-date: "2005-05-18 19:47"
-category: Events, General Thoughts, Media, Meta
+date: 2005-05-18 19:47
 tags:
-  - events
-  - media
-  - meta
-  - school
-  - work
+- char
+- events
+- media
+- meta
+- school
+- skydiving
+- work
 author: offby1
 status: draft
 ---

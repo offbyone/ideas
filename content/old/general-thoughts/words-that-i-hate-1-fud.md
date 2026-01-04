@@ -1,9 +1,10 @@
 ---
-title: "Words that I hate 1: FUD"
+title: 'Words that I hate 1: FUD'
 slug: words-that-i-hate-1-fud
-date: "2004-07-20 06:14"
-category: General Thoughts
-tags: words that I hate
+date: 2004-07-20 06:14
+tags:
+- school
+- words that I hate
 author: offby1
 status: draft
 ---

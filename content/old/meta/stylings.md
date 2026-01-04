@@ -1,9 +1,9 @@
 ---
 title: Stylings
 slug: stylings
-date: "2004-09-04 19:05"
-category: Meta
-tags: meta
+date: 2004-09-04 19:05
+tags:
+- meta
 author: offby1
 status: draft
 ---

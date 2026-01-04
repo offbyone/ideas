@@ -1,12 +1,11 @@
 ---
 title: This is funny
 slug: this-is-funny
-date: "2006-01-18 08:13"
-category: Humour, Internet, Media
+date: 2006-01-18 08:13
 tags:
-  - humour
-  - internet
-  - media
+- humour
+- internet
+- media
 author: offby1
 status: draft
 ---

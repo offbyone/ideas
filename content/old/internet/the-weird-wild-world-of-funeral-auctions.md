@@ -1,9 +1,9 @@
 ---
 title: The weird, wild world of funeral auctions
 slug: the-weird-wild-world-of-funeral-auctions
-date: "2002-12-04 09:22"
-category: Internet
-tags: internet
+date: 2002-12-04 09:22
+tags:
+- internet
 author: offby1
 status: draft
 ---

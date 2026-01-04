@@ -1,9 +1,9 @@
 ---
 title: I Think It's Different
 slug: i-think-its-different
-date: "2006-02-24 21:02"
-category: Asides, General Thoughts
-tags: asides
+date: 2006-02-24 21:02
+tags:
+- asides
 author: offby1
 status: draft
 ---

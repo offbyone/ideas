@@ -1,9 +1,11 @@
 ---
 title: Expletives and Imprecations
 slug: expletives-and-imprecations
-date: "2005-01-16 00:11"
-category: Friends, General Thoughts
-tags: friends
+date: 2005-01-16 00:11
+tags:
+- char
+- friends
+- simon
 author: offby1
 status: draft
 ---

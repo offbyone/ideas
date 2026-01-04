@@ -1,11 +1,10 @@
 ---
 title: A new hope?
 slug: a-new-hope
-date: "2005-03-11 00:33"
-category: Internet, Media
+date: 2005-03-11 00:33
 tags:
-  - internet
-  - media
+- internet
+- media
 author: offby1
 status: draft
 ---

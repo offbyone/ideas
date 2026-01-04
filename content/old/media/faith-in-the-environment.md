@@ -1,12 +1,13 @@
 ---
 title: Faith in the Environment
 slug: faith-in-the-environment
-date: "2003-12-11 07:58"
-category: Media
+date: 2003-12-11 07:58
 tags:
-  - environmentalism
-  - media
-  - smoking
+- environmentalism
+- matt-dixon
+- media
+- school
+- smoking
 author: offby1
 status: draft
 ---

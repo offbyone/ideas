@@ -1,9 +1,9 @@
 ---
 title: 3/8 Done
 slug: 38-done
-date: "2003-12-13 09:37"
-category: General Thoughts
-tags: school
+date: 2003-12-13 09:37
+tags:
+- school
 author: offby1
 status: draft
 ---

@@ -1,11 +1,10 @@
 ---
 title: Product placement
 slug: product-placement
-date: "2003-11-23 10:57"
-category: General Thoughts
+date: 2003-11-23 10:57
 tags:
-  - book
-  - gift-giving
+- book
+- gift-giving
 author: offby1
 status: draft
 ---

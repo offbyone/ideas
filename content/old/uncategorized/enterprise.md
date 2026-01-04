@@ -1,9 +1,10 @@
 ---
 title: Enterprise
 slug: enterprise
-date: "2010-05-16 19:00"
-category: pics
-tags: space
+date: 2010-05-16 19:00
+tags:
+- char
+- space
 author: offby1
 status: published
 ---

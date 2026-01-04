@@ -1,12 +1,13 @@
 ---
 title: Holy crap
 slug: holy-crap
-date: "2005-11-16 15:04"
-category: Asides, General Thoughts, Projects
+date: 2005-11-16 15:04
 tags:
-  - asides
-  - projects
-  - work
+- aaron
+- asides
+- char
+- projects
+- work
 author: offby1
 status: draft
 ---

@@ -1,12 +1,11 @@
 ---
 title: Anticipation, Whetting, and Satisfaction
 slug: anticipation-whetting-and-satisfaction
-date: "2006-05-27 16:48"
-category: Asides, General Thoughts, Internet, Media
+date: 2006-05-27 16:48
 tags:
-  - asides
-  - internet
-  - media
+- asides
+- internet
+- media
 author: offby1
 status: draft
 ---

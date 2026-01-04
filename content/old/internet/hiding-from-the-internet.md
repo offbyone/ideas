@@ -1,11 +1,10 @@
 ---
 title: Hiding from the internet
 slug: hiding-from-the-internet
-date: "2006-03-31 19:55"
-category: Internet, Rants
+date: 2006-03-31 19:55
 tags:
-  - internet
-  - rants
+- internet
+- rants
 author: offby1
 status: draft
 ---

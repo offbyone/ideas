@@ -1,9 +1,9 @@
 ---
-title: "No"
-slug: "no"
-date: "2003-09-14 23:10"
-category: General Thoughts
-tags: unhappy
+title: 'No'
+slug: 'no'
+date: 2003-09-14 23:10
+tags:
+- unhappy
 author: offby1
 status: draft
 ---

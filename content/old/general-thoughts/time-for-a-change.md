@@ -1,12 +1,12 @@
 ---
 title: Time for a change
 slug: time-for-a-change
-date: "2003-07-20 10:48"
-category: General Thoughts
+date: 2003-07-20 10:48
 tags:
-  - cats
-  - moving
-  - school
+- cats
+- char
+- moving
+- school
 author: offby1
 status: draft
 ---

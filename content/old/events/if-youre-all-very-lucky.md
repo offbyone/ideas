@@ -1,9 +1,10 @@
 ---
 title: If you're all very lucky
 slug: if-youre-all-very-lucky
-date: "2003-02-20 20:39"
-category: Events
-tags: events
+date: 2003-02-20 20:39
+tags:
+- events
+- school
 author: offby1
 status: draft
 ---

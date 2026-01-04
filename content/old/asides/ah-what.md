@@ -1,12 +1,12 @@
 ---
 title: Ah-What?
 slug: ah-what
-date: "2007-09-19 13:28"
-category: Asides
+date: 2007-09-19 13:28
 tags:
-  - apple
-  - good news
-  - warranty
+- apple
+- char
+- good news
+- warranty
 author: offby1
 status: draft
 ---

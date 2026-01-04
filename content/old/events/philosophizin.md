@@ -1,13 +1,13 @@
 ---
 title: Philosophizin'
 slug: philosophizin
-date: "2006-05-11 07:01"
-category: Events, General Thoughts, Media, Meta
+date: 2006-05-11 07:01
 tags:
-  - events
-  - media
-  - meta
-  - school
+- edmonton
+- events
+- media
+- meta
+- school
 author: offby1
 status: draft
 ---

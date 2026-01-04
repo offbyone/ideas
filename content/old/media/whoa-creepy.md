@@ -1,9 +1,10 @@
 ---
 title: Whoa.  Creepy.
 slug: whoa-creepy
-date: "2004-03-01 23:12"
-category: Media
-tags: media
+date: 2004-03-01 23:12
+tags:
+- char
+- media
 author: offby1
 status: draft
 ---

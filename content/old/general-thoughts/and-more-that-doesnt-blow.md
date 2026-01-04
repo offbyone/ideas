@@ -1,9 +1,9 @@
 ---
 title: And more that doesn't blow.
 slug: and-more-that-doesnt-blow
-date: "2005-07-11 10:51"
-category: General Thoughts
-tags: school
+date: 2005-07-11 10:51
+tags:
+- school
 author: offby1
 status: draft
 ---

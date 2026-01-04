@@ -1,13 +1,12 @@
 ---
 title: I'm Done
 slug: im-done
-date: "2007-04-13 18:39"
-category: Events
+date: 2007-04-13 18:39
 tags:
-  - completion
-  - good news
-  - school
-  - work
+- completion
+- good news
+- school
+- work
 author: offby1
 status: draft
 ---

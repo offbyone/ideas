@@ -1,9 +1,9 @@
 ---
 title: Oh, puck.
 slug: oh-puck
-date: "2006-05-05 15:57"
-category: Events, General Thoughts
-tags: events
+date: 2006-05-05 15:57
+tags:
+- events
 author: offby1
 status: draft
 ---

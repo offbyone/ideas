@@ -1,13 +1,13 @@
 ---
 title: Corpora(l|te) punishment.
 slug: corporalte-punishment
-date: "2005-10-13 13:27"
-category: General Thoughts, Rants
+date: 2005-10-13 13:27
 tags:
-  - freedom
-  - intellectual property
-  - privacy
-  - rants
+- char
+- freedom
+- intellectual property
+- privacy
+- rants
 author: offby1
 status: draft
 ---

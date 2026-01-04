@@ -1,9 +1,9 @@
 ---
 title: Oogling Google
 slug: oogling-google
-date: "2004-02-21 02:03"
-category: Internet
-tags: internet
+date: 2004-02-21 02:03
+tags:
+- internet
 author: offby1
 status: draft
 ---

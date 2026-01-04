@@ -1,11 +1,10 @@
 ---
 title: Never Again
 slug: never-again
-date: "2006-11-10 20:43"
-category: General Thoughts
+date: 2006-11-10 20:43
 tags:
-  - history
-  - Remembrance Day
+- Remembrance Day
+- history
 author: offby1
 status: draft
 ---

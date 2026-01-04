@@ -1,11 +1,11 @@
 ---
 title: Conned Out
 slug: conned-out
-date: "2006-03-23 15:12"
-category: General Thoughts
+date: 2006-03-23 15:12
 tags:
-  - eclipse
-  - sick
+- eclipse
+- school
+- sick
 author: offby1
 status: draft
 ---

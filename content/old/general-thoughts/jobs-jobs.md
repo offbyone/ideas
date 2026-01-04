@@ -1,12 +1,11 @@
 ---
 title: Jobs, jobs...
 slug: jobs-jobs
-date: "2006-01-27 23:36"
-category: General Thoughts, Humour, Internet
+date: 2006-01-27 23:36
 tags:
-  - humour
-  - internet
-  - work
+- humour
+- internet
+- work
 author: offby1
 status: draft
 ---

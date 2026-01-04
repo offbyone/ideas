@@ -1,11 +1,11 @@
 ---
 title: Next, I'll talk about Religion.  I promise!
 slug: next-ill-talk-about-religion-i-promise
-date: "2004-06-14 06:11"
-category: Events, Rants
+date: 2004-06-14 06:11
 tags:
-  - events
-  - rants
+- events
+- rants
+- school
 author: offby1
 status: draft
 ---

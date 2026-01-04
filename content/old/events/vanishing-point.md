@@ -1,14 +1,14 @@
 ---
 title: Vanishing point
 slug: vanishing-point
-date: "2003-08-31 10:52"
-category: life
+date: 2003-08-31 10:52
 tags:
-  - apology
-  - appreciation
-  - moving
-  - simon
-  - skydiving
+- apology
+- appreciation
+- char
+- moving
+- simon
+- skydiving
 author: offby1
 status: published
 ---

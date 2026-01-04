@@ -1,12 +1,11 @@
 ---
 title: Dodging the Headsman
 slug: dodging-the-headsman
-date: "2006-10-02 16:51"
-category: Events, Friends, General Thoughts
+date: 2006-10-02 16:51
 tags:
-  - events
-  - friends
-  - work
+- events
+- friends
+- work
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: School week in review
 slug: emschoolem-week-in-review
-date: "2003-01-24 20:46"
-category: General Thoughts
-tags: school
+date: 2003-01-24 20:46
+tags:
+- school
 author: offby1
 status: draft
 ---

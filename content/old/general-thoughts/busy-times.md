@@ -1,15 +1,14 @@
 ---
 title: Busy Times
 slug: busy-times
-date: "2007-10-09 08:33"
-category: Life
+date: 2007-10-09 08:33
 tags:
-  - apple
-  - computer
-  - look at you hacker a pathetic creature of meat and bone
-  - mac
-  - skydiving
-  - work
+- apple
+- computer
+- look at you hacker a pathetic creature of meat and bone
+- mac
+- skydiving
+- work
 author: offby1
 status: draft
 ---

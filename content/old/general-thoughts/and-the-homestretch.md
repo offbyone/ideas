@@ -1,9 +1,9 @@
 ---
 title: And the homestretch
 slug: and-the-homestretch
-date: "2002-12-07 14:57"
-category: General Thoughts
-tags: school
+date: 2002-12-07 14:57
+tags:
+- school
 author: offby1
 status: draft
 ---

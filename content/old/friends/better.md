@@ -1,11 +1,11 @@
 ---
 title: Better
 slug: better
-date: "2006-03-03 15:59"
-category: Friends, General Thoughts
+date: 2006-03-03 15:59
 tags:
-  - friends
-  - school
+- char
+- friends
+- school
 author: offby1
 status: draft
 ---

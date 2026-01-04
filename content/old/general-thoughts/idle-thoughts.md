@@ -1,12 +1,12 @@
 ---
 title: Idle thoughts
 slug: idle-thoughts
-date: "2005-09-09 16:46"
-category: General Thoughts
+date: 2005-09-09 16:46
 tags:
-  - art
-  - edmonton
-  - graffitti
+- art
+- beau
+- edmonton
+- graffitti
 author: offby1
 status: draft
 ---

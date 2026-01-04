@@ -1,17 +1,18 @@
 ---
-title: "Bits: Prometheus on Tailscale and fly.io"
+title: 'Bits: Prometheus on Tailscale and fly.io'
 slug: bits-prometheus-on-tailscale-and-fly-io
-date: "2023-02-21T21:21:58.326668"
-category: sys
+date: '2023-02-21T21:21:58.326668'
+category: hacking
 tags:
-  - docker
-  - tailscale
-  - homelab
-  - fly.io
+- prometheus
+- tailscale
+- fly-io
+- docker
+- monitoring
 author: Chris Rose
+status: draft
 email: offline@offby1.net
 summary: A quick post about running Prometheus on fly.io (even on the free tier!) connected to tailscale
-status: draft
 ---
 As an admin for [wandering.shop](https://wandering.shop) I find it useful to be able to see how the shop is doing, metrics-wise. I'm not a genius at operations, but I can read a dashboard... so I wanted to have one for the shop.
 

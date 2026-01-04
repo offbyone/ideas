@@ -1,9 +1,9 @@
 ---
 title: Augh!
 slug: augh
-date: "2003-12-08 13:04"
-category: General Thoughts
-tags: school
+date: 2003-12-08 13:04
+tags:
+- school
 author: offby1
 status: draft
 ---

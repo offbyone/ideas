@@ -1,9 +1,10 @@
 ---
 title: Solving Problems
 slug: solving-problems
-date: "2006-09-01 20:09"
-category: General Thoughts
-tags: work
+date: 2006-09-01 20:09
+tags:
+- school
+- work
 author: offby1
 status: draft
 ---

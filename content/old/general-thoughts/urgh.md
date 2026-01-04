@@ -1,9 +1,9 @@
 ---
 title: Urgh.
 slug: urgh
-date: "2005-11-06 14:00"
-category: General Thoughts, Internet
-tags: internet
+date: 2005-11-06 14:00
+tags:
+- internet
 author: offby1
 status: draft
 ---

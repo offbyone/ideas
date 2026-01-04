@@ -1,12 +1,12 @@
 ---
 title: Obligatory
 slug: obligatory
-date: "2003-12-26 10:36"
-category: General Thoughts
+date: 2003-12-26 10:36
 tags:
-  - beer
-  - family
-  - food
+- beer
+- char
+- family
+- food
 author: offby1
 status: draft
 ---

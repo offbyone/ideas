@@ -1,11 +1,10 @@
 ---
 title: Dah. Dahdah-dah. Dahdah-dah dah dah-dah-dahdah!
 slug: dah-dahdah-dah-dahdah-dah-dah-dah-dah-dahdah
-date: "2006-09-20 20:18"
-category: Asides, General Thoughts, Media
+date: 2006-09-20 20:18
 tags:
-  - asides
-  - media
+- asides
+- media
 author: offby1
 status: draft
 ---

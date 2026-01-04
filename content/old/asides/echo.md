@@ -1,12 +1,11 @@
 ---
 title: Echo...
 slug: echo
-date: "2005-02-27 16:29"
-category: Asides, Friends, General Thoughts, Meta
+date: 2005-02-27 16:29
 tags:
-  - asides
-  - friends
-  - meta
+- asides
+- friends
+- meta
 author: offby1
 status: draft
 ---

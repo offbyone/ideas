@@ -1,9 +1,10 @@
 ---
 title: I am too.
 slug: i-am-too
-date: "2004-03-13 10:28"
-category: Rants
-tags: rants
+date: 2004-03-13 10:28
+tags:
+- rant
+- rants
 author: offby1
 status: draft
 ---

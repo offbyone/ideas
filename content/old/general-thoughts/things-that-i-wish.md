@@ -1,9 +1,9 @@
 ---
 title: Things that I wish
 slug: things-that-i-wish
-date: "2004-09-29 09:07"
-category: General Thoughts, Rants
-tags: rants
+date: 2004-09-29 09:07
+tags:
+- rants
 author: offby1
 status: draft
 ---

@@ -1,12 +1,11 @@
 ---
 title: Eeuch.
 slug: eeuch
-date: "2007-08-25 09:15"
-category: Asides
+date: 2007-08-25 09:15
 tags:
-  - disappointment
-  - failure
-  - mac
+- disappointment
+- failure
+- mac
 author: offby1
 status: draft
 ---

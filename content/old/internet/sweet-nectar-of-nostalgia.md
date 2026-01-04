@@ -1,11 +1,10 @@
 ---
 title: Sweet nectar of nostalgia!
 slug: sweet-nectar-of-nostalgia
-date: "2005-03-07 08:04"
-category: Internet, Media
+date: 2005-03-07 08:04
 tags:
-  - internet
-  - media
+- internet
+- media
 author: offby1
 status: draft
 ---

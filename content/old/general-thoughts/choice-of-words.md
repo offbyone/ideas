@@ -1,12 +1,12 @@
 ---
 title: Choice of Words
 slug: choice-of-words
-date: "2004-10-05 06:21"
-category: General Thoughts, Internet, Rants
+date: 2004-10-05 06:21
 tags:
-  - internet
-  - rants
-  - words that I hate
+- internet
+- rants
+- school
+- words that I hate
 author: offby1
 status: draft
 ---

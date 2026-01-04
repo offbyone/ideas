@@ -1,9 +1,11 @@
 ---
 title: In other news...
 slug: in-other-news-2
-date: "2003-04-13 08:47"
-category: General Thoughts
-tags: school
+date: 2003-04-13 08:47
+tags:
+- matt-dixon
+- school
+- simon
 author: offby1
 status: draft
 ---

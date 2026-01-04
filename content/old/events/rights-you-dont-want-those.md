@@ -1,12 +1,14 @@
 ---
 title: Rights?  You don't want those.
 slug: rights-you-dont-want-those
-date: "2007-12-08 10:00"
-category: Events, Internet, Media
+date: 2007-12-08 10:00
+category: programming
 tags:
-  - copyright
-  - dmca
-  - politics
+- copyright
+- dmca
+- edmonton
+- politics
+- school
 author: offby1
 status: draft
 ---

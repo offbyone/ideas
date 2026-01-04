@@ -1,11 +1,10 @@
 ---
 title: Science != Religion
 slug: science-religion
-date: "2004-11-22 21:02"
-category: General Thoughts, Rants
+date: 2004-11-22 21:02
 tags:
-  - rants
-  - school
+- rants
+- school
 author: offby1
 status: draft
 ---

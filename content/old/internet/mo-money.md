@@ -1,9 +1,9 @@
 ---
 title: Mo' money!
 slug: mo-money
-date: "2002-11-18 07:38"
-category: Internet
-tags: internet
+date: 2002-11-18 07:38
+tags:
+- internet
 author: offby1
 status: draft
 ---

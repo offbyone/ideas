@@ -1,12 +1,15 @@
 ---
 title: Talking about the weather
 slug: talking-about-the-weather
-date: "2005-12-28 09:10"
-category: Friends, General Thoughts, Rants
+date: 2005-12-28 09:10
 tags:
-  - friends
-  - rants
-  - work
+- char
+- disc-golf
+- edmonton
+- friends
+- rants
+- simon
+- work
 author: offby1
 status: draft
 ---

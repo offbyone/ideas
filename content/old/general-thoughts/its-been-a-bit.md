@@ -1,12 +1,15 @@
 ---
 title: It's been a bit
 slug: its-been-a-bit
-date: "2005-10-07 07:14"
-category: General Thoughts, Media, Projects
+date: 2005-10-07 07:14
+category: tools
 tags:
-  - media
-  - projects
-  - work
+- char
+- media
+- projects
+- school
+- simon
+- work
 author: offby1
 status: draft
 ---

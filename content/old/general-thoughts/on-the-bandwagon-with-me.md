@@ -1,9 +1,10 @@
 ---
 title: On the bandwagon with me
 slug: on-the-bandwagon-with-me
-date: "2004-06-21 07:34"
-category: General Thoughts
-tags: family
+date: 2004-06-21 07:34
+tags:
+- char
+- family
 author: offby1
 status: draft
 ---

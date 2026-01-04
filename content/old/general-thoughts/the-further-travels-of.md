@@ -1,12 +1,14 @@
 ---
 title: The further travels of...
 slug: the-further-travels-of
-date: "2003-09-29 12:40"
-category: General Thoughts
+date: 2003-09-29 12:40
 tags:
-  - travel
-  - wedding
-  - wi-fi
+- beau
+- char
+- edmonton
+- travel
+- wedding
+- wi-fi
 author: offby1
 status: draft
 ---

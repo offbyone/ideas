@@ -1,15 +1,14 @@
 ---
 title: Cobwebs Abound
 slug: cobwebs-abound
-date: "2007-02-08 15:55"
-category: General Thoughts
+date: 2007-02-08 15:55
 tags:
-  - char
-  - health
-  - school
-  - time
-  - trivia
-  - work
+- char
+- health
+- school
+- time
+- trivia
+- work
 author: offby1
 status: draft
 ---

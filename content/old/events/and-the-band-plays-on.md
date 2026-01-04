@@ -1,12 +1,12 @@
 ---
-title: ... And the band plays on
+title: '... And the band plays on'
 slug: and-the-band-plays-on
-date: "2008-11-16 16:05"
-category: Events, Meta
+date: 2008-11-16 16:05
 tags:
-  - future
-  - meta
-  - pregnancy
+- char
+- future
+- meta
+- pregnancy
 author: offby1
 status: draft
 ---

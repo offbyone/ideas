@@ -1,9 +1,10 @@
 ---
 title: Interstate Leaning
 slug: interstate-leaning
-date: "2003-05-02 14:04"
-category: Rants
-tags: rants
+date: 2003-05-02 14:04
+tags:
+- rant
+- rants
 author: offby1
 status: draft
 ---

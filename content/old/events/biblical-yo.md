@@ -1,9 +1,11 @@
 ---
 title: Biblical, yo.
 slug: biblical-yo
-date: "2004-07-11 17:01"
-category: Events, General Thoughts
-tags: events
+date: 2004-07-11 17:01
+tags:
+- aaron
+- char
+- events
 author: offby1
 status: draft
 ---

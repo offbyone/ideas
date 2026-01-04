@@ -1,16 +1,18 @@
 ---
 title: Politicause
 slug: politicause
-date: "2005-12-08 09:11"
-category: Events, General Thoughts, Internet, Media, Rants
+date: 2005-12-08 09:11
 tags:
-  - events
-  - fairness
-  - green party
-  - internet
-  - media
-  - politics
-  - rants
+- alberta
+- char
+- events
+- fairness
+- green party
+- internet
+- media
+- politics
+- rants
+- school
 author: offby1
 status: draft
 ---

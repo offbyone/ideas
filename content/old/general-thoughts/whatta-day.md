@@ -1,9 +1,10 @@
 ---
 title: Whatta Day
 slug: whatta-day
-date: "2004-05-15 21:17"
-category: General Thoughts
-tags: work
+date: 2004-05-15 21:17
+tags:
+- matt-dixon
+- work
 author: offby1
 status: draft
 ---

@@ -1,13 +1,14 @@
 ---
 title: Percolating desire
 slug: percolating-desire
-date: "2005-01-28 08:21"
-category: General Thoughts
+date: 2005-01-28 08:21
 tags:
-  - apple
-  - computer
-  - geeky
-  - linux
+- apple
+- char
+- computer
+- geeky
+- linux
+- matt-dixon
 author: offby1
 status: draft
 ---

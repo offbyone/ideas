@@ -1,11 +1,10 @@
 ---
 title: On traveling
 slug: on-traveling
-date: "2005-12-13 13:29"
-category: Friends, General Thoughts, Rants
+date: 2005-12-13 13:29
 tags:
-  - friends
-  - rants
+- friends
+- rants
 author: offby1
 status: draft
 ---

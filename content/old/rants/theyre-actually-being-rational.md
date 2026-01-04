@@ -1,9 +1,11 @@
 ---
 title: They're actually being rational
 slug: theyre-actually-being-rational
-date: "2003-01-12 17:32"
-category: Rants
-tags: rants
+date: 2003-01-12 17:32
+tags:
+- rant
+- rants
+- school
 author: offby1
 status: draft
 ---

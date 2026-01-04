@@ -1,12 +1,11 @@
 ---
 title: Doomed
 slug: doomed
-date: "2004-08-04 20:38"
-category: General Thoughts
+date: 2004-08-04 20:38
 tags:
-  - doom
-  - games
-  - look at you hacker a pathetic creature of meat and bone
+- doom
+- games
+- look at you hacker a pathetic creature of meat and bone
 author: offby1
 status: draft
 ---

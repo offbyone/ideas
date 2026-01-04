@@ -1,11 +1,10 @@
 ---
 title: The I/P debate...
 slug: the-ip-debate
-date: "2002-11-15 06:59"
-category: General Thoughts, Rants
+date: 2002-11-15 06:59
 tags:
-  - rants
-  - school
+- rants
+- school
 author: offby1
 status: draft
 ---

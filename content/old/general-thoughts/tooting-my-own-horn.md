@@ -1,9 +1,9 @@
 ---
 title: Tooting my own horn
 slug: tooting-my-own-horn
-date: "2004-06-12 19:10"
-category: General Thoughts
-tags: sex
+date: 2004-06-12 19:10
+tags:
+- sex
 author: offby1
 status: draft
 ---

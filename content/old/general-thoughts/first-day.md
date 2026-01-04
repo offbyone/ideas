@@ -1,9 +1,9 @@
 ---
 title: First Day
 slug: first-day
-date: "2004-09-07 08:44"
-category: General Thoughts
-tags: school
+date: 2004-09-07 08:44
+tags:
+- school
 author: offby1
 status: draft
 ---

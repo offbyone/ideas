@@ -1,9 +1,9 @@
 ---
 title: Links on the sidebar
 slug: links-on-the-sidebar
-date: "2003-11-12 11:06"
-category: Meta
-tags: meta
+date: 2003-11-12 11:06
+tags:
+- meta
 author: offby1
 status: draft
 ---

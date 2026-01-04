@@ -1,18 +1,18 @@
 ---
 title: Thanks, TED
 slug: thanks-ted
-date: "2007-08-18 15:13"
-category: Asides, Media
+date: 2007-08-18 15:13
 tags:
-  - atheism
-  - dawkins
-  - entertainment
-  - media
-  - meme
-  - musings
-  - politics
-  - science
-  - technology
+- aaron
+- atheism
+- dawkins
+- entertainment
+- media
+- meme
+- musings
+- politics
+- science
+- technology
 author: offby1
 status: draft
 ---

@@ -1,12 +1,12 @@
 ---
 title: Over, Under, but never Just Right
 slug: over-under-but-never-just-right
-date: "2007-05-18 08:37"
-category: General Thoughts
+date: 2007-05-18 08:37
 tags:
-  - idiocy
-  - risk
-  - security
+- idiocy
+- risk
+- school
+- security
 author: offby1
 status: draft
 ---

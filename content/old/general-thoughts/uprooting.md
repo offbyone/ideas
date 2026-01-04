@@ -1,9 +1,12 @@
 ---
 title: Uprooting
 slug: uprooting
-date: "2005-06-16 06:45"
-category: General Thoughts
-tags: moving
+date: 2005-06-16 06:45
+tags:
+- char
+- edmonton
+- moving
+- school
 author: offby1
 status: draft
 ---

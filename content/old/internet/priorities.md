@@ -1,9 +1,9 @@
 ---
 title: Priorities
 slug: priorities
-date: "2004-01-05 07:49"
-category: Internet
-tags: internet
+date: 2004-01-05 07:49
+tags:
+- internet
 author: offby1
 status: draft
 ---

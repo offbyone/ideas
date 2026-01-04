@@ -1,14 +1,15 @@
 ---
 title: /me cries
 slug: me-cries
-date: "2007-08-15 16:54"
-category: Internet, Media
+date: 2007-08-15 16:54
 tags:
-  - gaming
-  - geeky
-  - look at you hacker a pathetic creature of meat and bone
-  - sucker
-  - xbox
+- char
+- gaming
+- geeky
+- look at you hacker a pathetic creature of meat and bone
+- school
+- sucker
+- xbox
 author: offby1
 status: draft
 ---

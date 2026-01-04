@@ -1,9 +1,11 @@
 ---
 title: On authority and its exercise
 slug: on-authority-and-its-exercise
-date: "2003-05-16 10:56"
-category: Rants
-tags: rants
+date: 2003-05-16 10:56
+category: work
+tags:
+- rant
+- rants
 author: offby1
 status: draft
 ---

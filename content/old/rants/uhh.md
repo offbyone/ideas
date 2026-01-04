@@ -1,9 +1,10 @@
 ---
 title: Uhh...
 slug: uhh
-date: "2003-07-22 08:02"
-category: Rants
-tags: rants
+date: 2003-07-22 08:02
+tags:
+- rant
+- rants
 author: offby1
 status: draft
 ---

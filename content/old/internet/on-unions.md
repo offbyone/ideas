@@ -1,12 +1,12 @@
 ---
 title: On unions
 slug: on-unions
-date: "2004-11-14 09:58"
-category: Internet, Media, Rants
+date: 2004-11-14 09:58
+category: programming
 tags:
-  - internet
-  - media
-  - rants
+- internet
+- media
+- rants
 author: offby1
 status: draft
 ---

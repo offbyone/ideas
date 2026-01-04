@@ -1,12 +1,11 @@
 ---
 title: Old times, new places
 slug: old-times-new-places
-date: "2003-06-14 13:43"
-category: General Thoughts
+date: 2003-06-14 13:43
 tags:
-  - bar
-  - music
-  - work
+- bar
+- music
+- work
 author: offby1
 status: draft
 ---

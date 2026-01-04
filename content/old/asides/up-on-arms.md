@@ -1,11 +1,11 @@
 ---
 title: Up On Arms
 slug: up-on-arms
-date: "2006-05-14 09:56"
-category: Asides, General Thoughts
+date: 2006-05-14 09:56
 tags:
-  - asides
-  - work
+- asides
+- simon
+- work
 author: offby1
 status: draft
 ---

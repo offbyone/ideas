@@ -1,12 +1,12 @@
 ---
 title: Windows XP is getting the shaft
 slug: windows-xp-is-getting-the-shaft
-date: "2003-01-09 07:05"
-category: General Thoughts, Rants
+date: 2003-01-09 07:05
+category: hacking
 tags:
-  - intellectual property
-  - privacy
-  - rants
+- intellectual property
+- privacy
+- rants
 author: offby1
 status: draft
 ---

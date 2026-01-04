@@ -1,16 +1,15 @@
 ---
 title: Musings on the Modern Modus Operandi
 slug: musings-on-the-modern-modus-operandi
-date: "2008-03-29 11:53"
-category: General Thoughts, Internet, Media
+date: 2008-03-29 11:53
 tags:
-  - censorship
-  - culture
-  - gaming
-  - internet
-  - islam
-  - parenting
-  - religion
+- censorship
+- culture
+- gaming
+- internet
+- islam
+- parenting
+- religion
 author: offby1
 status: draft
 ---

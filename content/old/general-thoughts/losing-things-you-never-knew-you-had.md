@@ -1,13 +1,12 @@
 ---
 title: Losing things you never knew you had.
 slug: losing-things-you-never-knew-you-had
-date: "2006-08-27 21:06"
-category: General Thoughts, Internet
+date: 2006-08-27 21:06
 tags:
-  - freedom
-  - intellectual property
-  - internet
-  - privacy
+- freedom
+- intellectual property
+- internet
+- privacy
 author: offby1
 status: draft
 ---

@@ -1,12 +1,11 @@
 ---
 title: Who comes up with these things?
 slug: worst-trailer-ever
-date: "2004-08-10 18:16"
-category: Humour, Internet, Media
+date: 2004-08-10 18:16
 tags:
-  - humour
-  - internet
-  - media
+- humour
+- internet
+- media
 author: offby1
 status: draft
 ---

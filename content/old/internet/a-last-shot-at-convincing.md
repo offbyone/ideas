@@ -1,11 +1,10 @@
 ---
 title: A last shot at convincing
 slug: a-last-shot-at-convincing
-date: "2004-06-29 19:29"
-category: Internet, Rants
+date: 2004-06-29 19:29
 tags:
-  - internet
-  - rants
+- internet
+- rants
 author: offby1
 status: draft
 ---

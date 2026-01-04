@@ -1,11 +1,11 @@
 ---
 title: An aside to readers
 slug: an-aside-to-readers
-date: "2006-09-05 22:16"
-category: Meta, Projects
+date: 2006-09-05 22:16
 tags:
-  - meta
-  - projects
+- beau
+- meta
+- projects
 author: offby1
 status: draft
 ---

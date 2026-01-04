@@ -1,9 +1,10 @@
 ---
 title: Projects in the pipe
 slug: projects-in-the-pipe
-date: "2004-02-11 20:20"
-category: Projects
-tags: projects
+date: 2004-02-11 20:20
+tags:
+- projects
+- school
 author: offby1
 status: draft
 ---

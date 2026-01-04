@@ -1,9 +1,12 @@
 ---
 title: Hell is ... Moving
 slug: hell-is-moving-2
-date: "2005-07-05 18:47"
-category: General Thoughts
-tags: moving
+date: 2005-07-05 18:47
+tags:
+- amy
+- char
+- matt-dixon
+- moving
 author: offby1
 status: draft
 ---

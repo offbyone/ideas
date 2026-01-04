@@ -1,9 +1,11 @@
 ---
 title: Sputtering out
 slug: sputtering-out
-date: "2005-12-23 13:18"
-category: Friends, General Thoughts
-tags: friends
+date: 2005-12-23 13:18
+tags:
+- amy
+- friends
+- matt-dixon
 author: offby1
 status: draft
 ---

@@ -1,9 +1,12 @@
 ---
 title: The whole picture?
 slug: the-whole-picture
-date: "2003-05-07 19:47"
-category: Rants
-tags: rants
+date: 2003-05-07 19:47
+tags:
+- char
+- rant
+- rants
+- school
 author: offby1
 status: draft
 ---

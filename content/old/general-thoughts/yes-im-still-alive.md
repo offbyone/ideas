@@ -1,13 +1,12 @@
 ---
 title: Yes, i'm still alive
 slug: yes-im-still-alive
-date: "2003-02-05 06:45"
-category: General Thoughts
+date: 2003-02-05 06:45
 tags:
-  - ping
-  - school
-  - space
-  - tragedy
+- ping
+- school
+- space
+- tragedy
 author: offby1
 status: draft
 ---

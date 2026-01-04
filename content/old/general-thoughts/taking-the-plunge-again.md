@@ -1,9 +1,9 @@
 ---
 title: Taking the plunge, again
 slug: taking-the-plunge-again
-date: "2006-04-28 12:41"
-category: General Thoughts
-tags: skydiving
+date: 2006-04-28 12:41
+tags:
+- skydiving
 author: offby1
 status: draft
 ---

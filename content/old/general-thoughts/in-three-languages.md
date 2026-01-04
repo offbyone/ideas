@@ -1,14 +1,13 @@
 ---
 title: In three languages?
 slug: in-three-languages
-date: "2006-05-25 18:12"
-category: General Thoughts
+date: 2006-05-25 18:12
 tags:
-  - friends
-  - media
-  - philosophy
-  - school
-  - work
+- friends
+- media
+- philosophy
+- school
+- work
 author: offby1
 status: draft
 ---

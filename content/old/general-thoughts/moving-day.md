@@ -1,12 +1,12 @@
 ---
 title: Moving day
 slug: moving-day
-date: "2002-12-06 08:42"
-category: General Thoughts
+date: 2002-12-06 08:42
 tags:
-  - computer
-  - geeky
-  - moving
+- char
+- computer
+- geeky
+- moving
 author: offby1
 status: draft
 ---

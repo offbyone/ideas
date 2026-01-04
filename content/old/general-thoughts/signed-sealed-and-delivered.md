@@ -1,11 +1,10 @@
 ---
 title: Signed, Sealed and Delivered
 slug: signed-sealed-and-delivered
-date: "2005-02-15 15:37"
-category: General Thoughts
+date: 2005-02-15 15:37
 tags:
-  - school
-  - work
+- school
+- work
 author: offby1
 status: draft
 ---

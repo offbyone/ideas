@@ -1,12 +1,11 @@
 ---
 title: Oh, Bang
 slug: oh-bang
-date: "2007-07-29 23:09"
-category: Asides, General Thoughts
+date: 2007-07-29 23:09
 tags:
-  - oracle
-  - skydiving
-  - work
+- oracle
+- skydiving
+- work
 author: offby1
 status: draft
 ---

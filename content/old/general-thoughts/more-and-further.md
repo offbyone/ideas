@@ -1,12 +1,12 @@
 ---
 title: More and further...
 slug: more-and-further
-date: "2004-01-08 10:20"
-category: General Thoughts, Rants
+date: 2004-01-08 10:20
 tags:
-  - intellectual property
-  - privacy
-  - rants
+- aaron-swartz
+- intellectual property
+- privacy
+- rants
 author: offby1
 status: draft
 ---

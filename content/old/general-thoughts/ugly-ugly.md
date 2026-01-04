@@ -1,9 +1,9 @@
 ---
 title: Ugly, ugly
 slug: ugly-ugly
-date: "2005-04-21 12:41"
-category: General Thoughts
-tags: school
+date: 2005-04-21 12:41
+tags:
+- school
 author: offby1
 status: draft
 ---

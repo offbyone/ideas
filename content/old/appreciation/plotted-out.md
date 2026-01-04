@@ -1,16 +1,17 @@
 ---
 title: Plotted out
 slug: plotted-out
-date: "2007-04-29 12:15"
-category: Appreciation, Friends
+date: 2007-04-29 12:15
 tags:
-  - birthday
-  - family
-  - friends
-  - gifts
-  - giving
-  - hot-30s
-  - party
+- birthday
+- char
+- disc-golf
+- family
+- friends
+- gifts
+- giving
+- hot-30s
+- party
 author: offby1
 status: draft
 ---

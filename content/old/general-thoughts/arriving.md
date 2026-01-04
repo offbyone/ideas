@@ -1,12 +1,12 @@
 ---
 title: Arriving
 slug: arriving
-date: "2006-03-19 22:56"
-category: General Thoughts
+date: 2006-03-19 22:56
 tags:
-  - musings
-  - space
-  - travel
+- beau
+- musings
+- space
+- travel
 author: offby1
 status: draft
 ---

@@ -1,12 +1,13 @@
 ---
 title: The Weekender
 slug: the-weekender
-date: "2003-10-13 18:12"
-category: General Thoughts
+date: 2003-10-13 18:12
 tags:
-  - family
-  - health
-  - memory lane
+- char
+- family
+- health
+- memory lane
+- simon
 author: offby1
 status: draft
 ---

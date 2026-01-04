@@ -1,12 +1,13 @@
 ---
 title: Am I a bad person?
 slug: am-i-a-bad-person
-date: "2006-06-08 17:00"
-category: Friends, General Thoughts
+date: 2006-06-08 17:00
 tags:
-  - friends
-  - school
-  - work
+- char
+- friends
+- school
+- skydiving
+- work
 author: offby1
 status: draft
 ---

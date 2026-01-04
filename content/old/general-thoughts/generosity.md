@@ -1,12 +1,11 @@
 ---
 title: Generosity
 slug: generosity
-date: "2004-11-08 12:16"
-category: General Thoughts
+date: 2004-11-08 12:16
 tags:
-  - computer
-  - generosity
-  - idiocy
+- computer
+- generosity
+- idiocy
 author: offby1
 status: draft
 ---

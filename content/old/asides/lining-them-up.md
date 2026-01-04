@@ -1,12 +1,11 @@
 ---
 title: Lining Them Up...
 slug: lining-them-up
-date: "2006-08-30 18:33"
-category: Asides, General Thoughts
+date: 2006-08-30 18:33
 tags:
-  - asides
-  - school
-  - work
+- asides
+- school
+- work
 author: offby1
 status: draft
 ---

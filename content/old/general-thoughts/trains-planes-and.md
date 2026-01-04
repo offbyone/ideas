@@ -1,12 +1,13 @@
 ---
 title: Trains, Planes, and...
 slug: trains-planes-and
-date: "2003-09-24 17:21"
-category: General Thoughts
+date: 2003-09-24 17:21
 tags:
-  - planes
-  - trains
-  - wedding
+- char
+- edmonton
+- planes
+- trains
+- wedding
 author: offby1
 status: draft
 ---

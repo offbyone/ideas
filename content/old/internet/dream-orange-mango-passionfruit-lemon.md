@@ -1,9 +1,11 @@
 ---
 title: Dream... Orange? Mango? Passionfruit? Lemon?
 slug: dream-orange-mango-passionfruit-lemon
-date: "2006-10-19 14:10"
-category: Internet
-tags: internet
+date: 2006-10-19 14:10
+tags:
+- internet
+- matt-dixon
+- school
 author: offby1
 status: draft
 ---

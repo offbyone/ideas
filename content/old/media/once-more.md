@@ -1,9 +1,13 @@
 ---
 title: Once More,
 slug: once-more
-date: "2005-06-19 01:07"
-category: Media
-tags: media
+date: 2005-06-19 01:07
+tags:
+- amy
+- char
+- matt-dixon
+- media
+- simon
 author: offby1
 status: draft
 ---

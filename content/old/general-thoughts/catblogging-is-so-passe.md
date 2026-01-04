@@ -1,11 +1,11 @@
 ---
 title: Catblogging is so passe.
 slug: catblogging-is-so-passe
-date: "2004-07-19 06:15"
-category: General Thoughts, Humour, Internet
+date: 2004-07-19 06:15
 tags:
-  - humour
-  - internet
+- char
+- humour
+- internet
 author: offby1
 status: draft
 ---

@@ -1,12 +1,12 @@
 ---
 title: Sporadic Connection
 slug: sporadic-connection
-date: "2005-01-08 12:55"
-category: Events, General Thoughts
+date: 2005-01-08 12:55
+category: programming
 tags:
-  - events
-  - school
-  - work
+- events
+- school
+- work
 author: offby1
 status: draft
 ---

@@ -1,13 +1,13 @@
 ---
 title: Like Flynn
 slug: like-flynn
-date: "2009-01-26 18:24"
-category: life
+date: 2009-01-26 18:24
 tags:
-  - friends
-  - home
-  - move
-  - simon
+- beau
+- friends
+- home
+- move
+- simon
 author: offby1
 status: published
 ---

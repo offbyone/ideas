@@ -1,15 +1,14 @@
 ---
 title: I'm in love with a Hexakosioihexekontahexaphobiac.
 slug: im-in-love-with-a-hexakosioihexekontahexaphobiac
-date: "2006-12-28 16:06"
-category: General Thoughts
+date: 2006-12-28 16:06
 tags:
-  - bbc
-  - facts
-  - humour
-  - science
-  - snark
-  - trivia
+- bbc
+- facts
+- humour
+- science
+- snark
+- trivia
 author: offby1
 status: draft
 ---

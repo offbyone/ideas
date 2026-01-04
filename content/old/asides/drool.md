@@ -1,11 +1,10 @@
 ---
 title: Drool...
 slug: drool
-date: "2004-01-02 22:29"
-category: Asides, Internet
+date: 2004-01-02 22:29
 tags:
-  - asides
-  - internet
+- asides
+- internet
 author: offby1
 status: draft
 ---

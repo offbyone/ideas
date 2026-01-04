@@ -1,11 +1,10 @@
 ---
 title: Taking my finger off the pulse
 slug: taking-my-finger-off-the-pulse
-date: "2011-06-04 08:10"
-category: amazon
+date: 2011-06-04 08:10
 tags:
-  - lifestyle
-  - reading
+- lifestyle
+- reading
 author: offby1
 status: published
 ---

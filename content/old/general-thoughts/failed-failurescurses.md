@@ -1,9 +1,10 @@
 ---
 title: Failed failures(curses!)
 slug: failed-failurescurses
-date: "2003-09-03 10:04"
-category: General Thoughts
-tags: school
+date: 2003-09-03 10:04
+tags:
+- char
+- school
 author: offby1
 status: draft
 ---

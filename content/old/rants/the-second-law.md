@@ -1,9 +1,10 @@
 ---
 title: The Second Law
 slug: the-second-law
-date: "2003-04-12 20:37"
-category: Rants
-tags: rants
+date: 2003-04-12 20:37
+tags:
+- rant
+- rants
 author: offby1
 status: draft
 ---

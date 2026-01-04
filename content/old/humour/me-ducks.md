@@ -1,9 +1,9 @@
 ---
 title: /me ducks
 slug: me-ducks
-date: "2004-04-14 08:51"
-category: Humour
-tags: humour
+date: 2004-04-14 08:51
+tags:
+- humour
 author: offby1
 status: draft
 ---

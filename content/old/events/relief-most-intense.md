@@ -1,12 +1,11 @@
 ---
 title: Relief Most Intense
 slug: relief-most-intense
-date: "2004-12-20 22:53"
-category: Events, General Thoughts, Projects
+date: 2004-12-20 22:53
 tags:
-  - events
-  - projects
-  - school
+- events
+- projects
+- school
 author: offby1
 status: draft
 ---

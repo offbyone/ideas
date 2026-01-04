@@ -1,9 +1,9 @@
 ---
 title: CSS unhappiness
 slug: css-unhappiness
-date: "2003-10-26 15:24"
-category: Meta
-tags: meta
+date: 2003-10-26 15:24
+tags:
+- meta
 author: offby1
 status: draft
 ---

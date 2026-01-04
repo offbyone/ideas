@@ -1,9 +1,10 @@
 ---
 title: Extended Happiness
 slug: extended-happiness
-date: "2002-11-13 11:14"
-category: General Thoughts
-tags: lord of the rings
+date: 2002-11-13 11:14
+tags:
+- char
+- lord of the rings
 author: offby1
 status: draft
 ---

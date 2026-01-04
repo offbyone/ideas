@@ -1,14 +1,14 @@
 ---
 title: Highs, Lows
 slug: highs-lows
-date: "2008-02-10 09:13"
-category: Rants
+date: 2008-02-10 09:13
 tags:
-  - liberty
-  - privacy
-  - racism
-  - security theatre
-  - terrorism
+- liberty
+- privacy
+- racism
+- rant
+- security theatre
+- terrorism
 author: offby1
 status: draft
 ---

@@ -1,9 +1,12 @@
 ---
 title: More importantly...
 slug: more-importantly
-date: "2002-11-11 15:24"
-category: Rants
-tags: rants
+date: 2002-11-11 15:24
+tags:
+- jamie
+- matt-dixon
+- rant
+- rants
 author: offby1
 status: draft
 ---

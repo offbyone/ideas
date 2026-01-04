@@ -1,9 +1,9 @@
 ---
 title: It's official.
 slug: its-official
-date: "2006-01-14 10:51"
-category: General Thoughts
-tags: work
+date: 2006-01-14 10:51
+tags:
+- work
 author: offby1
 status: draft
 ---

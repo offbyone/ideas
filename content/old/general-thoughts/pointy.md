@@ -1,8 +1,9 @@
 ---
 title: Pointy
 slug: pointy
-date: "2008-05-31 07:17"
-category: General Thoughts
+date: 2008-05-31 07:17
+tags:
+- simon
 author: offby1
 status: draft
 ---

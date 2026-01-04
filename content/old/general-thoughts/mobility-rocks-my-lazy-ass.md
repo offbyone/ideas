@@ -1,13 +1,12 @@
 ---
 title: Mobility rocks my lazy ass!
 slug: mobility-rocks-my-lazy-ass
-date: "2003-04-21 22:50"
-category: General Thoughts
+date: 2003-04-21 22:50
 tags:
-  - char
-  - computer
-  - geeky
-  - wi-fi
+- char
+- computer
+- geeky
+- wi-fi
 author: offby1
 status: draft
 ---

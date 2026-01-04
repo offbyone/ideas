@@ -1,15 +1,14 @@
 ---
 title: How Will You React?
 slug: how-will-you-react
-date: "2007-04-18 18:54"
-category: General Thoughts
+date: 2007-04-18 18:54
 tags:
-  - blame
-  - finger-pointing
-  - media
-  - rants
-  - society
-  - voyeurism
+- blame
+- finger-pointing
+- media
+- rants
+- society
+- voyeurism
 author: offby1
 status: draft
 ---

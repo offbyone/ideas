@@ -1,11 +1,10 @@
 ---
 title: Travels
 slug: travels
-date: "2006-01-22 14:20"
-category: General Thoughts
+date: 2006-01-22 14:20
 tags:
-  - morruz
-  - travel
+- morruz
+- travel
 author: offby1
 status: draft
 ---

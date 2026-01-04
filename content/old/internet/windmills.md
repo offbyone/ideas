@@ -1,19 +1,20 @@
 ---
 title: Windmills
 slug: windmills
-date: "2007-08-11 09:42"
-category: Internet, Media
+date: 2007-08-11 09:42
+category: amazon
 tags:
-  - atheism
-  - climate change
-  - heresy
-  - iconoclasm
-  - isms
-  - musings
-  - politics
-  - pseudoscience
-  - reason
-  - religion
+- atheism
+- char
+- climate change
+- heresy
+- iconoclasm
+- isms
+- musings
+- politics
+- pseudoscience
+- reason
+- religion
 author: offby1
 status: draft
 ---

@@ -1,17 +1,20 @@
 ---
 title: Snoqualmie Tunnel
 slug: snoqualmie-tunnel
-date: "2021-09-10T22:13:57.456672"
-category: life
+date: '2021-09-10T22:13:57.456672'
+category: travel
 tags:
-  - seattle
-  - biking
+- seattle
+- biking
+- cycling
+- snoqualmie
+- trails
 author: Chris Rose
-email: offline@offby1.net
-summary: I took my bike up into the mountains for the first time since moving to Seattle, which is honestly a tragedy. It's gorgeous up there!
 status: published
-gallery: "{photo}galleries/snoqualmie-2021{Snoqualmie Tunnel 2021}"
-social_image: "/photos/galleries/snoqualmie-2021/img_8998.jpg"
+email: offline@offby1.net
+gallery: '{photo}galleries/snoqualmie-2021{Snoqualmie Tunnel 2021}'
+social_image: /photos/galleries/snoqualmie-2021/img_8998.jpg
+summary: I took my bike up into the mountains for the first time since moving to Seattle, which is honestly a tragedy. It's gorgeous up there!
 ---
 I only learned about the Snoqualmie Tunnel's existence a couple of weeks ago, from [an article on Atlas Obscura](https://www.atlasobscura.com/places/snoqualmie-tunnel). Combining my love of tunnels, proximity to home, and a general desire to get out and ride more often than I have been, I decided that would make a great weekend trip into the mountains. It's actually pretty sad that I had to live here for an entire decade before I got around to it, honestly.
 

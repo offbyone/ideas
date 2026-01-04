@@ -4,13 +4,14 @@ slug: suppressing-use-flake-in-nix-fan-envrc-files
 date: 2025-06-26 20:51:14.762573
 category: tools
 tags:
-  - petpeeve
-  - direnv
-  - nix
+- direnv
+- nix
+- rant
+- workflow
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Are you annoyed by direnv-using nix fans committing .envrc files with "use flake" in them? Is this an overly specific complaint turned into a blog post? Is there a solution to your very specific problem within?
-status: published
 ---
 This'll be short, but sweet[ref]Actually, pretty salty[/ref]:
 

@@ -1,9 +1,9 @@
 ---
 title: Test yourselves
 slug: test-yourselves
-date: "2003-05-30 09:33"
-category: Internet
-tags: internet
+date: 2003-05-30 09:33
+tags:
+- internet
 author: offby1
 status: draft
 ---

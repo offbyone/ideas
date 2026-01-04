@@ -1,15 +1,14 @@
 ---
 title: This man is a cancer
 slug: this-man-is-a-cancer
-date: "2006-02-20 23:09"
-category: Events, Internet, Media, Rants
+date: 2006-02-20 23:09
 tags:
-  - events
-  - free speech
-  - freedom
-  - internet
-  - media
-  - rants
+- events
+- free speech
+- freedom
+- internet
+- media
+- rants
 author: offby1
 status: draft
 ---

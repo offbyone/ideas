@@ -1,11 +1,11 @@
 ---
 title: Downtime
 slug: downtime
-date: "2004-02-19 12:39"
-category: General Thoughts
+date: 2004-02-19 12:39
 tags:
-  - family
-  - memory lane
+- char
+- family
+- memory lane
 author: offby1
 status: draft
 ---

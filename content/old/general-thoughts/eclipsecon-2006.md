@@ -1,11 +1,11 @@
 ---
 title: EclipseCon 2006
 slug: eclipsecon-2006
-date: "2006-01-10 15:24"
-category: General Thoughts
+date: 2006-01-10 15:24
 tags:
-  - eclipse
-  - work
+- california
+- eclipse
+- work
 author: offby1
 status: draft
 ---

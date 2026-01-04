@@ -1,8 +1,7 @@
 ---
 title: Lave's labour lost
 slug: laves-labour-lost
-date: "2010-04-29 17:18"
-category: Project 365, Uncategorized
+date: 2010-04-29 17:18
 author: offby1
 status: draft
 ---

@@ -1,11 +1,11 @@
 ---
 title: Reach for the sky
 slug: reach-for-the-sky
-date: "2004-02-28 09:34"
-category: General Thoughts, Media
+date: 2004-02-28 09:34
 tags:
-  - media
-  - space
+- media
+- school
+- space
 author: offby1
 status: draft
 ---

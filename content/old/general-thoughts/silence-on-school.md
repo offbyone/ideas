@@ -1,9 +1,9 @@
 ---
 title: Silence on School
 slug: silence-on-school
-date: "2004-09-18 16:15"
-category: General Thoughts
-tags: school
+date: 2004-09-18 16:15
+tags:
+- school
 author: offby1
 status: draft
 ---

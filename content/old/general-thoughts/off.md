@@ -1,9 +1,10 @@
 ---
-title: "Off"
-slug: "off"
-date: "2005-02-20 09:35"
-category: General Thoughts
-tags: school
+title: 'Off'
+slug: 'off'
+date: 2005-02-20 09:35
+tags:
+- alberta
+- school
 author: offby1
 status: draft
 ---

@@ -1,11 +1,12 @@
 ---
 title: Flying... low
 slug: flying-low
-date: "2003-07-26 22:27"
-category: Life
+date: 2003-07-26 22:27
 tags:
-  - new experience
-  - skydiving
+- edmonton
+- new experience
+- simon
+- skydiving
 author: offby1
 status: published
 ---

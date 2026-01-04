@@ -1,9 +1,9 @@
 ---
 title: CS labs
 slug: cs-labs
-date: "2002-11-08 10:31"
-category: General Thoughts
-tags: school
+date: 2002-11-08 10:31
+tags:
+- school
 author: offby1
 status: draft
 ---

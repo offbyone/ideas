@@ -1,14 +1,13 @@
 ---
 title: A Sudden Outbreak of Common Sense
 slug: a-sudden-outbreak-of-common-sense
-date: "2007-12-10 23:02"
-category: Events
+date: 2007-12-10 23:02
 tags:
-  - copyright
-  - dmca
-  - freedom
-  - law
-  - politics
+- copyright
+- dmca
+- freedom
+- law
+- politics
 author: offby1
 status: draft
 ---

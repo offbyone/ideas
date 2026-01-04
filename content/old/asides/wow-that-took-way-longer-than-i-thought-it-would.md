@@ -1,11 +1,10 @@
 ---
 title: Wow.  That took WAY longer than I thought it would
 slug: wow-that-took-way-longer-than-i-thought-it-would
-date: "2005-12-10 08:02"
-category: Asides, General Thoughts, Media
+date: 2005-12-10 08:02
 tags:
-  - asides
-  - media
+- asides
+- media
 author: offby1
 status: draft
 ---

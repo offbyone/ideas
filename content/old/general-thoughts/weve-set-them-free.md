@@ -1,9 +1,10 @@
 ---
 title: We've set them free...
 slug: weve-set-them-free
-date: "2006-01-21 00:05"
-category: General Thoughts, Meta
-tags: meta
+date: 2006-01-21 00:05
+tags:
+- matt-dixon
+- meta
 author: offby1
 status: draft
 ---

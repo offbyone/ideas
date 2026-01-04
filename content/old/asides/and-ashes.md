@@ -1,11 +1,11 @@
 ---
 title: And... ashes
 slug: and-ashes
-date: "2005-07-09 09:44"
-category: Asides, General Thoughts, Media
+date: 2005-07-09 09:44
 tags:
-  - asides
-  - media
+- asides
+- char
+- media
 author: offby1
 status: draft
 ---

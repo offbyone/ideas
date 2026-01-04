@@ -1,11 +1,10 @@
 ---
 title: Four years, damn it!
 slug: four-years-damn-it
-date: "2004-11-18 12:57"
-category: Events, General Thoughts, Internet
+date: 2004-11-18 12:57
 tags:
-  - events
-  - internet
+- events
+- internet
 author: offby1
 status: draft
 ---

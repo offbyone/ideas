@@ -1,13 +1,12 @@
 ---
 title: Crunch, Again
 slug: crunch-again
-date: "2007-03-17 12:09"
-category: General Thoughts
+date: 2007-03-17 12:09
 tags:
-  - deadlines
-  - school
-  - stress
-  - work
+- deadlines
+- school
+- stress
+- work
 author: offby1
 status: draft
 ---

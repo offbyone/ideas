@@ -1,11 +1,11 @@
 ---
 title: Return
 slug: return
-date: "2005-03-02 10:41"
-category: Events, General Thoughts
+date: 2005-03-02 10:41
 tags:
-  - events
-  - school
+- char
+- events
+- school
 author: offby1
 status: draft
 ---

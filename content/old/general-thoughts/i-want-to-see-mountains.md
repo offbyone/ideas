@@ -1,12 +1,12 @@
 ---
 title: I want to see mountains...
 slug: i-want-to-see-mountains
-date: "2009-03-15 16:25"
-category: life
+date: 2009-03-15 16:25
 tags:
-  - jasper
-  - travel
-  - vacation
+- char
+- jasper
+- travel
+- vacation
 author: offby1
 status: published
 ---

@@ -4,15 +4,16 @@ slug: uv-direnv-and-simple-envrc-files
 date: 2024-10-02 00:05:01.102701
 category: tools
 tags:
-  - uv
-  - python
-  - direnv
-  - tool-sharpening
+- uv
+- direnv
+- python
+- dependency-management
+- workflow
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: Easily using uv, direnv, and minimal, consistent .envrc files
-status: published
-toot: "https://wandering.shop/@offby1/113236646362747524"
+toot: https://wandering.shop/@offby1/113236646362747524
 ---
 I have adopted [`uv`](https://astral.sh/uv/) for a lot of Python development. I'm also a heavy user of [`direnv`](https://direnv.net/), which I like as a tool for setting up project-specific environments. 
 

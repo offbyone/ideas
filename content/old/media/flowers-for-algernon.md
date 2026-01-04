@@ -1,9 +1,12 @@
 ---
 title: Flowers for Algernon
 slug: flowers-for-algernon
-date: "2002-12-03 07:51"
-category: Media
-tags: media
+date: 2002-12-03 07:51
+tags:
+- char
+- matt-dixon
+- media
+- simon
 author: offby1
 status: draft
 ---

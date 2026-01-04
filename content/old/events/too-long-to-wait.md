@@ -1,11 +1,10 @@
 ---
 title: Too long to wait
 slug: too-long-to-wait
-date: "2002-12-14 08:37"
-category: contemplation
+date: 2002-12-14 08:37
 tags:
-  - events
-  - space
+- events
+- space
 author: offby1
 status: published
 ---

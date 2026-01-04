@@ -1,9 +1,9 @@
 ---
 title: And the silence deepens...
 slug: and-the-silence-deepens
-date: "2003-04-03 19:56"
-category: General Thoughts
-tags: ping
+date: 2003-04-03 19:56
+tags:
+- ping
 author: offby1
 status: draft
 ---

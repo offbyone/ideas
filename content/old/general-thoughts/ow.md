@@ -1,12 +1,12 @@
 ---
 title: Ow
 slug: ow
-date: "2002-11-09 15:03"
-category: General Thoughts
+date: 2002-11-09 15:03
 tags:
-  - beer
-  - birthday
-  - hangover
+- beau
+- beer
+- birthday
+- hangover
 author: offby1
 status: draft
 ---

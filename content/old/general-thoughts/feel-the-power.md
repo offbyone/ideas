@@ -1,11 +1,10 @@
 ---
 title: Feel The Power
 slug: feel-the-power
-date: "2004-10-14 18:09"
-category: General Thoughts
+date: 2004-10-14 18:09
 tags:
-  - computer
-  - lamer
+- computer
+- lamer
 author: offby1
 status: draft
 ---

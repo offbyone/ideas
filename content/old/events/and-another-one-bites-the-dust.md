@@ -1,11 +1,10 @@
 ---
 title: And another one bites the dust
 slug: and-another-one-bites-the-dust
-date: "2004-11-11 09:18"
-category: Events, Internet
+date: 2004-11-11 09:18
 tags:
-  - events
-  - internet
+- events
+- internet
 author: offby1
 status: draft
 ---

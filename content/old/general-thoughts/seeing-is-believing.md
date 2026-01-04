@@ -1,12 +1,13 @@
 ---
 title: Seeing is Believing
 slug: seeing-is-believing
-date: "2004-07-27 08:26"
-category: General Thoughts, Rants
+date: 2004-07-27 08:26
 tags:
-  - intellectual property
-  - privacy
-  - rants
+- alberta
+- intellectual property
+- privacy
+- rants
+- school
 author: offby1
 status: draft
 ---

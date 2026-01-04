@@ -1,14 +1,13 @@
 ---
 title: Memory Lane
 slug: memory-lane
-date: "2007-08-24 21:28"
-category: General Thoughts
+date: 2007-08-24 21:28
 tags:
-  - memory lane
-  - piranhas
-  - school
-  - stress
-  - vitriol
+- memory lane
+- piranhas
+- school
+- stress
+- vitriol
 author: offby1
 status: draft
 ---

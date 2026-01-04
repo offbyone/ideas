@@ -1,13 +1,12 @@
 ---
 title: Grumble...
 slug: grumble
-date: "2006-08-08 16:29"
-category: Friends, General Thoughts, Projects
+date: 2006-08-08 16:29
 tags:
-  - friends
-  - projects
-  - school
-  - work
+- friends
+- projects
+- school
+- work
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: About a mob
 slug: about-a-mob
-date: "2006-05-01 22:20"
-category: General Thoughts
-tags: hockey
+date: 2006-05-01 22:20
+tags:
+- hockey
 author: offby1
 status: draft
 ---

@@ -1,11 +1,10 @@
 ---
 title: History, redux
 slug: history-redux
-date: "2004-06-06 04:53"
-category: Events, Rants
+date: 2004-06-06 04:53
 tags:
-  - events
-  - rants
+- events
+- rants
 author: offby1
 status: draft
 ---

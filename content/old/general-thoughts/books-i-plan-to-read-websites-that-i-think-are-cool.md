@@ -1,11 +1,14 @@
 ---
 title: Books I plan to read, websites that I think are cool.
 slug: books-i-plan-to-read-websites-that-i-think-are-cool
-date: "2006-01-22 14:51"
-category: General Thoughts, Internet, Media
+date: 2006-01-22 14:51
 tags:
-  - internet
-  - media
+- amy
+- char
+- edmonton
+- internet
+- media
+- school
 author: offby1
 status: draft
 ---

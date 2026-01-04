@@ -1,11 +1,10 @@
 ---
 title: East
 slug: east
-date: "2004-06-20 06:16"
-category: General Thoughts
+date: 2004-06-20 06:16
 tags:
-  - char
-  - weather
+- char
+- weather
 author: offby1
 status: draft
 ---

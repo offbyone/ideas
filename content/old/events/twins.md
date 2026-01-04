@@ -1,12 +1,11 @@
 ---
 title: Twins?
 slug: twins
-date: "2003-01-22 06:52"
-category: Events, Internet, Rants
+date: 2003-01-22 06:52
 tags:
-  - events
-  - internet
-  - rants
+- events
+- internet
+- rants
 author: offby1
 status: draft
 ---

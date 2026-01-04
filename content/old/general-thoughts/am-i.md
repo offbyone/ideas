@@ -1,11 +1,10 @@
 ---
 title: Am i?
 slug: am-i
-date: "2003-02-13 06:35"
-category: General Thoughts
+date: 2003-02-13 06:35
 tags:
-  - asshole
-  - introspection
+- asshole
+- introspection
 author: offby1
 status: draft
 ---

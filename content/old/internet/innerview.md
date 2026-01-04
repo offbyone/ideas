@@ -1,11 +1,11 @@
 ---
 title: Innerview
 slug: innerview
-date: "2004-11-21 10:52"
-category: Internet, Media
+date: 2004-11-21 10:52
 tags:
-  - internet
-  - media
+- internet
+- media
+- school
 author: offby1
 status: draft
 ---

@@ -1,13 +1,13 @@
 ---
 title: Signs you drink with the wrong people
 slug: signs-you-drink-with-the-wrong-people
-date: "2006-11-05 14:54"
-category: Asides, Humour, Internet, Media
+date: 2006-11-05 14:54
 tags:
-  - asides
-  - humour
-  - internet
-  - media
+- asides
+- beau
+- humour
+- internet
+- media
 author: offby1
 status: draft
 ---

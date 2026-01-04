@@ -1,9 +1,12 @@
 ---
 title: WinXP
 slug: winxp
-date: "2002-11-30 23:54"
-category: Rants
-tags: rants
+date: 2002-11-30 23:54
+tags:
+- beau
+- char
+- rant
+- rants
 author: offby1
 status: draft
 ---

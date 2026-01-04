@@ -1,11 +1,11 @@
 ---
 title: Tired
 slug: tired
-date: "2002-12-18 06:57"
-category: General Thoughts
+date: 2002-12-18 06:57
 tags:
-  - char
-  - lord of the rings
+- char
+- lord of the rings
+- school
 author: offby1
 status: draft
 ---

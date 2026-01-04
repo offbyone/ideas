@@ -1,11 +1,11 @@
 ---
 title: Idle hands
 slug: idle-hands
-date: "2006-10-14 20:50"
-category: General Thoughts, Projects
+date: 2006-10-14 20:50
+category: programming
 tags:
-  - projects
-  - school
+- projects
+- school
 author: offby1
 status: draft
 ---

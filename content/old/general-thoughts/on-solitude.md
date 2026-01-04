@@ -1,12 +1,12 @@
 ---
 title: On Solitude
 slug: on-solitude
-date: "2004-09-15 16:25"
-category: General Thoughts
+date: 2004-09-15 16:25
 tags:
-  - char
-  - love
-  - monogamy
+- amy
+- char
+- love
+- monogamy
 author: offby1
 status: draft
 ---

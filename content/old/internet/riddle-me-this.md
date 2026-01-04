@@ -1,9 +1,9 @@
 ---
 title: Riddle me this...
 slug: riddle-me-this
-date: "2003-10-14 10:59"
-category: Internet
-tags: internet
+date: 2003-10-14 10:59
+tags:
+- internet
 author: offby1
 status: draft
 ---

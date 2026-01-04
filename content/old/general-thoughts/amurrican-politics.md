@@ -1,14 +1,14 @@
 ---
 title: Amurrican Politics
 slug: amurrican-politics
-date: "2004-08-06 05:44"
-category: General Thoughts
+date: 2004-08-06 05:44
 tags:
-  - events
-  - fear
-  - government
-  - hypocrisy
-  - politics
+- california
+- events
+- fear
+- government
+- hypocrisy
+- politics
 author: offby1
 status: draft
 ---

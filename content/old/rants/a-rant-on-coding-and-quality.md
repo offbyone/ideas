@@ -1,16 +1,18 @@
 ---
 title: A Rant on Coding and Quality
 slug: a-rant-on-coding-and-quality
-date: "2007-03-27 10:11"
-category: Rants
+date: 2007-03-27 10:11
+category: programming
 tags:
-  - good design
-  - incompetence
-  - model-view-controller
-  - rants
-  - school
-  - software engineering
-  - vitriol
+- char
+- good design
+- incompetence
+- model-view-controller
+- rant
+- rants
+- school
+- software engineering
+- vitriol
 author: offby1
 status: draft
 ---

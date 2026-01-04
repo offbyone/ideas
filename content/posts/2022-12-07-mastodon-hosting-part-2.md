@@ -1,20 +1,20 @@
 ---
 title: Mastodon Hosting, Again
 slug: mastodon-hosting-part-2
-date: "2022-12-22T14:30:00-0700"
-category: open web
+date: 2022-12-22T14:30:00-0700
+category: hacking
 tags:
-  - wandering.shop
-  - software
-  - mastodon
-  - open web
-  - tailscale
-  - internet
+- mastodon
+- infrastructure
+- tailscale
+- wandering-shop
+- digitalocean
+- ansible
 author: Chris Rose
+status: published
 email: offline@offby1.net
 summary: How the wandering.shop is laid out as of today, and where it needs to go next.
-status: published
-toot: "https://wandering.shop/@offby1/109561595065450093"
+toot: https://wandering.shop/@offby1/109561595065450093
 ---
 A bit more than a month ago, during the first wave of the latest Twitter exodus, I described [how Wandering.Shop survived the initial rush of demand]({filename}/posts/2022-11-07-mastodon-hosting-part-1.md) and stabilized after running an upgrade at the same time as we got slammed with massive load.
 

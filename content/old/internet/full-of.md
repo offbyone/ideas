@@ -1,9 +1,9 @@
 ---
 title: Full of.
 slug: full-of
-date: "2006-09-25 22:06"
-category: Internet
-tags: internet
+date: 2006-09-25 22:06
+tags:
+- internet
 author: offby1
 status: draft
 ---

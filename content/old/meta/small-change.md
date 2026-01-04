@@ -1,9 +1,10 @@
 ---
 title: Small change
 slug: small-change
-date: "2004-04-01 18:01"
-category: Meta
-tags: meta
+date: 2004-04-01 18:01
+tags:
+- meta
+- school
 author: offby1
 status: draft
 ---

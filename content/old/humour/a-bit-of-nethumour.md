@@ -1,11 +1,10 @@
 ---
 title: A bit of net.humour
 slug: a-bit-of-nethumour
-date: "2006-07-23 10:23"
-category: Humour, Internet
+date: 2006-07-23 10:23
 tags:
-  - humour
-  - internet
+- humour
+- internet
 author: offby1
 status: draft
 ---

@@ -1,11 +1,12 @@
 ---
 title: Traveling again
 slug: traveling-again
-date: "2006-06-04 15:37"
-category: Asides, Friends
+date: 2006-06-04 15:37
 tags:
-  - asides
-  - friends
+- asides
+- char
+- friends
+- simon
 author: offby1
 status: draft
 ---

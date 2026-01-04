@@ -1,9 +1,10 @@
 ---
 title: Workload?
 slug: workload-2
-date: "2005-07-14 20:24"
-category: General Thoughts
-tags: work
+date: 2005-07-14 20:24
+tags:
+- school
+- work
 author: offby1
 status: draft
 ---

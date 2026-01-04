@@ -1,12 +1,11 @@
 ---
 title: Heisenbugs
 slug: heisenbugs
-date: "2007-10-26 12:44"
-category: General Thoughts
+date: 2007-10-26 12:44
 tags:
-  - bugs
-  - gripe
-  - work
+- bugs
+- gripe
+- work
 author: offby1
 status: draft
 ---

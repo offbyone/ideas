@@ -1,13 +1,12 @@
 ---
 title: Proof that capitalism is the greatest
 slug: proof-that-capitalism-is-the-greatest
-date: "2006-12-27 21:54"
-category: General Thoughts
+date: 2006-12-27 21:54
 tags:
-  - food
-  - humour
-  - nietzsche
-  - will-to-power
+- food
+- humour
+- nietzsche
+- will-to-power
 author: offby1
 status: draft
 ---

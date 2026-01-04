@@ -1,13 +1,12 @@
 ---
 title: Wiffle, Waffle, and no useful information
 slug: wiffle-waffle-and-no-useful-information
-date: "2007-05-05 22:03"
-category: Events
+date: 2007-05-05 22:03
 tags:
-  - batshitinsane
-  - dislocation
-  - fear
-  - skydiving
+- batshitinsane
+- dislocation
+- fear
+- skydiving
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Moved, at last
 slug: moved-at-last
-date: "2006-08-27 18:15"
-category: Meta
-tags: meta
+date: 2006-08-27 18:15
+tags:
+- meta
 author: offby1
 status: draft
 ---

@@ -1,13 +1,14 @@
 ---
 title: Sporadic, isn't it?
 slug: sporadic-isnt-it
-date: "2006-03-12 12:14"
-category: Events, General Thoughts, Internet, Meta, Projects
+date: 2006-03-12 12:14
 tags:
-  - events
-  - internet
-  - meta
-  - projects
+- char
+- events
+- internet
+- meta
+- projects
+- school
 author: offby1
 status: draft
 ---

@@ -1,9 +1,9 @@
 ---
 title: Lest their sacrifices be forgotten.
 slug: lest-their-sacrifices-be-forgotten
-date: "2004-11-11 10:42"
-category: Events
-tags: events
+date: 2004-11-11 10:42
+tags:
+- events
 author: offby1
 status: draft
 ---

@@ -1,13 +1,12 @@
 ---
 title: Permanent Damage
 slug: permanent-damage
-date: "2007-01-05 07:42"
-category: Life
+date: 2007-01-05 07:42
 tags:
-  - bad news
-  - dislocation
-  - health
-  - skydiving
+- bad news
+- dislocation
+- health
+- skydiving
 author: offby1
 status: published
 ---

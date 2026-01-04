@@ -1,9 +1,10 @@
 ---
 title: It's enough to make me cry
 slug: its-enough-to-make-me-cry
-date: "2004-08-31 22:48"
-category: General Thoughts, Rants
-tags: rants
+date: 2004-08-31 22:48
+category: hacking
+tags:
+- rants
 author: offby1
 status: draft
 ---

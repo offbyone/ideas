@@ -1,9 +1,10 @@
 ---
 title: Upgrades!
 slug: upgrades
-date: "2005-05-12 15:19"
-category: General Thoughts
-tags: work
+date: 2005-05-12 15:19
+tags:
+- char
+- work
 author: offby1
 status: draft
 ---

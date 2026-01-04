@@ -1,13 +1,12 @@
 ---
 title: Southward
 slug: southward
-date: "2008-01-29 08:39"
-category: General Thoughts, Media
+date: 2008-01-29 08:39
 tags:
-  - election
-  - ethics
-  - free speech
-  - politics
+- election
+- ethics
+- free speech
+- politics
 author: offby1
 status: draft
 ---

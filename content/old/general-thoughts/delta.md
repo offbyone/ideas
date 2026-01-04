@@ -1,14 +1,14 @@
 ---
 title: Delta
 slug: delta
-date: "2008-12-08 04:32"
-category: General Thoughts
+date: 2008-12-08 04:32
 tags:
-  - baby
-  - culture
-  - distance
-  - thoughts
-  - travel
+- baby
+- culture
+- distance
+- thoughts
+- travel
+- brazil
 author: offby1
 status: draft
 ---

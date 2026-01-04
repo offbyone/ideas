@@ -1,15 +1,14 @@
 ---
 title: My best-laid plans
 slug: my-best-laid-plans
-date: "2008-04-26 12:33"
-category: Humour, Internet, Media
+date: 2008-04-26 12:33
 tags:
-  - fun
-  - internet
-  - Phil Foglio
-  - pointless waste of time
-  - pop culture
-  - wiki
+- Phil Foglio
+- fun
+- internet
+- pointless waste of time
+- pop culture
+- wiki
 author: offby1
 status: draft
 ---

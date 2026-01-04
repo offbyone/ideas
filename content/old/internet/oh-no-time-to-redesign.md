@@ -1,9 +1,9 @@
 ---
 title: Oh no!  Time to redesign!
 slug: oh-no-time-to-redesign
-date: "2002-12-12 20:17"
-category: Internet
-tags: internet
+date: 2002-12-12 20:17
+tags:
+- internet
 author: offby1
 status: draft
 ---

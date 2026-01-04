@@ -1,9 +1,9 @@
 ---
 title: The Two Times
 slug: the-two-times
-date: "2002-12-19 06:58"
-category: Media
-tags: media
+date: 2002-12-19 06:58
+tags:
+- media
 author: offby1
 status: draft
 ---

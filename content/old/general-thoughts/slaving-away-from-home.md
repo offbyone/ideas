@@ -1,9 +1,9 @@
 ---
 title: Slaving away from home
 slug: slaving-away-from-home
-date: "2005-05-02 21:59"
-category: General Thoughts
-tags: work
+date: 2005-05-02 21:59
+tags:
+- work
 author: offby1
 status: draft
 ---
