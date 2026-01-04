@@ -1,0 +1,18 @@
+// FontAwesome imports
+// Only import what we need for performance
+
+// Core FontAwesome variables and mixins
+@import "@fortawesome/fontawesome-free/scss/variables";
+@import "@fortawesome/fontawesome-free/scss/mixins";
+
+// Core FontAwesome styles
+@import "@fortawesome/fontawesome-free/scss/core";
+
+// Only import solid icons (most commonly used)
+@import "@fortawesome/fontawesome-free/scss/solid";
+
+// Optional: Add brands if needed
+// @import "@fortawesome/fontawesome-free/scss/brands";
+
+// Optional: Add regular if needed  
+// @import "@fortawesome/fontawesome-free/scss/regular";

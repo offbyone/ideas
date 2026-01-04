@@ -1,0 +1,227 @@
+// MyST Admonition styles
+// Based on the standard MyST admonition markup
+
+.admonition {
+    margin: var(--space-lg) 0;
+    padding: var(--space-md);
+    padding-left: 4rem; // Make room for the large icon
+    border-left: 4px solid var(--color-primary);
+    background-color: var(--color-surface-offset);
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    
+    // Large watermark icon in background
+    &::before {
+        content: "";
+        position: absolute;
+        left: 0.25rem;
+        top: 50%;
+        transform: translateY(-50%);
+        font-family: "Font Awesome 7 Free";
+        font-weight: 900;
+        font-size: 3.5rem;
+        opacity: 0.12;
+        color: var(--admonition-color, var(--color-primary));
+        pointer-events: none;
+        line-height: 1;
+    }
+    
+    // Title paragraph
+    .admonition-title {
+        margin: 0 0 var(--space-sm) 0;
+        font-weight: $font-weight-bold;
+        font-size: 1.1rem;
+        color: var(--color-primary);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        position: relative;
+        z-index: 1;
+        
+        // Small icon before title text
+        &::before {
+            font-family: "Font Awesome 7 Free";
+            font-weight: 900;
+            font-size: 1.2rem;
+            display: inline-block;
+            flex-shrink: 0;
+        }
+    }
+    
+    // Content paragraphs
+    p {
+        position: relative;
+        z-index: 1;
+    }
+    
+    p:last-child {
+        margin-bottom: 0;
+    }
+    
+    // Code blocks inside admonitions
+    pre, code {
+        background-color: var(--color-codebg);
+        position: relative;
+        z-index: 1;
+    }
+}
+
+// Specific admonition types with different colors and icons
+.admonition.note {
+    --admonition-color: #{$light-color-primary};
+    border-left-color: var(--admonition-color);
+    
+    &::before {
+        content: "\f05a"; // fa-circle-info (watermark)
+    }
+    
+    .admonition-title {
+        color: var(--admonition-color);
+        
+        &::before {
+            content: "\f05a"; // fa-circle-info
+        }
+    }
+}
+
+.admonition.warning,
+.admonition.caution {
+    --admonition-color: #ff9800; // Orange
+    border-left-color: var(--admonition-color);
+    
+    &::before {
+        content: "\f071"; // fa-triangle-exclamation (watermark)
+    }
+    
+    .admonition-title {
+        color: var(--admonition-color);
+        
+        &::before {
+            content: "\f071"; // fa-triangle-exclamation
+        }
+    }
+}
+
+.admonition.danger,
+.admonition.error {
+    --admonition-color: #f44336; // Red
+    border-left-color: var(--admonition-color);
+    
+    &::before {
+        content: "\f06a"; // fa-circle-exclamation (watermark)
+    }
+    
+    .admonition-title {
+        color: var(--admonition-color);
+        
+        &::before {
+            content: "\f06a"; // fa-circle-exclamation
+        }
+    }
+}
+
+.admonition.tip,
+.admonition.hint {
+    --admonition-color: #4caf50; // Green
+    border-left-color: var(--admonition-color);
+    
+    &::before {
+        content: "\f0eb"; // fa-lightbulb (watermark)
+    }
+    
+    .admonition-title {
+        color: var(--admonition-color);
+        
+        &::before {
+            content: "\f0eb"; // fa-lightbulb
+        }
+    }
+}
+
+.admonition.important {
+    --admonition-color: #2196f3; // Blue
+    border-left-color: var(--admonition-color);
+    
+    &::before {
+        content: "\f06a"; // fa-circle-exclamation (watermark) - changed from \f12a
+    }
+    
+    .admonition-title {
+        color: var(--admonition-color);
+        
+        &::before {
+            content: "\f06a"; // fa-circle-exclamation - changed from \f12a
+        }
+    }
+}
+
+.admonition.seealso {
+    --admonition-color: #9c27b0; // Purple
+    border-left-color: var(--admonition-color);
+    
+    &::before {
+        content: "\f35d"; // fa-arrow-right-to-bracket (watermark)
+    }
+    
+    .admonition-title {
+        color: var(--admonition-color);
+        
+        &::before {
+            content: "\f35d"; // fa-arrow-right-to-bracket
+        }
+    }
+}
+
+.admonition.attention {
+    --admonition-color: #ff5722; // Deep orange
+    border-left-color: var(--admonition-color);
+    
+    &::before {
+        content: "\f06a"; // fa-circle-exclamation (watermark)
+    }
+    
+    .admonition-title {
+        color: var(--admonition-color);
+        
+        &::before {
+            content: "\f06a"; // fa-circle-exclamation
+        }
+    }
+}
+
+// Dark mode adjustments
+@media (prefers-color-scheme: dark) {
+    .admonition.note {
+        --admonition-color: #{$dark-color-primary};
+    }
+    
+    .admonition.warning,
+    .admonition.caution {
+        --admonition-color: #ffa726; // Lighter orange for dark mode
+    }
+    
+    .admonition.danger,
+    .admonition.error {
+        --admonition-color: #ef5350; // Lighter red for dark mode
+    }
+    
+    .admonition.tip,
+    .admonition.hint {
+        --admonition-color: #66bb6a; // Lighter green for dark mode
+    }
+    
+    .admonition.important {
+        --admonition-color: #42a5f5; // Lighter blue for dark mode
+    }
+    
+    .admonition.seealso {
+        --admonition-color: #ba68c8; // Lighter purple for dark mode
+    }
+    
+    .admonition.attention {
+        --admonition-color: #ff7043; // Lighter deep orange for dark mode
+    }
+}

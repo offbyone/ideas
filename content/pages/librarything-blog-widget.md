@@ -130,7 +130,3 @@ add_action('plugins_loaded', 'widget_librarything_init');
 ```
 
 </details>
-
-:::{note}
-This is a note
-:::
