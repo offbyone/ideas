@@ -111,7 +111,10 @@
             <div class="footer-content">
                 <div class="footer-links">
                     {% for social in SOCIAL %}
-                    <a href="{{ social.link }}" rel="me">{{ social.name }}</a>
+                    <a href="{{ social.link }}" rel="me">
+                        <span class="{{ social.icon_style }}"></span>
+                        {{ social.name }}
+                    </a>
                     {% if not loop.last %}<span>·</span>{% endif %}
                     {% endfor %}
                 </div>

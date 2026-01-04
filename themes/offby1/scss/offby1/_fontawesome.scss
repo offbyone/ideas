@@ -8,6 +8,9 @@
 // Core FontAwesome styles
 @import "@fortawesome/fontawesome-free/scss/core";
 
+// Icon definitions (required for icon glyphs to work)
+@import "@fortawesome/fontawesome-free/scss/icons";
+
 // Only import solid icons (most commonly used)
 @import "@fortawesome/fontawesome-free/scss/solid";
 
