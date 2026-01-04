@@ -192,6 +192,23 @@
     }
 }
 
+.admonition.historical {
+    --admonition-color: #8b6914; // Warm amber/brown
+    border-left-color: var(--admonition-color);
+    
+    &::before {
+        content: "\f017"; // fa-clock (watermark)
+    }
+    
+    .admonition-title {
+        color: var(--admonition-color);
+        
+        &::before {
+            content: "\f017"; // fa-clock
+        }
+    }
+}
+
 // Dark mode adjustments
 @media (prefers-color-scheme: dark) {
     .admonition.note {
@@ -223,5 +240,9 @@
     
     .admonition.attention {
         --admonition-color: #ff7043; // Lighter deep orange for dark mode
+    }
+    
+    .admonition.historical {
+        --admonition-color: #c9a236; // Lighter amber/gold for dark mode
     }
 }

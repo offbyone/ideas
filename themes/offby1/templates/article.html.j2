@@ -54,6 +54,19 @@
         </div>
     </header>
     
+    {% if PUBLICATION_TIME.year - article.date.year > 5 %}
+    <div class="admonition historical">
+        <p class="admonition-title">Historical Post</p>
+        <p>
+            Hi, reader. I wrote this in {{ article.date.year }}. Technology and culture
+            referenced may have changed and I nearly certainly have. I may disagree now
+            with what I wrote then, or it may refer to obsolete terms and tech. I will
+            usually only edit old posts to refresh links that have changed. If this post
+            is particularly offensive please <a href="/about.html">contact me</a> and
+            let me know.</p>
+    </div>
+    {% endif %}
+    
     <div class="article-content">
         {{ article.content }}
     </div>
