@@ -40,6 +40,7 @@ dependencies = [
     "click~=8.1",
     "aws-log-parser~=3.0",
     "pelican-myst-reader>=1.4.0",
+    "myst-parser[linkify]>=4.0.1",
 ]
 
 [tool.uv]

@@ -234,22 +234,10 @@ IGNORE_FILES = [".#&", "flycheck_*", "flymake_*"]
 REPOSITORY_ROOT = f"file://{Path(__file__).parent.resolve()}/{PATH}"
 EDIT_CONTENT_URL = "https://github.com/offbyone/ideas/edit/main/{file_path}"
 
-MARKDOWN = {
-    "extension_configs": {
-        "markdown.extensions.admonition": {},
-        "markdown.extensions.codehilite": {"css_class": "highlight"},
-        "markdown.extensions.extra": {},
-        "markdown.extensions.meta": {},
-        "markdown.extensions.toc": {
-            "title": "Table of Contents",
-        },
-    },
-    "output_format": "html5",
-}
-
 # MyST Reader configuration
-MYST_READER = {
+MYST_DOCUTILS_SETTINGS = {
     "myst_enable_extensions": [
+        "html_admonition",  # Enable admonition syntax
         "linkify",  # Auto-detect links
         "colon_fence",  # Enable ::: directive syntax for dropdowns
         "attrs_inline",  # Enable {#id} and {.class} syntax for headings
