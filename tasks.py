@@ -157,7 +157,9 @@ def livereload(c):
         # Open site in default browser
         import webbrowser
 
-        webbrowser.open("https://ideas.ngrok.dev")
+        SERVE_HOST = os.environ.get("SERVE_HOST", "ideas.ngrok.dev")
+
+        webbrowser.open(f"https://{SERVE_HOST}/")
 
     server.serve(host=CONFIG["host"], port=CONFIG["port"], root=CONFIG["deploy_path"])
 
