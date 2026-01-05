@@ -24,6 +24,6 @@ On the other hand, in the years since then, as the intelligence community has be
 
 So, if you're the government of the US of A, and you see information that -- viewed as a series of connected events over a span of several years -- strongly suggests upcoming attacks, and this happens to tie together during a political convention, what do you do?
 
-[![Damned if you do](http://www.offlineblog.com/images/arial.gif)](http://www.thestate.com/mld/state/news/opinion/)
+[![Damned if you do]({static}/images/arial.gif)](http://www.thestate.com/mld/state/news/opinion/)
 
 Personally, I think that the alert is a good idea. Imagine the fallout if another attack succeeded just because the CIA didn't want to appear politically motivated. _Then_ we'd see some hangings.

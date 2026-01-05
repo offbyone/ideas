@@ -10,7 +10,7 @@ tags:
 author: offby1
 status: draft
 ---
-Adam Gessaman has [some more to say](http://idly.org/2004/01/07/locke-property-and-software-piracy) on the subject of piracy, in response to Aaron's [opinions](http://www.aaronsw.com/2002/onPiracy) on the nature of intellectual property. Some of Aaron's statements from the debate [here](http://www.offlineblog.com/backlog/2004/01/04/aaaarghhh/) as well make it into the rebuttal.
+Adam Gessaman has [some more to say](http://idly.org/2004/01/07/locke-property-and-software-piracy) on the subject of piracy, in response to Aaron's [opinions](http://www.aaronsw.com/2002/onPiracy) on the nature of intellectual property. Some of Aaron's statements from the debate [here]({filename}/old/general-thoughts/aaaarghhh.md) as well make it into the rebuttal.
 
 Essentially, Adam manages to express the reasons that really underly my belief that Nick, amongst others, have a right to the profits from their software. Especially interesting is the quote:
 

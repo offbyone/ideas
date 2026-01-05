@@ -26,7 +26,7 @@ What the fuck, you ask?
 
 Well, see, that last group "[believe in free speech, but...](http://www.metafilter.com/mefi/49353#1216948)"
 
-Beware of [anyone who prefaces a statement with that line](http://www.offlineblog.com/backlog/2005/10/13/corporalte-punishment/). They probably don't have your best interests at heart, and they're a liar, to boot.
+Beware of [anyone who prefaces a statement with that line]({filename}/old/general-thoughts/corporalte-punishment.md). They probably don't have your best interests at heart, and they're a liar, to boot.
 
 Here's the skinny, and I know that this comes as no news to most of those that read here, but nonetheless: Free Speech means (and, in fact, rests firmly upon and is rendered meaningless without) the right to say things that terrify, disgust, demean, insult, and verbally violate all that you hold dear. The more offensive an utterance is, the more important it is that the speaker be free to say it, without fear of violence or of censorship. That isn't to say that they should be immune to censure -- that's how mind-blowingly stupid pronouncements like "Auschwitz's Crematorium Two, the site of half a million deaths, is 'a mere legend'" *should* be greeted. Ridicule is another good response. As is simply ignoring the speaker. But *silencing* your critics is... well, there's a couple of interesting 20^th^ century events that might be informative on the subject. I leave that, too, as an exercise for the reader.
 

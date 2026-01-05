@@ -15,8 +15,16 @@ Wankery.
 
 *However*, in the name of being a wanker myself, here's a couple of pics Char and I took of our weirdest cat last night. Tell me, has anyone ever seen a cat do this?
 
-[![Fritz in blissful repose](/images/2004-07-19/Bliss.jpeg)](http://www.offlineblog.com/images/Bliss.jpg)
+:::{figure} {static}/images/2004-07-19/Bliss.jpeg
+:alt: Fritz the cat sleeping contentedly in a bathroom sink
+:target: {static}/images/2004-07-19/Bliss.jpeg
 
-[![Fritz: Pays no attention to the water running on him. Ivan: Pays attention to nothing but the water.](/images/2004-07-19/Priorities.jpeg)](http://www.offlineblog.com/images/Priorities.jpg)
+Fritz in blissful repose in the bathroom sink
+:::
 
-(click for enlarged versions)
+:::{figure} {static}/images/2004-07-19/Priorities.jpeg
+:alt: Fritz in the sink with water running on him, Ivan watching the water
+:target: {static}/images/2004-07-19/Priorities.jpeg
+
+Fritz pays no attention to water running on him while Ivan is mesmerized by it
+:::

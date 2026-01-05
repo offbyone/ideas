@@ -32,6 +32,26 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
   
+  // Also convert figure image-references with gallery-image class on img
+  const figureImageRefs = document.querySelectorAll('figure a.image-reference');
+  figureImageRefs.forEach((link) => {
+    const img = link.querySelector('img.gallery-image');
+    if (img) {
+      link.classList.add('gallery-image');
+      // Get data-gallery from img if present
+      const dataGallery = img.getAttribute('data-gallery');
+      if (dataGallery) {
+        link.setAttribute('data-gallery', dataGallery);
+      }
+      // Get title from figcaption
+      const figure = link.closest('figure');
+      const caption = figure?.querySelector('figcaption .caption-text');
+      if (caption) {
+        link.title = caption.textContent.trim();
+      }
+    }
+  });
+  
   // Initialize Magnific Popup on manually created gallery images
   if (document.querySelectorAll('.gallery-image').length > 0) {
     jQuery('.gallery-image').magnificPopup({

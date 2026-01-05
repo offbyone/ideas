@@ -30,20 +30,20 @@ Hopefully Jacques gets here soon with the shop-vac so that I can suck up some of
 ### Update
 
 Here are some pics from the disaster (be warned, the large images are _quite_ large):
-[![TV Room 1](/images/2004-07-11/Flooding_001.jpeg)](http://www.offlineblog.com/images/Flooding_001.jpg)
+[![TV Room 1]({static}/images/2004-07-11/Flooding_001.jpeg)]({static}/images/2004-07-11/Flooding_001.jpeg)
 
-[![TV Room 2](/images/2004-07-11/Flooding_002.jpeg)](http://www.offlineblog.com/images/Flooding_002.jpg)
+[![TV Room 2]({static}/images/2004-07-11/Flooding_002.jpeg)]({static}/images/2004-07-11/Flooding_002.jpeg)
 
-[![TV Room 3](/images/2004-07-11/Flooding_003.jpeg)](http://www.offlineblog.com/images/Flooding_003.jpg)
+[![TV Room 3]({static}/images/2004-07-11/Flooding_003.jpeg)]({static}/images/2004-07-11/Flooding_003.jpeg)
 
-[![Garden](/images/2004-07-11/Flooding_004.jpeg)](http://www.offlineblog.com/images/Flooding_004.jpg)
+[![Garden]({static}/images/2004-07-11/Flooding_004.jpeg)]({static}/images/2004-07-11/Flooding_004.jpeg)
 
-[![Front Yard](/images/2004-07-11/Flooding_005.jpeg)](http://www.offlineblog.com/images/Flooding_005.jpg)
+[![Front Yard]({static}/images/2004-07-11/Flooding_005.jpeg)]({static}/images/2004-07-11/Flooding_005.jpeg)
 
-[![Depression in the side of the yard](/images/2004-07-11/Flooding_006.jpeg)](http://www.offlineblog.com/images/Flooding_006.jpg)
+[![Depression in the side of the yard]({static}/images/2004-07-11/Flooding_006.jpeg)]({static}/images/2004-07-11/Flooding_006.jpeg)
 
-[![Back Yard under the tree](/images/2004-07-11/Flooding_007.jpeg)](http://www.offlineblog.com/images/Flooding_007.jpg)
+[![Back Yard under the tree]({static}/images/2004-07-11/Flooding_007.jpeg)]({static}/images/2004-07-11/Flooding_007.jpeg)
 
-[![Firepit](/images/2004-07-11/Flooding_008.jpeg)](http://www.offlineblog.com/images/Flooding_008.jpg)
+[![Firepit]({static}/images/2004-07-11/Flooding_008.jpeg)]({static}/images/2004-07-11/Flooding_008.jpeg)
 
 That's all of them for now.

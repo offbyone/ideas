@@ -10,7 +10,7 @@ tags:
 author: offby1
 status: draft
 ---
-Having made a fairly big deal out of my [loner tendencies](http://offlineblog.com/backlog/2004/07/30/required-reading/) a couple of months back, it's weird to be feeling as I do.
+Having made a fairly big deal out of my [loner tendencies]({filename}/old/general-thoughts/required-reading.md) a couple of months back, it's weird to be feeling as I do.
 
 I had a conversation recently with a really good friend where they asked me what the point was to a serious monogamous relationship, if sometimes you still crave variety or are not always perfectly happy with what you have. At the time, I didn't really know how to answer, so all I could say then was that it was a guarantee of safety. Knowing that when I got home, my life wouldn't have turned to shit while I was out. This is a personal history thing, and obviously it doesn't apply to everyone, but I was at a bit of a loss as to what else I could say.
 

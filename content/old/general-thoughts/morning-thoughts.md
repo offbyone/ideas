@@ -25,6 +25,6 @@ I thought not. But it was nifty.
 
 ### Update
 
-Char makes a good point, [below](http://www.offlineblog.com/backlog/2005/09/15/morning-thoughts/#comment-1990). I really should have mentioned something I got in the mail -- Notice that I've been invited to join a school Honour Society, as well as a "Hey, remember us when you're looking for work" letter from IBM's Giant Department of Automatically-Generated Form Letters to Anonymous Students (lovingly abbreviated as GDAGFLAS at 'ole Big Blue).
+Char makes a good point, [below]({filename}/old/general-thoughts/morning-thoughts.md). I really should have mentioned something I got in the mail -- Notice that I've been invited to join a school Honour Society, as well as a "Hey, remember us when you're looking for work" letter from IBM's Giant Department of Automatically-Generated Form Letters to Anonymous Students (lovingly abbreviated as GDAGFLAS at 'ole Big Blue).
 
 So there, it's noted.

@@ -7,7 +7,7 @@ tags:
 author: offby1
 status: draft
 ---
-Shades of [Pepsi Blue](http://mssv.net/wiki.cgi?PepsiBlue), but I'm taking the plunge: After years of pretty consistent Wintel dominance on my desktop, this week I take the final step away from it and, assuming that I get [sent to](http://www.offlineblog.com/backlog/2006/01/10/eclipsecon-2006/) [EclipseCon 2006](http://www.eclipsecon.org/), buy a Mac. A [Macbook](http://www.apple.com/macbookpro/), to be specific.
+Shades of [Pepsi Blue](http://mssv.net/wiki.cgi?PepsiBlue), but I'm taking the plunge: After years of pretty consistent Wintel dominance on my desktop, this week I take the final step away from it and, assuming that I get [sent to]({filename}/old/general-thoughts/eclipsecon-2006.md) [EclipseCon 2006](http://www.eclipsecon.org/), buy a Mac. A [Macbook](http://www.apple.com/macbookpro/), to be specific.
 
 Ye gods, that name sucks.
 

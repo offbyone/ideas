@@ -241,6 +241,7 @@ MYST_DOCUTILS_SETTINGS = {
         "linkify",  # Auto-detect links
         "colon_fence",  # Enable ::: directive syntax for dropdowns
         "attrs_inline",  # Enable {#id} and {.class} syntax for headings
+        "html_image",  # Enable HTML img tags with attributes
     ],
     "myst_disable_syntax": [],  # Don't disable any syntax
     "myst_heading_anchors": 3,  # Add anchors to headings
