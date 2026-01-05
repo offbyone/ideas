@@ -130,7 +130,7 @@
         <h3 class="recent-posts-heading">Similar Posts</h3>
         
         <div class="recent-posts-grid">
-            {% for similar in article.similar_posts[:4] %}
+            {% for similar in article.similar_posts[:2] %}
             <article class="post-card">
                 <h4><a href="{{ SITEURL }}/{{ similar.url }}">{{ similar.title }}</a></h4>
                 <div class="meta">

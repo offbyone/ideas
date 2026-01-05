@@ -1,6 +1,9 @@
 // FontAwesome imports
 // Only import what we need for performance
 
+// Core FontAwesome functions (must come before variables)
+@import "@fortawesome/fontawesome-free/scss/functions";
+
 // Core FontAwesome variables and mixins
 @import "@fortawesome/fontawesome-free/scss/variables";
 @import "@fortawesome/fontawesome-free/scss/mixins";
