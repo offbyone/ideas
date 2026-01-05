@@ -17,6 +17,7 @@ Wankery.
 
 :::{figure} {static}/images/2004-07-19/Bliss.jpeg
 :alt: Fritz the cat sleeping contentedly in a bathroom sink
+:class: gallery-image
 :target: {static}/images/2004-07-19/Bliss.jpeg
 
 Fritz in blissful repose in the bathroom sink
@@ -24,6 +25,7 @@ Fritz in blissful repose in the bathroom sink
 
 :::{figure} {static}/images/2004-07-19/Priorities.jpeg
 :alt: Fritz in the sink with water running on him, Ivan watching the water
+:class: gallery-image
 :target: {static}/images/2004-07-19/Priorities.jpeg
 
 Fritz pays no attention to water running on him while Ivan is mesmerized by it

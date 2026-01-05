@@ -38,6 +38,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const img = link.querySelector('img.gallery-image');
     if (img) {
       link.classList.add('gallery-image');
+      // Remove gallery-image class from img to avoid duplicate gallery items
+      img.classList.remove('gallery-image');
       // Get data-gallery from img if present
       const dataGallery = img.getAttribute('data-gallery');
       if (dataGallery) {
