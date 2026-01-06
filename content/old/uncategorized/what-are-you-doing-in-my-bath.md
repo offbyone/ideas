@@ -7,4 +7,9 @@ tags:
 author: offby1
 status: published
 ---
-[![image0](/images/2010-05-27/4640816392_3bb5b43058_m.jpg)](http://www.flickr.com/photos/offbyone/4640816392/)
+:::{figure} /images/flickr/4640816392.jpg
+:alt: What are you doing in my bath?
+
+
+*[View on Flickr](http://www.flickr.com/photos/offbyone/4640816392/)*
+:::

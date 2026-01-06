@@ -10,7 +10,12 @@ status: draft
 ---
 <div style="float:right;margin-left:10px;margin-bottom:10px;">
 
-[![image0](/images/2010-05-09/4590281021_088874f5bf_m.jpg)](http://www.flickr.com/photos/offbyone/4590281021/) [Peace Rose](http://www.flickr.com/photos/offbyone/4590281021/) Originally uploaded by [Chris R](http://www.flickr.com/people/offbyone/)
+:::{figure} /images/flickr/4590281021.jpg
+:alt: Peace Rose
+
+
+*[View on Flickr](http://www.flickr.com/photos/offbyone/4590281021/)*
+:::
 
 </div>
 

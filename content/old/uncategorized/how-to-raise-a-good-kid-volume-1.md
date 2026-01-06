@@ -8,6 +8,11 @@ tags:
 author: offby1
 status: published
 ---
-[![image0](/images/2010-05-01/4568558677_d88502836b_m.jpg)](http://www.flickr.com/photos/offbyone/4568558677/)
+:::{figure} /images/flickr/4568558677.jpg
+:alt: How to raise a good kid
+
+
+*[View on Flickr](http://www.flickr.com/photos/offbyone/4568558677/)*
+:::
 
 You can't see it, but his mother has an xbox controller in her hands.

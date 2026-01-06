@@ -11,7 +11,12 @@ status: draft
 ---
 <div style="float:right;margin-left:10px;margin-bottom:10px;">
 
-[![image0](/images/2010-04-25/4552030124_c8d9f40e9a_m.jpg)](http://www.flickr.com/photos/offbyone/4552030124/) [Ready for Florida](http://www.flickr.com/photos/offbyone/4552030124/) Originally uploaded by [Chris R](http://www.flickr.com/people/offbyone/)
+:::{figure} /images/flickr/4552030124.jpg
+:alt: Ready for Florida
+
+
+*[View on Flickr](http://www.flickr.com/photos/offbyone/4552030124/)*
+:::
 
 </div>
 

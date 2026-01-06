@@ -7,6 +7,11 @@ tags:
 author: offby1
 status: draft
 ---
-[![The Red Dragon](/images/2010-04-23/4544593800_89c69e901d_m.jpg)](http://www.flickr.com/photos/offbyone/4544593800/)
+:::{figure} /images/flickr/4544593800.jpg
+:alt: The Red Dragon
+
+
+*[View on Flickr](http://www.flickr.com/photos/offbyone/4544593800/)*
+:::
 
 This was pretty cool; random splitting plus iconography becomes calligraphy.

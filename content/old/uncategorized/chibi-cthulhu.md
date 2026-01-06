@@ -5,6 +5,11 @@ date: 2010-05-02 23:04
 author: offby1
 status: published
 ---
-[![image0](/images/2010-05-02/4572898578_930739ae8c_m.jpg)](http://www.flickr.com/photos/offbyone/4572898578/)
+:::{figure} /images/flickr/4572898578.jpg
+:alt: Chibi-Cthulhu
+
+
+*[View on Flickr](http://www.flickr.com/photos/offbyone/4572898578/)*
+:::
 
 To the great (pink) Cthulhu, you are all sheep!

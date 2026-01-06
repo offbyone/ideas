@@ -8,4 +8,9 @@ tags:
 author: offby1
 status: draft
 ---
-[![Hey, gimme that!](/images/2010-04-19/4532880396_a8050c9060_m.jpg)](http://www.flickr.com/photos/offbyone/4532880396/)
+:::{figure} /images/flickr/4532880396.jpg
+:alt: Hey, gimme that!
+
+
+*[View on Flickr](http://www.flickr.com/photos/offbyone/4532880396/)*
+:::
