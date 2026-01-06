@@ -12,4 +12,6 @@ status: draft
 ---
 I have here incontrovertible proof that our economic system, which allows a nearly-infinite variety of consumer goods, many of which are pointless to the extreme, is the greatest one in the world:
 
-![Will to Power Bar](/images/2006-12-01/will_to_power.jpg)
+:::{figure} /images/2006-12-01/will_to_power.jpg
+:alt: Will to Power Bar
+:::

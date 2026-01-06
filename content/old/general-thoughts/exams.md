@@ -16,7 +16,12 @@ This post is a bit in the vein of the ultra-obtuse posts that Simon makes from t
 
 There's a conceptual model of networks which has them divided into 7 layers. The 7 layers are organized a lot like this:
 
-[![OSI 7-layer model](/images/2006-04-01/osi_model.jpg){width="372px" height="262px"}](http://en.wikipedia.org/wiki/OSI_model)
+:::{figure} /images/2006-04-01/osi_model.jpg
+:alt: OSI 7-layer model
+:width: 372px
+
+*[OSI 7-layer model](http://en.wikipedia.org/wiki/OSI_model)*
+:::
 
 The image is linked to the obligatory Wikipedia article for those who are a bit more interested.
 

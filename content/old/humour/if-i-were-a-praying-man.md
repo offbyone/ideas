@@ -10,4 +10,6 @@ status: draft
 ---
 From the net.humour namespace:
 
-![nslookup beat.down.com](/images/2006-09-01/punch_over_tcp_ip.gif)
+:::{figure} /images/2006-09-01/punch_over_tcp_ip.gif
+:alt: nslookup beat.down.com
+:::

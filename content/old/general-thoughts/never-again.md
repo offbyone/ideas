@@ -14,4 +14,6 @@ I'm reasonably certain that there's some kind of nationwide moment of silence, b
 
 Remember:
 
-![Never Again](/images/2006-11-01/never_again.jpg)
+:::{figure} /images/2006-11-01/never_again.jpg
+:alt: Never Again
+:::

@@ -14,6 +14,8 @@ Second blood: Me.
 
 The bike got a bent tire, I got this seemingly-minor, but very uncomfortable abrasion:
 
-<a href="/images/2007-07-01/photo-18.jpg"><img src="/images/2007-07-01/photo-18.jpg" alt="Scraping by" /></a>
+:::{figure} /images/2007-07-01/photo-18.jpg
+:alt: Scraping by
+:::
 
 Yay, summer!

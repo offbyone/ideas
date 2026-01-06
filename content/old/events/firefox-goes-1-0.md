@@ -8,4 +8,8 @@ tags:
 author: offby1
 status: draft
 ---
-[![Get Firefox!](/images/2004-11-09/firefox-rgb.png)](http://www.getfirefox.com/)
+:::{figure} /images/2004-11-09/firefox-rgb.png
+:alt: Get Firefox!
+
+*[Get Firefox!](http://www.getfirefox.com/)*
+:::

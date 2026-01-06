@@ -15,26 +15,38 @@ This might mark me as exceptionally nerdy, but I just love this set of [warning 
 
 Some favourites:
 
-![Ubiquitous Surveillance Warning](/images/2006-10-01/ubiquitioussurveillancewarning.jpg)
+:::{figure} /images/2006-10-01/ubiquitioussurveillancewarning.jpg
+:alt: Ubiquitous Surveillance Warning
+:::
 
 This is the scary one -- it should probably be posted in most banks, office buildings, *my* building, and Britain.
 
-![Nonstandard Spacetime Warning](/images/2006-10-01/nonstandardspacetimewarning.jpg)
+:::{figure} /images/2006-10-01/nonstandardspacetimewarning.jpg
+:alt: Nonstandard Spacetime Warning
+:::
 
 Perhaps those times when you've got a project due the next morning *"all of a sudden"* even though you *never* let things sit that long?
 
-![Lack of Internet Connectivity Warning](/images/2006-10-01/lackofinternetconnectivitywarning.jpg)
+:::{figure} /images/2006-10-01/lackofinternetconnectivitywarning.jpg
+:alt: Lack of Internet Connectivity Warning
+:::
 
 My life, according to Shaw, some days.
 
-![Existential Warning](/images/2006-10-01/existentialthreatwarning.jpg)
+:::{figure} /images/2006-10-01/existentialthreatwarning.jpg
+:alt: Existential Warning
+:::
 
 I can just picture this hanging in an effete coffee shop, over books by Sartre, being studiedly ignored by a gaggle of pseudo-intellectual first-year philosophy students.
 
-![Congnitive Hazard Warning](/images/2006-10-01/cognitivehazardwarning.jpg)
+:::{figure} /images/2006-10-01/cognitivehazardwarning.jpg
+:alt: Congnitive Hazard Warning
+:::
 
 Seen over the magazine rack containing US, Cosmo, and Maxim.
 
-![Autonomous Device Warning](/images/2006-10-01/autonomousdevicewarning.jpg)
+:::{figure} /images/2006-10-01/autonomousdevicewarning.jpg
+:alt: Autonomous Device Warning
+:::
 
 I think I should get a shirt with this one on it ;)

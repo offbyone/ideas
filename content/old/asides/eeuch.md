@@ -11,8 +11,10 @@ status: draft
 ---
 Take a look at this:
 
-<a href="/images/2007-08-01/display.jpg"><img src="/images/2007-08-01/display.jpg" alt="Noise, Noise" /></a>
+:::{figure} /images/2007-08-01/display.jpg
+:alt: Noise, Noise
+:::
 
 Sure looks horrible, eh?
 
-At least it's not a total loss; I can still back up my data and take it in for service. Looks like my \$300 applecare just paid for itself...
+At least it's not a total loss; I can still back up my data and take it in for service. Looks like my $300 applecare just paid for itself...
