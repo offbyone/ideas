@@ -6,7 +6,7 @@
   "repository": "https://github.com/offbyone/ideas",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.1",
-    "@primer/css": "~21",
+    "@primer/css": "~22",
     "@primer/view-components": "^0.48.0",
     "autoprefixer": "^10.4.23",
     "dompurify": "^3.3.1",
@@ -16,6 +16,6 @@
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1",
     "postcss-import": "^16.1.1",
-    "sass": "^1.97.1"
+    "sass": "^1.97.2"
   }
 }
