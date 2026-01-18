@@ -167,4 +167,6 @@ lint-rst:
 
 lint: lint-ruff lint-terraform lint-rst
 
-check: check-code check-content check-links check-html check-feeds
+check: build _check
+[parallel]
+_check: check-code check-content check-links check-html check-feeds
