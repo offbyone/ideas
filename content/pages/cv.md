@@ -10,7 +10,15 @@ status: published
 
 Seattle, WA, USA
 
-[signal](https://signal.me/#eu/b3B9r5YWLHCOPojFSN9rwKd9JHE8nXR8Wn_jYEWHtI7rPi5M3iDaqcjZDjvlk03p) \| [whatsapp](https://wa.me/12062456758) \| [email](mailto:offline@offby1.net) \| [blog](https://offby1.website/) \| [github](https://github.com/offbyone)
+<div class="contact-list">
+
+- [signal](https://signal.me/#eu/b3B9r5YWLHCOPojFSN9rwKd9JHE8nXR8Wn_jYEWHtI7rPi5M3iDaqcjZDjvlk03p)
+- [whatsapp](https://wa.me/12062456758)
+- [email](mailto:offline@offby1.net)
+- [blog](https://offby1.website/)
+- [github](https://github.com/offbyone)
+
+</div>
 
 He/Him
 
@@ -20,27 +28,28 @@ He/Him
 
 **Operating Systems**: Linux, macOS
 
-**Programing Languages**: Python (competent to expert), Ruby, Java, Shell, C (rusty!)
+**Programing Languages**: Python (competent to expert), Ruby, Go, Java, Shell, C (rusty!)
 
 **Software Lifecycle**: Git, AWS internal tools, Github, CodeDeploy
 
-**Cloud Services**: AWS[ref]I certainly hope so![/ref], Docker
+**Cloud Services**: AWS[ref]I certainly hope so![/ref], Docker, limited Nomad and k8s
 
 **Tools**: Emacs, Git[ref]Again, I certainly hope so![/ref], <a href="/category/tools.html">my tools category here</a>
 
-### Present Employment
+### Sept 2022 - Present - GitHub
 
-**GitHub - Sept 2022 - Present: DAG vendor**
-
-Staff Software Engineer, Deployment
-
-- Led a project to apply multiple security best practices to the deployment systems
-- Designed methods for managing sensitive materials during deployments for the company
+**DAG vendor**
 
 Staff Software Engineer, Migrations
 
 - Technical leadership for a team of 15
 - Led design for observability and tracing in the migrations system
+- Designed and delivered a production ready `[REDACTED/NDA]` and led a 5 developer team in implementing it.
+
+Staff Software Engineer, Deployment
+
+- Led a project to apply multiple security best practices to the deployment systems
+- Designed methods for managing sensitive materials during deployments for the company
 
 ### Open Source Software
 
@@ -59,7 +68,7 @@ Senior Software Engineer. Expertise in build systems, Python, deployment safety.
 - Author and maintainer of build systems, CI/CD services, deployment systems, and software quality enforcement.
 - Primary global point of contact and evangelist for python's use as a development language within Amazon.
 - Designed the interpreter dependency model used by Python, Ruby, NodeJS, and Java developers at Amazon. This allowed a rapid response to newly-discovered vulnerability reports by all of Amazon.
-- Part of the cross-AWS incident call leader rotation. Notable recent incidents include the response to Log4Shell.
+- Part of the cross-AWS incident call leader rotation. Notable incident respones included the response to Log4Shell.
 - Curator of Amazon's first party codebase[ref]This one is sort of hard to explain without a tonne of Amazon-specific context. Suffice to say we have a very large codebase with a complex history, and ensuring that all of the code in use meets a high bar for security and availability is its own special job.[/ref].
 - 3 issued patents for network configuration management.
   - US 9992064 B1 - Network Device Configuration Deployment Pipeline
