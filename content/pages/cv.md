@@ -12,7 +12,7 @@ Seattle, WA, USA
 
 <div class="contact-list">
 
-- [signal](https://signal.me/#eu/b3B9r5YWLHCOPojFSN9rwKd9JHE8nXR8Wn_jYEWHtI7rPi5M3iDaqcjZDjvlk03p)
+- `offby1.42` on signal
 - [whatsapp](https://wa.me/12062456758)
 - [email](mailto:offline@offby1.net)
 - [blog](https://offby1.website/)
