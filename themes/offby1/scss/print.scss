@@ -1,0 +1,160 @@
+/* =========================
+   CV PRINT STYLES
+   ========================= */
+
+// Import shared variables
+@import 'var';
+
+@media print {
+  /* Page setup */
+  @page {
+    size: A4;
+    margin: 18mm 20mm;
+  }
+
+  /* Reset screen assumptions */
+  html, body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  /* Kill site chrome - be specific to avoid hiding page content */
+  body > header,
+  body > nav,
+  body > footer,
+  .header-content,
+  .avatar,
+  .site-title,
+  .title-logo,
+  .sidebar,
+  .social,
+  .pagination,
+  .comments,
+  #disqus_thread {
+    display: none !important;
+  }
+
+  /* Hide footnotes on CV page */
+  .page-cv {
+    .simple-footnote,
+    ol.simple-footnotes {
+      display: none !important;
+    }
+  }
+
+  /* Layout - using shared font variables */
+  body {
+    font-family: $body-font;
+    font-size: 11pt;
+    line-height: 1.45;
+  }
+
+  /* Headings - using shared font variables */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $title-font;
+    font-weight: $font-weight-bold;
+  }
+
+  h1 {
+    font-size: 18pt;
+    margin-bottom: 4mm;
+  }
+
+  h2 {
+    font-size: 13pt;
+    margin-top: 6mm;
+    margin-bottom: 2mm;
+    border-bottom: 1px solid #000;
+  }
+
+  h3 {
+    font-size: 11.5pt;
+    margin-top: 4mm;
+  }
+
+  /* Text */
+  p {
+    margin: 0 0 2.5mm 0;
+  }
+
+  ul {
+    padding-left: 4mm;
+    margin: 0 0 3mm 0;
+  }
+
+  li {
+    margin-bottom: 1.5mm;
+  }
+
+  /* Code blocks - using shared font variables */
+  code, pre {
+    font-family: $mono-font;
+  }
+
+  code {
+    padding: 0.2em 0.4em;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 0.9em;
+    background: #f5f5f5;
+  }
+
+  pre {
+    padding: 8pt;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow-x: auto;
+    
+    code {
+      padding: 0;
+      border: none;
+      background: transparent;
+    }
+  }
+
+  /* CV-specific helpers */
+  .cv-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .cv-section {
+    page-break-inside: avoid;
+  }
+
+  /* Dates aligned right */
+  .cv-dates {
+    float: right;
+    font-size: 10pt;
+    white-space: nowrap;
+  }
+
+  /* Links */
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  /* Show URLs for print */
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 9pt;
+    word-break: break-all;
+  }
+
+  /* Page breaks */
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  p, ul {
+    page-break-inside: avoid;
+  }
+
+  /* Avoid widows/orphans */
+  p {
+    widows: 2;
+    orphans: 2;
+  }
+}

@@ -7,7 +7,7 @@
 {% block og_description %}{{ (page.summary or page.content) | striptags | e | truncate(160) }}{% endblock %}
 {% block og_url %}{{ SITEURL }}/{{ page.url }}{% endblock %}
 
-{% block body_class %}page{% endblock %}
+{% block body_class %}page page-{{ page.slug }}{% endblock %}
 
 {% block content %}
 <article class="single-article">

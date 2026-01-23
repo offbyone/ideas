@@ -1,0 +1,175 @@
+/* =========================
+   CV PDF STYLES
+   ========================= */
+
+// Import shared variables
+@import 'var';
+
+/* Apply when .pdf-export class is present OR when printing */
+@media print {
+  /* Strict page control */
+  @page {
+    size: A4;
+    margin: 16mm 18mm;
+  }
+
+  /* Hard reset */
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  html, body {
+    background: #fff;
+    color: #000;
+  }
+
+  /* Kill site chrome - be specific to avoid hiding page content */
+  body > header,
+  body > nav,
+  body > footer,
+  .header-content,
+  .avatar,
+  .site-title,
+  .title-logo,
+  .sidebar,
+  .social,
+  .pagination,
+  .comments,
+  #disqus_thread {
+    display: none !important;
+  }
+
+  /* Hide footnotes on CV page */
+  .page-cv {
+    .simple-footnote,
+    ol.simple-footnotes {
+      display: none !important;
+    }
+  }
+
+  /* Typography - using shared font variables */
+  body {
+    font-family: $body-font;
+    font-size: 10.8pt;
+    line-height: 1.42;
+  }
+
+  /* Headers - using shared font variables */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $title-font;
+    font-weight: $font-weight-bold;
+  }
+
+  h1 {
+    font-size: 17pt;
+    margin-bottom: 3mm;
+  }
+
+  h2 {
+    font-size: 12.5pt;
+    margin-top: 5mm;
+    margin-bottom: 2mm;
+    border-bottom: 0.5pt solid #000;
+  }
+
+  h3 {
+    font-size: 11pt;
+    margin-top: 3mm;
+  }
+
+  /* Layout discipline */
+  section,
+  .cv-section {
+    break-inside: avoid;
+  }
+
+  .job,
+  .project,
+  .education {
+    break-inside: avoid;
+  }
+
+  /* Header block */
+  .cv-header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 4mm;
+    margin-bottom: 4mm;
+  }
+
+  /* Dates column */
+  .cv-dates {
+    text-align: right;
+    font-size: 9.5pt;
+    white-space: nowrap;
+  }
+
+  /* Text blocks */
+  p {
+    margin: 0 0 2mm 0;
+  }
+
+  ul {
+    margin: 0 0 3mm 0;
+    padding-left: 4mm;
+  }
+
+  li {
+    margin-bottom: 1.2mm;
+  }
+
+  /* Code blocks - using shared font variables */
+  code, pre {
+    font-family: $mono-font;
+  }
+
+  code {
+    padding: 0.2em 0.4em;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 0.9em;
+    background: #f5f5f5;
+  }
+
+  pre {
+    padding: 8pt;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow-x: auto;
+    
+    code {
+      padding: 0;
+      border: none;
+      background: transparent;
+    }
+  }
+
+  /* Links — PDF should look clean */
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  /* No URL expansion */
+  a::after {
+    content: none;
+  }
+
+  /* Prevent bad splits */
+  h1, h2, h3 {
+    break-after: avoid;
+  }
+
+  p, ul, li {
+    break-inside: avoid;
+  }
+
+  /* Footer (optional page numbers) */
+  @page {
+    @bottom-right {
+      content: counter(page);
+      font-size: 9pt;
+    }
+  }
+}

@@ -63,6 +63,19 @@
         {# Pygments syntax highlighting CSS #}
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" type="text/css" />
 
+        {# Print and PDF stylesheets #}
+        {% assets filters="scss",
+        output="css/print.css",
+        "print.scss" %}
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" media="print" />
+        {% endassets %}
+        
+        {% assets filters="scss",
+        output="css/pdf.css",
+        "pdf.scss" %}
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" media="print" />
+        {% endassets %}
+
         {# Feeds #}
         {% if FEED_ATOM %}
             <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
