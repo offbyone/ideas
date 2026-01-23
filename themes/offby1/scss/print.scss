@@ -9,7 +9,7 @@
   /* Page setup */
   @page {
     size: A4;
-    margin: 18mm 20mm;
+    margin: 10mm 12mm;
   }
 
   /* Reset screen assumptions */
@@ -43,47 +43,70 @@
   }
 
   /* Layout - using shared font variables */
-  body {
-    font-family: $body-font;
-    font-size: 11pt;
-    line-height: 1.45;
+  body,
+  .article-content {
+    font-family: $body-font !important;
+    font-size: 10pt !important;
+    line-height: 1.25 !important;
   }
 
   /* Headings - using shared font variables */
-  h1, h2, h3, h4, h5, h6 {
-    font-family: $title-font;
-    font-weight: $font-weight-bold;
+  h1, h2, h3, h4, h5, h6,
+  .article-content h1,
+  .article-content h2,
+  .article-content h3,
+  .article-content h4,
+  .article-content h5,
+  .article-content h6 {
+    font-family: $title-font !important;
+    font-weight: $font-weight-bold !important;
   }
 
   h1 {
-    font-size: 18pt;
-    margin-bottom: 4mm;
+    font-size: 16.5pt !important;
+    margin-bottom: 1.5mm !important;
+    margin-top: 0 !important;
   }
 
-  h2 {
-    font-size: 13pt;
-    margin-top: 6mm;
-    margin-bottom: 2mm;
+  h2,
+  .article-content h2 {
+    font-size: 12.5pt !important;
+    margin-top: 3mm !important;
+    margin-bottom: 1mm !important;
     border-bottom: 1px solid #000;
   }
 
-  h3 {
-    font-size: 11.5pt;
-    margin-top: 4mm;
+  h3,
+  .article-content h3 {
+    font-size: 11.5pt !important;
+    margin-top: 2mm !important;
+    margin-bottom: 0.5mm !important;
+  }
+
+  h4,
+  .article-content h4 {
+    font-size: 10.5pt !important;
+    margin-top: 1.5mm !important;
+    margin-bottom: 0.5mm !important;
+  }
+
+  strong, b {
+    font-weight: $font-weight-bold;
   }
 
   /* Text */
-  p {
-    margin: 0 0 2.5mm 0;
+  p,
+  .article-content p {
+    margin: 0 0 0.5mm 0 !important;
   }
 
   ul {
     padding-left: 4mm;
-    margin: 0 0 3mm 0;
+    margin: 0 0 1mm 0;
   }
 
   li {
-    margin-bottom: 1.5mm;
+    margin-bottom: 0.3mm;
   }
 
   /* Code blocks - using shared font variables */
@@ -92,18 +115,19 @@
   }
 
   code {
-    padding: 0.2em 0.4em;
+    padding: 0.1em 0.3em;
     border: 1px solid #ddd;
-    border-radius: 3px;
+    border-radius: 2px;
     font-size: 0.9em;
     background: #f5f5f5;
   }
 
   pre {
-    padding: 8pt;
+    padding: 3pt;
     border: 1px solid #ddd;
-    border-radius: 4px;
+    border-radius: 3px;
     overflow-x: auto;
+    margin: 1.5mm 0;
     
     code {
       padding: 0;
@@ -126,7 +150,7 @@
   /* Dates aligned right */
   .cv-dates {
     float: right;
-    font-size: 10pt;
+    font-size: 9.5pt;
     white-space: nowrap;
   }
 
@@ -136,10 +160,45 @@
     text-decoration: none;
   }
 
+  /* Contact list - restore bullets for print */
+  .contact-list {
+    ul {
+      display: block !important;
+      list-style: disc !important;
+      padding-left: 4mm !important;
+      
+      li {
+        display: list-item !important;
+        
+        &::after {
+          content: none !important;
+        }
+        
+        p {
+          display: block !important;
+        }
+      }
+    }
+    
+    /* Show URLs for all contact list links */
+    a[href^="http"]::after,
+    a[href^="mailto:"]::after {
+      content: " (" attr(href) ")";
+      font-size: 8.5pt;
+      word-break: break-all;
+    }
+    
+    /* Remove mailto: prefix from email display */
+    a[href^="mailto:"]::after {
+      content: " (" attr(href) ")";
+      /* The mailto: will still show, but at least the address is visible */
+    }
+  }
+
   /* Show URLs for print */
   a[href^="http"]::after {
     content: " (" attr(href) ")";
-    font-size: 9pt;
+    font-size: 8.5pt;
     word-break: break-all;
   }
 

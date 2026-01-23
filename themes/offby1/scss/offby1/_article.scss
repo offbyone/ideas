@@ -4,6 +4,32 @@ article {
     margin-bottom: 0; // Footer has its own top margin
 }
 
+// Contact list - pipe-separated for screen
+.contact-list {
+    ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0;
+        
+        li {
+            display: inline;
+            
+            &:not(:last-child)::after {
+                content: " | ";
+                margin: 0 0.5em;
+                color: var(--color-mute);
+            }
+            
+            p {
+                display: inline;
+                margin: 0;
+            }
+        }
+    }
+}
+
 .article-meta {
     color: var(--color-mute);
     font-size: 0.95rem;
