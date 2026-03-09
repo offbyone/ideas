@@ -9,6 +9,7 @@ import docutils.frontend
 import docutils.nodes
 import docutils.parsers.rst
 import docutils.utils
+import yaml
 from invoke.main import program
 from invoke.tasks import call, task
 from livereload.server import shlex
@@ -381,7 +382,7 @@ def get_category(doc: docutils.nodes.document) -> str:
     return v.fields["category"].strip()
 
 
-def content_paths(relative="content/posts", extensions=(".rst",)):
+def content_paths(relative="content/posts", extensions=(".rst", ".md")):
     for root, _, files in os.walk(relative):
         for f in files:
             p = Path(root) / f
@@ -390,16 +391,45 @@ def content_paths(relative="content/posts", extensions=(".rst",)):
             yield p
 
 
+def parse_yaml_frontmatter(text: str) -> dict:
+    """Parse YAML frontmatter from a Markdown file."""
+    if not text.startswith("---"):
+        return {}
+    end = text.find("---", 3)
+    if end == -1:
+        return {}
+    return yaml.safe_load(text[3:end]) or {}
+
+
+def get_metadata(path: Path) -> dict:
+    """Extract tags and category from a content file, handling both RST and Markdown."""
+    text = path.read_text()
+    if path.suffix == ".md":
+        fm = parse_yaml_frontmatter(text)
+        tags_raw = fm.get("tags", [])
+        if isinstance(tags_raw, list):
+            tags = [str(t).strip() for t in tags_raw if str(t).strip()]
+        else:
+            tags = [t.strip() for t in str(tags_raw).split(",") if t.strip()]
+        category = str(fm.get("category", "")).strip()
+        return {"tags": tags, "category": category}
+    else:
+        doc = parse_rst(text)
+        return {"tags": get_tags(doc), "category": get_category(doc)}
+
+
 @task
 def list_tags(c):
     all_tags: dict[str, set[str]] = {}
 
     for p in content_paths():
-        doc = parse_rst(p.read_text())
-        tags = get_tags(doc)
-        category = get_category(doc)
-        for t in tags:
-            all_tags.setdefault(t, set()).add(category)
+        try:
+            meta = get_metadata(p)
+        except Exception:
+            print(f"Unable to parse tags from {p}")
+            continue
+        for t in meta["tags"]:
+            all_tags.setdefault(t, set()).add(meta["category"])
 
     table = Table(show_header=True, header_style="bold magenta")
     table.add_column("Tag")
@@ -417,12 +447,12 @@ def list_categories(c):
 
     for p in content_paths():
         try:
-            doc = parse_rst(p.read_text())
-        except:  # noqa: E722
+            meta = get_metadata(p)
+        except Exception:
             print(f"Unable to parse categories from {p}")
             continue
-        category = get_category(doc)
-        if category not in categories:
+        category = meta["category"]
+        if category and category not in categories:
             categories.append(category)
 
     table = Table(show_header=True, header_style="bold magenta")
